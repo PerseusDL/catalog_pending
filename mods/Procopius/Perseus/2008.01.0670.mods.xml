@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo>
+        <title>De Bellis</title>
+    </titleInfo>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n50025184">
+        <namePart>Procopius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="">
+        <namePart>Dewing, H. B. (Henry Bronson)</namePart>
+        <namePart type="date">1882-</namePart>
+        <role>
+            <roleTerm  authority="marcrealtor" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">New York</placeTerm>
+        </place>
+        <publisher>W. Heinemann</publisher>
+        <publisher>The Macmillan co.</publisher>
+        <dateIssued>1914-1928</dateIssued>
+        <dateIssued point="start" encoding="marc">1914</dateIssued>
+        <dateIssued point="end" encoding="marc">1928</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>v. front. (v. 6) port., 2 fold. maps, fold. plan. 17 cm.</extent>
+    </physicalDescription>
+    <tableOfContents>I. History of the wars, books I and II. The Persian war.--II. History of the wars, books III and IV. 
+        The Vandalic war.--III-V. History of the wars, books V[-VIII] The Gothic war.--</tableOfContents>
+    <note>Greek and English on opposite pages.</note>
+    <note>Vols. 2-5 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons, v. 6 has imprint: London, W. Heinemann ltd.; Cambridge, Mass., Harvard university press.</note>
+    <classification authority="lcc">PA3612 .P85 1914d</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>The Loeb classical library</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier>Perseus:text:2008.01.0670</identifier>
+    <identifier type="lccn">15002836</identifier>
+    <identifier type="oclc">3117236</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0429,001</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg4029.tlg001.perseus-grc1</identifier>
+    <identifier type="tlg">4029.001</identifier>
+    <identifier type="oca"></identifier>
+    <location><url displayLabel="LC Permalink"></url></location>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/3117236</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            ></url>
+    </location>
+    <location><url displayLabel="Open Library"></url></location>
+    <location>
+        <url displayLabel="HathiTrust"></url>
+    </location>    
+   <location>
+       <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0670</url>
+   </location>
+    
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">770715</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130513090803.0</recordChangeDate>
+        <recordIdentifier>8706651</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.85 2013/03/07)</recordOrigin>
+    </recordInfo>
+</mods>
