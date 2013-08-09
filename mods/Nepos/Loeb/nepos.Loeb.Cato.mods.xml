@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Cato</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-4515.html">
+        <namePart>Nepos, Cornelius.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n86-852297.html             ">
+        <namePart>Rolfe, John Carew</namePart>
+        <namePart type="date">1859-1943</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>648</start>
+            <end>652</end>
+        </extent>
+    </part>
+    <identifier type="Perseus:abo">Perseus:abo:phi,0588,024</identifier>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/lannaeifloriquae00floruoft#page/648/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Lucius Annaeus Florus, Epitome of Roman history</title>
+            <subTitle>Cornelius Nepos</subTitle>
+            <partName>The Book of Cornelius Nepos on the Great Generals of Foreign Nations</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n84-212566.html                 ">
+            <namePart>Florus, Lucius Annaeus.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-4515.html">
+            <namePart>Nepos, Cornelius.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-681700.html">
+            <namePart>Forster, E. S. (Edward Seymour)</namePart>
+            <namePart type="date">1879-1950</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n86-852297.html">
+            <namePart>Rolfe, John Carew</namePart>
+            <namePart type="date">1859-1943</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marc">biography</genre>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New York</placeTerm>
+            </place>
+            <publisher>W. Heinemann, ltd.</publisher>
+            <publisher>G. P. Putnam's sons</publisher>
+            <dateIssued>1929</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xv, 743, [1] p. 17 cm.</extent>
+            <note>Latin and English on opposite pages</note>
+            <note>English translation of Florus by E.S. Forster; of Nepos by J.C. Rolfe</note>
+            <note>Bibliography: p. xv.</note>
+        </physicalDescription>
+        <subject>
+            <geographicCode authority="marcgac">e-it---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+            <temporal>Republic, 510-30 B.C</temporal>
+        </subject>
+        <classification authority="lcc">PA6156</classification>
+        <classification authority="ddc">937.02</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>The Loeb Classical Library</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">30005836</identifier>
+        <identifier type="oclc">310283</identifier>
+        <identifier type="phi">588.1</identifier>
+        <identifier type="stoa author-text">stoa0210-stoa003</identifier>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>368</start>
+                <end>692</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/stream/lannaeifloriquae00floruoft#page/368/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/310283 </url>
+        </location>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/30005836</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://openlibrary.org/details/lannaeifloriquae00floruoft</url>
+        </location>
+    </relatedItem>
+</mods>

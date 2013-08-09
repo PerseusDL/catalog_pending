@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Palliatae</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-109712.html">
+        <namePart>Ennius, Quintus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr89-1832.html">
+        <namePart>Ribbeck, Otto</namePart>
+        <namePart type="date">1827-1898</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier type="phi">43.2</identifier>
+    <identifier type="stoa author-text">stoa0014-stoa002</identifier>
+    <tableOfContents> Caupuncula (pg. 5) -- Pancratiastes -- (pg. 5-6) </tableOfContents>
+    <part>
+        <extent unit="pages">
+            <start>5</start>
+            <end>6</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=sWTInEW3Ku0C&amp;printsec=titlepage#PPA5,M1</url>
+    </location>
+   <relatedItem type="host">
+       <titleInfo>
+           <title>Scaenicae Romanorum poesis fragmenta</title>
+           <partNumber>Volumen II</partNumber>
+           <partName>Comicorum Fragmenta</partName>
+           <subTitle>Comicorum Romanorum Praeter Plautum Et Syri Quae Feruntur Sententias Fragmenta
+           </subTitle>
+       </titleInfo>
+       <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+           ns2:href="http://errol.oclc.org/laf/nr89-1832.html">
+           <namePart>Ribbeck, Otto</namePart>
+           <namePart type="date">1827-1898</namePart>
+           <role>
+               <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+           </role>
+           <role>
+               <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+           </role>
+       </name>
+       <typeOfResource>text</typeOfResource>
+       <originInfo>
+           <place>
+               <placeTerm type="code" authority="marccountry">gw</placeTerm>
+           </place>
+           <place>
+               <placeTerm type="text">Lipsiae</placeTerm>
+           </place>
+           <publisher>In aedibus B.G. Teubneri</publisher>
+           <dateIssued>1897</dateIssued>
+           <edition>Tertiis curis</edition>
+           <issuance>monographic</issuance>
+       </originInfo>
+       <language>
+           <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+       </language>
+       <physicalDescription>
+           <form authority="marcform">print</form>
+           <extent>viii, 393 p.</extent>
+       </physicalDescription>
+       <note>Each v. has also special t.p.</note>
+       <note>Includes indexes.</note>
+       <subject authority="lcsh">
+           <topic>Latin drama (Tragedy)</topic>
+       </subject>
+       <subject authority="lcsh">
+           <topic>Latin drama (Comedy)</topic>
+       </subject>
+       <classification authority="lcc">PA6102 .A3 1898</classification>
+       <relatedItem type="series">
+           <titleInfo>
+               <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+           </titleInfo>
+       </relatedItem>
+       <identifier type="lccn">34017098</identifier>
+       <identifier type="oclc">1836857 </identifier>
+       <identifier type="oca">fragscaenicaeromr02ribbuoft</identifier>
+       <location>
+           <url displayLabel="LC Permalink">http://lccn.loc.gov/34017098</url>
+       </location>
+       <location>
+           <url displayLabel="WorldCat">http://worldcat.org/oclc/1836857 </url>
+       </location>
+       <location>
+           <url displayLabel="Open Content Alliance">
+               http://www.archive.org/details/scaenicaeromanor02ribbuoft</url>
+       </location>
+       <location>
+           <url displayLabel="Open Library"
+               >http://www.openlibrary.org/details/fragscaenicaeromr02ribbuoft</url>
+       </location>
+       <location>
+           <url displayLabel="GoogleBooks">http://books.google.com/books?id=sWTInEW3Ku0C</url>
+       </location>
+       <location>
+           <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015018614001</url>
+       </location>
+   </relatedItem>
+</mods>
