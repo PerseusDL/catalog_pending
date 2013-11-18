@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo>
+        <title>Lexicon in decem oratores Atticos</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no88000799">
+        <namePart>Harpocration, Valerius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n86-812389.html">
+        <namePart>Dindorf, Wilhelm</namePart>
+        <namePart type="date">1802-1883</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Oxford</placeTerm>
+        </place>
+        <publisher>Oxonium, Typ. Acad</publisher>
+        <dateIssued>1853</dateIssued>
+        <dateIssued encoding="marc">1853</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00"/>
+    <subject authority="lcsh">
+        <topic>Speeches, addresses, etc., Greek</topic>
+        <genre>Concordances</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Greek language</topic>
+        <genre>Glossaries, vocabularies, etc</genre>
+    </subject>
+    <identifier>Perseus:text:2013.01.0002</identifier>
+    <identifier type="tlg">1389.001</identifier>
+    <identifier type="oclc">61607020</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg1389.tlg001.perseus-grc1</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/61607020</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2013.01.0002</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks" note="Vol 1">http://books.google.com/books?id=rLQMAAAAYAAJ</url>
+    </location>
+    <location><url displayLabel="HathiTrust" note="Vol 1">http://hdl.handle.net/2027/coo.31924087935049 (Vol 1)</url></location>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>
