@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Historia Rerum in partibus transmarinis gestarum. Selections.</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>A history of deeds done beyond the sea</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-25192.html">
+        <namePart>William,</namePart>
+        <namePart type="termsOfAddress">of Tyre, Archbishop of Tyre</namePart>
+        <namePart type="date">ca. 1130-ca. 1190</namePart>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no92-3042.html">
+        <namePart>Harrington, Karl Pomeroy</namePart>
+        <namePart type="date">1861-1953</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <tableOfContents>Pope Urban II. Exhorts the Council of Clermont (1095) to The Crusade (I) (I.
+        15)</tableOfContents>
+    <identifier type="stoa author-text">stoa0296a-stoa001</identifier>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Mediaeval Latin</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no92-3042.html">
+            <namePart>Harrington, Karl Pomeroy</namePart>
+            <namePart type="date">1861-1953</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Boston</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New York [etc.]</placeTerm>
+            </place>
+            <publisher>Allyn and Bacon</publisher>
+            <copyrightDate>1925</copyrightDate>
+            <dateIssued encoding="marc">1925</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="introduction">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxix, 1 l., 698 p. front., illus. 20 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">selected and edited by Karl Pomeroy Harrington ...</note>
+        <subject authority="lcsh">
+            <topic>Latin language, Medieval and modern</topic>
+            <topic>Readers</topic>
+        </subject>
+        <classification authority="lcc">PA8112 .H3</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Allyn and Bacon's college Latin series</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">26000655</identifier>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">770414</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20050904161352.0</recordChangeDate>
+            <recordIdentifier>6392993</recordIdentifier>
+        </recordInfo>
+    </relatedItem>
+</mods>
