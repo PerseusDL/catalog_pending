@@ -24,6 +24,12 @@
       <mads:namePart type="termsOfAddress">Kritikos</mads:namePart>
     </mads:name>
   </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Herakleides</mads:namePart>
+      <mads:namePart type="termsOfAddress">Kritikos</mads:namePart>
+    </mads:name>
+  </mads:variant>
   <mads:note type="source">Arenz, Alexander. Herakleides Kritikos "Über die Städte in Hellas", 2006: t.p.
     (Herakleides Kritikos)</mads:note>
   <mads:note type="source">LC classification, P-PA, 1964 (Heraclides, Criticus; 
