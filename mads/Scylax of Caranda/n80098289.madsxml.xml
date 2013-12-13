@@ -86,6 +86,7 @@
   <mads:extension>
     <mads:description>List of related work identifiers</mads:description>
     <identifier type="tlg">0065.001</identifier>
+    <identifier type="tlg">0065.003</identifier>
   </mads:extension>
   
   <mads:recordInfo>
