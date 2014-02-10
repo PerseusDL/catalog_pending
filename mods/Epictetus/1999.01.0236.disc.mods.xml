@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+    <titleInfo>
+        <title>Discourses</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-82929.html">
+        <namePart>Epictetus.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="http://errol.oclc.org/laf/n82-116302.html">
+        <namePart>Long, George</namePart>
+        <namePart type="date">1800-1879</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0557.tlg001.perseus-eng1</identifier>
+    <identifier>Perseus:text:1999.01.0236:text=disc</identifier>
+    <identifier type="tlg">0057.001</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0557,001</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0236:text=disc</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The </nonSort>
+            <title>discourses of Epictetus</title>
+            <subTitle>with the Encheiridion and fragments</subTitle>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-82929.html">
+            <namePart>Epictetus.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="http://errol.oclc.org/laf/n82-116302.html">
+            <namePart>Long, George</namePart>
+            <namePart type="date">1800-1879</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>G. Bell and sons</publisher>
+            <dateIssued>1890</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xliii, 452 p. 19 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">Translated, with notes, a life of Epictetus, and a
+            view of his philosophy, by George Long...</note>
+        <subject authority="lcsh">
+            <topic>Ethics</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Philosophy</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <classification authority="lcc">B560.E5 L6</classification>
+        <classification authority="ddc">188.7</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bohn's classical library</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">3534579</identifier>
+        <identifier>Perseus:text:1999.01.0236</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3534579 </url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=f-a5q02zeL0C</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/dscrsesepictetus00epiciala</url>
+        </location>
+        <location>
+            <url>http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0236</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">820930</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20050605172128.0</recordChangeDate>
+            <recordIdentifier>9604486</recordIdentifier>
+        </recordInfo>
+    </relatedItem>
+</mods>
