@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3
+    http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Horace</title>
+        <subTitle>the Odes and Epodes</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+        <namePart>Horace</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n87-136132.html">
+        <namePart>Bennett, Charles E. (Charles Edwin)</namePart>
+        <namePart type="date">1858-1921</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">New York</placeTerm>
+        </place>
+        <publisher>W. Heinemann</publisher>
+        <publisher>Macmillan</publisher>
+        <dateIssued>1914</dateIssued>
+        <dateModified>1919</dateModified>
+        <edition>Reprint</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xix, 430 p. 17 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">with an English translation by C.E. Bennett.</note>
+    <note>Latin and English on opposite pages.</note>
+    <note>Includes index of proper names</note>
+    <note>Bibliography: p. xi-xii.</note>
+    <subject authority="lcsh">
+        <name authority="" type="personal">
+            <namePart>Horace</namePart>
+        </name>
+        <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Laudatory poetry, Latin</topic>
+        <topic>Translations into English</topic>
+    </subject>
+    <classification authority="lcc">PA6393</classification>
+    <identifier type="oclc">6024084</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/14005344</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/6024084</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106001541843</url>
+    </location>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>The Loeb classical library</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Odes</title>
+            <partNumber>Books I-IV</partNumber>
+        </titleInfo>
+        <titleInfo lang="lat">
+            <title>Carmina</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+            <namePart>Horace</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n87-136132.html">
+            <namePart>Bennett, Charles E. (Charles Edwin)</namePart>
+            <namePart type="date">1858-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.1</identifier>
+        <identifier type="stoa author-text">stoa0152-stoa003</identifier>
+        <identifier type="Perseus:abo">Perseus:abo:phi,0893,001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>347</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106001541843?urlappend=%3Bseq=28</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmen Saeculare</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+            <namePart>Horace</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n87-136132.html">
+            <namePart>Bennett, Charles E. (Charles Edwin)</namePart>
+            <namePart type="date">1858-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.2</identifier>
+        <identifier type="stoa author-text">stoa0152-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>349</start>
+                <end>357</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106001541843?urlappend=%3Bseq=376</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epodes</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="lat">
+            <title>Epodi</title>
+        </titleInfo>
+        <titleInfo type="uniform" lang="lat">
+            <title>Epodi. English &amp; Latin.</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+            <namePart>Horace</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n87-136132.html">
+            <namePart>Bennett, Charles E. (Charles Edwin)</namePart>
+            <namePart type="date">1858-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.3</identifier>
+        <identifier type="stoa author-text">stoa0152-stoa005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>359</start>
+                <end>417</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106001541843?urlappend=%3Bseq=385</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
