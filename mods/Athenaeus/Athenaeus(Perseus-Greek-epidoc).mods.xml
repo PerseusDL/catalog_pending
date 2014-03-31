@@ -24,6 +24,18 @@
             <roleTerm authority="marcrelator" type="text">editor</roleTerm>
         </role>
     </name>
+        <name authority="" type="personal">
+        <namePart>Franzini, Greta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">encoder</roleTerm>
+        </role>
+    </name>
+        <name authority="" type="personal">
+        <namePart>Stoyanova, Simona</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">encoder</roleTerm>
+        </role>
+    </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
          <dateModified>2014</dateModified>
