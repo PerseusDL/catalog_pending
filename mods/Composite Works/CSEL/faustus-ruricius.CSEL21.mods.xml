@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Fausti Reiensis praeter sermones pseudo-eusebianos opera</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n90658718">
+        <namePart>Faustus,</namePart>
+        <namePart type="termsOfAddress">of Riez</namePart>
+        <namePart type="date">active 5th century</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr96043579">
+        <namePart>Engelbrecht, August,</namePart>
+        <namePart type="date">1861-1925</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1891</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>lxxx, 505 p. ; 23 cm.</extent>
+    </physicalDescription>
+    <tableOfContents>De gratia ; De Spiritu Sancto ; Epistulae ; Sermones praeter Pseudo-Eusebianos ; De ratione fidei / Faustus Reiensis --
+        Ruricii Epistulae</tableOfContents>
+    <note type="statement of responsibility"></note>
+    <note> 	recensuit, commentario critico instruxit, prolegomena et indices adiecit Augustus Engelbrecht.</note>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>21</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">869784</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/title/-/oclc/869784</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=vQrgAAAAMAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/details/corpusscriptorum21fausuoft</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"></url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101036281648</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Gratia Libri Duo</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n90658718">
+            <namePart>Faustus,</namePart>
+            <namePart type="termsOfAddress">of Riez</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0121g.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0121g-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>98</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=86</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/lxxx/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Spiritu Sancto Libri Duo</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n90658718">
+            <namePart>Faustus,</namePart>
+            <namePart type="termsOfAddress">of Riez</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0121g.stoa002</identifier>
+        <identifier type="stoa author-text">stoa0121g-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>99</start>
+                <end>157</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=184</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/98/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistulae</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n90658718">
+            <namePart>Faustus,</namePart>
+            <namePart type="termsOfAddress">of Riez</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0121g.stoa003</identifier>
+        <identifier type="stoa author-text">stoa0121g-stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>158</start>
+                <end>219</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=244</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/158/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Sermones</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n90658718">
+            <namePart>Faustus,</namePart>
+            <namePart type="termsOfAddress">of Riez</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0121g.stoa004</identifier>
+        <identifier type="stoa author-text">stoa0121g-stoa004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>220</start>
+                <end>347</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=306</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/220/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistulae</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043770">
+            <namePart>Ruricius</namePart>
+            <namePart type="termsOfAddress">I, Bishop of Limoges</namePart>
+            <namePart type="date">approximately 507</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0245a.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0245a-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>348</start>
+                <end>450</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=434</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/348/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Ratione Fidei</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n90658718">
+            <namePart>Faustus,</namePart>
+            <namePart type="termsOfAddress">of Riez</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0121g.stoa005</identifier>
+        <identifier type="stoa author-text">stoa0121g-stoa005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>451</start>
+                <end>459</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101036281648?urlappend=%3Bseq=536</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptorum21fausuoft#page/450/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
