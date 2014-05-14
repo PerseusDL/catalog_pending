@@ -111,6 +111,7 @@
   <mads:note type="source">LC/NAF 22 Nov. 2010 678 info. (d. 397)</mads:note>
   <mads:identifier type="lccn">n  79029712 </mads:identifier>
   <mads:identifier type="stoa author">stoa0022</mads:identifier>
+  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0022</mads:identifier>
   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
   <mads:fieldOfActivity>Saint</mads:fieldOfActivity>
