@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sancti Aurelii Augustini opera Sectio 7, Scripta contra Donatistas</title>
+        <partNumber>Pars 1</partNumber>
+        <partName>Psalmus contra partem Donati; Contra epistulam Parmeniani libri tres; De baptismo libri septem</partName>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+        <namePart>Augustine</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n82046962">
+        <namePart>Petschenig, Michael</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1908</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        <extent></extent>
+    </physicalDescription>
+    <note type="statement of responsibility">recensvit M. Petschenig</note>
+    <note></note>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Donatists</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>51</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">827326</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/827326</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/details/CSEL51</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"></url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433089974111</url>
+    </location>
+    <relatedItem type="constituent" displayLabel="I">
+        <titleInfo>
+            <title>Psalmus contra Partem Donati</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa072</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa072</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>15</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/nyp.33433089974111?urlappend=%3Bseq=32</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/CSEL51#page/n27/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="II">
+        <titleInfo>
+            <title>Contra epistulam Parmeniani libri tres</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa023</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa023</identifier>
+        <part>
+            <extent unit="pages">
+                <start>16</start>
+                <end>141</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/nyp.33433089974111?urlappend=%3Bseq=48</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/CSEL51#page/n43/mode/2up</url>
+        </location>
+            </relatedItem>
+    <relatedItem type="constituent" displayLabel="III">
+        <titleInfo>
+            <title>De Baptismo</title>
+        </titleInfo>
+        <titleInfo type="alternative">  
+            <title>De Baptismo Contra Donatistas</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa033a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa033a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>143</start>
+                <end>375</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/nyp.33433089974111?urlappend=%3Bseq=174</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/CSEL51#page/n169/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
