@@ -13,12 +13,6 @@
          <mads:namePart>Μουσαῖος</mads:namePart>
       </mads:name>
    </mads:variant>
-   <mads:variant type="other" lang="ita">
-      <mads:name type="personal">
-         <mads:namePart>Museo</mads:namePart>
-         <mads:namePart type="termsOfAddress">Efesio</mads:namePart>
-      </mads:name>
-   </mads:variant>
    <mads:variant type="other">
       <mads:name type="personal">
          <mads:namePart>Musaeus</mads:namePart>
@@ -75,8 +69,8 @@
    <mads:identifier type="tlg">2691</mads:identifier>
    <mads:identifier type="cts-urn">urn:cts:greekLit:tlg2691</mads:identifier>
    <mads:fieldOfActivity>Epic Poet</mads:fieldOfActivity>
-   <mads:note type="source">Brill's New Pauly:  "M. of Ephesus Epic writer, 2nd cent. BC...</mads:note>
-   <mads:url displayLabel="Wikipedia">http://en.wikipedia.org/wiki/Musaeus_of_Ephesus</mads:url>
+   <mads:note type="source">Brill's New Pauly:  "Musaeus, Mythical companion of the Muses...</mads:note>
+   <mads:url displayLabel="Wikipedia">http://en.wikipedia.org/wiki/Musaeus_of_Athens</mads:url>
    <mads:url displayLabel="Worldcat Identities"></mads:url>
    <mads:url displayLabel="Smith's Dictionary"></mads:url>
    <mads:url displayLabel="VIAF">http://viaf.org/viaf/59879416</mads:url>
