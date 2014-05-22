@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Florida</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-126286.html">
+        <namePart>Apuleius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n95-80950.html">
+        <namePart>Helm, Rudolf Wilhelm Oskar,</namePart>
+        <namePart type="date">1872-1966</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <dateIssued>1921</dateIssued>
+        <edition>Exemplar Anastatice Iteratum</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+  <digitalOrigin>digitized other analog</digitalOrigin>  
+    </physicalDescription>
+    <note type="statement of responsibility">recensuit R. Helm</note>
+    <classification authority="lcc">PA6207</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana [from old
+            catalog]</title>
+        </titleInfo>
+        <titleInfo type="abbreviated">
+            <title>Teubner</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Apulei opera quae supersunt .</title>
+            <partNumber> Vol. II, Fasc. II</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier>Perseus:text:2008.01.0503</identifier>
+    <identifier type="oclc">65601674</identifier>
+    <identifier type="phi">1212.3</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi1212.phi003.perseus-lat1</identifier>
+    <identifier type="stoa author-text">stoa0030-stoa005</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/65601674</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/operaquaesupersu02ciceuoft</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0503</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

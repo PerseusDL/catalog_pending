@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3
+    http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo type="alternative">
+        <title>Facta et Dicta Memorabilia</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n82-97560.html">
+        <namePart>Valerius Maximus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/118357478">
+        <namePart>Kempf, Karl Friedrich</namePart>
+        <namePart type="date">1819-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier>Perseus:text:2008.01.0675</identifier>
+    <identifier type="phi">1038.1</identifier>
+    <identifier type="stoa author-text">stoa0285-stoa001</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi1038.phi001.perseus-lat1</identifier>
+    <part>
+        <extent unit="pages">
+            <start>1</start>
+            <end>472</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="HathiTrust"
+            >http://hdl.handle.net/2027/coo.31924009223326?urlappend=%3Bseq=41</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Latin"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0675</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Factorum et dictorum memorabilium libri novem</title>
+            <subTitle>cum Iulii Paridis et Ianuarii Nepotiani epitomis</subTitle>
+        </titleInfo>
+        <name authority="naf-inactive" type="personal">
+            <namePart>Kempf, Karl Friedrich</namePart>
+            <namePart type="date">1819-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Tevbneri</publisher>
+            <dateIssued>1888</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxxiv, 672 p. 18 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">iterum recensuit Carolus Kempf.</note>
+        <subject>
+            <geographicCode authority="marcgac">e-it---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>Social life and customs</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>Civilization</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana </title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc">PA6104</classification>
+        <identifier type="oclc">64101590</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/64101590 </url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=UXUSCmZkWfAC</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
