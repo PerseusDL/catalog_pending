@@ -52,12 +52,12 @@
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-<digitalOrigin>digitized other analog</digitalOrigin>
+        <digitalOrigin>digitized other analog</digitalOrigin>
         <extent>lxviii, 327 p. ; 23 cm.</extent>
     </physicalDescription>
     <note type="statement of responsibility">Johannis Wrobelii copiis vsvs edidit et prolegomena
         indicesqve adiecit Avgvstvs Engelbrecht.</note>
-    <note></note>
+    <note/>
     <subject authority="lcsh">
         <topic>Fathers of the church</topic>
     </subject>
@@ -76,33 +76,41 @@
         <url displayLabel="WorldCat">http://www.worldcat.org/title/-/oclc/877694</url>
     </location>
     <location>
-        <url displayLabel="GoogleBooks"></url>
+        <url displayLabel="GoogleBooks"/>
     </location>
     <location>
-        <url displayLabel="Open Content Alliance"></url>
+        <url displayLabel="Open Content Alliance">http://archive.org/stream/CSEL46</url>
     </location>
     <location>
-        <url displayLabel="Open Library"></url>
+        <url displayLabel="Open Library"/>
     </location>
     <location>
         <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101074170083</url>
     </location>
-    <relatedItem type="constituent">
+    <relatedItem type="constituent" displayLabel="I">
         <titleInfo>
-            <title></title>
+            <title>Interpretatio Orationum Gregorii Nazianzeni</title>
         </titleInfo>
-        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="">
-            <namePart></namePart>
-            <namePart type="termsOfAddress"></namePart>
-            <namePart type="date"></namePart>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n82-255489.html">
+            <namePart>Rufinus</namePart>
+            <namePart type="termsOfAddress">of Aquileia</namePart>
+            <namePart type="date">345-410</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
         <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-            valueURI="">
-            <namePart></namePart>
+            valueURI="http://id.loc.gov/authorities/names/nr96043579">
+            <namePart>Engelbrecht, August,</namePart>
+            <namePart type="date">1861-1925</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr89010648">
+            <namePart>Wrobel, Johann</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
@@ -110,17 +118,26 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn"></identifier>
-        <identifier type="stoa author-text"></identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0244d.stoa005</identifier>
+        <identifier type="stoa author-text">stoa0244d-stoa005</identifier>
+        <tableOfContents>1.  Apologeticus (Greg. Or. II--tlg 2022.016) (pg. 7-86) -- 2. De epiphaniis (Greg. Or. XXXVIII- tlg 2022.046) (pg. 87-110) --
+            3. De Luminibus (Greg. Or.  XXXIX tlg 2022.046) (pg. 111-140) -- 4. De pentecoste (Greg. Or. XLI--tlg 2022.049)) (pg. 141-166)
+            -- 5. In semet ipsum de agro regressus (Greg. Or. XXVI--tlg 2022.039) (pg. 167-192)  -- 6. De Hieremia dicta praesente imperatore (Greg Or. XVI-- tlg 2022.029) (pg. 193-208) --
+            7.  De reconciliatione et unitate monachorum (Greg Or. VI--tlg 2022.020) (pg. 209-236) -- 8. De grandinis usatatione  (Greg. Or. XVI--tlg 2022.029) (pg. 237-264) -- 9.  
+        De Arrianis (Greg. Or. XXVII -- tlg 2022.007) (pg. 265-276)</tableOfContents>
         <part>
             <extent unit="pages">
-                <start></start>
-                <end></end>
+                <start>1</start>
+                <end>276</end>
             </extent>
         </part>
         <location>
-            <url displayLabel=""
-                ></url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101074170083?urlappend=%3Bseq=72</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/CSEL46#page/n71/mode/2up</url>
         </location>
     </relatedItem>
     <recordInfo>
