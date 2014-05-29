@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>De immortalitate animae et mundi consummatione</title>
+    </titleInfo>
+    <name authority="dnb" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://viaf.org/processed/DNB|118647148">
+        <namePart>Aeneas,</namePart>
+        <namePart type="termsOfAddress">Gazaeus,</namePart>
+        <namePart type="date">430-486</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n79083928">
+        <namePart>Zacharias,</namePart>
+        <namePart type="termsOfAddress">Bishop of Mytilene</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n87923908">
+        <namePart>Boissonade, Jean François,</namePart>
+        <namePart type="date">1774-1857</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no91014547">
+        <namePart>Du Duc, Fronton,</namePart>
+        <namePart type="date">1559-1624</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n85143405">
+        <namePart>Tarin, Jean, </namePart>
+        <namePart type="date">1586-1666</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr97026348">
+        <namePart>Barth, Caspar Von </namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">original editor</roleTerm>
+        </role>
+        </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>Mercklein</publisher>
+        <dateIssued>1836</dateIssued>
+        <edition/>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>XXV, 530 S.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Immortality</topic>
+    </subject>
+    <classification authority="lcc"/>
+    <classification authority="ddc"/>
+    <identifier type="oclc">165621488</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/165621488</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=uN4DAAAAQAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044055053094</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Theophrastus sive de animarum immortalitate et corporum resurrectione dialogus</title>
+        </titleInfo>
+        <name authority="dnb" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://viaf.org/processed/DNB|118647148">
+            <namePart>Aeneas,</namePart>
+            <namePart type="termsOfAddress">Gazaeus,</namePart>
+            <namePart type="date">430-486</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n87923908">
+            <namePart>Boissonade, Jean François,</namePart>
+            <namePart type="date">1774-1857</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">4001.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>78</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=uN4DAAAAQAAJ&amp;pg=PA1</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044055053094?urlappend=%3Bseq=37</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ammonius sive De mundi opificio disputatio</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79083928">
+            <namePart>Zacharias,</namePart>
+            <namePart type="termsOfAddress">Bishop of Mytilene</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n87923908">
+            <namePart>Boissonade, Jean François,</namePart>
+            <namePart type="date">1774-1857</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2831.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>79</start>
+                <end>152</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=uN4DAAAAQAAJ&amp;pg=PA79</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044055053094?urlappend=%3Bseq=117</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
