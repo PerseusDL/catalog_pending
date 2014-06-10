@@ -10,7 +10,7 @@
         <namePart>Aelius Paetus Catus, Sextus </namePart>
         <namePart type="date">2. Jh. v. Chr.</namePart>
         <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
         </role>
     </name>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
