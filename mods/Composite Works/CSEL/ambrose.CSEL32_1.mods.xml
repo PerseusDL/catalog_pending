@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sanctii Ambrosii Opera</title>
+        <partNumber>Pars Prima</partNumber>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n79029712">
+        <namePart>Ambrose</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+        <namePart type="date">-397</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n81111918">
+        <namePart>Schenkl, Karl,</namePart>
+        <namePart type="date">1827-1900</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1897</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent/>
+    </physicalDescription>
+    <note type="statement of responsibility">recensuit Carolus Schenkl</note>
+    <note/>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Vol 32, Pars I</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">558433523</identifier>
+    <location>
+        <url displayLabel="WorldCat"
+            >http://www.worldcat.org/title/sancti-ambrosii-opera/oclc/558433523</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=y2VGpbAk4wYC</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/corpusscriptoru00wissgoog</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust" note="Part I"
+            >http://hdl.handle.net/2027/mdp.39015010564428</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust" note="Part II">http://hdl.handle.net/2027/mdp.39015010563909
+        </url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Exameron</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa054</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa054</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>261</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010564428?urlappend=%3Bseq=8</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru00wissgoog#page/n9/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Paradiso</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa042</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa042</identifier>
+        <part>
+            <extent unit="pages">
+                <start>265</start>
+                <end>336</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010564428?urlappend=%3Bseq=298</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru00wissgoog#page/n271/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Cain et Abel</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa021</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa021</identifier>
+        <part>
+            <extent unit="pages">
+                <start>339</start>
+                <end>409</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010564428?urlappend=%3Bseq=390</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru00wissgoog#page/n345/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Noe</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa039</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa039</identifier>
+        <part>
+            <extent unit="pages">
+                <start>413</start>
+                <end>497</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010564428?urlappend=%3Bseq=484</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru00wissgoog#page/n419/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Abraham</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa018</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa018</identifier>
+        <part>
+            <extent unit="pages">
+                <start>499</start>
+                <end>638</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010563909?urlappend=%3Bseq=94</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Isaac vel Anima</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa033</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa033</identifier>
+        <part>
+            <extent unit="pages">
+                <start>639</start>
+                <end>700</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010563909?urlappend=%3Bseq=234</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De bono mortis</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n79029712">
+            <namePart>Ambrose</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Milan</namePart>
+            <namePart type="date">-397</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n81111918">
+            <namePart>Schenkl, Karl,</namePart>
+            <namePart type="date">1827-1900</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0022-stoa020</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0022.stoa020</identifier>
+        <part>
+            <extent unit="pages">
+                <start>701</start>
+                <end>753</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010563909?urlappend=%3Bseq=296</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
