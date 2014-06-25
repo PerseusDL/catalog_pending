@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Cypriani Galli poetae Heptateuchos</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr96043773">
+        <namePart>Cyprianus Gallus</namePart>
+        <namePart type="date">active 5th century</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no94028112">
+        <namePart>Peiper, Rudolf</namePart>
+        <namePart type="date">1834-1908</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1891</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>xxxix, 348 pages diagram 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility"></note>
+    <note>accedunt incertorum de Sodoma et Iona et ad senatorem carmina et Hilarii 
+        quae feruntur in Genesin, de Maccabaeis atque de Euangelio,</note>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Christian Poetry, Early</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Bible</topic>
+        <topic>History of Biblical Events</topic>
+        <topic>Poetry</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>23</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">873387</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/873387</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/details/corpusscriptoru12wiengoog</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"></url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158007641474</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Heptateuchos</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043773">
+            <namePart>Cyprianus Gallus</namePart>
+            <namePart type="date">active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">urn:cts:latinLit:stoa104c.stoa001</identifier>
+        <identifier type="cts-urn">stoa0104c-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>211</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=50</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">https://archive.org/stream/corpusscriptoru12wiengoog#page/n49/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmina</title>
+            <subTitle>Selections</subTitle>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n00050675">
+            <namePart>Pseudo-Cyprian,</namePart>
+            <namePart type="date">active 3rd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <tableOfContents>I. Sodoma (pg. 212-220) -- II. de Iona Propheta (pg. 221-226) -- III. Ad Senatorem Ex Christiana
+            Religione Ad Idolorum Servitutem Conversum (pg. 227-230)</tableOfContents>
+        <identifier type="stoa author-text">stoa0104p-stoa003</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0104p.stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>212</start>
+                <end>230</end>
+            </extent>
+        </part>        
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru12wiengoog#page/n259/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=262</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Genesin Ad Leonem Papam</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81008231">
+            <namePart>Hilary,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Poitiers</namePart>
+            <namePart type="date">-367</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nb2008017441">
+            <namePart>Pseudo-Hilarius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0149p-stoa003</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0149p.stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>231</start>
+                <end>239</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/corpusscriptoru12wiengoog#page/n279/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=280</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Martyrio Maccabeorum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81008231">
+            <namePart>Hilary,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Poitiers</namePart>
+            <namePart type="date">-367</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nb2008017441">
+            <namePart>Pseudo-Hilarius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0149p-stoa002</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0149p.stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>240</start>
+                <end>254</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru12wiengoog#page/n287/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=290</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Machabeis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-60714.html">
+            <namePart>Victorinus, Marius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0292a-stoa004</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0292a.stoa004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>255</start>
+                <end>269</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=304</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru12wiengoog#page/n303/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Evangelio</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81008231">
+            <namePart>Hilary,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Poitiers</namePart>
+            <namePart type="date">-367</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nb2008017441">
+            <namePart>Pseudo-Hilarius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no94028112">
+            <namePart>Peiper, Rudolf</namePart>
+            <namePart type="date">1834-1908</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0149p-stoa001</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0149p.stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>270</start>
+                <end>274</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007641474?urlappend=%3Bseq=320</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru12wiengoog#page/n317/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
