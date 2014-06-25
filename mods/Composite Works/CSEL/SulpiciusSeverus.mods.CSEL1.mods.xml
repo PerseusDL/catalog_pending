@@ -35,7 +35,7 @@
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-<digitalOrigin>digitized other analog</digitalOrigin>
+        <digitalOrigin>digitized other analog</digitalOrigin>
         <extent>xiv, 278 p. 23 cm.</extent>
     </physicalDescription>
     <subject authority="lcsh">
@@ -65,10 +65,10 @@
         <url displayLabel="GoogleBooks">http://books.google.com/books?id=CZQOAAAAQAAJ</url>
     </location>
     <location>
-        <url displayLabel="Open Content Alliance"></url>
+        <url displayLabel="Open Content Alliance"/>
     </location>
     <location>
-        <url displayLabel="Open Library"></url>
+        <url displayLabel="Open Library"/>
     </location>
     <location>
         <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014</url>
@@ -108,7 +108,8 @@
                 >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA1</url>
         </location>
         <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=18</url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=18</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
@@ -146,7 +147,8 @@
                 >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA109</url>
         </location>
         <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=126</url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=126</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
@@ -186,7 +188,8 @@
                 >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA138</url>
         </location>
         <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=156</url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=156</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
@@ -224,7 +227,8 @@
                 >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA152</url>
         </location>
         <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=170</url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=170</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
@@ -236,6 +240,12 @@
             <namePart>Severus, Sulpicius</namePart>
             <role>
                 <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
+            </role>
+        </name>
+        <name type="personal">
+            <namePart>Pseudo-Sulpicius Severus</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
             </role>
         </name>
         <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
@@ -251,8 +261,8 @@
         </language>
         <tableOfContents>I. Ad Claudiam Sororem (pg. 218-223)-II. Ad Claudiam Sororem (pg. 224-250)--III and IV. Ad Paulum (pg. 251-253)
             --V. Alia Epistula (pg.253-254) -- VI. Ad Saluium (pg. 254-256) -- VII. Alius Epistulae Initium (pg. 256)</tableOfContents>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270.stoa004</identifier>
-        <identifier type="stoa author-text">stoa0270-stoa004</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0270p.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0270p-stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>218</start>
@@ -264,7 +274,8 @@
                 >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA218</url>
         </location>
         <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=234</url>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=234</url>
         </location>
     </relatedItem>
     <recordInfo>

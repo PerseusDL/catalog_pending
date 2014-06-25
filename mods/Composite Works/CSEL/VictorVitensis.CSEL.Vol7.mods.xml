@@ -121,7 +121,7 @@
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
-            <title>Passio septem monachorum.</title>
+            <title>Passio septem monachorum</title>
         </titleInfo>
         <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
             valueURI="http://id.loc.gov/authorities/names/no2006055841">
@@ -129,6 +129,12 @@
             <namePart type="date"> active 5th century</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>        
+        <name type="personal">
+            <namePart>Pseudo-Victor, Vitensis</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
         <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
@@ -141,8 +147,8 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0292d.stoa002</identifier>
-        <identifier type="stoa author-text">stoa0292d-stoa002</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0292p.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0292p-stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>108</start>
@@ -152,6 +158,53 @@
         <location>
             <url displayLabel="GoogleBooks"
                 >http://books.google.com/books?id=GTQRAAAAYAAJ&amp;pg=PA108</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89013009576?urlappend=%3Bseq=142</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Notitia Provinciarum et Civitatum Africae</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no2006055841">
+            <namePart>Victor, Vitensis, </namePart>
+            <namePart type="date"> active 5th century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>        
+        <name type="personal">
+            <namePart>Pseudo-Victor, Vitensis</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0292p.stoa002</identifier>
+        <identifier type="stoa author-text">stoa0292p-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>115</start>
+                <end>134</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=GTQRAAAAYAAJ&amp;pg=PA115</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89013009576?urlappend=%3Bseq=148</url>
         </location>
     </relatedItem>
     <recordInfo>
