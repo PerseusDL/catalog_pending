@@ -39,7 +39,7 @@
         <digitalOrigin>digitized other analog</digitalOrigin>
         <extent>xlvii, 414 p. ; 23 cm.</extent>
     </physicalDescription>
-    <note type="statement of responsibility">ecensuit et commentario critico instruxit Iohannes Huemer</note>
+    <note type="statement of responsibility">recensuit et commentario critico instruxit Iohannes Huemer</note>
     <note>Accedunt excerpta ex Remigii Expositione in Sedulii Paschale carmen</note>
     <subject authority="lcsh">
         <topic>Theology</topic>
@@ -311,6 +311,8 @@
                 <end>315</end>
             </extent>
         </part>
+        <tableOfContents>Carmina Epigrammatica (pg. 307-310) -- Carmen De Incarnatione (pg. 310-315)
+            </tableOfContents>
         <location displayLabel="HathiTrust">
             <url>http://hdl.handle.net/2027/wu.89013009550?urlappend=%3Bseq=372</url>
         </location>

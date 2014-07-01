@@ -22,7 +22,7 @@
          <mads:namePart type="date">ca. 2./1.Jh.v.Chr</mads:namePart>
       </mads:name>
    </mads:variant>
-   <mads:url></mads:url>
+   <mads:url/>
    <mads:identifier type="uri">http://viaf.org/viaf/17613805</mads:identifier>
    <mads:identifier type="cts-urn"></mads:identifier>
    <mads:identifier type="tlg">2173</mads:identifier>
@@ -30,10 +30,11 @@
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology: </mads:note>
    <mads:note type="source">Brill's New Pauly:</mads:note>
    <mads:url displayLabel="Wikipedia">http://ca.wikipedia.org/wiki/Antileon</mads:url>
-   <mads:url displayLabel="Worldcat Identities"></mads:url>
-   <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=antileon-bio-1</mads:url>
+   <mads:url displayLabel="Worldcat Identities"/>
+   <mads:url displayLabel="Smith's Dictionary"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=antileon-bio-1</mads:url>
    <mads:url displayLabel="VIAF">http://viaf.org/viaf/17613805</mads:url>
-   <mads:url displayLabel="id.gov"></mads:url>
+   <mads:url displayLabel="id.gov"/>
    <mads:extension>
       <mads:description>List of related work identifiers</mads:description>
       <identifier type="tlg">2173.002</identifier>
