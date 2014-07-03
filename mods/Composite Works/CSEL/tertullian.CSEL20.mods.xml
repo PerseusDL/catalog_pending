@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Quinti Septimi Florentis Tertulliani opera</title>
+        <partNumber>Pars I</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal" usage="primary"
+        authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n79091867">
+        <namePart>Tertullian</namePart>
+        <namePart type="date">ca. 160-ca. 230</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no96043486">
+        <namePart>Reifferscheid, August,</namePart>
+        <namePart type="date">1835-1887</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no92028167">
+        <namePart>Wissowa, Georg,</namePart>
+        <namePart type="date">1859-1931</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1890</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>xiii; 396 pg.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility"/>
+    <note/>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Volume 20</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">46881699</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/46881699</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"/>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/corpusscriptoru24wissgoog</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158007624553</url>
+    </location>
+    <relatedItem type="constituent" displayLabel="I">
+        <titleInfo>
+            <title>De Spectaculis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa027</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa027</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>29</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n20/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=22</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="II">
+        <titleInfo>
+            <title>De idolatria</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa017</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa017</identifier>
+        <part>
+            <extent unit="pages">
+                <start>30</start>
+                <end>58</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n48/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=52</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="III">
+        <titleInfo>
+            <title>Ad Nationes Libri Duo</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa002</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>133</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n78/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=80</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="IV">
+        <titleInfo>
+            <title>De Testimionio Animae</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa028</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa028</identifier>
+        <part>
+            <extent unit="pages">
+                <start>134</start>
+                <end>143</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n152/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=156</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="V">
+        <titleInfo>
+            <title>Scorpiace</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa030</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa030</identifier>
+        <part>
+            <extent unit="pages">
+                <start>144</start>
+                <end>179</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n162/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=166</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VI">
+        <titleInfo>
+            <title>De Oratione</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa020</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa020</identifier>
+        <part>
+            <extent unit="pages">
+                <start>180</start>
+                <end>200</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n198/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=202</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VII">
+        <titleInfo>
+            <title>De Baptismo</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa011</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa011</identifier>
+        <part>
+            <extent unit="pages">
+                <start>201</start>
+                <end>218</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n220/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=222</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VIII">
+        <titleInfo>
+            <title>De Pudicitia</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa025</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa025</identifier>
+        <part>
+            <extent unit="pages">
+                <start>219</start>
+                <end>273</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n238/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=240</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="IX">
+        <titleInfo>
+            <title>De ieiunio adversus psychicos</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa018</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa018</identifier>
+        <part>
+            <extent unit="pages">
+                <start>274</start>
+                <end>297</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n292/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=296</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="X">
+        <titleInfo>
+            <title>De Anima</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary"
+            authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79091867">
+            <namePart>Tertullian</namePart>
+            <namePart type="date">ca. 160-ca. 230</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no96043486">
+            <namePart>Reifferscheid, August,</namePart>
+            <namePart type="date">1835-1887</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no92028167">
+            <namePart>Wissowa, Georg,</namePart>
+            <namePart type="date">1859-1931</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0275-stoa010</identifier>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0275.stoa010</identifier>
+        <part>
+            <extent unit="pages">
+                <start>298</start>
+                <end>396</end>
+            </extent>
+        </part>
+        <location displayLabel="Open Content Alliance">
+            <url>https://archive.org/stream/corpusscriptoru24wissgoog#page/n318/mode/2up</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/uc1.31158007624553?urlappend=%3Bseq=320</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
