@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sancti Avrelii Avgvstini episcopi De civitate Dei libri XXII</title>
+        <subTitle>Libri XIII-XXII</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+        <namePart>Augustine</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr96044216">
+        <namePart>Hoffmann, Emmanuel,</namePart>
+        <namePart type="date">1825-1900</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1900</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>1 vol</extent>
+    </physicalDescription>
+    <note type="statement of responsibility"/>
+    <note/>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Kingdom of God</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Apologetics</topic>
+        <topic>History</topic>
+        <topic>Early church, approximately 30-600</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Volume 40, Pars II</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">615349743</identifier>
+    <identifier type="stoa author-text">stoa0040-stoa003</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa003</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/615349743</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=NSwjAQAAMAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/inu.32000004210979</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

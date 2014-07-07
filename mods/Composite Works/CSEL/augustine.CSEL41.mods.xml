@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sancti Aurelii Augustini Opera</title>
+        <partNumber>Sectio V, Pars III</partNumber>
+        <partName>De fide et symbolo. De fide et operibus. De agone christiano. De continentia. De bono coniugali. 
+            De Sancta virginitate. De bono viduitatis. De adulterinis coniugiis lib. II. De mendacio. Contra mendacium.
+            De opere monachorum. De divinatione daemonum. De cura pro mortuis gerenda. De patientia</partName>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+        <namePart>Augustine</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr96043795">
+        <namePart>Zycha, Joseph</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1900</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>XXXXVI, 708 p. ; 22 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility"/>
+    <note/>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Christian Ethics</topic>
+        <topic>History</topic>
+        <topic>Early church, ca. 30-600</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Volume 41</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">781790627</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/781790627</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"/>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/corpusscriptoru18wiengoog</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015010539313</url>
+    </location>
+    <relatedItem type="constituent" displayLabel="I">
+        <titleInfo>
+            <title>De fide et symbolo</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa006</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>32</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=56</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n61/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="II">
+        <titleInfo>
+            <title>De fide et operibus</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa041</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa041</identifier>
+        <part>
+            <extent unit="pages">
+                <start>33</start>
+                <end>97</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=88</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n93/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="III">
+        <titleInfo>
+            <title>De agone christiano</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa032</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa032</identifier>
+        <part>
+            <extent unit="pages">
+                <start>99</start>
+                <end>138</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=154</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n159/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="IV">
+        <titleInfo>
+            <title>De Continentia</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa037a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa037a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>139</start>
+                <end>183</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=194</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n247/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="V">
+        <titleInfo>
+            <title>De bono coniugali</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa035</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa035</identifier>
+        <part>
+            <extent unit="pages">
+                <start>187</start>
+                <end>231</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=240</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n247/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VI">
+        <titleInfo>
+            <title>De sancta virginitate</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa060</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa060</identifier>
+        <part>
+            <extent unit="pages">
+                <start>233</start>
+                <end>302</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=288</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n293/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VII">
+        <titleInfo>
+            <title>De bono viduitatis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa035a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa035a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>303</start>
+                <end>343</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=358</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n363/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VIII">
+        <titleInfo>
+            <title>De Conjugiis Adulterinis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa036</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa036</identifier>
+        <part>
+            <extent unit="pages">
+                <start>345</start>
+                <end>410</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=400</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n405/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VIIII">
+        <titleInfo>
+            <title>De mendacio</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa050</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa050</identifier>
+        <part>
+            <extent unit="pages">
+                <start>411</start>
+                <end>466</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=466</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n471/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="X">
+        <titleInfo>
+            <title>Contra Mendacium Ad Consentium</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa029</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa029</identifier>
+        <part>
+            <extent unit="pages">
+                <start>467</start>
+                <end>528</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=522</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n527/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="XI">
+        <titleInfo>
+            <title>De opere monachorum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa055</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa055</identifier>
+        <part>
+            <extent unit="pages">
+                <start>529</start>
+                <end>596</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=584</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n591/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="XII">
+        <titleInfo>
+            <title>De diuinatione daemonum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa038a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa038a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>597</start>
+                <end>618</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=652</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n657/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="XIII">
+        <titleInfo>
+            <title>De Cura pro Mortuis Gerenda</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96043795">
+            <namePart>Zycha, Joseph</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa037c</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa037c</identifier>
+        <part>
+            <extent unit="pages">
+                <start>619</start>
+                <end>660</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=674</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/corpusscriptoru18wiengoog#page/n679/mode/2up</url>
+        </location>
+        <relatedItem type="constituent" displayLabel="XIV">
+            <titleInfo>
+                <title>De Patientia</title>
+            </titleInfo>
+            <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+                ns2:href="http://errol.oclc.org/laf/n80-126290.html">
+                <namePart>Augustine</namePart>
+                <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+                </role>
+            </name>
+            <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+                type="personal" valueURI="http://id.loc.gov/authorities/names/nr96043795">
+                <namePart>Zycha, Joseph</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+            </name>
+            <language objectPart="text">
+                <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+            </language>
+            <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa056b</identifier>
+            <identifier type="stoa author-text">stoa0040-stoa056b</identifier>
+            <part>
+                <extent unit="pages">
+                    <start>661</start>
+                    <end>691</end>
+                </extent>
+            </part>
+            <location displayLabel="HathiTrust">
+                <url>http://hdl.handle.net/2027/mdp.39015010539313?urlappend=%3Bseq=716</url>
+            </location>
+            <location>
+                <url displayLabel="Open Content Alliance"
+                    >https://archive.org/stream/corpusscriptoru18wiengoog#page/n721/mode/2up</url>
+            </location>
+        </relatedItem>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
