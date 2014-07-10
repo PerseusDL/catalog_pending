@@ -2,8 +2,8 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
     <titleInfo>
-        <title>Sancti Aurelii Augustini opera Sectio 7, Scripta contra Donatistas</title>
-        <partNumber>Pars 2</partNumber>
+        <title>Sancti Aurelii Augustini Scripta contra Donatistas</title>
+        <partNumber>Opera Sectio 7, Pars 2</partNumber>
         <partName>Contra litteras Petiliani libri tres, epistula ad catholicos de secta Donatistarum,
             contra Cresconium libri quattuor</partName>
     </titleInfo>
@@ -53,7 +53,7 @@
     <relatedItem type="series">
         <titleInfo>
             <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-            <partNumber>52</partNumber>
+            <partNumber>Volume 52</partNumber>
         </titleInfo>
     </relatedItem>
     <identifier type="oclc">311409997</identifier>

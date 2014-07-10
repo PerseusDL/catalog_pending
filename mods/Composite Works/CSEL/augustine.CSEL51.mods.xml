@@ -2,8 +2,8 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
     <titleInfo>
-        <title>Sancti Aurelii Augustini opera Sectio 7, Scripta contra Donatistas</title>
-        <partNumber>Pars 1</partNumber>
+        <title>Sancti Aurelii Augustini Scripta contra Donatistas</title>
+        <partNumber>Opera Sectio 7, Pars 1</partNumber>
         <partName>Psalmus contra partem Donati; Contra epistulam Parmeniani libri tres; De baptismo libri septem</partName>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -55,7 +55,7 @@
     <relatedItem type="series">
         <titleInfo>
             <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-            <partNumber>51</partNumber>
+            <partNumber>Volume 51</partNumber>
         </titleInfo>
     </relatedItem>
     <identifier type="oclc">827326</identifier>

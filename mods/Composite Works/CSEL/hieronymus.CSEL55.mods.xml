@@ -2,23 +2,25 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
     <titleInfo>
-        <title>Sancti Aureli Augustini De consensu evangelistarum libri quattuor</title>
+        <title>Sancti Eusebii Hieronymi Epistulae</title>
+        <partNumber>Pars II</partNumber>
+        <partNumber>Epistulae LXXI-CXX</partNumber>
     </titleInfo>
-    <titleInfo type="alternative">
-        <title>De consensu evangelistarum libri quattuor</title>
+    <titleInfo type="uniform">
+        <title>Epistolae</title>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
-        <namePart>Augustine</namePart>
-        <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+        ns2:href="http://errol.oclc.org/laf/n79-124709.html">
+        <namePart>Jerome</namePart>
+        <namePart type="termsOfAddress">Saint</namePart>
+        <namePart type="date">d. 419 or 20</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">creator</roleTerm>
         </role>
     </name>
     <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
-        valueURI="http://id.loc.gov/authorities/names/nr96043584">
-        <namePart>Weihrich, Franz,</namePart>
-        <namePart type="date">1845-</namePart>
+        valueURI="http://id.loc.gov/authorities/names/n89668634">
+        <namePart>Hilberg, Isidorus</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">editor</roleTerm>
         </role>
@@ -32,50 +34,58 @@
             <placeTerm type="text">Vindobonae</placeTerm>
         </place>
         <publisher>Gerold</publisher>
-        <dateIssued>1904</dateIssued>
+        <dateIssued>1912</dateIssued>
         <issuance>monographic</issuance>
     </originInfo>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-<digitalOrigin>digitized other analog</digitalOrigin>
-        <extent>xxxi, 467 pages ; 23 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>515 pg.</extent>
     </physicalDescription>
-    <note type="statement of responsibility">ecensuit et commentario critico instruxit Franciscus Weihrich.</note>
+    <note type="statement of responsibility">Recensvit Isidorvs Hilberg</note>
     <note></note>
     <subject authority="lcsh">
         <topic>Fathers of the church</topic>
     </subject>
     <subject authority="lcsh">
-        <topic>Bible</topic>
-        <topic>Gospels</topic>
-        <topic>Criticism, interpretation, etc.</topic>
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Jerome, Saint, 419 or 420</topic>
+        <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Church History</topic>
+        <topic>Primitive and early church</topic>
+        <topic>ca. 30-600</topic>
     </subject>
     <classification authority="lcc">BR60 .C6</classification>
     <relatedItem type="series">
         <titleInfo>
             <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
-            <partNumber>43</partNumber>
+            <partNumber>Volume 55</partNumber>
         </titleInfo>
     </relatedItem>
-    <identifier type="oclc">59212026</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa037</identifier>
-    <identifier type="stoa author-text">stoa0040-stoa037</identifier>
+    <identifier type="stoa author-text">stoa0162-stoa004</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:stoa0162.stoa004</identifier>
+    <identifier type="oclc">878696</identifier>
     <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/59212026</url>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/878696</url>
     </location>
     <location>
-        <url displayLabel="GoogleBooks">http://books.google.com/books?id=aygMAAAAIAAJ</url>
+        <url displayLabel="GoogleBooks"/>
     </location>
     <location>
-        <url displayLabel="Open Content Alliance"></url>
+        <url displayLabel="Open Content Alliance"
+            >http://archive.org/stream/corpusscriptorum55stuoft</url>
     </location>
     <location>
-        <url displayLabel="Open Library"></url>
+        <url displayLabel="Open Library"/>
     </location>
     <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433081640884</url>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008465927</url>
     </location>
     <recordInfo>
         <recordContentSource authority="marcorg">OCoLC</recordContentSource>
