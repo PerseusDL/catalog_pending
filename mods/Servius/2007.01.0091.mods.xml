@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>In Vergilii Bucolicon Librum</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>Commentary on the Eclogues of Virgil</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n82-221524.html">
+        <namePart>Servius</namePart>
+        <namePart type="date">4th cent</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no98-61986.html">
+        <namePart>Thilo, Georg</namePart>
+        <namePart type="date">1831-1893</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier>Perseus:text:2007.01.0091</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:phi,2349,006</identifier>
+    <identifier type="phi">2349.6</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi2349.phi006.perseus-lat1</identifier>
+    <identifier type="phi" displayLabel="isCommentaryOn">690.1</identifier>
+    <identifier type="Perseus:abo" displayLabel="isCommentaryOn">Perseus:abo:phi,0690,001</identifier>
+    <part>
+        <extent unit="pages">
+            <start>1</start>
+            <end>127</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=-NTItUWj1BAC&amp;pg=PA1#v=onepage</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Latin"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0091</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Servii Grammatici qui feruntur</title>
+            <subTitle>In Bucolica et Georgica commentari</subTitle>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n82-221524.html">
+            <namePart>Servius</namePart>
+            <namePart type="date">4th cent</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no98-61986.html">
+            <namePart>Thilo, Georg</namePart>
+            <namePart type="date">1831-1893</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>Teubner</publisher>
+            <dateIssued>1887</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xx, 360 pg.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Virgil</namePart>
+            </name>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc"/>
+        <classification authority="ddc"/>
+        <identifier type="oclc">8848556</identifier>
+        <identifier type="lccn"/>
+        <location>
+            <url displayLabel="LC Permalink"/>
+        </location>
+        <location>
+            <url displayLabel="WorldCat"
+                >http://www.worldcat.org/title/servii-grammatici-qvi-fervntvr-in-vergilii-carmina-commentarii/oclc/8848556</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"/>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=-NTItUWj1BAC</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>
