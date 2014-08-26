@@ -17,7 +17,7 @@
     <mods:identifier type="tlg">0032.010</mods:identifier>
     <mods:identifier type="Perseus:abo">Perseus:abo:tlg,0032,010</mods:identifier>
     <mods:identifier>Perseus:text:1999.01.0209:text=Const. Lac.</mods:identifier>
-    <mods:identifier type="ctsurn">tlg0032.tlg010.perseus-grc1</mods:identifier>
+    <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0032.tlg010.perseus-grc1</mods:identifier>
     <mods:name xmlns="http://www.loc.gov/mods/v3"
         xmlns:ns2="http://www.w3.org/1999/xlink"
         authority="naf"
