@@ -7,9 +7,7 @@
         <title>De rebus bellicis</title>
     </titleInfo>
     <name type="corporate" lang="lat">
-        <namePart>
-        Anonymi Auctoris de rebus Bellicis
-        </namePart>
+        <namePart>Anonymi Auctoris de rebus Bellicis</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">creator</roleTerm>
         </role>
@@ -67,7 +65,7 @@
     <classification authority="lcc">DG85 .D413 1979b</classification>
     <classification authority="ddc" edition="19">937</classification>
     <identifier type="ota">0309</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0354.stoa001.opp-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0354.stoa001.opp-lat1</identifier>
     <location>
         <url displayLabel="OTA">http://ota.ahds.ac.uk/desc/0309</url>
     </location>
