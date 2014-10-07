@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Summaries</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="lat">
+        <title>Periochae</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+        <namePart>Livy.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no2005-109475.html">
+        <namePart>McDevitte, W. A. (William Alexander)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="phi">914.2</identifier>
+    <identifier type="stoa author-text">stoa0179-stoa002</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi0914.phi002.perseus-eng1</identifier>
+    <part>
+        <extent unit="pages">
+            <start>2174</start>
+            <end>2213</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/historyofromelit04livyuoft#page/2174/mode/2up</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0150</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The </nonSort>
+            <title>History of Rome</title>
+            <partNumber>Volume IV</partNumber>
+            <partName>Books Thirty-Seven to The End</partName>
+            <subTitle>With the Epitomes and Fragments of the Lost Books</subTitle>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <namePart>Livy.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no2005-109475.html">
+            <namePart>McDevitte, W. A. (William Alexander)</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>H. G. Bohn</publisher>
+            <dateIssued>1862</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>1655-2278</extent>
+        </physicalDescription>
+        <subject>
+            <geographicCode authority="marcgac">e-it---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Rome</geographic>
+            <topic>History</topic>
+        </subject>
+        <classification authority="lcc">DG207.L5</classification>
+        <classification authority="ddc">878.4</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bohn's classical library</title>
+                <partNumber>Vol. 47</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">13840509</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/13840509 </url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/historyofromelit04livyuoft</url>
+        </location>
+    </relatedItem>
+</mods>
