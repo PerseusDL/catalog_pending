@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   version="3.5"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo transliteration="rom">
+      <title>Peri semeion Odysseias reliquiae emendatiores</title>
+   </titleInfo>
+   <titleInfo type="alternative" authority="tlg">
+      <title>De signis Odysseae</title>
+   </titleInfo>
+   <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+      valueURI="http://id.loc.gov/authorities/names/no2009115331">
+      <namePart>Aristonicus,</namePart>
+      <namePart type="termsOfAddress">of Alexandria</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/6139566">
+      <namePart>Carnuth, Otto</namePart>
+      <namePart type="date">1843-1899</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>Apud S. Hirzelium</publisher>
+      <dateIssued>1869</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+   </language>
+   <language objectPart="commentary">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>172p.</extent>
+   </physicalDescription>
+   <subject authority="lcsh">
+      <name type="personal">
+         <namePart>Homer</namePart>
+      </name>
+      <titleInfo>
+         <title>Odyssey</title>
+      </titleInfo>
+   </subject>
+   <classification authority="lcc">PA4035 A85 1869</classification>
+   <identifier type="tlg">1194.001</identifier>
+   <identifier type="oclc">9394708</identifier>
+   <identifier type="oca"/>
+   <location>
+      <url displayLabel="LC Permalink"/>
+   </location>
+   <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/9394708</url>
+   </location>
+   <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=Mlw-AAAAcAAJ</url>
+   </location>
+   <location>
+      <url displayLabel="Open Content Alliance"
+         >https://archive.org/details/perisemeionodyss00arisuoft</url>
+   </location>
+   <location>
+      <url displayLabel="Open Library"/>
+   </location>
+   <location>
+      <url displayLabel="HathiTrust"/>
+   </location>
+   <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">670101</recordCreationDate>
+      <recordIdentifier>505951</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
