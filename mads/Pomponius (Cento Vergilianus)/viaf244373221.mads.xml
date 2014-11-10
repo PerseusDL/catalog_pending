@@ -54,7 +54,7 @@
       </mads:titleInfo>
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/244373221</mads:identifier>
-   <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0233h.stoa001</mads:identifier>
+   <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0233h.stoa001</mads:identifier>
    <mads:identifier type="stoa author-text">stoa0233h</mads:identifier>
    <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology: </mads:note>

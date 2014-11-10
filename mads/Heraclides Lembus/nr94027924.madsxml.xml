@@ -52,7 +52,7 @@
   <mads:note type="source">RLIN 8/22/94 (hdg.: Heraclides Lembus)</mads:note>
   <mads:identifier type="lccn">nr 94027924 </mads:identifier>
   <mads:identifier type="tlg">1407</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1407</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1407</mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
   <mads:fieldOfActivity>Doxographer</mads:fieldOfActivity>

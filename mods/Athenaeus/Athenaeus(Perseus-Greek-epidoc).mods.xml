@@ -80,7 +80,7 @@
             <title>Teubner</title>
         </titleInfo>
     </relatedItem>    
-    <identifier type="cts-urn"></identifier>
+    <identifier type="ctsurn"></identifier>
     <identifier type="lccn">34010800</identifier>
     <identifier type="oclc">3288753</identifier>
     <identifier type="tlg">0008.001</identifier>

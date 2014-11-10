@@ -87,7 +87,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">stoa0292e-stoa002</identifier>
+        <identifier type="ctsurn">stoa0292e-stoa002</identifier>
         <identifier type="stoa author-text">urn:cts:latinLit:stoa0292e.stoa002</identifier>
         <part>
             <extent unit="pages">
@@ -134,7 +134,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">stoa0292e-stoa001</identifier>
+        <identifier type="ctsurn">stoa0292e-stoa001</identifier>
         <identifier type="stoa author-text">urn:cts:latinLit:stoa0292e.stoa001</identifier>
         <part>
             <extent unit="pages">

@@ -55,7 +55,7 @@
     Rome; d. ca. 1140)</mads:note>
   <mads:note type="notFound">New Cath. encyc</mads:note>
   <mads:identifier type="lccn">no 93030824 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0227b</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0227b</mads:identifier>
   <mads:identifier type="stoa author">stoa0227b</mads:identifier>
   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Travel Writer</mads:fieldOfActivity>

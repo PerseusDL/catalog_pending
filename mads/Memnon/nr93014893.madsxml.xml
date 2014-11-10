@@ -46,7 +46,7 @@
   <mads:note type="source">Hammond, N. Oxford classical dict., 1970 (Memnon, of Heraclea Pontica, after Caesar
     and probably before Hadrian wrote the history of his city in at least 16 books)</mads:note>
   <mads:identifier type="lccn">nr 93014893 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1496</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1496</mads:identifier>
   <mads:identifier type="tlg">1496</mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
   <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology, Vol , 1867: "

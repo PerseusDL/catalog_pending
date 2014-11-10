@@ -123,7 +123,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/64354422</mads:identifier>
    <mads:identifier type="tlg">0586</mads:identifier>
-   <mads:identifier type="cts-urn">urn:cts:greekLit:tlg0586</mads:identifier>
+   <mads:identifier type="ctsurn">urn:cts:greekLit:tlg0586</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">TLG Canon of Greek Authors and Works, Third Edition,</mads:note>
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology, Vol , 1867, p. 1: </mads:note>

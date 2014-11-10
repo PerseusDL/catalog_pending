@@ -105,7 +105,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0329-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0329.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0329.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>1</start>
@@ -148,7 +148,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0111-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0111.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0111.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>35</start>
@@ -187,7 +187,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0227b-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0227b.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0227b.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>103</start>
@@ -231,7 +231,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0117p-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0117p.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0117p.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>123</start>
@@ -270,7 +270,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0278a-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0278a.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0278a.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>135</start>
@@ -307,7 +307,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0329c-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0329c.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0329c.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>151</start>
@@ -348,7 +348,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0028e-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0028e.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0028e.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>157</start>
@@ -388,7 +388,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0007-stoa002</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0007.stoa002</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0007.stoa002</identifier>
         <part>
             <extent unit="pages">
                 <start>219</start>
@@ -429,7 +429,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0054-stoa001a</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0054.stoa001a</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0054.stoa001a</identifier>
         <part>
             <extent unit="pages">
                 <start>298</start>

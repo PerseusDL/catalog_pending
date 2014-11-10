@@ -34,7 +34,7 @@
   <mads:note type="source">His Adomnan's life of Columba, 1990</mads:note>
   <mads:note type="source">I luoghi santi, 2008: t.p. (Adomano di Iona) p. 11 (possible date of birth, 623, or 624)</mads:note>
   <mads:identifier type="lccn">n  89618622 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0007</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0007</mads:identifier>
   <mads:identifier type="stoa author">stoa0007</mads:identifier>
   <mads:fieldOfActivity>Travel Writer</mads:fieldOfActivity>
   <mads:fieldOfActivity>Pilgrim</mads:fieldOfActivity>

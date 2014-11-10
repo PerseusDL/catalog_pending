@@ -105,7 +105,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa006</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa006</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa006</identifier>
         <part>
             <extent unit="pages">
                 <start>1</start>
@@ -146,7 +146,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa002</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa002</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa002</identifier>
         <tableOfContents>Praefatio (14-15) -- Pashalis Carminis Libri V (16-146) -- Capitula (147-154)</tableOfContents>
         <part>
             <extent unit="pages">
@@ -186,7 +186,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa007</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa007</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa007</identifier>
         <part>
             <extent unit="pages">
                 <start>155</start>
@@ -227,7 +227,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa001</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>163</start>
@@ -265,7 +265,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa008</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa008</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa008</identifier>
         <tableOfContents>Epistula ad Macedonium (Altera) (pg. 171-174) -- Praefatio (pg. 175-176) -- Paschalis Operis (pg. 176-303)</tableOfContents>
         <part>
             <extent unit="pages">
@@ -304,7 +304,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0252-stoa003</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0252.stoa003</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0252.stoa003</identifier>
         <part>
             <extent unit="pages">
                 <start>307</start>
@@ -346,7 +346,7 @@
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
         <identifier type="stoa author-text">stoa0241d-stoa002</identifier>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0241d.stoa002</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0241d.stoa002</identifier>
         <part>
             <extent unit="pages">
                 <start>316</start>

@@ -58,7 +58,7 @@
     <classification authority="lcc">PA3611 .A14</classification>
     <identifier type="lccn">32003143</identifier>
     <identifier type="oclc">685208</identifier>
-    <identifier type="cts-urn"></identifier>
+    <identifier type="ctsurn"></identifier>
     <identifier type="Perseus">Perseus:text:2008.01.0479</identifier>
     <location>
         <url displayLabel="LC Permalink">http://lccn.loc.gov/32003143</url>

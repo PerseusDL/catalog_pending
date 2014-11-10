@@ -37,7 +37,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/42230130</mads:identifier>
    <mads:identifier type="tlg">2195</mads:identifier>
-   <mads:identifier type="cts-urn"></mads:identifier>
+   <mads:identifier type="ctsurn"></mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology:
       "Chrysermus, a Corinthian, whom we find mentioned as the author of the following works :--1. A history of India, extending to at least 80 books. 2.

@@ -80,7 +80,7 @@
     <identifier type="lccn">06023142</identifier>
     <identifier type="oclc">2008971</identifier>
     <identifier type="tlg">0060.001</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0060.tlg001.perseus-grc2</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0060.tlg001.perseus-grc2</identifier>
     <location>
         <url displayLabel="Perseus">http://data.perseus.org/texts/urn:cts:greekLit:tlg0060.tlg001.perseus-grc2</url>
     </location>

@@ -75,7 +75,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/397325</mads:identifier>
    <mads:identifier type="tlg">2300</mads:identifier>
-   <mads:identifier type="cts-urn">urn:cts:greekLit:tlg2300</mads:identifier>
+   <mads:identifier type="ctsurn">urn:cts:greekLit:tlg2300</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology:
       "Promathides, of Heracleia, wrote a work entitled Ἡμίαμβοι, which treated of mythological subjects (Athen. 7.296b.)...."

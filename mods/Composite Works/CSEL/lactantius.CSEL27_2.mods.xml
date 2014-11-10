@@ -69,7 +69,7 @@
     </relatedItem>
     <identifier type="oclc">869893</identifier>
     <identifier type="stoa author-text">stoa0171-stoa002</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0171.stoa002</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0171.stoa002</identifier>
     <location>
         <url displayLabel="WorldCat">http://worldcat.org/oclc/869893</url>
     </location>

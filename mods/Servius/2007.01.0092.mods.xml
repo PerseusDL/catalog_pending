@@ -29,7 +29,7 @@
     <identifier>Perseus:text:2007.01.0092</identifier>
     <identifier type="Perseus:abo">Perseus:abo:phi,2349,007</identifier>
     <identifier type="phi">2349.7</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi2349.phi007.perseus-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi2349.phi007.perseus-lat1</identifier>
     <identifier type="phi" displayLabel="isCommentaryOn">690.2</identifier>
     <identifier type="Perseus:abo" displayLabel="isCommentaryOn">Perseus:abo:phi,0690,002</identifier>
     <part>

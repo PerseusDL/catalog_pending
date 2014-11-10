@@ -71,7 +71,7 @@
   </mads:variant>
   <mads:note type="source">Pauly Real-Encyc. ... 1899 (Charax von Pergamon; 2. oder 3. 
     nachchristlichen Jhdts.)</mads:note>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1254</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1254</mads:identifier>
   <mads:identifier type="tlg">1254</mads:identifier>
   <mads:identifier type="lccn">n  85240506 </mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>

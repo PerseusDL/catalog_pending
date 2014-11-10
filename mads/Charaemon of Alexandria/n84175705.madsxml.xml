@@ -39,7 +39,7 @@
   <mads:note type="notFound">Encyc. Brit., 1972</mads:note>
   <mads:identifier type="lccn">n  84175705 </mads:identifier>
   <mads:identifier type="tlg">2424</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg2424</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg2424</mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
   <mads:note type="source">Brill's New Pauly:  "From Alexandria; Stoic philosopher,  grammarian and Hellenized

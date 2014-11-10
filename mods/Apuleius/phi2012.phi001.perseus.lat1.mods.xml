@@ -57,7 +57,7 @@
     <identifier type="phi">1212.1</identifier>
     <identifier type="stoa author-text">stoa0030-stoa001</identifier>
     <identifier type="lccn">tmp92004171</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi1212.phi001.perseus-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi1212.phi001.perseus-lat1</identifier>
     <identifier type="oclc">11974670</identifier>
     <location>
         <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92004171</url>

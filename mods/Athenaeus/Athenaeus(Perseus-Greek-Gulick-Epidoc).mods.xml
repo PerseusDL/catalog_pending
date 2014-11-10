@@ -77,7 +77,7 @@
     </relatedItem>
     <identifier type="tlg">0008.001</identifier>
     <identifier type="oclc">688821</identifier>
-    <identifier type="cts-urn"></identifier>
+    <identifier type="ctsurn"></identifier>
     <location xmlns="http://www.loc.gov/mods/v3">
         <url displayLabel="LC Permalink">http://lccn.loc.gov/28004492</url>
     </location>

@@ -67,7 +67,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/59879416</mads:identifier>
    <mads:identifier type="tlg">2691</mads:identifier>
-   <mads:identifier type="cts-urn">urn:cts:greekLit:tlg2691</mads:identifier>
+   <mads:identifier type="ctsurn">urn:cts:greekLit:tlg2691</mads:identifier>
    <mads:fieldOfActivity>Epic Poet</mads:fieldOfActivity>
    <mads:note type="source">Brill's New Pauly:  "Musaeus, Mythical companion of the Muses...</mads:note>
    <mads:url displayLabel="Wikipedia">http://en.wikipedia.org/wiki/Musaeus_of_Athens</mads:url>

@@ -26,7 +26,7 @@
     <identifier type="phi">845.2</identifier>
     <identifier type="stoa author-text">stoa0094-stoa002</identifier>
     <identifier>2008.01.0504</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi0845.phi002.perseus-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi0845.phi002.perseus-lat1</identifier>
     <location>
         <url displayLabel="Perseus"
             >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0504</url>

@@ -69,7 +69,7 @@
   <mads:note type="source">Websters online dictionary, Dec. 13, 2008 (Menippos the Cynic)</mads:note>
   <mads:note type="source">LC database Mar. 19, 2009 (hdg.: Menippus Cynicus)</mads:note>
   <mads:identifier type="lccn">no2008183769</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg0052</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg0052</mads:identifier>
   <mads:identifier type="tlg">0052</mads:identifier>
   <mads:fieldOfActivity>Cynic</mads:fieldOfActivity>
   <mads:fieldOfActivity>Phiolosopher</mads:fieldOfActivity>

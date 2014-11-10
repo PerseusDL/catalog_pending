@@ -52,7 +52,7 @@
   <mads:note type="source">Victorini Episcopi Petavionensis Opera, 1916</mads:note>
   <mads:identifier type="lccn">no2006056427</mads:identifier>
   <mads:identifier type="stoa author-text">stoa0292e</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0292e</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0292e</mads:identifier>
   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Saint</mads:fieldOfActivity>
   <mads:fieldOfActivity>Commentator</mads:fieldOfActivity>

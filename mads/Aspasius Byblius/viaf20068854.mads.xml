@@ -38,7 +38,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/20068854</mads:identifier>
    <mads:identifier type="tlg">2529</mads:identifier>
-   <mads:identifier type="cts-urn"></mads:identifier>
+   <mads:identifier type="ctsurn"></mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology, Vol , 1867:
       ""Aspasius,  Of BYBLUS, a Greek sophist, who according to Suidas

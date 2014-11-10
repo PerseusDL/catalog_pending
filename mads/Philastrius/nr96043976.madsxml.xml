@@ -57,7 +57,7 @@
   <mads:note type="source">Clavis patrum Latinorum, 1995: p. 38 (Filastrius episcopus Brixiensis; circa 383-391)</mads:note>
   <mads:note type="source">RLIN, 12/6/96 (hdg.: Philastrius, Saint, Bishop of Brescia, d. 387; Philastrius, Saint, bp. of Brescia, 4th cent.; usage: Philastrii, Filastrii)</mads:note>
   <mads:identifier type="lccn">nr 96043976 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0122a</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0122a</mads:identifier>
   <mads:identifier type="stoa author">stoa0122a</mads:identifier>
   <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
   <mads:fieldOfActivity>Saint</mads:fieldOfActivity>

@@ -28,7 +28,7 @@
     <identifier type="tlg">0010.016</identifier>
     <identifier type="Perseus:abo">Perseus:abo:tlg,0010,016</identifier>
     <identifier>Perseus:text:1999.01.0144:speech=6</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0010.tlg016.perseus-eng1</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0010.tlg016.perseus-eng1</identifier>
     <location>
         <url displayLabel="Perseus" note="English"
             >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.01.0144:speech=6</url>

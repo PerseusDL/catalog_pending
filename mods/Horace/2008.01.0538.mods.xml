@@ -24,7 +24,7 @@
     <identifier type="phi">893.3</identifier>
     <identifier type="stoa author-text">stoa0152-stoa005</identifier>
     <identifier type="Perseus:abo">Perseus:abo:phi,0893,003</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi0893.phi003.perseus-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi0893.phi003.perseus-lat1</identifier>
     <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>

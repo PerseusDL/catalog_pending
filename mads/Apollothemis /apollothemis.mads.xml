@@ -14,7 +14,7 @@
       </mads:name>
    </mads:variant>
    <mads:identifier type="uri"/>
-   <mads:identifier type="cts-urn"></mads:identifier>
+   <mads:identifier type="ctsurn"></mads:identifier>
    <mads:identifier type="tlg">tlg-apollothemis</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary: "Apollothemis, a Greek historian, whom Plutarch made use of in his life of Lycurgus....""</mads:note>

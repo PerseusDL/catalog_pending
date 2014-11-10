@@ -83,7 +83,7 @@
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/15159485</mads:identifier>
    <mads:identifier type="tlg">1200</mads:identifier>
-   <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1200</mads:identifier>
+   <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1200</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
    <mads:note type="source">TLG Canon of Greek Authors and Works, Third Edition,</mads:note>

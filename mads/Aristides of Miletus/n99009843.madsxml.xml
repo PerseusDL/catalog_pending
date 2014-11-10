@@ -43,7 +43,7 @@
   <mads:note type="source">LC class., PA sched. (Aristides, novelist, 2nd to 1st cent. B.C., wrongly 
     surnamed Milesius, author of erotic novels called Milesiaca, now lost)</mads:note>
   <mads:identifier type="lccn">n  99009843 </mads:identifier>
-  <mads:identifier type="cts-urn"></mads:identifier>
+  <mads:identifier type="ctsurn"></mads:identifier>
   <mads:identifier type="tlg">2194</mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
   <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology: </mads:note>

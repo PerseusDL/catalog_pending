@@ -26,7 +26,7 @@
     <identifier>Perseus:text:2008.01.0675</identifier>
     <identifier type="phi">1038.1</identifier>
     <identifier type="stoa author-text">stoa0285-stoa001</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi1038.phi001.perseus-lat1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi1038.phi001.perseus-lat1</identifier>
     <part>
         <extent unit="pages">
             <start>1</start>

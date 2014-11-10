@@ -40,7 +40,7 @@
   <mads:note type="source">OCLC, Nov. 14, 2002 (hdg.: Epimenides; usages: Epimenides, Epimenide)</mads:note>
   <mads:identifier type="lccn">no2002104047</mads:identifier>
   <mads:identifier type="tlg">1347</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1347</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1347</mads:identifier>
   <mads:fieldOfActivity>Epic Poet</mads:fieldOfActivity>
   <mads:note type="source">Brill's New Pauly:  "Cretan religious figure, of whom many legends and miracles have been reported (FGrH 457 T 1-11...</mads:note>
   <mads:url displayLabel="Wikipedia">http://en.wikipedia.org/wiki/Epimenides</mads:url>

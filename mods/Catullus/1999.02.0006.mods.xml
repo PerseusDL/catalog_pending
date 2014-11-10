@@ -73,7 +73,7 @@
   <classification authority="lcc">PA6275.E5 B8</classification>
   <identifier type="lccn">05015039</identifier>
   <identifier type="oclc">878062</identifier>
-  <identifier type="cts-urn">urn:cts:latinLit:phi0472.phi001.perseus-eng2</identifier>
+  <identifier type="ctsurn">urn:cts:latinLit:phi0472.phi001.perseus-eng2</identifier>
   <identifier>Perseus:text:1999.02.0006</identifier>
   <identifier type="phi">472.1</identifier>
   <identifier type="stoa author-text">stoa0081-stoa001</identifier>

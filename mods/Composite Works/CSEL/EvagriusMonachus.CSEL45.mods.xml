@@ -62,7 +62,7 @@
         </titleInfo>
     </relatedItem>
     <identifier type="oclc">34312232</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0120c-stoa001</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0120c-stoa001</identifier>
     <identifier type="stoa author-text">stoa0120c-stoa001</identifier>
     <location>
         <url displayLabel="WorldCat">http://www.worldcat.org/oclc/34312232</url>

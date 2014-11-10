@@ -72,7 +72,7 @@
             <partNumber>Volume 36</partNumber>
         </titleInfo>
     </relatedItem>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa077</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa077</identifier>
     <identifier type="stoa author-text">stoa0040-stoa077</identifier>
 
     <identifier type="oclc">55014794</identifier>

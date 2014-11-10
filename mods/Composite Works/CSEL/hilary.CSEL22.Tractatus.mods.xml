@@ -39,7 +39,7 @@
 <digitalOrigin>digitized other analog</digitalOrigin>
         <extent>XXII, 888 p. ; 22 cm.</extent>
     </physicalDescription>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0149b.stoa001</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0149b.stoa001</identifier>
     <identifier type="stoa author-text">stoa0149b-stoa001</identifier>
     <note type="statement of responsibility">Hilarius Pictaviensis.</note>
     <note></note>

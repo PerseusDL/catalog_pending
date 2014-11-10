@@ -95,7 +95,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa001</identifier>
         <identifier type="stoa author-text">stoa0270-stoa001</identifier>
         <part>
             <extent unit="pages">
@@ -134,7 +134,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270.stoa002</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa002</identifier>
         <identifier type="stoa author-text">stoa0270-stoa002</identifier>
         <part>
             <extent unit="pages">
@@ -173,7 +173,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270.stoa005</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa005</identifier>
         <identifier type="stoa author-text">stoa0270-stoa005</identifier>
         <tableOfContents>Ad Eusebium (pg 138-141)--Ad Aurelium Deaconum (pg. 142-145)---Ad Bassulam
         (pg. 146-151)</tableOfContents>
@@ -214,7 +214,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270.stoa003</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa003</identifier>
         <identifier type="stoa author-text">stoa0270-stoa003</identifier>
         <part>
             <extent unit="pages">
@@ -261,7 +261,7 @@
         </language>
         <tableOfContents>I. Ad Claudiam Sororem (pg. 218-223)-II. Ad Claudiam Sororem (pg. 224-250)--III and IV. Ad Paulum (pg. 251-253)
             --V. Alia Epistula (pg.253-254) -- VI. Ad Saluium (pg. 254-256) -- VII. Alius Epistulae Initium (pg. 256)</tableOfContents>
-        <identifier type="cts-urn">urn:cts:latinLit:stoa0270p.stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270p.stoa001</identifier>
         <identifier type="stoa author-text">stoa0270p-stoa001</identifier>
         <part>
             <extent unit="pages">

@@ -66,7 +66,7 @@
     </relatedItem>
     <identifier type="oclc">615349743</identifier>
     <identifier type="stoa author-text">stoa0040-stoa003</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa003</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa003</identifier>
     <location>
         <url displayLabel="WorldCat">http://www.worldcat.org/oclc/615349743</url>
     </location>

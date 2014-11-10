@@ -40,7 +40,7 @@
   <mads:note type="source">Contro i giudei, c2008: t.p. (Pseudo Cipriano)</mads:note>
   <mads:note type="notFound">New Catholic encyclopedia, c1967</mads:note>
   <mads:identifier type="lccn">n  00050675 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0104p</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0104p</mads:identifier>
   <mads:identifier type="stoa author">stoa0104p</mads:identifier>
   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
   <mads:fieldOfActivity>Pseudo Author</mads:fieldOfActivity>

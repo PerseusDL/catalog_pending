@@ -71,7 +71,7 @@
       </mads:name>
    </mads:variant>
    <mads:identifier type="uri">http://viaf.org/viaf/34843798</mads:identifier>
-   <mads:identifier type="cts-urn"/>
+   <mads:identifier type="ctsurn"/>
    <mads:identifier type="tlg">2259</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>

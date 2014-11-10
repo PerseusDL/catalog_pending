@@ -29,7 +29,7 @@
   <mads:note type="source">nuc88-70676: His Theodosius (A.D. 530), 1971 (hdg. on NNU rept.: 
     Theodosius, pilgrim, 6th cent.; usage: Theodosius)</mads:note>
   <mads:identifier type="lccn">n  88642248 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0278a</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0278a</mads:identifier>
   <mads:identifier type="stoa author">stoa0278a</mads:identifier>
   <mads:fieldOfActivity>Pilgrim</mads:fieldOfActivity>
   <mads:fieldOfActivity>Religious Author</mads:fieldOfActivity>

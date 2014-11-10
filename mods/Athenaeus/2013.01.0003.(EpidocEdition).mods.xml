@@ -69,7 +69,7 @@
     <identifier type="oclc">49415755</identifier>
     <identifier></identifier>
     <identifier type="tlg">0008.001</identifier>
-    <identifier type="cts-urn"></identifier>
+    <identifier type="ctsurn"></identifier>
     <location>
         <url displayLabel="LC Permalink">http://lccn.loc.gov/2002554451</url>
     </location>

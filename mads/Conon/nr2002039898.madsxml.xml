@@ -54,7 +54,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="tlg">1285</mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:greekLit:tlg1285</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:greekLit:tlg1285</mads:identifier>
   <mads:identifier type="lccn">nr2002039898</mads:identifier>
   <mads:identifier type="lccn" invalid="yes">no2002097325</mads:identifier>
   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>

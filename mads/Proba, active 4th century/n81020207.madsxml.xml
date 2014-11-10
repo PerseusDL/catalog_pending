@@ -43,7 +43,7 @@
   <mads:note type="source">Green, R.P.H. Proba's Cento, its date, purpose, and reception. In Classical quarterly,
     n.s., vol. 45, no. 2 (1995): p. 551 (Proba 2 in PLRE)</mads:note>
   <mads:identifier type="lccn">n  81020207 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0234f</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0234f</mads:identifier>
   <mads:identifier type="stoa author">stoa0234f</mads:identifier>
   <mads:fieldOfActivity>Poetess</mads:fieldOfActivity>
   <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology: </mads:note>

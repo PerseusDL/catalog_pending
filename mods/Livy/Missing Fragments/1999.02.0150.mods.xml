@@ -30,7 +30,7 @@
     </language>
     <identifier type="phi">914.2</identifier>
     <identifier type="stoa author-text">stoa0179-stoa002</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi0914.phi002.perseus-eng1</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi0914.phi002.perseus-eng1</identifier>
     <part>
         <extent unit="pages">
             <start>2174</start>

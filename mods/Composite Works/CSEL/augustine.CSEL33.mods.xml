@@ -58,7 +58,7 @@
             <partNumber>33</partNumber>
         </titleInfo>
     </relatedItem>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0040.stoa001</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa001</identifier>
     <identifier type="stoa author-text">stoa0040-stoa001</identifier>
     <identifier type="oclc">13955223</identifier>
     <location>

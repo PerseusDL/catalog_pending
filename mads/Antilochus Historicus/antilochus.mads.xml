@@ -15,7 +15,7 @@
       </mads:name>
    </mads:variant>
    <mads:identifier type="uri"/>
-   <mads:identifier type="cts-urn"/>
+   <mads:identifier type="ctsurn"/>
    <mads:identifier type="tlg">tlg-antilochus</mads:identifier>
    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
    <mads:note type="source">Smith's Dictionary: "Antilochus, 2, Greek historian, who wrote an account of the Greek philosophers 

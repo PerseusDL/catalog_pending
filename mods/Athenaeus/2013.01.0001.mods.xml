@@ -68,7 +68,7 @@
     </relatedItem>
     <identifier>Perseus:text:2013.01.0001</identifier>
     <identifier type="Perseus:abo">Perseus:abo:tlg,0008,001</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0008.tlg001.perseus-grc2</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0008.tlg001.perseus-grc2</identifier>
     <identifier type="lccn">34010800</identifier>
     <identifier type="oclc">3288753</identifier>
     <identifier type="tlg">0008.001</identifier>

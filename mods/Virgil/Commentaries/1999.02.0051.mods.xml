@@ -17,7 +17,7 @@
   <identifier>Perseus:bib:oclc,24674386</identifier>
   <identifier type="phi" displayLabel="isCommentaryOn">690.3</identifier>
   <identifier>Perseus:text:1999.02.0051</identifier>
-  <identifier type="cts-urn"></identifier>
+  <identifier type="ctsurn"></identifier>
   <language>
     <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
   </language>

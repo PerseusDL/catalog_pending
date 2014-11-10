@@ -15,7 +15,7 @@
   </mads:related>
   <mads:identifier type="lccn">n  80009898 </mads:identifier>
   <mads:identifier type="lccn" invalid="yes">n  88665473 </mads:identifier>
-  <mads:identifier type="cts-urn"></mads:identifier>
+  <mads:identifier type="ctsurn"></mads:identifier>
   <mads:identifier type="stoa author">stoa0045a</mads:identifier>
   <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
   <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology: </mads:note>

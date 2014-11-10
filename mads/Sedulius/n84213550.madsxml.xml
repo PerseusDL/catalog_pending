@@ -49,7 +49,7 @@
   <mads:note type="source">The Paschal song and hymns, 2013: page 4 of cover (Sedulius was a Christian Latin poet.)</mads:note>
   <mads:identifier type="lccn">n  84213550 </mads:identifier>
   <mads:classification>PA6658.S6</mads:classification>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa0252</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa0252</mads:identifier>
   <mads:identifier type="stoa author">stoa0252</mads:identifier>
   <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
   <mads:fieldOfActivity>Religious Author</mads:fieldOfActivity>

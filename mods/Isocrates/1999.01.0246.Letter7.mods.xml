@@ -21,7 +21,7 @@
     <language>
         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <identifier type="cts-urn">urn:cts:greekLang:tlg0010.tlg026.perseus-eng1</identifier>
+    <identifier type="ctsurn">urn:cts:greekLang:tlg0010.tlg026.perseus-eng1</identifier>
     <identifier type="tlg">0010.026</identifier>
     <identifier type="Perseus:abo">Perseus:abo:tlg,0010,026</identifier>
     <identifier>Perseus:text:1999.01.0246:collection=l.:letter=7</identifier>

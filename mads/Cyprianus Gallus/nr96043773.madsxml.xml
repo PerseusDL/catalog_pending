@@ -22,7 +22,7 @@
   <mads:note type="source">RLIN, 12/5/96 (hdg.: Cyprianus Gallus)</mads:note>
   <mads:note type="source">Clavis patrum Latinorum, 1995: p. 466 (Cyprianus Gallus; floruit saec. V ineunte)</mads:note>
   <mads:identifier type="lccn">nr 96043773 </mads:identifier>
-  <mads:identifier type="cts-urn">urn:cts:latinLit:stoa104c</mads:identifier>
+  <mads:identifier type="ctsurn">urn:cts:latinLit:stoa104c</mads:identifier>
   <mads:identifier type="stoa author-text">stoa0104c</mads:identifier>
   <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
   <mads:fieldOfActivity>Religious Author</mads:fieldOfActivity>

@@ -59,7 +59,7 @@
     </relatedItem>
     <identifier type="oclc">70353359</identifier>
     <identifier type="stoa author-text">stoa0040a-stoa002</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0040a.stoa002</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0040a.stoa002</identifier>
     <location>
         <url displayLabel="WorldCat">http://www.worldcat.org/oclc/70353359</url>
     </location>
