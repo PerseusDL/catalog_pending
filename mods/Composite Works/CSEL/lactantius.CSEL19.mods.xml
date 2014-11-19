@@ -119,7 +119,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="stoa author-text">>stoa0171-stoa009</identifier>
+        <identifier type="stoa author-text">stoa0171-stoa009</identifier>
         <identifier type="ctsurn">urn:cts:latinLit:stoa0171.stoa009</identifier>
         <part>
             <extent unit="pages">
@@ -165,7 +165,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="stoa author-text">>stoa0171-stoa008</identifier>
+        <identifier type="stoa author-text">stoa0171-stoa008</identifier>
         <identifier type="ctsurn">urn:cts:latinLit:stoa0171.stoa008</identifier>
         <part>
             <extent unit="pages">
