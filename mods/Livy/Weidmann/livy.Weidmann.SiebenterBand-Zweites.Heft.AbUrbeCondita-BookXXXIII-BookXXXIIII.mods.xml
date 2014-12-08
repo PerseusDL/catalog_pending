@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>T. Livi. Ab urbe condita libri</title>
+        <partNumber>Siebenter Band</partNumber>
+        <partNumber>Zweites Heft</partNumber>
+        <partNumber>Buch XXXIII-XXXIIII</partNumber>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+        <title>Ab urbe condita libri</title>
+        <partNumber>Book XXXIII-Book XXXIIII</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+        <namePart>Livy.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n85-254987.html">
+        <namePart>Weissenborn, Wilhelm</namePart>
+        <namePart type="date">1803-1878</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n89-668613.html">
+        <namePart>Müller, H. J.</namePart>
+        <namePart type="date">1844-1912</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Berlin</placeTerm>
+        </place>
+        <publisher>Weidmann</publisher>
+        <dateIssued>1883</dateIssued>
+        <edition>Dritte Auflage</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="introduction">
+        <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+    </language>
+    <language objectPart="notes">
+        <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>iv, 201 pg.</extent>
+        <note>Introduction and notes in German</note>
+        <note>Set made up of various editions, edited by H. J. Müller</note>
+        <note type="statement of responsibility">erklärt von W. Weissenborn.</note>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>History</topic>
+    </subject>
+    <classification authority="lcc">PA6452</classification>
+    <classification authority="ddc">878.4</classification>
+    <identifier type="oclc">8207613</identifier>
+    <identifier type="phi">914.1</identifier>
+    <identifier type="stoa author-text">stoa0179-stoa001</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:phi,0914,001</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/8207613</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=d2lfAAAAMAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=ykzcnHuTg-sC&amp;printsec=titlepage#PPA191,M1</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/aburbeconditalib07livyuoft</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

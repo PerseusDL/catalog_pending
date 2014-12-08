@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <nonSort>The </nonSort>
+        <title>history of Herodotus</title>
+        <subTitle>a new English version, ed. with copious notes and appendices, illustrating the
+            history and geography of Herodotus, from the most recent sources of information; and
+            embodying the chief results, historical and ethnographical, which have been obtained in
+            the progress of cuneiform and hieroglyphical discovery </subTitle>
+        <partNumber>Vol II</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>Historiae. English.</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-86888.html">
+        <namePart>Herodotus.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n84-5926.html">
+        <namePart>Rawlinson, George</namePart>
+        <namePart type="date">1812-1902</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n82-116298.html">
+        <namePart>Rawlinson, Henry Creswicke</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <namePart type="date">1810-1895</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">joint editor.</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n87-150654.html">
+        <namePart>Wilkinson, John Gardner</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <namePart type="date">1797-1875</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">biography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <publisher>J. Murray</publisher>
+        <dateIssued>1862</dateIssued>
+        <issuance>monographic</issuance>
+        <edition>new edition</edition>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>508 p.</extent>
+    </physicalDescription>
+    <subject>
+        <geographicCode authority="marcgac">e-gr---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Greece</geographic>
+        <topic>History</topic>
+        <temporal>To 146 B.C</temporal>
+    </subject>
+    <subject authority="lcsh">
+        <topic>History, Ancient</topic>
+    </subject>
+    <classification authority="lcc">D58</classification>
+    <identifier type="oclc">4061134</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0016,001</identifier>
+    <location>
+        <url>http://worldcat.org/oclc/4061134</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=XFsGAAAAQAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/historyherodotus02hero</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"
+        >http://www.openlibrary.org/details/historyherodotus02hero</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

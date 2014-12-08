@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo>
+        <title>Opera omnia</title>
+        <partNumber>Volumen 1</partNumber>
+        <partName>De Bellis Libri I-IV</partName>
+    </titleInfo>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n50025184">
+        <namePart>Procopius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/nr2003009667">
+        <namePart>Haury, Jakob,</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1905</dateIssued>
+        <dateIssued qualifier="questionable" point="start" encoding="marc">1905</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>lxiii, 552 pg.</extent>
+    </physicalDescription>
+    <tableOfContents>De Bello Persico (pg. 4-304) -- De Bello Vandalico (pg. 307-552)</tableOfContents>
+    <note type="statement of responsibility" altRepGroup="00"/>
+    <classification authority="lcc">PA3404 .P85 1905</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <subject>
+        <topic>Byzantine Empire</topic>
+        <topic>History</topic>
+        <topic>Justinian I, 527-565.</topic>
+    </subject>
+    <subject>
+        <name>
+            <namePart>Justinian I,</namePart>
+            <namePart type="termsOfAddress">Emperor of the East,</namePart>
+            <namePart type="date">483?-565.</namePart>
+        </name>
+    </subject>
+    <subject>
+        <topic>Iran</topic>
+        <topic>History</topic>
+        <topic>To 640</topic>
+    </subject>
+    <identifier type="tlg">4029.001</identifier>
+    <identifier type="lccn">13026179</identifier>
+    <identifier type="oclc">4315000</identifier>
+    <identifier type="oca"/>
+    <location>
+        <url displayLabel="LC Permalink"/>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4315000</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=rQRgAAAAMAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101074030170</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">840313</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20040123095553.0</recordChangeDate>
+        <recordIdentifier>7298756</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.85 2013/03/07)</recordOrigin>
+    </recordInfo>
+</mods>

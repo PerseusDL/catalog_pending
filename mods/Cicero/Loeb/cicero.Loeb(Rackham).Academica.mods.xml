@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Academica</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="eng">
+        <title>On academic questions</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+        <namePart>Cicero, Marcus Tullius.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr89-5316.html">
+        <namePart>Rackham, H. (Harris)</namePart>
+        <namePart type="date">1868-1944</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <identifier type="phi">474.45</identifier>
+    <identifier type="stoa author-text">stoa0087-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0087-stoa002</identifier>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>399</start>
+            <end>659</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/denaturadeorumac00ciceuoft#page/398/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>De natura deorum; Academica</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+            <namePart>Cicero, Marcus Tullius.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr89-5316.html">
+            <namePart>Rackham, H. (Harris)</namePart>
+            <namePart type="date">1868-1944</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Harvard University</publisher>
+            <dateModified>2005</dateModified>
+            <dateIssued>1933</dateIssued>
+            <edition>Reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xix, 663 p. ; 17 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">with an English translation by H. Rackham ...</note>
+        <subject authority="lcsh">
+            <topic>Theology</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Gods, Roman</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Gods, Greek</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Knowledge, Theory of</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <classification authority="lcc">PA6156</classification>
+        <classification authority="ddc">875.4</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>The Loeb classical library</title>
+                <partNumber>268</partNumber>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>LCL 268</title>
+            </titleInfo>
+        </relatedItem>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Twenty Eight Volumes of Cicero</title>
+                <partNumber>Number 19</partNumber>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Cicero XIX</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">68571123</identifier>
+        <identifier type="isbn"> 0674992962</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/68571123</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks" note="Snippet View"
+                >http://books.google.com/books?vid=ISBN0674992962</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/denaturadeorumac00ciceuoft</url>
+        </location>
+    </relatedItem>
+</mods>

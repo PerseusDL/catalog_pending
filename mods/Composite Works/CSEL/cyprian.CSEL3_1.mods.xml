@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>S. Thasci Caecili Cypriani Opera omnia</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n80002958">
+        <namePart>Cyprian,</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n81111916">
+        <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+        <namePart type="date">1839-1907</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1868</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent/>
+    </physicalDescription>
+    <note type="statement of responsibility"/>
+    <note/>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>Early Works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Volume 3, Part I</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">869558</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/869558</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=EPESmkqOsz0C</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">
+            http://www.archive.org/stream/corpusscriptor203cypruoft</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433081640694</url>
+    </location>
+    <relatedItem type="constituent" ID="I">
+        <titleInfo>
+            <title>Ad Donatum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa001</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>16</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=156</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/n9/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="II">
+        <titleInfo>
+            <title>Quod Idola Dii non sint</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa006</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>17</start>
+                <end>31</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=176</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/16/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="III">
+        <titleInfo>
+            <title>Testimoniorum Libri Tres adversus Judaeos</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Ad Quirinum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa014</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa014</identifier>
+        <part>
+            <extent unit="pages">
+                <start>32</start>
+                <end>184</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=194</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/32/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="IV">
+        <titleInfo>
+            <title>De Disciplina et Habitu Virginum Liber</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>De Habitu Virginum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa004</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>185</start>
+                <end>205</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=358</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/184/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="V">
+        <titleInfo>
+            <title>De Unitate Ecclesiae Catholicae Liber</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa010</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa010</identifier>
+        <part>
+            <extent unit="pages">
+                <start>206</start>
+                <end>233</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=380</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/206/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="VI">
+        <titleInfo>
+            <title>De Lapsis</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa007</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa007</identifier>
+        <part>
+            <extent unit="pages">
+                <start>234</start>
+                <end>264</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=408</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/234/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="VII">
+        <titleInfo>
+            <title>De Dominica Oratione</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa015</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa015</identifier>
+        <part>
+            <extent unit="pages">
+                <start>265</start>
+                <end>294</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=438</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/264/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="VIII">
+        <titleInfo>
+            <title>De Mortalite</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa008</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa008</identifier>
+        <part>
+            <extent unit="pages">
+                <start>295</start>
+                <end>314</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=478</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/294/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="VIIII">
+        <titleInfo>
+            <title>De Exhortatione Martyrii</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Ad Fortunatum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa005</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>315</start>
+                <end>347</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=498</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/314/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="X">
+        <titleInfo>
+            <title>Ad Demetrianum</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa002</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>348</start>
+                <end>370</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=532</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/348/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="XI">
+        <titleInfo>
+            <title>De Opere et Eleemosynis</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa009</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>371</start>
+                <end>394</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=554</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/370/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="XII">
+        <titleInfo>
+            <title>De Bono Patientiae</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa003</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>394</start>
+                <end>415</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=580</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/394/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="XIII">
+        <titleInfo>
+            <title>De Zelo et Livore</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa011</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa011</identifier>
+        <part>
+            <extent unit="pages">
+                <start>416</start>
+                <end>432</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=604</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/416/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" ID="XIV">
+        <titleInfo>
+            <title>Sententiae Episcoporum</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Concilium Carthaginense</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n80002958">
+            <namePart>Cyprian,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Carthage</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n81111916">
+            <namePart>Hartel, Wilhelm August, Ritter von,</namePart>
+            <namePart type="date">1839-1907</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0104a-stoa013</identifier>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0104a.stoa013</identifier>
+        <part>
+            <extent unit="pages">
+                <start>433</start>
+                <end>461</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/nyp.33433081640694?urlappend=%3Bseq=620</url>
+        </location>
+        <location displayLabel="Open Content Alliance">
+            <url>http://www.archive.org/stream/corpusscriptor203cypruoft#page/432/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo>
+        <title>Epodon</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+        <namePart>Horace</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n79082343">
+        <namePart>Vollmer, Friedrich</namePart>
+        <namePart type="date">1867-1923</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <identifier>2008.01.0538</identifier>
+    <identifier type="phi">893.3</identifier>
+    <identifier type="stoa author-text">stoa0152-stoa005</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:phi,0893,003</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi0893.phi003.perseus-lat1</identifier>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>143</start>
+            <end>167</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a2008.01.0538</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/stream/carminah00horauoft#page/142/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Carmina</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+            <namePart>Horace</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n79082343">
+            <namePart>Vollmer, Friedrich</namePart>
+            <namePart type="date">1867-1923</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">ge</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibvs B. G. Tevbneri</publisher>
+            <dateIssued>1912</dateIssued>
+            <issuance>monographic</issuance>
+            <edition>Editio Maior</edition>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>viii, 404 p. 18 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility" altRepGroup="00"/>
+        <subject authority="lcsh">
+            <topic>Laudatory poetry, Latin</topic>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc">PA6104 .H7 1912</classification>
+        <identifier type="lccn">14006806</identifier>
+        <identifier type="oclc">1307669</identifier>
+        <identifier type="oca"/>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/14006806</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1307669</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">
+                http://books.google.com/books?id=5ppGAAAAMAAJ
+            </url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">
+                http://archive.org/details/carminah00horauoft
+            </url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015065342878</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">831209</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20010809111047.0</recordChangeDate>
+            <recordIdentifier>8704578</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.94 2014/02/21)</recordOrigin>
+        </recordInfo>
+    </relatedItem>
+</mods>

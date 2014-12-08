@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Eclogae</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-1377.html
+        ">
+        <namePart>Nemesianus, Marcus Aurelius Olympius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-82337.html">
+        <namePart>Baehrens, Emil</namePart>
+        <namePart type="date">1848-1888</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <identifier type="phi">none</identifier>
+    <identifier type="stoa author-text">stoa0209-stoa001</identifier>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>174</start>
+            <end>190</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=a9QIAAAAQAAJ&amp;pg=PA174</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Poetae latini minores</title>
+            <partNumber>Volume III</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-82337.html">
+            <namePart>Baehrens, Emil</namePart>
+            <namePart type="date">1848-1888</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1881</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>5 v. 18 cm.</extent>
+        </physicalDescription>
+        <note type="statement of
+            responsibility">Recensuit et emendavit Aemilius
+            Baehrens.</note>
+        <subject authority="lcsh">
+            <topic>Latin poetry</topic>
+        </subject>
+        <classification authority="lcc">PA6102.A2</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.r.]</title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">34017100</identifier>
+        <identifier type="oclc">3655992</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/3655992</url>
+        </location>
+        <location><url displayLabel="LC Permalink">http://lccn.loc.gov/34017100
+        </url></location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=a9QIAAAAQAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">http://hdl.handle.net/2027/njp.32101075725034</url>
+        </location>
+    </relatedItem>
+</mods>

@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sancti Aurelii Augustini Scripta contra Donatistas</title>
+        <partNumber>Opera Sectio 7, Pars 3</partNumber>
+        <partName>Liber de unico baptismo ; Breviculus collationis com Donatistis ; Contra partem Donati post gesta ;
+            Sermo ad Caesariensis ecclesiae plebem ; Gesta cum emerito Donatistarum episcopo ; Contra gaudentium Donatistarum episcopum libri II</partName>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+        <namePart>Augustine</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n82046962">
+        <namePart>Petschenig, Michael</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1910</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>xiii, 446 p. : diagr ; 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Recensuit M. Petschenig</note>
+    <note>Includes Appendix, indices.</note>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Donatists</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>Volume 53</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">642508713</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/642508713</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/details/CSEL53</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"></url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015028725318</url>
+    </location>
+    <relatedItem type="constituent" displayLabel="VII">
+        <titleInfo>
+            <title>Liber de Unico Baptismo</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa063</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa063</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>43</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=18</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n17/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VIII">
+        <titleInfo>
+            <title>Breviculus Collationis cum Donatistis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa014a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa014a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>38</start>
+                <end>93</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=56</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n69/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="VIIII">
+        <titleInfo>
+            <title>Contra Partem Donati post Gesta</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa029a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa029a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>97</start>
+                <end>162</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=112</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n155/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="X">
+        <titleInfo>
+            <title>Sermo ad Caesariensis Ecclesiae Plebem</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa077c</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa077c</identifier>
+        <part>
+            <extent unit="pages">
+                <start>164</start>
+                <end>178</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=182</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n257/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="XI">
+        <titleInfo>
+            <title>Gesta cum Emerito Donastistarum Episcopo</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa066c</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa066c</identifier>
+        <part>
+            <extent unit="pages">
+                <start>179</start>
+                <end>198</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=192</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n271/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="XII">
+        <titleInfo>
+            <title>Contra Gaudentium Donatistarum Episcopum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa025</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa025</identifier>
+        <part>
+            <extent unit="pages">
+                <start>199</start>
+                <end>278</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=216</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n301/mode/2up</url>
+        </location>
+    </relatedItem>
+    <!-- Appendix starts here -->
+    <relatedItem type="constituent" displayLabel="I">
+        <titleInfo>
+            <title>Sermo de Rusticiano subdiacono</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa077d</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa077d</identifier>
+        <part>
+            <extent unit="pages">
+                <start>279</start>
+                <end>285</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=296</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n421/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent" displayLabel="II">
+        <titleInfo>
+            <title>Libellus Adversus Fulgentium Donatistam</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-126290.html ">
+            <namePart>Augustine</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Hippo</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n82046962">
+            <namePart>Petschenig, Michael</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0040.stoa070a</identifier>
+        <identifier type="stoa author-text">stoa0040-stoa070a</identifier>
+        <part>
+            <extent unit="pages">
+                <start>289</start>
+                <end>310</end>
+            </extent>
+        </part>
+        <location displayLabel="HathiTrust"> 
+            <url>http://hdl.handle.net/2027/mdp.39015028725318?urlappend=%3Bseq=306</url>
+        </location>
+        <location displayLabel="Open Content Alliance"> 
+            <url>https://archive.org/stream/CSEL53#page/n429/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

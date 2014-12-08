@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>P. Papini Stati Silvae</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Silvae</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-108865.html
+            ">
+        <namePart>Statius, P. Papinius (Publius Papinius)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n85-810784.html">
+        <namePart>Phillimore, John Swinnerton</namePart>
+        <namePart type="date">1873-1926</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Oxonii</placeTerm>
+        </place>
+        <publisher>e typographeo Clarendoniano</publisher>
+        <dateIssued>[pref. 1917]</dateIssued>
+        <dateIssued encoding="marc">1917</dateIssued>
+        <issuance>monographic</issuance>
+        <edition>Editio altera correctior, [2nd ed.].</edition>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxiii, [166] p. ; 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit breviqve adnotatione critica instrvxit
+        Ioannes S. Phillimore; in indice nominum componendo operam dederunt Ioannes Clarke, Iacobus
+        I. Robertson, Ioannes H. Young</note>
+    <note>Pref. dated 1917.</note>
+    <note>Includes bibliographical references.</note>
+    <subject authority="lcsh">
+        <topic>Occasional verse, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>History</topic>
+        <temporal>Domitian, 81-96</temporal>
+        <topic>Poetry</topic>
+    </subject>
+    <classification authority="lcc">PA6697</classification>
+    <classification authority="ddc">871.01</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Scriptorum classicorum bibliotheca oxoniensis [from old catalog]</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">05036510</identifier>
+    <identifier type="phi">1020.2</identifier>
+    <identifier type="stoa author-text">stoa0267-stoa002</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/6615743</url>
+    </location>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/05036510</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks" note="Snippet View"
+            >http://books.google.com/books?id=a0ayIgAACAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b4636977</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">980319</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20030812175407.0</recordChangeDate>
+        <recordIdentifier>9141997</recordIdentifier>
+    </recordInfo>
+</mods>

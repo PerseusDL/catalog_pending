@@ -1,79 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-  <mods:titleInfo type="translated" lang="lat">
-    <mods:title>Washingtonii Vita</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo>
-    <mods:nonSort>A</mods:nonSort>
-    <mods:title>life of George Washington,in Latin prose</mods:title>
-  </mods:titleInfo>
-  <mods:name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32343182">
-    <mods:namePart>Glass, Francis</mods:namePart>
-    <mods:namePart type="date">1790-1824</mods:namePart>
-    <mods:role>
-      <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/no97044584">
-    <mods:namePart>Reynolds, John N.</mods:namePart>
-    <mods:role>
-      <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:typeOfResource>text</mods:typeOfResource>
-  <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm type="code" authority="marccountry">nyu</mods:placeTerm>
-    </mods:place>
-    <mods:place>
-      <mods:placeTerm type="text">New York</mods:placeTerm>
-    </mods:place>
-    <mods:publisher>Harper &amp; brothers</mods:publisher>
-    <mods:dateIssued>1842</mods:dateIssued>
-    <mods:issuance>monographic</mods:issuance>
-    <mods:edition>3rd edition</mods:edition>
-  </mods:originInfo>
-  <mods:language>
-    <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
-  </mods:language>
-  <mods:physicalDescription>
-    <mods:form authority="marcform">print</mods:form>
-    <mods:extent>1 p. l., xxiv, [25]-233 p. front. (port.) 21 cm.</mods:extent>
-  </mods:physicalDescription>
-  <mods:note type="statement of responsibility" altRepGroup="00">by Francis Glass.  Ed. by J. N. Reynolds.</mods:note>
-  <mods:note>Added t.-p. in Latin (p. [xvii])</mods:note>
-  <mods:subject authority="lcsh">
-    <mods:name type="personal">
-      <mods:namePart>Washington, George</mods:namePart>
-      <mods:namePart type="date">1732-1799</mods:namePart>
-    </mods:name>
-  </mods:subject>
-  <mods:classification authority="lcc">E312 .G54 1835</mods:classification>
-  <mods:identifier type="oclc">669193006</mods:identifier>
-  <mods:identifier type="Perseus">Perseus:text:1999.02.0129</mods:identifier>
-  <mods:identifier type="ctsurn"/>
-  <mods:identifier type="oca"/>
-  <mods:location>
-    <mods:url displayLabel="LC Permalink"/>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="WorldCat">http://www.worldcat.org/title/-/oclc/669193006</mods:url>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=ZjoFAAAAYAAJ</mods:url>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433082397229</mods:url>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0129</mods:url>
-  </mods:location>
-  <mods:recordInfo>
-    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
-    <mods:recordCreationDate encoding="marc">750926</mods:recordCreationDate>
-    <mods:recordChangeDate encoding="iso8601">20050715163756.0</mods:recordChangeDate>
-    <mods:recordIdentifier/>
-    <mods:recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.96 2014/04/22)</mods:recordOrigin>
-  </mods:recordInfo>
-</mods:mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="translated" lang="lat">
+        <title>Washingtonii Vita</title>
+    </titleInfo>
+    <titleInfo>
+        <nonSort>A</nonSort>
+        <title>life of George Washington,in Latin prose</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32343182">
+        <namePart>Glass, Francis</namePart>
+        <namePart type="date">1790-1824</namePart>
+        <role>
+            <roleTerm  authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal"  authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/no97044584">
+        <namePart>Reynolds, John N.</namePart>
+        <role>
+            <roleTerm  authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">New York</placeTerm>
+        </place>
+        <publisher>Harper &amp; brothers</publisher>
+        <dateIssued>1842</dateIssued>
+        <issuance>monographic</issuance>
+        <edition>3rd edition</edition>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1 p. l., xxiv, [25]-233 p. front. (port.) 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">by Francis Glass.  Ed. by J. N. Reynolds.</note>
+    <note>Added t.-p. in Latin (p. [xvii])</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Washington, George</namePart>
+            <namePart type="date">1732-1799</namePart>
+        </name>
+    </subject>
+    <classification authority="lcc">E312 .G54 1835</classification>
+    <identifier type="oclc">669193006</identifier>
+    <identifier type="Perseus">Perseus:text:1999.02.0129</identifier>
+    <identifier type="ctsurn"></identifier>
+    <identifier type="oca"></identifier>
+    <location><url displayLabel="LC Permalink"></url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/title/-/oclc/669193006</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=ZjoFAAAAYAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433082397229</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0129</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">750926</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20050715163756.0</recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/04/22)</recordOrigin>
+    </recordInfo>
+</mods>

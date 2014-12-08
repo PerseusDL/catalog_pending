@@ -1,73 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
-  <mods:titleInfo>
-    <mods:title>Elegy and iambus</mods:title>
-    <mods:partNumber>Volume 2</mods:partNumber>
-  </mods:titleInfo>
-  <mods:name type="personal" usage="primary" authority="naf" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n89644933">
-    <mods:namePart>Edmonds, John Maxwell</mods:namePart>
-    <mods:role>
-      <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:typeOfResource>text</mods:typeOfResource>
-  <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
-    </mods:place>
-    <mods:place>
-      <mods:placeTerm type="text">London</mods:placeTerm>
-    </mods:place>
-    <mods:publisher>W. Heinemann, ltd.</mods:publisher>
-    <mods:dateIssued>1931</mods:dateIssued>
-    <mods:issuance>monographic</mods:issuance>
-  </mods:originInfo>
-  <mods:language>
-    <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
-  </mods:language>
-  <mods:physicalDescription>
-    <mods:form authority="marcform">print</mods:form>
-    <mods:extent>1 vol</mods:extent>
-    <mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
-  </mods:physicalDescription>
-  <mods:note type="statement of responsibility" altRepGroup="00"/>
-  <mods:subject authority="lcsh">
-    <mods:topic>Greek poetry</mods:topic>
-    <mods:topic>Translations into English</mods:topic>
-  </mods:subject>
-  <mods:subject authority="lcsh">
-    <mods:topic>Elegiac poetry, Greek</mods:topic>
-    <mods:genre>Translations into English</mods:genre>
-  </mods:subject>
-  <mods:subject authority="lcsh">
-    <mods:topic>Iambic poetry, Greek</mods:topic>
-    <mods:genre>Translations into English</mods:genre>
-  </mods:subject>
-  <mods:relatedItem type="series">
-    <mods:titleInfo>
-      <mods:title>Loeb classical library</mods:title>
-    </mods:titleInfo>
-  </mods:relatedItem>
-  <mods:classification authority="lcc">PA3611 .A14</mods:classification>
-  <mods:identifier type="lccn">32003143</mods:identifier>
-  <mods:identifier type="oclc">685208</mods:identifier>
-  <mods:identifier type="ctsurn"/>
-  <mods:identifier type="Perseus">Perseus:text:2008.01.0478</mods:identifier>
-  <mods:location>
-    <mods:url displayLabel="LC Permalink">http://lccn.loc.gov/32003143</mods:url>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/685208</mods:url>
-  </mods:location>
-  <mods:location>
-    <mods:url displayLabel="Perseus" note="Greek">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0478</mods:url>
-  </mods:location>
-  <mods:recordInfo>
-    <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
-    <mods:recordCreationDate encoding="marc">820601</mods:recordCreationDate>
-    <mods:recordChangeDate encoding="iso8601">20040426132956.0</mods:recordChangeDate>
-    <mods:recordIdentifier>9689421</mods:recordIdentifier>
-    <mods:recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.96 2014/04/22)</mods:recordOrigin>
-  </mods:recordInfo>
-</mods:mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Elegy and iambus</title>
+        <partNumber>Volume 2</partNumber>
+    </titleInfo>
+    <name type="personal" usage="primary" authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/n89644933">
+        <namePart>Edmonds, John Maxwell</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <publisher>W. Heinemann, ltd.</publisher>
+        <dateIssued>1931</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1 vol</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00"/>
+    <subject authority="lcsh">
+        <topic>Greek poetry</topic>
+        <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Elegiac poetry, Greek</topic>
+        <genre>Translations into English</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Iambic poetry, Greek</topic>
+        <genre>Translations into English</genre>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Loeb classical library</title>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">PA3611 .A14</classification>
+    <identifier type="lccn">32003143</identifier>
+    <identifier type="oclc">685208</identifier>
+    <identifier type="ctsurn"></identifier>
+    <identifier type="Perseus">Perseus:text:2008.01.0478</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/32003143</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/685208</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Greek"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0478</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">820601</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20040426132956.0</recordChangeDate>
+        <recordIdentifier>9689421</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/04/22)</recordOrigin>
+    </recordInfo>
+</mods>

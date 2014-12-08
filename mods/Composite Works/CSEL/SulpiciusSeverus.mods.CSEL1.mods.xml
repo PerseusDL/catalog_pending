@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Sulpicii Severi libri qui supersunt</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+        <namePart>Severus, Sulpicius</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n86825147">
+        <namePart>Halm, Karl</namePart>
+        <namePart type="date">1809-1882</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1866</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>xiv, 278 p. 23 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>Early Works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Theology</topic>
+        <topic>History</topic>
+        <topic>Early Church, ca. 30-600</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>1</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">869562</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/869562</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=CZQOAAAAQAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000957014</url>
+    </location>
+    <relatedItem type="constituent" displayLabel="I">
+        <titleInfo>
+            <title>Chronica</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+            <namePart>Severus, Sulpicius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n86825147">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0270-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>105</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA1</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=18</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Vita Sancti Martini</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+            <namePart>Severus, Sulpicius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n86825147">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa002</identifier>
+        <identifier type="stoa author-text">stoa0270-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>109</start>
+                <end>137</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA109</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=126</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistolae Tres</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+            <namePart>Severus, Sulpicius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n86825147">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa005</identifier>
+        <identifier type="stoa author-text">stoa0270-stoa005</identifier>
+        <tableOfContents>Ad Eusebium (pg 138-141)--Ad Aurelium Deaconum (pg. 142-145)---Ad Bassulam
+        (pg. 146-151)</tableOfContents>
+        <part>
+            <extent unit="pages">
+                <start>138</start>
+                <end>151</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA138</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=156</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Dialogi</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+            <namePart>Severus, Sulpicius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n86825147">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270.stoa003</identifier>
+        <identifier type="stoa author-text">stoa0270-stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>152</start>
+                <end>216</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA152</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=170</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistolae Septem</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-129029.html">
+            <namePart>Severus, Sulpicius</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
+            </role>
+        </name>
+        <name type="personal">
+            <namePart>Pseudo-Sulpicius Severus</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n86825147">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <tableOfContents>I. Ad Claudiam Sororem (pg. 218-223)-II. Ad Claudiam Sororem (pg. 224-250)--III and IV. Ad Paulum (pg. 251-253)
+            --V. Alia Epistula (pg.253-254) -- VI. Ad Saluium (pg. 254-256) -- VII. Alius Epistulae Initium (pg. 256)</tableOfContents>
+        <identifier type="ctsurn">urn:cts:latinLit:stoa0270p.stoa001</identifier>
+        <identifier type="stoa author-text">stoa0270p-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>218</start>
+                <end>256</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="GoogleBooks"
+                >http://books.google.com/books?id=CZQOAAAAQAAJ&amp;pg=PA218</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000957014?urlappend=%3Bseq=234</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

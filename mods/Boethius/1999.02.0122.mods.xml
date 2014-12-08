@@ -1,152 +1,158 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
-  <mods:titleInfo>
-    <mods:title>Consolatio philosophiae. Commentary.</mods:title>
-  </mods:titleInfo>
-  <mods:titleInfo type="uniform">
-    <mods:title>De consolatione philosophiae</mods:title>
-  </mods:titleInfo>
-  <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-29805.html">
-    <mods:namePart>Boethius</mods:namePart>
-    <mods:namePart type="date">d. 524</mods:namePart>
-    <mods:role>
-      <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-72483.html">
-    <mods:namePart>O'Donnell, James Joseph</mods:namePart>
-    <mods:namePart type="date">1950-</mods:namePart>
-    <mods:role>
-      <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
-    </mods:role>
-  </mods:name>
-  <mods:typeOfResource>text</mods:typeOfResource>
-  <mods:genre authority="marc">bibliography</mods:genre>
-  <mods:originInfo>
-    <mods:place>
-      <mods:placeTerm type="code" authority="marccountry"/>
-    </mods:place>
-    <mods:place>
-      <mods:placeTerm type="text"/>
-    </mods:place>
-    <mods:publisher/>
-    <mods:dateIssued/>
-    <mods:dateIssued encoding="marc"/>
-    <mods:issuance>monographic</mods:issuance>
-  </mods:originInfo>
-  <mods:language>
-    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
-  </mods:language>
-  <mods:physicalDescription>
-    <mods:form authority="marcform">electronic</mods:form>
-    <mods:extent/>
-  </mods:physicalDescription>
-  <mods:note type="statement of responsibility">Boethius ; [edited by] James J. O'Donnell.</mods:note>
-  <mods:subject authority="lcsh">
-    <mods:name type="personal">
-      <mods:namePart>Boethius</mods:namePart>
-      <mods:namePart type="date">d. 524</mods:namePart>
-    </mods:name>
-  </mods:subject>
-  <mods:subject authority="lcsh">
-    <mods:topic>Philosophy and religion</mods:topic>
-    <mods:topic>Early works to 1800</mods:topic>
-  </mods:subject>
-  <mods:subject authority="lcsh">
-    <mods:topic>Happiness</mods:topic>
-    <mods:topic>Early works to 1800</mods:topic>
-  </mods:subject>
-  <mods:subject authority="lcsh">
-    <mods:topic>Philosophy, Medieval</mods:topic>
-  </mods:subject>
-  <mods:classification authority="lcc">B659 .D47</mods:classification>
-  <mods:identifier type="Perseus:abo" displayLabel="isCommentaryOn">Perseus:abo:ltan,00001</mods:identifier>
-  <mods:identifier type="stoa author-text">stoa0058-stoa001</mods:identifier>
-  <mods:identifier>Perseus:text:1999.02.0122</mods:identifier>
-  <mods:location>
-    <mods:url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.02.0123</mods:url>
-  </mods:location>
-  <mods:relatedItem type="otherVersion">
-    <mods:titleInfo>
-      <mods:title>Anicii Manlii Severini Boethii philosophiae consolationis libri 5</mods:title>
-    </mods:titleInfo>
-    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-29805.html">
-      <mods:namePart>Boethius</mods:namePart>
-      <mods:namePart type="date">d. 524</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr96-34790.html">
-      <mods:namePart>Weinberger, Wilhelm,</mods:namePart>
-      <mods:namePart type="date">1866-1932</mods:namePart>
-      <mods:role>
-        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
-      </mods:role>
-    </mods:name>
-    <mods:relatedItem type="host">
-      <mods:titleInfo>
-        <mods:title>Corpus scriptorum ecclesiasticorum Latinorum</mods:title>
-        <mods:partNumber>Vol 67</mods:partNumber>
-      </mods:titleInfo>
-      <mods:name type="corporate">
-        <mods:namePart>Kaiserl. Akademie der Wissenschaften in Wien</mods:namePart>
-      </mods:name>
-      <mods:name type="corporate">
-        <mods:namePart>Akademie der Wissenschaften in Wien</mods:namePart>
-      </mods:name>
-      <mods:name type="corporate">
-        <mods:namePart>Österreichische Akademie der Wissenschaften</mods:namePart>
-      </mods:name>
-      <mods:typeOfResource>text</mods:typeOfResource>
-      <mods:genre authority="marcgt">series</mods:genre>
-      <mods:originInfo>
-        <mods:place>
-          <mods:placeTerm type="code" authority="marccountry">au</mods:placeTerm>
-        </mods:place>
-        <mods:place>
-          <mods:placeTerm type="text">Vindobonae [i.e. Vienna]</mods:placeTerm>
-        </mods:place>
-        <mods:publisher>Hoelder-Pichler-Tempsky</mods:publisher>
-        <mods:dateIssued point="start" encoding="marc">1866</mods:dateIssued>
-        <mods:dateIssued point="end" encoding="marc">9999</mods:dateIssued>
-        <mods:issuance>continuing</mods:issuance>
-        <mods:frequency>Irregular</mods:frequency>
-      </mods:originInfo>
-      <mods:language>
-        <mods:languageTerm type="code" authority="iso639-2b">lat</mods:languageTerm>
-      </mods:language>
-      <mods:physicalDescription>
-        <mods:form authority="marcform">print</mods:form>
-        <mods:extent>v. : ill. ; 24 cm.</mods:extent>
-      </mods:physicalDescription>
-      <mods:note>Imprint varies.</mods:note>
-      <mods:note>Each volume has also special t.p.</mods:note>
-      <mods:note>Description based on: Vol. 90, published in 1992.</mods:note>
-      <mods:note>Vol. 25:1 called Nova series, v. 10.</mods:note>
-      <mods:note> Issued by: Academia Litterarum Caesarae Vindobonensis, v. 1-70; by: Academia
-                Scientiarum Austriaca, v. 71- </mods:note>
-      <mods:subject authority="lcsh">
-        <mods:topic>Christian literature, Early</mods:topic>
-      </mods:subject>
-      <mods:subject authority="lcsh">
-        <mods:topic>Fathers of the church, Latin</mods:topic>
-      </mods:subject>
-      <mods:classification authority="lcc">BR60 .C6</mods:classification>
-      <mods:identifier type="lccn" invalid="yes">sn 93033191 </mods:identifier>
-      <mods:identifier type="lccn">07026284</mods:identifier>
-      <mods:recordInfo>
-        <mods:recordContentSource authority="marcorg">MnMULS</mods:recordContentSource>
-        <mods:recordCreationDate encoding="marc">750824</mods:recordCreationDate>
-        <mods:recordChangeDate encoding="iso8601">20060503093136.0</mods:recordChangeDate>
-        <mods:recordIdentifier>11134633</mods:recordIdentifier>
-      </mods:recordInfo>
-    </mods:relatedItem>
-  </mods:relatedItem>
-  <mods:recordInfo>
-    <mods:recordContentSource authority="marcorg">InU</mods:recordContentSource>
-    <mods:recordCreationDate encoding="marc">910220</mods:recordCreationDate>
-    <mods:recordChangeDate encoding="iso8601">19960503122343.0</mods:recordChangeDate>
-    <mods:recordIdentifier>3437357</mods:recordIdentifier>
-  </mods:recordInfo>
-</mods:mods>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Consolatio philosophiae. Commentary.</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>De consolatione philosophiae</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-29805.html">
+        <namePart>Boethius</namePart>
+        <namePart type="date">d. 524</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-72483.html">
+        <namePart>O'Donnell, James Joseph</namePart>
+        <namePart type="date">1950-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry"/>
+        </place>
+        <place>
+            <placeTerm type="text"/>
+        </place>
+        <publisher/>
+        <dateIssued/>
+        <dateIssued encoding="marc"/>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">electronic</form>
+        <extent/>
+    </physicalDescription>
+    <note type="statement of responsibility">Boethius ; [edited by] James J. O'Donnell.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Boethius</namePart>
+            <namePart type="date">d. 524</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Philosophy and religion</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Happiness</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Philosophy, Medieval</topic>
+    </subject>
+    <classification authority="lcc">B659 .D47</classification>
+    <identifier type="Perseus:abo" displayLabel="isCommentaryOn">Perseus:abo:ltan,00001</identifier>
+    <identifier type="stoa author-text">stoa0058-stoa001</identifier>
+    <identifier>Perseus:text:1999.02.0122</identifier>
+    <location>
+        <url displayLabel="Perseus"
+            >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.02.0123</url>
+    </location>
+    <relatedItem type="otherVersion">
+        <titleInfo>
+            <title>Anicii Manlii Severini Boethii philosophiae consolationis libri 5</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-29805.html">
+            <namePart>Boethius</namePart>
+            <namePart type="date">d. 524</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr96-34790.html">
+            <namePart>Weinberger, Wilhelm,</namePart>
+            <namePart type="date">1866-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <relatedItem type="host">
+            <titleInfo>
+                <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+                <partNumber>Vol 67</partNumber>
+            </titleInfo>
+            <name type="corporate">
+                <namePart>Kaiserl. Akademie der Wissenschaften in Wien</namePart>
+            </name>
+            <name type="corporate">
+                <namePart>Akademie der Wissenschaften in Wien</namePart>
+            </name>
+            <name type="corporate">
+                <namePart>Österreichische Akademie der Wissenschaften</namePart>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <genre authority="marcgt">series</genre>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">au</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Vindobonae [i.e. Vienna]</placeTerm>
+                </place>
+                <publisher>Hoelder-Pichler-Tempsky</publisher>
+                <dateIssued point="start" encoding="marc">1866</dateIssued>
+                <dateIssued point="end" encoding="marc">9999</dateIssued>
+                <issuance>continuing</issuance>
+                <frequency>Irregular</frequency>
+            </originInfo>
+            <language>
+                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>v. : ill. ; 24 cm.</extent>
+            </physicalDescription>
+            <note>Imprint varies.</note>
+            <note>Each volume has also special t.p.</note>
+            <note>Description based on: Vol. 90, published in 1992.</note>
+            <note>Vol. 25:1 called Nova series, v. 10.</note>
+            <note> Issued by: Academia Litterarum Caesarae Vindobonensis, v. 1-70; by: Academia
+                Scientiarum Austriaca, v. 71- </note>
+            <subject authority="lcsh">
+                <topic>Christian literature, Early</topic>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Fathers of the church, Latin</topic>
+            </subject>
+            <classification authority="lcc">BR60 .C6</classification>
+            <identifier type="lccn" invalid="yes">sn 93033191 </identifier>
+            <identifier type="lccn">07026284</identifier>
+            <recordInfo>
+                <recordContentSource authority="marcorg">MnMULS</recordContentSource>
+                <recordCreationDate encoding="marc">750824</recordCreationDate>
+                <recordChangeDate encoding="iso8601">20060503093136.0</recordChangeDate>
+                <recordIdentifier>11134633</recordIdentifier>
+            </recordInfo>
+        </relatedItem>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">InU</recordContentSource>
+        <recordCreationDate encoding="marc">910220</recordCreationDate>
+        <recordChangeDate encoding="iso8601">19960503122343.0</recordChangeDate>
+        <recordIdentifier>3437357</recordIdentifier>
+    </recordInfo>
+</mods>

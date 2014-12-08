@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo>
+        <title>Procli Diadochi Lycii Institutio physica</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-7198.html">
+        <namePart>Proclus,</namePart>
+        <namePart type="date">ca. 410-485</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/nr99005442">
+        <namePart>Ritzenfeld, Albertus</namePart>
+        <namePart type="date">1882-</namePart>
+        <role>
+            <roleTerm  authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1912</dateIssued>
+        <dateIssued encoding="marc">1912</dateIssued>
+        <issuance>monographic</issuance>        
+    </originInfo>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xvi, 78 p. diagrs. 18 cm.</extent>
+    </physicalDescription>
+    <classification authority="lcc">PA3404 .P8 1912</classification>
+    <identifier type="tlg">4036.006</identifier>
+    <identifier type="lccn">12013913</identifier>
+    <identifier type="oclc">5080690</identifier>
+    <identifier type="oca"></identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/12013913</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/5080690</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            ></url>
+    </location>
+    <location><url displayLabel="Open Library"></url></location>
+    <location>
+        <url displayLabel="HathiTrust">
+            http://hdl.handle.net/2027/mdp.39015028030024</url>
+    </location>
+    
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">841115</recordCreationDate>
+        <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+        <recordIdentifier>9635463</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.4 using MARC21slim2MODS3-4.xsl
+				(Revision 1.85 2013/03/07)</recordOrigin>
+    </recordInfo>
+</mods>

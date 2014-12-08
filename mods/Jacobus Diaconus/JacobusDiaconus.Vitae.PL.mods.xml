@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Vita Sanctae Pelagiae</title>
+        <subTitle>Meretricis</subTitle>
+    </titleInfo>
+    <name authority="Smith" type="personal">
+        <namePart>Jacobus Diaconus</namePart>
+        <displayForm>Jacobo Diacono</displayForm>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n87-146079.html">
+        <namePart>Eustochia Calafato,</namePart>
+        <namePart type="termsOfAddress">Beata,</namePart>
+        <namePart type="date">1434-1486</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+        <displayForm>Eustochio</displayForm>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier type="bhl">6605</identifier>
+    <identifier type="stoa author-text">stoa0159b-stoa001</identifier>
+    <part>
+        <extent unit="columns">
+            <start>664</start>
+            <end>672</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=TgkEbgtspaUC&amp;pg=RA3-PA664</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Vitae Patrum Sive Historiae Eremiticae Libri Decem</title>
+            <subTitle>Appendix ad Monumenta Sex Priorum Ecclesia Saeculorum</subTitle>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Vitae Patrum</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Patrologiae Latinae</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr93-18404.html">
+            <namePart>Roseweyde, Heribert</namePart>
+            <namePart type="date">1569-1629</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">fr</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Parisiis</placeTerm>
+            </place>
+            <dateIssued>1849</dateIssued>
+            <edition>Series Prima, in qua prodeunt Patres, doctores scriptoresque Ecclesiae Latinae, a Tertulliano ad Gregorium Magnum </edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>1 v.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">Vitae patrum sive historiae eremiticae libri decem 
+            auctoribus suis et nitori pristino restituti ac notationibus illustrati, opera et studio Heriberti
+            Rosweydi, ultrajectini e societate Jesu Theologi.</note>
+        <note>In double columns</note>
+        <classification authority="lcc">BR60</classification>
+        <subject authority="lcsh">
+            <topic>Hermits</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Saints</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Christian literature</topic>
+            <topic>early</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Church history</topic>
+            <temporal>Primitive and early church, ca. 30-600</temporal>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Theology</topic>
+            <temporal>Early church, ca. 30-600</temporal>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Patrologiae cursus completus</title>
+                <subTitle>sive biblioteca universalis, integra, uniformis, commoda, oeconomica, omnium SS. Patrum, doctorum
+                    scriptorumque eccelesiasticorum qui ab aevo apostolico ad usque Innocentii
+                    III tempora floruerunt ... </subTitle>
+                <partNumber>Volume 73</partNumber>
+            </titleInfo>
+            <titleInfo type="uniform">
+                <title>Patrologiae cursus completus</title>
+                <partName>Series Latina</partName>
+                <partNumber>Volume 73</partNumber>
+            </titleInfo>
+            <titleInfo type="alternative">
+                <title>Patrologiae Latinae</title>
+            </titleInfo>
+            <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+                ns2:href="http://errol.oclc.org/laf/n85-8609.html">
+                <namePart>Migne, J.-P. (Jacques Paul)</namePart>
+                <namePart type="date">1800-1875</namePart>
+                <role>
+                    <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+                </role>
+            </name>
+            <note type="statement of responsibility">Novissime Corrigente Et Recensente J.-P. Migne.</note>
+            <note>Subtitle varies.</note>
+            <note>Until 1857 issued in two series called Series prima ... a Tertulliano ad Gregorium Magnum and Series secunda ... a Gregorio Magno ad Innocentium III.</note>
+        </relatedItem>
+        <location>
+            <url displayLabel="Worldcat"
+                >http://www.worldcat.org/title/appendix-ad-monumenta-sex-priorum-ecclesiae-saeculorum/oclc/20351246</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=TgkEbgtspaUC</url>
+        </location>
+        <identifier type="oclc">20351246</identifier>
+    </relatedItem>
+</mods>

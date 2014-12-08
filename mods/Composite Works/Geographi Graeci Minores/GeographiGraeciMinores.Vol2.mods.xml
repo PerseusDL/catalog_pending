@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/mods.xsd">
+    <titleInfo>
+        <title>Geographi graeci minores</title>
+        <partNumber>Volumen Secundum</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+        <namePart>Müller, Karl</namePart>
+        <namePart type="termsOfAddress">of Paris</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Parisiis</placeTerm>
+        </place>
+        <dateIssued>1861</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent/>
+    </physicalDescription>
+    <note>Texts in Greek; translations and critical matter in Latin.</note>
+    <subject>
+        <topic>Geography, Ancient</topic>
+    </subject>
+    <subject>
+        <topic>Greek Literature</topic>
+    </subject>
+    <subject>
+        <topic>Greek geographers</topic>
+    </subject>
+    <tableOfContents>
+        v. 2. Dionysii Anaplus Bospori. Dionysii Periegesis. Avieni Paraphrasis. Prisciani Paraphrasis. 
+        Eustathii Commentarii. Anonymi Paraphrasis. Scholia in Dionysium. Nicephori Geographia. 
+        Agathe meri Geographia. Anonymi Geographia. Anonymi Geographia. Anonymi Orbis descriptio. 
+        Chrestomathia Straboniana. Pseudoplutarchi Liber de fluviis.--
+    </tableOfContents>
+    <note type="statement of responsibility" altRepGroup="00"/>
+    <classification authority="lcc">PA3401.B5 A3</classification>
+    <identifier type="lccn">unk82027447</identifier>
+    <identifier type="oclc">51397796</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/unk82027447</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/51397796</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=dDcOAAAAYAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008841069</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Lithiaca vel lithica (fragmenta)</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n84-133347.html">
+            <namePart>Dionysius,</namePart>
+            <namePart type="termsOfAddress">Periegetes</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0084.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>xxvi</start>
+                <end>xxvi</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PR26</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=36</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Bospori navigatione. Fragmenta.</title>
+        </titleInfo>
+        <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/no91013549">
+            <namePart>Dionysius,</namePart>
+            <namePart type="termsOfAddress">of Byzantium</namePart>
+            <role>
+                <roleTerm  authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0083.003</identifier>
+        <part>
+            <extent unit="pages">
+                <list>1-2</list>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA1</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=71</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Anaplus Bosporo Thracio Libri Tres</title>
+        </titleInfo>
+        <name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/no91013549">
+            <namePart>Dionysius,</namePart>
+            <namePart type="termsOfAddress">of Byzantium</namePart>
+            <role>
+                <roleTerm  authority="marcrelator" type="text">attributed author</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/n80057296">
+            <namePart>Gilles, Pierre,</namePart>
+            <namePart type="date">1490-1555</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+            <displayForm>Petri Gyllii</displayForm>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg" displayLabel="isParaphraseOf">0083.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>2</start>
+                <end>101</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA2</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=72</url>
+        </location>
+    </relatedItem>    
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Orbis descriptio</title>
+        </titleInfo>
+        <name authority="naf" type="personal" usage="primary" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n84-133347.html">
+            <namePart>Dionysius,</namePart>
+            <namePart type="termsOfAddress">Periegetes</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0084.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>103</start>
+                <end>176</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA103</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=173</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Descriptio Orbis Terrae (Periegesis)</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n82-144559.html">
+            <namePart>Avienus, Rufius Festus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0047-stoa004</identifier>
+        <identifier type="tlg" displayLabel="IsAdaptationOf">0084.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>177</start>
+                <end>189</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA177</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=247</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Periegesis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n82-249198.html">
+            <namePart>Priscian</namePart>
+            <namePart type="date">fl. ca. 500-530</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0234a-stoa009</identifier>
+        <identifier type="tlg" displayLabel="IsAdaptationOf">0084.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>190</start>
+                <end>199</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA190</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=260</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Commentarium in Dionysii periegetae orbis descriptionem</title>
+        </titleInfo>
+        <name authority="naf" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n84-111351.html">
+            <namePart>Eustathius,</namePart>
+            <namePart type="termsOfAddress">Archbishop of Thessalonica,</namePart>
+            <namePart type="date">d. ca. 1194</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">4083.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>201</start>
+                <end>407</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA201</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=271</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Dionysii periegetae orbis descriptionem</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate">
+            <namePart>Paraphrases in Dioynsium Periegetam</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">4174.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>409</start>
+                <end>425</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA409</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=481</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Scholia in Dionysii Byzantii per Bosporum navigationem (scholia vetera)</title>
+        </titleInfo>
+        <name type="corporate" authority="tlg">
+            <namePart>Scholia in Dionysium Byzantium</namePart>
+            <role>
+                <roleTerm  authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>    
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">5019.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>427</start>
+                <end>457</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA427</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=499</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Conspectus Geographiae</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Paraphrasis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n85-127284.html">
+            <namePart>Nicephorus</namePart>
+            <namePart type="termsOfAddress">Blemmydes</namePart>
+            <namePart type="date">1197-1272</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">3092.006</identifier>
+        <identifier type="tlg" displayLabel="IsParaphraseOf">0084.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>458</start>
+                <end>468</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA458</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=530</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Historiae terrae</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n85-127284.html">
+            <namePart>Nicephorus</namePart>
+            <namePart type="termsOfAddress">Blemmydes</namePart>
+            <namePart type="date">1197-1272</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">3092.007</identifier>
+        <part>
+            <extent unit="pages">
+                <start>469</start>
+                <end>470</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA469</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=541</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Geographiae informatio</title>
+        </titleInfo>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://id.loc.gov/authorities/names/no00081971">
+            <namePart>Agathemerus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0090.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>471</start>
+                <end>487</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA471</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=543</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Anonymi summaria ratio geographiae in sphaera intelligendae</title>
+        </titleInfo>
+        <name authority="tlg" script="corporate">
+            <namePart>Anonymi Geographia in Sphaera Intelligenda</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">2029.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>488</start>
+                <end>493</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA488</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=560</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Geographiae expositio compendiaria </title>
+        </titleInfo>
+        <name authority="tlg" type="corporate">
+            <namePart>Anonymi Geographiae Expositio Compendiaria</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0092.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>494</start>
+                <end>509</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA494</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=566</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="tlg"  type="corporate">
+            <namePart>Geographica Adespota</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">2030.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>509</start>
+                <end>511</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA509</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=581</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Incipit Liber Junioris Philosophi in Quo Contenitur Totius Orbis Descriptio</title>
+        </titleInfo>
+        <name authority="" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="">
+            <namePart></namePart>
+            <namePart type="termsOfAddress"></namePart>
+            <namePart type="date"></namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg"></identifier>
+        <part>
+            <extent unit="pages">
+                <start>513</start>
+                <end>528</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA513</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=585</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Geographia. Selections</title>
+            <partName>Chrestomathia</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-35710.html">
+            <namePart>Strabo.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0099.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>529</start>
+                <end>636</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA529</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=601</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Fluviis</title>
+        </titleInfo>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/"
+            valueURI="http://errol.oclc.org/laf/no2007-73438.html">
+            <namePart>Pseudo-Plutarch</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr95-8185.html">
+            <namePart>Müller, Karl</namePart>
+            <namePart type="termsOfAddress">of Paris</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="tlg">0094.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>637</start>
+                <end>665</end>
+            </extent>
+        </part>
+        <location displayLabel="GoogleBooks">
+            <url>http://books.google.com/books?id=dDcOAAAAYAAJ&amp;pg=PA637</url>
+        </location>
+        <location displayLabel="HathiTrust">
+            <url>http://hdl.handle.net/2027/mdp.39015008841069?urlappend=%3Bseq=709</url>
+        </location>
+    </relatedItem>    
+</mods>

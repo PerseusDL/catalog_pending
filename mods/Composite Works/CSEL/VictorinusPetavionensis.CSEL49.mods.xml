@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Victorini Episcopi Petavionensis Opera</title>
+    </titleInfo>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/no2006056427">
+        <namePart>Victorinus,</namePart>
+        <namePart type="termsOfAddress">Saint, Bishop of Poetovio</namePart>
+        <namePart type="date">-304?</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/nr96044308">
+        <namePart>Haussleiter, Johannes,</namePart>
+        <namePart type="date">1851-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">au</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Vindobonae</placeTerm>
+        </place>
+        <publisher>Gerold</publisher>
+        <dateIssued>1916</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>lxxiv, 194 p. illus., diagrs., facsims. 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Recensvit, commentario critico instrvxit, prolegomena
+        et indices adiecit Iohannes Havssleiter.
+        Adiectae svnt sex tabvlae lvcis ope depictae.</note>
+    <subject authority="lcsh">
+        <topic>Fathers of the church</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fathers of the church, Latin</topic>
+    </subject>
+    <classification authority="lcc">BR60 .C6</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum ecclesiasticorum Latinorum</title>
+            <partNumber>49</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">878713</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/878713</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/details/victoriniepiscop49victuoft</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Tractatus de Fabrica Mundi</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no2006056427">
+            <namePart>Victorinus,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Poetovio</namePart>
+            <namePart type="date">-304?</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96044308">
+            <namePart>Haussleiter, Johannes,</namePart>
+            <namePart type="date">1851-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">stoa0292e-stoa002</identifier>
+        <identifier type="stoa author-text">urn:cts:latinLit:stoa0292e.stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>9</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/victoriniepiscop49victuoft#page/n75/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Commentarii in Apocalypsin</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/no2006056427">
+            <namePart>Victorinus,</namePart>
+            <namePart type="termsOfAddress">Saint, Bishop of Poetovio</namePart>
+            <namePart type="date">-304?</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-124709.html
+            ">
+            <namePart>Jerome</namePart>
+            <namePart type="termsOfAddress">Saint</namePart>
+            <namePart type="date">d. 419 or 20</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">commentator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/nr96044308">
+            <namePart>Haussleiter, Johannes,</namePart>
+            <namePart type="date">1851-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="ctsurn">stoa0292e-stoa001</identifier>
+        <identifier type="stoa author-text">urn:cts:latinLit:stoa0292e.stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>10</start>
+                <end>154</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/victoriniepiscop49victuoft#page/10/mode/2up</url>
+        </location>
+    </relatedItem>    
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
