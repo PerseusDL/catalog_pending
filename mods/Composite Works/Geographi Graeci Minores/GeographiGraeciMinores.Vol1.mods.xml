@@ -222,7 +222,7 @@
                 <roleTerm authority="marcrelator" type="text">creator</roleTerm>
             </role>
         </name>
-        <!-- Already in catalog may need to add CTS-URN into authority record? Need to submit Mantis bug, had wrong
+        <!-- Already in catalog may need to add ctsurn into authority record? Need to submit Mantis bug, had wrong
         ID in spreadsheet had 0667, rather than 0067-affects the CTS URNs-Bug submitted-->
         <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
             ns2:href="http://errol.oclc.org/laf/nr95-8185.html">

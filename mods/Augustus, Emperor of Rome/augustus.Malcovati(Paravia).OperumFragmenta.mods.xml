@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Imperatoris Caesaris Augusti Operum fragmenta</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+        <namePart>Augustus</namePart>
+        <namePart type="termsOfAddress">Emperor of Rome</namePart>
+        <namePart type="date">63 B.C.-14 A.D.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+        <namePart>Malcovati, Enrica</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">it</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Aug. Tarinorum--Mediolani--Patavii</placeTerm>
+        </place>
+        <publisher>In aedibus I.B. Paraviae et sociorum</publisher>
+        <dateIssued>1922</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xl, 86 pages</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">collegit, recensuit, praefata est appendicem criticam addidit Henrica Malcovati</note>
+    <classification authority="lcc">PA6105.C6 A85</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus scriptorum Latinorum Paravianum</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn"></identifier>
+    <identifier type="oclc">635543253</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/635543253</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust"
+            >http://hdl.handle.net/2027/mdp.39015068273625</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmina</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">1221.1</identifier>
+        <tableOfContents>1. Sicilia -- 2. Epigrammatum Liber -- 3. Aiax Tragoedia -- 4. Fescennini -- 5. Drusi Elogium -- 6. Versus Graeci </tableOfContents>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>4</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=44</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistulae</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="phi">1221.4</identifier>
+        <tableOfContents>1. Ad Res Privatas Pertinentes (pg. 5-16) -- 2. Ad Res Publicas Pertinentes (pg. 16-22)</tableOfContents>
+        <part>
+            <extent unit="pages">
+                <start>5</start>
+                <end>22</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=48</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Orationes</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="phi">1221.8</identifier>
+        <part>
+            <extent unit="pages">
+                <start>23</start>
+                <end>30</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=66</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Opera Historica</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc
+            </languageTerm>
+        </language>
+        <identifier type="phi">1221.6</identifier>
+        <part>
+            <extent unit="pages">
+                <start>31</start>
+                <end>41</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=74</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Res Gestae</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Monumentum Ancyranum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">1221.7</identifier>
+        <part>
+            <extent unit="pages">
+                <start>41</start>
+                <end>52</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=84</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Res Gestae Divi Augusti</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Monumentum Ancyranum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-33006.html">
+            <namePart>Augustus</namePart>
+            <namePart type="termsOfAddress">Emperor of Rome</namePart>
+            <namePart type="date">63 B.C.-14 A.D.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/n82239184">
+            <namePart>Malcovati, Enrica</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1068.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>52</start>
+                <end>63</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015068273625?urlappend=%3Bseq=96</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OColC</recordContentSource>
+        <recordCreationDate encoding="marc">7</recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.96 2014/04/22)</recordOrigin>
+    </recordInfo>
+</mods>

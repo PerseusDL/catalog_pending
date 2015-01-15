@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo lang="eng" type="uniform">
+        <title>Poetics</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="lat">
+        <title>Poetica</title>
+    </titleInfo>
+    <titleInfo type="alternative" lang="lat">
+        <title>Ars Poetica</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+        <namePart>Aristotle.</namePart>
+        <namePart type="date">384-322</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/34712415" transliteration="rom">
+        <namePart>Abū Bishr, Mattā ibn Yūnus‏</namePart>
+        <namePart type="date">c. 940‏</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+        <displayForm>Abū Bišr Mattā ibn Yūnus</displayForm>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/61541234">
+        <namePart>Badawī, ʻAbd al-Raḥmān</namePart>
+        <namePart type="date">1917-2012</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm>ara</languageTerm>
+    </language>
+    <identifier type="tlg" displayLabel="isTranslationOf">0086.034</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0086,034</identifier>
+    <identifier type="ctsurn">urn:cts:tlg0086.tlg034.digicorpus-ara1</identifier>
+    <part>
+        <extent unit="pages">
+            <start>85</start>
+            <end>145</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Digital Corpus for Graeco-Arabic Studies">
+            http://digicorpus.net4media-typo3.de/index.php?id=15&amp;tx_digicorpus_pi3[textid]=53
+        </url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Arisṭūṭālīs: Fann al-šiʿr, maʿa l-tarǧamah al-ʿarabīyah al-qadīmah wa-šurūḥ al-Fārābī wa-Ibn Sīnā wa-Ibn Rušd</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+            <namePart>Aristotle.</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/61541234">
+            <namePart>Badawī, ʻAbd al-Raḥmān</namePart>
+            <namePart type="date">1917-2012</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">ua</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cairo</placeTerm>
+            </place>
+            <publisher>Maṭbaʿat Dār al-kutub al-miṣrīya</publisher>
+            <dateIssued>1953</dateIssued>
+            <edition/>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent/>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic/>
+            <topic/>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Dirāsāt islāmīya</title>
+                <partNumber>Volume 8</partNumber>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc"/>
+        <classification authority="ddc"/>
+        <identifier type="oclc">20047113</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/20047113</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"/>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"/>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"/>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>
