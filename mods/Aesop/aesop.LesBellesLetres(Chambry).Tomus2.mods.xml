@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Fabulae</title>
+        <partNumber>Pars Altera</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>Aesop's fables</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n81-66350.html">
+        <namePart>Aesop</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108834949">
+        <namePart>Chambry, Émile</namePart>
+        <namePart type="date">1864-1938</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>les Belles lettres</publisher>
+        <dateIssued>1926</dateIssued>
+        <edition></edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>262-569 pg.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Fables, Greek</topic>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Nouvelle collection de textes et documents</title>
+        </titleInfo>
+    </relatedItem>
+    <note>Text in Greek, introductory matter in Latin.
+        Includes index.</note>
+    <classification authority="lcc">PA3851 .A2 </classification>
+    <identifier type="lccn"></identifier>
+    <identifier type="tlg">0096.002</identifier>
+    <identifier type="oclc">15385211</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/15385211</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">
+            http://digital.slub-dresden.de/en/workview/dlf/106434/1/0/
+        </url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>

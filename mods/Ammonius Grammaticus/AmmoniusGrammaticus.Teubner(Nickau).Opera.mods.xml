@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Ammonii qvi dicitvr Liber de adfinivm vocabvlorvm differentia</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>De adfinium vocabulorum differentia</title>
+    </titleInfo>        
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41914927"> 
+        <namePart>Ammonius</namePart>
+        <namePart type="termsOfAddress">Grammaticus</namePart>
+        <namePart type="date">ca. 1./2. Jh.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36991348">
+        <namePart>Nickau, Klaus</namePart>
+        <namePart type="date">1934-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1966</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>lxxvii, 181 pages 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Edidit Klaus Nickau.</note>
+    <subject authority="lcsh">
+        <topic>Greek language</topic>
+        <topic>Synonyms and antonyms</topic>
+    </subject>
+    <classification authority="lcc">PA3404 .A3855</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            <partName>Scriptores Graeci</partName>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">67098789</identifier>
+    <identifier type="oclc">1391574</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/1391574</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id403945682</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo type="translated" lang="lat">
+            <title>De adfinium vocabulorum differentia</title>
+        </titleInfo>
+        <titleInfo lang="grc"> 
+            <title>Περὶ ὁμοίων καὶ διαφόρων λέξεων</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41914927"> 
+            <namePart>Ammonius</namePart>
+            <namePart type="termsOfAddress">Grammaticus</namePart>
+            <namePart type="date">ca. 1./2. Jh.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36991348">
+            <namePart>Nickau, Klaus</namePart>
+            <namePart type="date">1934-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0708.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>136</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/en/workview/dlf/103315/7/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De impropriis</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41914927"> 
+            <namePart>Ammonius</namePart>
+            <namePart type="termsOfAddress">Grammaticus</namePart>
+            <namePart type="date">ca. 1./2. Jh.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36991348">
+            <namePart>Nickau, Klaus</namePart>
+            <namePart type="date">1934-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0708.002</identifier>
+        <part>
+           <extent unit="pages">
+           <start>138</start>
+           <end>153</end>
+           </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"></url>
+        </location>
+    </relatedItem>    
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">810226</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130509082037.0</recordChangeDate>
+        <recordIdentifier>7548882</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

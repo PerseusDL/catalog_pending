@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Lucii Ampelii liber memorialis</title>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>Liber memorialis</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Liber memorialis</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n81-084530.html">
+        <namePart>Ampelius, Lucius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49975164">
+        <namePart>Assmann, Erwin</namePart>
+        <namePart type="date">1908-1984</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1935</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxxii, 96 p. ; 20 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">ed. Erwin Assmann.</note>
+    <note type="bibliography">Includes bibliographical references and indexes.</note>
+    <subject>
+        <geographicCode authority="marcgac">e------</geographicCode>
+        <geographicCode authority="marcgac">ff-----</geographicCode>
+        <geographicCode authority="marcgac">aw-----</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+        <topic>History, Ancient</topic>
+    </subject>
+    <classification authority="lcc">PA6206 .A2 1935</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana : [Scriptores Romani]</title>
+        </titleInfo>
+    </relatedItem>
+    <note>Hoc opusculum ad summos in philosophia honores capessendos compositum aestate a.
+        1930 ab amplissimo ordine philosophorum Gryphiensi probatum est.</note>
+    <identifier type="phi">1206.1</identifier>
+    <identifier type="stoa">stoa0024-stoa001</identifier>
+    <identifier type="oclc">2272797</identifier>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id413836371</url>
+    </location>
+    <location>
+        <url displayLabel="Worldcat">http://worldcat.org/oclc/2272797</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>

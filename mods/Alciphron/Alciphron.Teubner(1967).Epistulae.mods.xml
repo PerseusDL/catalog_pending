@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Alciphronis rhetoris Epistularum libri IV</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n85-017784.html">
+        <namePart>Alciphron</namePart>
+        <namePart type="termsOfAddress">the Sophist</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal"  authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/9937407">
+        <namePart>Schepers, Menno Anton</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Stutgardiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1905</dateIssued>
+        <dateModified>1969</dateModified>
+        <edition>Editio Stereotypis</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <note type="statement of responsibility">edidit M. A. Schepers</note>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>XXV, 225 S. : 2 Tab.</extent>
+    </physicalDescription>
+    <subject authority="lcsh"><topic>Greek prose literature</topic></subject>
+    <subject authority="lcsh"><topic>Imaginary letters</topic></subject>
+    <subject authority="lcsh"><topic>Greek letters</topic></subject>
+    <classification authority="lcc">PA3404 .A35 1969</classification>
+    <relatedItem type="series"><titleInfo><title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title></titleInfo>
+    </relatedItem>
+    <identifier type="lccn">78425198</identifier>
+    <identifier type="oclc">8993349</identifier>
+    <identifier type="tlg">0640.001</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/8993349</url>
+    </location>
+    <location><url displayLabel="SLUB">http://digital.slub-dresden.de/id413839001</url></location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

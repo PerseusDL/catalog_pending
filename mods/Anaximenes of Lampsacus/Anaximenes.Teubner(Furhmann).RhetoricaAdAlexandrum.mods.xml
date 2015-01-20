@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Ars rhetorica quae vulgo fertur Aristotelis ad Alexandrum</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Ars rhetorica</title>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>Rhetorica ad Alexandrum</title>
+    </titleInfo>
+    <titleInfo type="abbreviated" authority="lsj">
+        <title>Arist.Rh.Al.</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n84-134246.html">
+        <namePart>Anaximenes,</namePart>
+        <namePart type="termsOfAddress">of Lampsacus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108371006">
+        <namePart>Fuhrmann, Manfred</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>        
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>XLVIII, 114 S. + Beil.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Anaximenes ; edidit Manfred Fuhrmann.</note>
+    <note>Diagram "Stemma codicum" on folded leaf in pocket.</note>
+    <note type="bibliography">Includes bibliographical references.</note>
+    <note type="language">Greek text; introduction and notes in Latin.</note>
+    <subject authority="lcsh">
+        <topic>Rhetoric</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">PA3866.A6 R5 2000</classification>
+    <classification authority="ddc" edition="21">808</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">879604289</identifier>
+<location>
+    <url displayLabel="Worldcat">
+        http://www.worldcat.org/oclc/879604289
+    </url>
+</location>    
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id403946891</url>
+    </location>
+    <recordInfo>
+        <descriptionStandard></descriptionStandard>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>

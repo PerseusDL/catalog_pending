@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Ad Uxorem</title>
+   </titleInfo>
+   <titleInfo type="translated" lang="fre">
+      <title>A son épouse</title>
+   </titleInfo>
+   <name authority="naf" type="personal" usage="primary"
+      authorityURI="http://id.loc.gov/authorities/names/"
+      valueURI="http://id.loc.gov/authorities/names/n79091867">
+      <namePart>Tertullian</namePart>
+      <namePart type="date">ca. 160-ca. 230</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/85428064">
+      <namePart>Munier, Charles</namePart>
+      <namePart type="date">1922-</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+      <role>
+         <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+   </name>  
+   <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+   </language>
+   <identifier type="stoa author-text">stoa0276-stoa002</identifier>
+   <identifier type="ctsurn"></identifier>
+   <part>
+      <extent unit="pages">
+        <start>93</start>
+         <end>150</end>
+      </extent>
+   </part>
+   <location>
+      <url displayLabel="SLUB Open Philology Collection">http://digital.slub-dresden.de/en/workview/dlf/109890/9/</url>
+   </location>   
+   <relatedItem type="host">
+      <titleInfo>
+         <title>A son épouse</title>
+      </titleInfo>
+   <name authority="naf" type="personal" usage="primary"
+      authorityURI="http://id.loc.gov/authorities/names/"
+      valueURI="http://id.loc.gov/authorities/names/n79091867">
+      <namePart>Tertullian</namePart>
+      <namePart type="date">ca. 160-ca. 230</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/85428064">
+         <namePart>Munier, Charles</namePart>
+         <namePart type="date">1922-</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+         </role>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Paris</placeTerm>
+         </place>
+         <publisher>Ed. du Cerf</publisher>
+         <dateIssued>1980</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language objectPart="notes">
+         <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+      </language>
+      <language objectPart="text">
+         <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+      </language>
+      <language objectPart="text">
+         <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>210 S.</extent>
+      </physicalDescription>
+      <note type="statement of responsibility" altRepGroup="00">Tertullien ; introduction, texte critique, traduction et notes de Charles Munier.</note>
+      <note>Latin text and French translation of: Ad uxorem.</note>
+      <note>Includes indexes.</note>
+      <note type="bibliography">Bibliography: p. [195]-200.</note>
+      <subject authority="lcsh">
+         <topic>Marriage</topic>
+         <topic>Religious aspects</topic>
+         <topic>Christianity</topic>
+         <topic>Early works to 1800</topic>
+      </subject>
+      <subject authority="lcsh">
+         <topic>Marriage</topic>
+         <topic>Early works to 1800</topic>
+      </subject>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Sources chrétiennes</title>
+            <partNumber>273</partNumber>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="isbn">2204016020</identifier>
+      <identifier type="isbn">9782204016025</identifier>
+      <identifier type="lccn">80145507</identifier>
+      <identifier type="oclc">9946133</identifier>
+      <location>
+         <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9946133</url>
+      </location>
+      <location>
+         <url displayLabel="SLUB">
+            http://digital.slub-dresden.de/en/workview/dlf/109890/1/
+         </url>
+      </location>
+      <recordInfo>
+         <descriptionStandard>rakwb</descriptionStandard>
+         <recordContentSource authority="marcorg">DE-576</recordContentSource>
+         <recordCreationDate encoding="marc">850101</recordCreationDate>
+         <recordChangeDate encoding="iso8601">20141117133926.0</recordChangeDate>
+         <recordIdentifier source="DE-576">0000671733</recordIdentifier>
+         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.102 2014/08/12)</recordOrigin>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </relatedItem>
+</mods>
+
