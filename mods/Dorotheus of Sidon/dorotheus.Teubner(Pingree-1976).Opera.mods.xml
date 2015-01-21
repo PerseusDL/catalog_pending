@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Dorothei Sidonii Carmen astrologicum</title>
+        <subTitle>interpretationem Arabicam in linguam Anglicam 
+            versam una cum Dorothei fragmentis et Graecis et Latinis</subTitle>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Carmen astrologicum</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr94-28610.html">
+        <namePart>Dorotheus</namePart>
+        <namePart type="termsOfAddress">of Sidon</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/108905340">
+        <namePart>Pingree, David Edwin</namePart>
+        <namePart type="date">1933-2005</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">ge</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>BSB Teubner</publisher>
+        <dateIssued>1976</dateIssued>
+        <edition>1. Aufl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">ara</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xx, 444 p. ; 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">ed. David Pingree.</note>
+    <note type="bibliography">Includes bibliographical references and indexes.</note>
+    <subject authority="lcsh">
+        <topic>Astrology</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">BF1680 .D6712</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">77577760</identifier>
+    <identifier type="oclc">3846538</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/77577760</url>
+    </location>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/3846538</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id405387024</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmen astrologicum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr94-28610.html">
+            <namePart>Dorotheus</namePart>
+            <namePart type="termsOfAddress">of Sidon</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/108905340">
+            <namePart>Pingree, David Edwin</namePart>
+            <namePart type="date">1933-2005</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">ara</languageTerm>
+        </language>
+        <identifier type="tlg" displayLabel="isTranslationOf">1337.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>157</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/en/workview/dlf/104698/9/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmen astrologicum Fragmenta Graeca</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr94-28610.html">
+            <namePart>Dorotheus</namePart>
+            <namePart type="termsOfAddress">of Sidon</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/108905340">
+            <namePart>Pingree, David Edwin</namePart>
+            <namePart type="date">1933-2005</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1337.001</identifier>
+        <part>
+            <extent unit="pages">
+                <list>323-330, 332-427</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/en/workview/dlf/104698/167/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta e Hephaestionis Ἀποτελεσματικῶν libris hausta</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr94-28610.html">
+            <namePart>Dorotheus</namePart>
+            <namePart type="termsOfAddress">of Sidon</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/108905340">
+            <namePart>Pingree, David Edwin</namePart>
+            <namePart type="date">1933-2005</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1337.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>427</start>
+                <end>434</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/en/workview/dlf/104698/271/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta alia antiqua</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr94-28610.html">
+            <namePart>Dorotheus</namePart>
+            <namePart type="termsOfAddress">of Sidon</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/108905340">
+            <namePart>Pingree, David Edwin</namePart>
+            <namePart type="date">1933-2005</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1337.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>435</start>
+                <end>437</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/en/workview/dlf/104698/279/0//</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">780224</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20060221121055.0</recordChangeDate>
+        <recordIdentifier>3678859</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
