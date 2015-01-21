@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd"
+    version="3.4">
+    <titleInfo type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/189562219">
+        <title>De rebus bellicis</title>
+    </titleInfo>
+    <name authority="ota" type="corporate">
+        <namePart>Anonymus de Rebus Bellicis</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Oxford</placeTerm>
+        </place>
+        <publisher>University of Oxford Text Archive</publisher>
+        <dateCaptured>2000</dateCaptured>
+        <dateCreated>[198?]</dateCreated>
+        <edition>Electronic edition</edition>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>1 file : ca. 25.6 kilobytes</extent>
+    </physicalDescription>
+    <subject>
+        <geographicCode authority="marcgac">e------</geographicCode>
+        <geographicCode authority="marcgac">ff-----</geographicCode>
+        <geographicCode authority="marcgac">aw-----</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+        <titleInfo>
+            <title>De rebus bellicis</title>
+        </titleInfo>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Military engineering</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>Economic policy</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>Military policy</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>Armed Forces</topic>
+        <topic>Finance</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">DG85 .D413 1979b</classification>
+    <classification authority="ddc" edition="19">937</classification>
+    <identifier type="ota">ota0309.ota001</identifier>
+    <identifier type="cts-urn"></identifier>
+    <location>
+        <url displayLabel="OTA">http://ota.ahds.ac.uk/desc/0309</url>
+    </location>
+    <recordInfo>
+        <descriptionStandard>rda</descriptionStandard>
+        <recordContentSource authority="marcorg">Perseus</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>
