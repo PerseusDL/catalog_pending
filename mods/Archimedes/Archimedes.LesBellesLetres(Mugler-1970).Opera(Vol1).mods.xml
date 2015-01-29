@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Archimède</title>
+        <partNumber>Tome I</partNumber>
+        <subTitle>De la sphère et du cylindre. La mesure du cercle. Sur les conoïdes et les sphéroïdes.</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-104666.html">
+        <namePart>Archimedes</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/79084761">
+        <namePart>Mugler, Charles</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>Les Belles Lettres</publisher>
+        <dateIssued>1970</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">fre</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>v. illus. 21 cm.</extent>
+    </physicalDescription>
+    <tableOfContents>t. 1. De la sphère et du cylindre. La mesure du cercle. Sur les conoïdes et les sphéroïdes.</tableOfContents>
+    <note type="statement of responsibility" altRepGroup="00">Texte établi et traduit par Charles Mugler.</note>
+
+    <note type="bibliography">Includes bibliographical references.</note>
+    <subject authority="lcsh">
+        <topic>Mathematics, Greek</topic>
+    </subject>
+    <classification authority="lcc">QA31 .A6856</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Collection des universités de France</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">77511991</identifier>
+    <identifier type="oclc">663848</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/77511991</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/663848</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415009561</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Sphaera et Cylindro</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="fre">
+            <title>De la sphère et du cylindre</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-104666.html">
+            <namePart>Archimedes</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/79084761">
+            <namePart>Mugler, Charles</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0552.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>8</start>
+                <end>131</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106432/10/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Dimensio circuli</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="fre">
+            <title>La Mesure du Cercle</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-104666.html">
+            <namePart>Archimedes</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/79084761">
+            <namePart>Mugler, Charles</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0552.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>132</start>
+                <end>143</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106432/134/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De conoidibus et sphaeroidibus</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="fre">
+            <title>Sur les conoïdes et les sphéroïdes</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-104666.html">
+            <namePart>Archimedes</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/79084761">
+            <namePart>Mugler, Charles</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0552.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>152</start>
+                <end>252</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106432/141/0/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">730725</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20050723202010.0</recordChangeDate>
+        <recordIdentifier>8104060</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
