@@ -1,0 +1,530 @@
+<mx:record xmlns:mx="http://www.loc.gov/MARC21/slim" xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:v="http://viaf.org/viaf/terms#">
+<mx:leader>00000##a22.......4500</mx:leader>
+<mx:controlfield tag="001">viaf18021200</mx:controlfield>
+<mx:controlfield tag="003">OCoLC</mx:controlfield>
+<mx:controlfield tag="008">141215n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+<mx:datafield ind2=" " ind1="7" tag="024">
+<mx:subfield code="a">http://viaf.org/viaf/18021200</mx:subfield>
+<mx:subfield code="2">uri</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="040">
+<mx:subfield code="a">VIAF</mx:subfield>
+<mx:subfield code="c">VIAF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="700" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">Atheniensis</mx:subfield>
+<mx:subfield code="0">(ISNI)0000000020566192</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="700" ind2="|" ind1=" ">
+<mx:subfield code="a">Sopater le rhéteur</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="0">(BNF)12241447</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="700" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater,</mx:subfield>
+<mx:subfield code="c">Atheniensis</mx:subfield>
+<mx:subfield code="0">(RERO)vtls017926480</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="700" ind2=" " ind1="1">
+<mx:subfield code="a">Sopater le rhéteur,</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="0">(SUDOC)130909416</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="700" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros,</mx:subfield>
+<mx:subfield code="d">active 4th century</mx:subfield>
+<mx:subfield code="0">(LC)nr 89014489</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="370" ind2=" " ind1=" ">
+<mx:subfield code="a">GR</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="377" ind2=" " ind1=" ">
+<mx:subfield code="a">grc</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="375">
+<mx:subfield code="a">unknown</mx:subfield>
+<mx:subfield code="2">0</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater Atheniensis</mx:subfield>
+<mx:subfield code="d">03..-03.</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2="|" ind1=" ">
+<mx:subfield code="a">Sopater Atheniensis</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="1">
+<mx:subfield code="a">Sopater rhetor,</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater rhetor</mx:subfield>
+<mx:subfield code="d">03..-03.</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2="|" ind1=" ">
+<mx:subfield code="a">Sopater rhetor</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater,</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopater</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros,</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros,</mx:subfield>
+<mx:subfield code="c">von Athen</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="1">
+<mx:subfield code="a">Sopatros,</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros,</mx:subfield>
+<mx:subfield code="d">4th cent.</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="c">von Athen</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">03..-03.</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">4th cent</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">Redner</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">Rhetor</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">the Rhetor</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">ca. 4./5. Jh</mx:subfield>
+<mx:subfield code="c">von Athen</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2="|" ind1=" ">
+<mx:subfield code="a">Sopatros</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="1">
+<mx:subfield code="a">Sōpatros rhī́tor,</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2="|" ind1=" ">
+<mx:subfield code="a">Sōpatros rhī́tor</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Sōpatros rhī́tor</mx:subfield>
+<mx:subfield code="d">03..-03.</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2="|" ind1=" ">
+<mx:subfield code="a">Σώπατρος ῥήτωρ</mx:subfield>
+<mx:subfield code="d">03..-03..</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="400" ind2=" " ind1="0">
+<mx:subfield code="a">Σώπατρος ῥήτωρ</mx:subfield>
+<mx:subfield code="d">03..-03.</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2="0" ind1="4" tag="856">
+<mx:subfield code="u">http://viaf.org/viaf/18021200</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2="2" ind1="4" tag="856">
+<mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+<mx:subfield code="z">Dataset description</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Weissenberger, Michael</mx:subfield>
+<mx:subfield code="9">7</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Manuzio, Aldo (1450?-1515).</mx:subfield>
+<mx:subfield code="9">3</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Maggiorini, Dafne (1980-....).</mx:subfield>
+<mx:subfield code="9">3</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Hermogène de Tarse (0161?-0225?).</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Aphthonius (04..?-05..?).</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Syrianus Alexandrinus neoplatonicus (0380?-0438?).</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Hermogène de Tarse 0161?-0225?)</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Glöckner, Stephan</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Démétrios de Phalère 0350-0283 av. J.-C.)</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Denys d'Halicarnasse (0099-0001 av. J.-C.).</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="950" ind2=" " ind1=" ">
+<mx:subfield code="a">Aphthonius 04..?-05..?)</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="941" ind2=" " ind1=" ">
+<mx:subfield code="a">070</mx:subfield>
+<mx:subfield code="9">1</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="941" ind2=" " ind1=" ">
+<mx:subfield code="a">auteur</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="944" ind2=" " ind1=" ">
+<mx:subfield code="a">am</mx:subfield>
+<mx:subfield code="9">8</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="901" ind2=" " ind1=" ">
+<mx:subfield code="a">9783826041334</mx:subfield>
+<mx:subfield code="9">3</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="901" ind2=" " ind1=" ">
+<mx:subfield code="a">9788862743655</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="910" ind2=" " ind1=" ">
+<mx:subfield code="a">Diaíresis zētēmatōn</mx:subfield>
+<mx:subfield code="0">(VIAF)184599484</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">BNF</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="921" ind2=" " ind1=" ">
+<mx:subfield code="a">Königshausen &amp;#x26; Neumann</mx:subfield>
+<mx:subfield code="9">5</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="921" ind2=" " ind1=" ">
+<mx:subfield code="a">Edizioni dell'Orso</mx:subfield>
+<mx:subfield code="9">5</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+<mx:subfield code="2">ISNI</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="922" ind2=" " ind1=" ">
+<mx:subfield code="a">IT</mx:subfield>
+<mx:subfield code="9">4</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield tag="922" ind2=" " ind1=" ">
+<mx:subfield code="a">DE</mx:subfield>
+<mx:subfield code="9">3</mx:subfield>
+<mx:subfield code="2">RERO</mx:subfield>
+<mx:subfield code="2">SUDOC</mx:subfield>
+<mx:subfield code="2">LC</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">150.</mx:subfield>
+<mx:subfield code="9">4</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">151.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">152.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">153.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">154.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">155.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">156.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">157.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">158.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">159.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">160.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">161.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">162.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">163.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">164.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">165.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">166.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">167.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">168.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">169.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">170.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">171.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">172.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">173.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">174.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">175.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">176.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">177.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">178.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">179.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">180.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">181.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">182.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">183.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">184.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">185.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">186.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">187.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">188.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">189.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">190.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">191.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">192.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">193.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">194.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">195.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">196.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">197.</mx:subfield>
+<mx:subfield code="9">2</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="943">
+<mx:subfield code="a">198.</mx:subfield>
+<mx:subfield code="9">3</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="970">
+<mx:subfield code="a">300</mx:subfield>
+<mx:subfield code="b">350</mx:subfield>
+<mx:subfield code="c">flourished</mx:subfield>
+</mx:datafield>
+<mx:datafield ind2=" " ind1=" " tag="997">
+<mx:subfield code="a">300</mx:subfield>
+<mx:subfield code="b">350</mx:subfield>
+<mx:subfield code="c">flourished</mx:subfield>
+</mx:datafield>
+</mx:record>

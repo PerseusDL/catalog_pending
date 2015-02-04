@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+   version="3.5">
+   <titleInfo>
+      <title>Lettre d'Aristée à Philocrate</title>
+   </titleInfo>
+   <name  authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100002553">
+      <namePart>Aristeas</namePart>      
+      <role>
+         <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+      </role>
+   </name>
+   <name  authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/18358734">
+      <namePart>Pelletier, André</namePart>
+      <namePart type="date">1902-1985</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">fr</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Paris</placeTerm>
+      </place>
+      <publisher>Éd. du Cerf</publisher>
+      <dateIssued>1962</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+   </language>
+   <language objectPart="notes">
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>324 S. : Ill.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility" altRepGroup="00">introduction, texte critique,
+      traduction et notes, index complet des mots grecs par André Pelletier</note>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Sources chrétiennes</title>
+         <partNumber>89</partNumber>
+      </titleInfo>
+   </relatedItem>
+   <subject authority="lcsh">
+      <topic>Bible</topic>
+      <topic>Old Testament.</topic>
+      <topic>Versions</topic>
+      <topic>Septuagint</topic>
+   </subject>
+   <identifier type="tlg">1183.001</identifier>
+   <identifier type="oclc">860084</identifier>
+   <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/860084</url>
+   </location>
+   <location>
+      <url displayLabel="SLUB"
+         >http://digital.slub-dresden.de/id41711074X</url>
+   </location>
+   <recordInfo>
+      <descriptionStandard>AACR</descriptionStandard>
+      <recordContentSource authority="marcorg"></recordContentSource>
+      <recordCreationDate encoding="marc"></recordCreationDate>
+      <recordChangeDate encoding="iso8601"></recordChangeDate>
+      <recordIdentifier source="DE-576"></recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+         (Revision 1.102 2014/08/12)</recordOrigin>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>
