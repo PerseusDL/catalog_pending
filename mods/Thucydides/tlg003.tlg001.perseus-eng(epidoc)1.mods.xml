@@ -47,7 +47,7 @@
     <location xmlns="http://www.loc.gov/mods/v3">
         <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0247</url>
     </location>
-    <location>
+    <location xmlns="http://www.loc.gov/mods/v3">
         <url displayLabel="Perseids">https://github.com/PerseusDL/canonical/blob/master/CTS_XML_TEI/perseus/greekLit/tlg0003/tlg001/tlg0003.tlg001.perseus-eng4.xml</url>
     </location>
     <relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">

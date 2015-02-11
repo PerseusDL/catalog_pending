@@ -11,17 +11,17 @@
             <roleTerm authority="marcrelator" type="text">creator</roleTerm>
         </role>
     </name>
-    <name type="personal">
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/109229868">
         <namePart>Ross, W. D. (William David)</namePart>
         <namePart type="date">1877-1971</namePart>
         <role>
-            <roleTerm type="text">ed.</roleTerm>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
         </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
         <place>
-            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
         </place>
         <place>
             <placeTerm type="text">Oxonii</placeTerm>
@@ -38,8 +38,11 @@
     </language>
     <physicalDescription>
         <form authority="marcform">print</form>
-        <extent>p. cm.</extent>
+        <extent>xii, 197 pages 19 cm.</extent>
     </physicalDescription>
+    <subject>
+        <topic>Logic</topic>
+    </subject>
     <classification authority="lcc">PA3405.S8 A795</classification>
     <relatedItem type="series">
         <titleInfo>
@@ -48,12 +51,11 @@
     </relatedItem>
     <identifier type="lccn">64056562</identifier>
     <identifier type="tlg">0086.001</identifier>
-    <identifier type="oclc"></identifier>
-    <identifier type="lccn"></identifier>
+    <identifier type="oclc">4099323</identifier>
     <identifier type="oca"></identifier>
     <location><url displayLabel="LC Permalink">http://lccn.loc.gov/64056562</url></location>
     <location>
-        <url displayLabel="WorldCat"></url>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4099323</url>
     </location>
     <location>
         <url displayLabel="SLUB">http://digital.slub-dresden.de/id415676959</url>
