@@ -25,7 +25,10 @@
             >http://www.archive.org/stream/liveswithenglish03plutuoft#page/x/mode/2up</mods:url>
     </mods:location>
     <mods:location>
-        <mods:url displayLabel="Perseids" note="English"/>
+        <mods:url displayLabel="Perseids" note="English"></mods:url>
+    </mods:location>
+    <mods:location>
+        <mods:url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0055</mods:url>
     </mods:location>
     <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
         <mods:titleInfo>
