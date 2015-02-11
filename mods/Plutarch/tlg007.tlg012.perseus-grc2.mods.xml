@@ -27,6 +27,9 @@
     <mods:location>
         <mods:url displayLabel="Perseids" note="Greek"/>
     </mods:location>
+    <mods:location>
+        <mods:url displayLabel="Perseus" note="Greek">http://www.perseus.tufts.edu/hopper/text;jsessionid=EAF1B8EB5375FC30CD4D0908E4F28BB5?doc=Perseus%3atext%3a2008.01.0072</mods:url>
+    </mods:location>
     <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
         <mods:titleInfo>
             <mods:title>Plutarch's Lives</mods:title>
