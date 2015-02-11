@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Aristophanis cantica</title>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/mods/v3"
+        authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-72756.html">
+        <namePart>Aristophanes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no2004-1134.html">
+        <namePart>Schroeder, Otto</namePart>
+        <namePart type="date">1851-1937</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibvs B. G. Tevbneri</publisher>
+        <dateIssued>1930</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>103 p. 17 cm</extent>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">PA3404.A7 A2 1909</classification>
+    <identifier type="oclc">4997982</identifier>
+    <identifier type="tlg">0019.?</identifier>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id413829588</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/scriptoresmetric00westuoft#page/n315/mode/2up</url>
+    </location>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/4997982</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OColC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+        <recordOrigin/>
+    </recordInfo>
+</mods>
