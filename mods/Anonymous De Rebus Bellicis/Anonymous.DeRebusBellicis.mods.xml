@@ -64,7 +64,7 @@
     <classification authority="lcc">DG85 .D413 1979b</classification>
     <classification authority="ddc" edition="19">937</classification>
     <identifier type="ota">ota0309.ota001</identifier>
-    <identifier type="cts-urn"></identifier>
+    <identifier type="ctsurn"></identifier>
     <location>
         <url displayLabel="OTA">http://ota.ahds.ac.uk/desc/0309</url>
     </location>
