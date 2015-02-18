@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>De anima</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+        <namePart>Aristotle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/109229868">
+        <namePart>Ross, W. D. (William David)</namePart>
+        <namePart type="date">1877-1971</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Oxonii</placeTerm>
+        </place>
+        <publisher>E Typographeo Clarendoniano</publisher>
+        <dateIssued>1956</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>ix, 110 p. 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">recognovit brevique adnotatione instruxit W. D. Ross.</note>
+    <note>Text in Greek. Introductory matter in Latin.</note>
+    <classification authority="lcc">PA3405.S8 A875</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Scriptorum classicorum bibliotheca Oxoniensis</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="tlg">0086.002</identifier>
+    <identifier type="lccn">56002122</identifier>
+    <identifier type="oclc">386162</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/56002122</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/386162</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id416024572</url>
+    </location>
+       <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">970403</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20070112134953.0</recordChangeDate>
+        <recordIdentifier>10272125</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
