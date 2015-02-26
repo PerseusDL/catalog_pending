@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+        <titleInfo>
+            <title></title>  <!-- The title of the  published volume, may be different from the frequently used work title-->     
+        </titleInfo>
+    <titleInfo type="alternative"><!-- Other values for this attribute include uniform and translated. I have been using
+    alternative to add an additional work title for versions/expressions that have translated or other complicated titles-->
+        <title></title>
+    </titleInfo>
+    <name authority="" authorityURI="" type="personal" valueURI=""> <!-- For authority, use naf or VIAF; 
+        for authorityURI use http://viaf.org/viaf/ or http://id.loc.gov/authorities/names/ and then for the valueURI use the URI for
+        the individual authority record-->
+            <namePart></namePart>  <!-- The name of the creator of the work as appears in an authority list (when available) -->
+            <namePart type="termsOfAddress"></namePart> <!-- This field is not used in all authorized names   -->
+        <namePart type="date"></namePart><!-- This field is not used in all authorized names   -->
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+    <name authority="" authorityURI="" type="personal" valueURI=""><!-- Values filled in using same resources as for the author of a work -->
+        <namePart></namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm><!-- Other role frequently used is translator -->
+        </role>
+    </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry"></placeTerm><!-- The country in which the edition was published, use the MARC
+                country code list here: http://www.loc.gov/marc/countries/-->
+            </place>
+            <place>
+                <placeTerm type="text"></placeTerm><!-- Textual name for the city where the edition was published, frequently
+                the historical or Latin name in many editions (e.g. Lipsiae for many Teubners)-->
+            </place>
+            <publisher></publisher><!-- Typical values include Loeb, Teubner, Oxford, Clarendon, etc. -->
+            <dateIssued></dateIssued> <!-- Date the edition was published, there are other date elements possible, but
+            this is the one most frequently used-->
+            <edition></edition>   <!-- Typical values include numerical edition numbers, or frequently Editio Stereotypis -->
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text"> <!-- The attribute objectPart="text" is used to indicate the language of the work
+        in question typically grc (for Ancient Greek) or lat (for Latin) as well as eng (for English) translations. 
+        Other language codes can be drawn from the MARC language list available here:http://www.loc.gov/marc/languages/ -->
+            <languageTerm authority="iso639-2b" type="code"></languageTerm>
+        </language>
+        <language objectPart="notes"><!-- The attribute objectPart="notes" is one possible value, other frequently used values
+    include "preface" "introduction", etc. -->
+        <languageTerm authority="iso639-2b" type="code"></languageTerm>
+      </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent></extent><!-- A physical description of the book, page numbers, etc. Value can be filled in from 
+            Worldcat records (http://worldcat.org), but is not necessary. Many catalog records have this value already when they are downloaded-->
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic></topic>
+            <topic></topic>
+        </subject><!-- Not a required value, but subject headings can often be found in the Worldcat.org record for an edition, so can be
+    added if desired-->
+        <relatedItem type="series"><!-- Not all editions will have series, but typical values include Loeb Classical Library, Teubner, and Oxford -->
+            <titleInfo>
+                <title></title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc"></classification><!-- Typically not used if not found already in catalog record -->
+        <identifier type=""></identifier><!-- Work identifier-Choose from phi, tlg, stoa author-text -->
+    <identifier type="oclc"></identifier> <!-- The OCLC number of the Worldcat record used to assist in cataloging
+    the edition-->
+    <location>
+        <url displayLabel="WorldCat"></url><!-- A bibliographic record link-The linked data URI available for each Worldcat record, available at the bottom
+        of each record by expanding the tab "linked data"-->
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            ></url><!-- The top level URL for a digitized edition available in the Internet Archive: http://archive.org -->
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks"></url><!-- The top level URL for a digitized edition available at Google Books: http://books.google.com -->
+    </location>
+    <location><url displayLabel="HathiTrust"></url></location><!-- The permanent link to the digitized book, found in the lower left 
+        corner of digitized editions, found at http://hathitrust.org-->
+    <location><url displayLabel=""></url></location><!-- The displayLabel attribute can also be filled in with other relevant collection names if
+    other sources of a digitized edition are found-->    
+    <!-- NOTE: the relatedItem type="constituent" series of elements is only required for editions that include
+    MULTIPLE works-->
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title></title><!-- the Work Title -->
+        </titleInfo>
+        <name authority="" type="personal"><!-- Information filled in same as above -->
+            <namePart></namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="" type="personal"><!-- Information filled in same as above -->
+            <namePart></namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code"></languageTerm><!-- The language element is repeated if the work
+            is in two languages, for example include both a Greek and English element and/or a Latin and English element if cataloging
+            a Loeb volume-->
+        </language>
+        <identifier type=""></identifier><!-- Work identifier filled in same as above -->
+        <part> <!-- The pages on which a work is found -->
+            <extent unit="pages"> <!-- Another element option is extent unit="list" when a work occurs
+            over nonsimultaneous pages-->
+                <start></start>
+                <end></end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel=""></url><!-- Rather than linking to the top level URL, here you should include the URL for the 
+            beginning page of the work-->
+        </location>
+    </relatedItem>
+        <recordInfo>
+            <recordContentSource authority="marcorg"></recordContentSource>
+            <recordCreationDate encoding="marc"></recordCreationDate>
+            <recordChangeDate encoding="iso8601"></recordChangeDate>
+            <recordIdentifier></recordIdentifier>
+        </recordInfo>
+    </mods>
