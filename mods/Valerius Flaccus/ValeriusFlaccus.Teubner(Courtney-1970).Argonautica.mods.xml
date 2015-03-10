@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Argonauticon libri octo</title>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>Argonautica</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n84-216357.html">
+        <namePart>Valerius Flaccus, Gaius</namePart>
+        <namePart type="date">1st cent</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/108478616">
+        <namePart>Courtney, E. (Edward)</namePart>
+        <namePart type="date">1932-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">ge</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>BSB Teubner</publisher>
+        <dateIssued>1970</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>lviii, 192 p. 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Rec.: Edward Courtney.</note>
+    <note type="bibliography">Bibliography: p. lv-lviii.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Medea</namePart>
+            <namePart type="termsOfAddress">consort of Aegeus, King of Athens (Mythological character)</namePart>
+        </name>
+        <genre>Poetry</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Epic poetry, Latin</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Argonauts (Greek mythology)</topic>
+        <genre>Poetry</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Jason (Greek mythology)</topic>
+        <genre>Poetry</genre>
+    </subject>
+    <classification authority="lcc">PA6104 .V2 1970</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana. [Scriptores Romani]</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">72527578</identifier>
+    <identifier type="oclc">323165</identifier>
+    <identifier type="phi">1035.1</identifier>
+    <identifier type="stoa author-text">stoa0284-stoa001</identifier>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id405311133</url>
+    </location>
+    <location>
+        <url displayLabel="Worldcat">http://worldcat.org/oclc/323165</url>
+    </location>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/72527578/</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">720602</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20150203172749.0</recordChangeDate>
+        <recordIdentifier>6178879</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
