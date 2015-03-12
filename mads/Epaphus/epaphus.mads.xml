@@ -5,24 +5,25 @@
     version="2.0">
     <mads:authority xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
         <mads:name>
-            <mads:namePart>Diophantus</mads:namePart>
-            <mads:namePart type="termsOfAddress">Lacedaemonius</mads:namePart>
+            <mads:namePart>Epaphus</mads:namePart>
         </mads:name>
     </mads:authority>
-    <mads:variant type="other" lang="eng">
+    <mads:variant type="other" lang="grc">
         <mads:name>
-            <mads:namePart>Diophantus</mads:namePart>
-            <mads:namePart type="termsOfAddress">of Lacedaemon</mads:namePart>
+            <mads:namePart>Ἔπαφος</mads:namePart>
         </mads:name>
     </mads:variant>
-    <mads:note type="source">Smith's Dictionary: "Diophantus, 3,  Of Lacedaemon, is quoted by Fulgentius (Mythol. 1.1) as 
-        the author of a work on Antiquities, in fourteen books, and on the worship of the gods..."</mads:note>
-    <mads:identifier type="fhg">0397</mads:identifier>
-    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
-    <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=diophantus-bio-3</mads:url>
+    <mads:note type="source">Smith's Dictionary:  "Epaphus, is called a vir peritissimus, and seems to have written a work on Delphi, of which 
+        the seventeenth book is quoted. Servius (Serv. ad Aen. 3.89) and Macrobius (Macr. 3.6) both quote the same statement from his work..."
+    </mads:note>
+    <mads:identifier type="fhg">0405</mads:identifier>
+    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>   
+    <mads:url displayLabel="Smith">
+        http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=epaphus-bio-2
+    </mads:url>
     <mads:extension>
         <mads:description>List of related work identifiers</mads:description>
-        <identifier type="fhg">fhg0397.fhg001</identifier>
+        <identifier type="fhg">fhg0405.fhg001</identifier>
     </mads:extension>
     <mads:recordInfo>
         <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
