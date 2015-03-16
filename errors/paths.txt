@@ -1,0 +1,20 @@
+urn:cite:perseus:author.1781.1, /var/www/catalog_data/mads/PrimaryAuthors/E/Echemenes/viaf32386389.mads.xml
+
+urn:cite:perseus:author.1782.1, /var/www/catalog_data/mads/PrimaryAuthors/D/Diophantus Lacedaemonius/DiophantusL.mads.xml
+
+urn:cite:perseus:author.1783.1, /var/www/catalog_data/mads/PrimaryAuthors/E/Epaphus/epaphus.mads.xml
+
+urn:cite:perseus:author.1784.1, /var/www/catalog_data/mads/PrimaryAuthors/E/Empodus/empodus.mads.xml
+
+urn:cite:perseus:author.1785.1, /var/www/catalog_data/mads/PrimaryAuthors/E/Echephylidas/viaf29920711.mads.xml
+
+urn:cite:perseus:author.1786.1, /var/www/catalog_data/mads/PrimaryAuthors/D/Dositheus Historicus/viaf15159808.mads.xml
+
+urn:cite:perseus:author.1787.1, /var/www/catalog_data/mads/PrimaryAuthors/A/Aelius Dius/viaf69320826.mads.xml
+
+urn:cite:perseus:author.1788.1, /var/www/catalog_data/mads/PrimaryAuthors/D/Draco Atheniensis/viaf71758970.mads.xml
+
+urn:cite:perseus:author.1789.1, /var/www/catalog_data/mads/PrimaryAuthors/E/Eparchides/viaf7775009.mads.xml
+
+urn:cite:perseus:author.1790.1, /var/www/catalog_data/mads/PrimaryAuthors/D/Dosiadas Cydonius/viaf12693715.mads.xml
+
