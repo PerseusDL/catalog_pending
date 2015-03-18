@@ -54,7 +54,6 @@
   <mods:classification authority="ddc"/>
   <mods:identifier type="oclc">309968177</mods:identifier>
   <mods:identifier type="tlg">4014.001</mods:identifier>
-  <mods:identifier type="tlg" displayLabel="isCommentaryOn"/>
   <mods:location>
     <mods:url displayLabel="LC Permalink"/>
   </mods:location>

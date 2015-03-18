@@ -21,7 +21,7 @@
   <mods:language>
     <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
   </mods:language>
-  <mods:identifier type=""/>
+  <mods:identifier type="egf">egf0214.egf001</mods:identifier>
   <mods:part>
     <mods:extent unit="pages">
       <mods:start>214</mods:start>

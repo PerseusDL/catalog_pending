@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
   <mods:titleInfo>
-    <mods:title>Mensura Totius Habitae Terrae</mods:title>
+    <mods:title>De Ambitu Ponti Euxini</mods:title>
   </mods:titleInfo>
-  <mods:name authority="" type="personal" authorityURI="" valueURI="">
+  <mods:name authority="tlg" type="corporate">
     <mods:namePart>Anonymus de Ambitu</mods:namePart>
     <mods:role>
       <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
@@ -35,7 +35,7 @@
     <mods:url>http://books.google.com/books?id=MT4OAAAAYAAJ&amp;pg=PA424</mods:url>
   </mods:location>
   <mods:location displayLabel="HathiTrust">
-    <mods:url>http://hdl.handle.net/2027/mdp.39015014558442?urlappend=%3Bseq=634</mods:url>
+    <mods:url>http://hdl.handle.net/2027/mdp.39015014558442?urlappend=%3Bseq=588</mods:url>
   </mods:location>
   <mods:relatedItem type="host">
     <mods:titleInfo>

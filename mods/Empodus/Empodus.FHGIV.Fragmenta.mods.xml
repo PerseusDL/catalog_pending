@@ -35,7 +35,7 @@
       <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:identifier type="fhg">fhg404.fhg001</mods:identifier>
+  <mods:identifier type="fhg">fhg0404.fhg001</mods:identifier>
   <mods:language>
     <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
   </mods:language>

@@ -37,7 +37,7 @@
       <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:identifier type="tlg">0195.?</mods:identifier>
+  <mods:identifier type="tlg">0195.002</mods:identifier>
   <mods:language>
     <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
   </mods:language>

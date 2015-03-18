@@ -42,7 +42,8 @@
   </mods:relatedItem>
   <mods:classification authority="lcc">PA3404.A7 A2 1909</mods:classification>
   <mods:identifier type="oclc">4997982</mods:identifier>
-  <mods:identifier type="tlg">0019.?</mods:identifier>
+  <mods:identifier type="tlg">0019.030</mods:identifier><!-- This is not technically correct, there is no TLG for this "work"
+  but this is where the TLG has left off for numbering-->
   <mods:location>
     <mods:url displayLabel="SLUB">http://digital.slub-dresden.de/id413829588</mods:url>
   </mods:location>

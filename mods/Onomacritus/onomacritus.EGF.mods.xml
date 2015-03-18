@@ -20,7 +20,7 @@
     <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
   </mods:language>
   <mods:tableOfContents>Testimonia (pg. 238-240) - Fragmenta (pg. 240-242)</mods:tableOfContents>
-  <mods:identifier type=""/>
+  <mods:identifier type="egf">egf0238.egf001</mods:identifier>
   <mods:part>
     <mods:extent unit="pages">
       <mods:start>238</mods:start>
