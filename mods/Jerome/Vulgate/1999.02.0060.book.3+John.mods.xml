@@ -3,20 +3,21 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>2 Corinthians</title>
+        <title>
+            3 John</title>
     </titleInfo>
-    <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="">
-        <title>Bible. Corinthians.</title>
+    <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/178652648">
+        <title>Bible. Epistle of John, 3rd</title>
     </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book:2+Corinthians</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0031.tlg008.perseus-lat1</identifier>
-    <identifier type="tlg">0031.008</identifier>
+    <identifier>Perseus:text:1999.02.0060:book:3+John</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0031.tlg025.perseus-lat1</identifier>
+    <identifier type="tlg">0031.025</identifier>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <location>
         <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0060%3Abook%3D2+Corinthians</url>
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0060%3Abook%3D3+John</url>
     </location>    
     <relatedItem type="host">
         <titleInfo>
