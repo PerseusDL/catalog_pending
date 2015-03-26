@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Calpurnii Flacci declamationum excerpta</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n94-4812.html">
+        <namePart>Calpurnius Flaccus</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/46774392">
+        <namePart>Håkanson, Lennart</namePart>
+        <namePart type="date">1939-1987</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Stutgardiae</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1978</dateIssued>
+        <edition>1. Aufl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xix, 59 p. ; 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">ed. Lennart Håkanson.</note>
+    <note>Includes indexes.</note>
+    <note type="bibliography">Bibliography: p. [xvii].</note>
+    <classification authority="lcc">PA6271.C18 A6 1978</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana : [Scriptores Romani]</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">3519011301</identifier>
+    <identifier type="lccn">79348097</identifier>
+    <identifier type="oclc">5125336</identifier>
+    <identifier type="phi">1100.1</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi1100.phi001.opp-lat2</identifier>
+    <identifier type="stoa author-text">stoa0072-stoa001</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/79348097/mods</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/5125336</url>
+    </location> 
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id403641640</url>
+    </location>
+      <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">790521</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20140528173316.0</recordChangeDate>
+        <recordIdentifier>2762913</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

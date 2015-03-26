@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Parmenides</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+        <namePart>Plato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+        <namePart>Fowler, Harold North</namePart>
+        <namePart type="date">1859-1955</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="tlg">0059.009</identifier>
+    <identifier>Perseus:text:1999.01.0174:text=Parm.</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg009.perseus-eng1</identifier>
+    <part>
+        <text>Stephanus, Vol III</text>
+        <extent unit="pages">
+            <start>126</start>
+            <end>166</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus" note="English">
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0174%3atext%3dParm.
+        </url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Plato in twelve volumes: with an English translation</title>
+            <partName>Cratylus : Parmenides ; Greater Hippias ; Lesser Hippias</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+            <namePart>Plato</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n89-623884.html">
+            <namePart>Fowler, Harold North</namePart>
+            <namePart type="date">1859-1955</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge, Mass</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Harvard university press</publisher>
+            <publisher>W. Heinemann, ltd.</publisher>
+           <dateIssued>1926</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>viii, 479 pages ; 17 cm.</extent>
+        </physicalDescription>
+        <note>Greek and English on opposite pages.</note>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>The Loeb classical library</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">8354792</identifier>
+        <identifier type="isbn">0674991850</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/8354792</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>
