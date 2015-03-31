@@ -3,7 +3,7 @@
     xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
     version="2.0">
-    <mads:authority xmlns:ns1="http://www.w3.org/1999/xlink" ns1:type="simple">
+    <mads:authority>
         <mads:name>
             <mads:namePart></mads:namePart>
             <mads:namePart type="date"></mads:namePart><!-- Not all authorized headings will include a date element -->
