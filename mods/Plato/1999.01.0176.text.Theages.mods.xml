@@ -2,7 +2,7 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>Lysis</title>
+        <title>Theages</title>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
         ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -22,19 +22,19 @@
     <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <identifier type="tlg">0059.020</identifier>
-    <identifier>Perseus:text:1999.01.0176:text=Lysis.</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg020.perseus-eng1</identifier>
+    <identifier type="tlg">0059.017</identifier>
+    <identifier>Perseus:text:1999.01.0176:text=Theages.</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg017.perseus-eng1</identifier>
     <part xmlns="http://www.loc.gov/mods/v3">
         <text>Stephanus, Vol II</text>
         <extent unit="pages">
-            <start>203</start>
-            <end>222</end>
+            <start>121</start>
+            <end>131</end>
         </extent>
     </part>
     <location>
         <url displayLabel="Perseus" note="English">
-            http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0176%3atext%3dLysis
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0176%3atext%3dTheag.
         </url>
     </location>
     <relatedItem type="host">
@@ -88,6 +88,11 @@
             <topic>Philosophers</topic>
             <topic>Ancient</topic>
         </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb Classial Library</title>
+            </titleInfo>
+        </relatedItem>
         <classification authority="lcc"/>
         <classification authority="ddc"/>
         <identifier type="oclc">4601236</identifier>

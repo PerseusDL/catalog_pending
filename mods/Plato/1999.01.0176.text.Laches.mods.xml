@@ -40,9 +40,9 @@
     <relatedItem type="host">
         <titleInfo>
             <title>Plato</title>
-            <subTitle>with an English Translation</subTitle>
-            <partNumber>Volume 8</partNumber>
-            <partName>Charmides, Alcibiades I and II, Hipparchus, the Lovers, Theages, Minos, Epinomis</partName>
+            <subTitle>in twelve volumes</subTitle>
+            <partNumber>Volume 2</partNumber>
+            <partName>Laches ; Protagoras ; Meno ; Euthydemus</partName>
         </titleInfo>
         <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
             ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -56,12 +56,12 @@
             <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
             <namePart type="date">b. 1882</namePart>
             <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-            <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
-        </name>    
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
@@ -70,9 +70,8 @@
             <place>
                 <placeTerm type="text">Cambridge</placeTerm>
             </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1927</dateIssued>
-            <dateModified>1955</dateModified>
+            <publisher>W. Heinemann; Harvard University</publisher>
+            <dateIssued>1967</dateIssued>
             <edition>Reprint</edition>
             <issuance>monographic</issuance>
         </originInfo>
@@ -81,21 +80,35 @@
         </language>
         <physicalDescription>
             <form authority="marcform">print</form>
-            <extent>xx, 489 pages ; 17 cm.</extent>
+            <extent>xxii, [507] pages ; 17 cm.</extent>
             <digitalOrigin>digitized other analog</digitalOrigin>
         </physicalDescription>
         <subject authority="lcsh">
-            <topic>Philosophers</topic>
-            <topic>Ancient</topic>
+            <topic>Philosophy</topic>
         </subject>
-        <classification authority="lcc"/>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb Classial Library</title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc">B358</classification>
         <classification authority="ddc"/>
-        <identifier type="oclc">4601236</identifier>
+        <identifier type="oclc">2294016</identifier>
+        <identifier type="lccn"/>
         <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/4601236</url>
+            <url displayLabel="LC Permalink"/>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/2294016</url>
         </location>
         <location>
             <url displayLabel="Open Content Alliance"/>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"/>
         </location>
         <recordInfo>
             <recordContentSource authority="marcorg"/>

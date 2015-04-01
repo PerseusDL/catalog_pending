@@ -2,7 +2,7 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>Theages</title>
+        <title>Lysis</title>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
         ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -22,27 +22,24 @@
     <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <identifier type="tlg">0059.017</identifier>
-    <identifier>Perseus:text:1999.01.0176:text=Theages.</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg017.perseus-eng1</identifier>
+    <identifier type="tlg">0059.020</identifier>
+    <identifier>Perseus:text:1999.01.0176:text=Lysis.</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg020.perseus-eng1</identifier>
     <part xmlns="http://www.loc.gov/mods/v3">
         <text>Stephanus, Vol II</text>
         <extent unit="pages">
-            <start>121</start>
-            <end>131</end>
+            <start>203</start>
+            <end>222</end>
         </extent>
     </part>
     <location>
         <url displayLabel="Perseus" note="English">
-            http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0176%3atext%3dTheag.
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0176%3atext%3dLysis
         </url>
     </location>
     <relatedItem type="host">
         <titleInfo>
-            <title>Plato</title>
-            <subTitle>with an English Translation</subTitle>
-            <partNumber>Volume 8</partNumber>
-            <partName>Charmides, Alcibiades I and II, Hipparchus, the Lovers, Theages, Minos, Epinomis</partName>
+            <title>Lysis ; Symposium ; Gorgias</title>
         </titleInfo>
         <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
             ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -58,44 +55,72 @@
             <role>
                 <roleTerm authority="marcrelator" type="text">editor</roleTerm>
             </role>
-            <role>
-                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-            </role>
-        </name>    
+        </name>
         <typeOfResource>text</typeOfResource>
         <originInfo>
             <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
             </place>
             <place>
-                <placeTerm type="text">Cambridge</placeTerm>
+                <placeTerm type="text">London</placeTerm>
             </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1927</dateIssued>
-            <dateModified>1955</dateModified>
-            <edition>Reprint</edition>
+            <place>
+                <placeTerm type="text">New York</placeTerm>
+            </place>
+            <publisher>W. Heinemann</publisher>
+            <publisher>G.P. Putnam</publisher>
+            <dateIssued>1925</dateIssued>
+            <edition/>
             <issuance>monographic</issuance>
         </originInfo>
-        <language objectPart="text">
+        <language>
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
         <physicalDescription>
             <form authority="marcform">print</form>
-            <extent>xx, 489 pages ; 17 cm.</extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
+            <extent>xx, 535 p. ; 17 cm.</extent>
         </physicalDescription>
+        <tableOfContents>Lysis --Symposium --
+            Gorgias.</tableOfContents>
+        <note type="language"> Greek with English translation on opposite pages.</note>
+        <note type="statement of responsiblity">Plato ; with an English translation by W.R.M. Lamb.</note>
+        <note>Issued with various printing dates.</note>
+        <note>Earlier printings have at head of t.p.: Plato with an English translation, V; later printings have: Plato in twelve volumes, III.</note>
+        <note>Imprint varies: later printings issued by Harvard University Press, Cambridge, Mass. (either alone or jointly with W. Heinemann, London).</note>
+        <note>The most recent printings lack "Plato in twelve volumes" on t.p.</note>
         <subject authority="lcsh">
-            <topic>Philosophers</topic>
-            <topic>Ancient</topic>
+            <topic/>
+            <topic/>
         </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb classical library</title>
+                <partNumber>166</partNumber>
+            </titleInfo>
+        </relatedItem>
         <classification authority="lcc"/>
         <classification authority="ddc"/>
-        <identifier type="oclc">4601236</identifier>
+        <identifier type="oclc">741139041</identifier>
+        <identifier type="phi"/>
+        <identifier type="tlg"/>
+        <identifier type="stoa author-text"/>
         <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/4601236</url>
+            <url displayLabel="LC Permalink"/>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/741139041</url>
         </location>
         <location>
             <url displayLabel="Open Content Alliance"/>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"/>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"/>
         </location>
         <recordInfo>
             <recordContentSource authority="marcorg"/>

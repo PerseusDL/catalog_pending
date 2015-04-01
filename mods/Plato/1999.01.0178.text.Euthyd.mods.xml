@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Euthydemus</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+        <namePart>Plato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n88635997">
+        <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+        <namePart type="date">b. 1882</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier>Perseus:text:1999.01.0178:text=Euthyd.</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg021.perseus-eng1</identifier>
+    <identifier type="tlg">0059.021</identifier>
+    <part xmlns="http://www.loc.gov/mods/v3">
+        <text>Stephanus, Vol I</text>
+        <extent unit="pages">
+            <start>271</start>
+            <end>307</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0178%3atext%3dEuthyd.</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Plato</title>
+            <subTitle>in twelve volumes</subTitle>
+            <partNumber>Volume 2</partNumber>
+            <partName>Laches ; Protagoras ; Meno ; Euthydemus</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+            <namePart>Plato</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n88635997">
+            <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+            <namePart type="date">b. 1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge</placeTerm>
+            </place>
+            <publisher>W. Heinemann; Harvard University</publisher>
+            <dateIssued>1967</dateIssued>
+            <edition>Reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxii, [507] pages ; 17 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Philosophy</topic>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb Classial Library</title>
+            </titleInfo>
+        </relatedItem>
+        <classification authority="lcc">B358</classification>
+        <classification authority="ddc"/>
+        <identifier type="oclc">2294016</identifier>
+        <identifier type="lccn"/>
+        <location>
+            <url displayLabel="LC Permalink"/>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/2294016</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"/>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"/>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+
+</mods>
