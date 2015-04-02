@@ -25,13 +25,13 @@
         </mads:name>
     </mads:variant>
     <mads:note type="source"></mads:note><!-- These note fields are used to enter information about the sources used to create the authority record and can include
-    Smith's Dictionary, Brill's New Pauly, Wikipedia, etc.-->
+Smith's Dictionary, Brill's New Pauly, Wikipedia, etc.-->
     <mads:note type="source"></mads:note>
     <mads:note type="source"></mads:note>
     <mads:identifier type=""></mads:identifier><!-- Typical values include tlg, phi and stoa, as well as LCCN for those records downloaded automatically -->
     <mads:fieldOfActivity></mads:fieldOfActivity><!-- There is no controlled list of terms used for this but typical values include Historian,
-    Rhetor, Orator, Theologian, Lyric Poet, Comic Poet, Philosopher, etc.-->
-    <mads:url displayLabel=""></mads:url><!-- typical values for displayLabel include Wikipedia, VIAF, Smith's Dictionary, Worldcat Identities,  -->
+Rhetor, Orator, Theologian, Lyric Poet, Comic Poet, Philosopher, etc.-->
+    <mads:url displayLabel=""></mads:url><!-- typical values for displayLabel include Wikipedia, VIAF, Smith's Dictionary, Worldcat Identities, -->
     <mads:recordInfo>
         <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
             <mads:languageTerm/>
