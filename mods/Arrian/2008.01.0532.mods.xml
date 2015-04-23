@@ -32,8 +32,8 @@
         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
     </language>
     <identifier>Perseus:text:2008.01.0532</identifier>
-    <identifier type="ctsurn">0074.003</identifier>
-    <identifier type="tlg">urn:cts:greekLit:tlg0074.tlg003.perseus-grc1</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0074.tlg003.perseus-grc1</identifier>
+    <identifier type="tlg">0074.003</identifier>
     <part>
         <extent unit="pages">
             <start>56</start>
