@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Anabasis</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-23201.html">
+        <namePart>Arrian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/116534420">
+        <namePart>Roos, A. G. (Antoon Gerard)</namePart>
+        <namePart type="date">1877-1953</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <identifier>Perseus:text:2008.01.0530</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0074.tlg001.perseus-grc1</identifier>
+    <identifier type="tlg">0074.001</identifier>
+     <part>
+        <extent unit="pages">
+            <start>1</start>
+            <end>333</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus" note="Greek">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0530</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.$b290115?urlappend=%3Bseq=6</url>
+    </location>
+    <relatedItem type="host">
+    <titleInfo>
+        <title>Flavii Arriani Opera Omnia</title>
+        <partNumber>Volumen I</partNumber>
+        <subTitle>Alexandri Anabasis Continens</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-23201.html">
+        <namePart>Arrian</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/116534420">
+        <namePart>Roos, A. G. (Antoon Gerard)</namePart>
+        <namePart type="date">1877-1953</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+       <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">xx</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>In aedibus B. G. Teubneri</publisher>
+        <dateIssued>1907</dateIssued>
+        <issuance>monographic</issuance>
+        <edition>Editio Minor</edition>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>332 p. ; 18 cm..</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <classification authority="lcc">PA3404.A94 A6</classification>
+    <classification authority="lcc">PA3935</classification>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Alexander</namePart>
+                <namePart type="termsOfAddress">the Great</namePart>
+                <namePart type="date">356 B.C.-323 B.C</namePart></name>
+        </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana. Scriptores Graeci. [from old catalog]</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">614355131</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/title/anabasis-alexandri/oclc/614355131</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=8uRGAAAAIAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.$b290115</url>
+    </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>

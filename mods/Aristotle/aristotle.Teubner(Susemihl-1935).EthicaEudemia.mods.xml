@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Aristotelis Ethica Eudemia</title>
+        <subTitle>Eudemi Rhodii ethica;  adiecto De virtutibus et vitiis libello</subTitle>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+        ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+        <namePart>Aristotle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/284656229">
+        <namePart>Eudemus</namePart>
+        <namePart type="termsOfAddress">of Rhodes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-90317.html">
+    <namePart>Susemihl, Franz</namePart>
+    <namePart type="date">1826-1901</namePart>
+    <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1935</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxxvii, 199 p ; 20 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Ethics</topic>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana. [S.g.]</title>
+        </titleInfo>
+        <titleInfo type="abbreviated">
+            <title>Teubner</title>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">PA3404.A8 E4 1935</classification>
+    <identifier type="oclc">863394234</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/863394234</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415476151</url>
+    </location>  
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ethica Eudemia</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+            <namePart>Aristotle</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-90317.html">
+            <namePart>Susemihl, Franz</namePart>
+            <namePart type="date">1826-1901</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>123</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/en/workview/dlf/106853/43/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De virtutibus et vitiis</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+            <namePart>Aristotle</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-90317.html">
+            <namePart>Susemihl, Franz</namePart>
+            <namePart type="date">1826-1901</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.045</identifier>
+        <part>
+            <extent unit="pages">
+                <start>181</start>
+                <end>194</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/en/workview/dlf/106853/224/1/</url>
+        </location>
+    </relatedItem>  
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>
