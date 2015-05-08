@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Politics</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-4182.html">
+        <namePart>Aristotle</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr89-5316.html">
+        <namePart>Rackham, H. (Harris)</namePart>
+        <namePart type="date">1868-1944</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Cambridge, Mass</placeTerm>
+        </place>
+        <publisher>Harvard University Press</publisher>
+        <dateIssued>1944</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxviii, 683 p. ; 17 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Aristotle ; with an English translation by H. Rackham.</note>
+    <note>Originally published: London : Heinemann ; New York : Putnam, 1932. Reprinted with
+        corrections.</note>
+    <note>Includes bibliographical references (p. xxviii) and indexes.</note>
+    <subject authority="lcsh">
+        <topic>Political science</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>The Loeb classical library. [Greek authors]</title>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">JC71.A41 R33 1944</classification>
+    <classification authority="ddc" edition="20">320/.01/1</classification>
+    <identifier type="oclc">29752140</identifier>
+    <identifier type="lccn">93237324</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0086.tlg035.perseus-eng1</identifier>
+    <identifier>Perseus:text:1999.01.0058</identifier>
+    <identifier type="tlg">0086.035</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0058</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/politicsrackh00arisuoft</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/29752140</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">931201</recordCreationDate>
+        <recordChangeDate encoding="iso8601">19940124093916.3</recordChangeDate>
+        <recordIdentifier>1591489</recordIdentifier>
+    </recordInfo>
+</mods>
