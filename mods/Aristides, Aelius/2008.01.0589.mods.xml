@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo type="uniform">
+        <title>Ars Rhetorica</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-30692.html">
+        <namePart>Aristides, Aelius.</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://viaf.org/viaf/41930269/">
+        <namePart>Spengel, Leonhard von</namePart>
+        <namePart type="date">1803-1880</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <identifier>Perseus:text:2008.01.0589</identifier>
+    <identifier type="tlg">0284.056</identifier>
+    <identifier type="cts-urn">urn:cts:greekLit:tlg0284.tlg056.perseus-grc1</identifier>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>459</start>
+            <end>554</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="HathiTrust"
+            >http://hdl.handle.net/2027/mdp.39015014683174?urlappend=%3Bseq=490</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Greek"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0589</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Rhetores Graeci</title>
+            <partNumber>Volume 2</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://viaf.org/viaf/41930269/">
+            <namePart>Spengel, Leonhard von</namePart>
+            <namePart type="date">1803-1880</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>sumptibus et typis B. G. Teubneri</publisher>
+            <dateIssued>1854</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <language objectPart="preface">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>1 volume</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <note type="statement of responsibility">ex recognitione Leonardi Spengel.</note>
+        <subject authority="lcsh">
+            <topic>Rhetoric, Ancient</topic>
+        </subject>
+        <classification authority="lcc">PA3403 .R5 1853</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">27009692</identifier>
+        <identifier type="oclc">61609062</identifier>
+        <identifier type="oca">rhetoresgraeci00spen</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/27009692</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/61609062</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust" note="Vol 2">http://hdl.handle.net/2027/mdp.39015014683174</url>
+        </location>
+        <location>
+            <url displayLabel="Google Books" note="Vol 2">http://books.google.com/books?id=mWcNAAAAYAAJ</url>
+        </location>
+    </relatedItem>
+</mods>
