@@ -2,7 +2,7 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
     <titleInfo>
-        <title>Philebus</title>
+        <title>Ion</title>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
         ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -11,10 +11,10 @@
             <roleTerm authority="marcrelator" type="text">creator</roleTerm>
         </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n89-623884.html">
-        <namePart>Fowler, Harold North</namePart>
-        <namePart type="date">1859-1955</namePart>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n88635997">
+        <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+        <namePart type="date">b. 1882</namePart>
         <role>
             <roleTerm authority="marcrelator" type="text">translator</roleTerm>
         </role>
@@ -22,25 +22,23 @@
     <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <identifier type="tlg">0059.010</identifier>
-    <identifier>Perseus:text:1999.01.0174:text=Phileb.</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg010.perseus-eng1</identifier>
+    <identifier type="tlg">0059.027</identifier>
+    <identifier>Perseus:text:1999.01.0180:text=Ion</identifier>
+    <identifier type="cts-urn">urn:cts:greekLang:tlg0059.tlg027.perseus-eng1</identifier>
     <part>
         <text>From Stephanus, Volume 2</text>
         <extent unit="pages">
-            <start>11</start>
-            <end>67</end>
+            <start>530</start>
+            <end>542</end>
         </extent>
     </part>
     <location>
         <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0174%3atext%3dPhileb.</url>
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0180:text=Ion</url>
     </location>
     <relatedItem type="host">
         <titleInfo>
-            <title>Plato</title>
-            <partNumber>Volume 8</partNumber>
-            <partName>The statesman, Philebus, Ion</partName>
+            <title>The statesman; Philebus; Ion</title>
         </titleInfo>
         <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
             ns2:href="http://errol.oclc.org/laf/n79-139459.html">
@@ -53,6 +51,14 @@
             ns2:href="http://errol.oclc.org/laf/n89-623884.html">
             <namePart>Fowler, Harold North</namePart>
             <namePart type="date">1859-1955</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n88635997">
+            <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+            <namePart type="date">b. 1882</namePart>
             <role>
                 <roleTerm authority="marcrelator" type="text">translator</roleTerm>
             </role>
@@ -73,12 +79,12 @@
             <edition/>
             <issuance>monographic</issuance>
         </originInfo>
-        <language>
+        <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
         </language>
         <physicalDescription>
             <form authority="marcform">print</form>
-            <extent>xx, 449 p. ; 17 cm.</extent>
+            <extent> xx, 449 p. ; 17 cm.</extent>
         </physicalDescription>
         <tableOfContents>Statesman-Philebus-Ion.</tableOfContents>
         <note type="language">
@@ -96,6 +102,12 @@
         <classification authority="lcc"/>
         <classification authority="ddc"/>
         <identifier type="oclc">4226954</identifier>
+        <identifier type="phi"/>
+        <identifier type="tlg"/>
+        <identifier type="stoa author-text"/>
+        <location>
+            <url displayLabel="LC Permalink"/>
+        </location>
         <location>
             <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4226954</url>
         </location>
