@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Iamblichi De vita Pythagorica liber</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>De vita Pythagorica</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>De vita Pythagorica liber</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/12310254">
+        <namePart>Iamblichus</namePart>
+        <namePart type="date">ca. 250-ca. 330</namePart>
+        <role>
+            <roleTerm authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/19720729">
+        <namePart>Deubner, Ludwig</namePart>
+        <namePart type="date">1877-1946</namePart>
+        <role>
+            <roleTerm authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Stutgardiae [Stuttgart]</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1937</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xliv, 158 p. ; 20 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">ed. Ludovicus Deubner</note>
+    <note type="bibliography">Includes bibliographical references and indexes.</note>
+    <subject authority="lcsh">
+        <topic>Pythagoras and Pythagorean school</topic>
+    </subject>
+    <classification authority="lcc">PA4220 .A43 1975</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">3519014459</identifier>
+    <identifier type="lccn">79408971</identifier>
+    <identifier type="tlg">2023.001</identifier>
+    <identifier type="oclc">894733821</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/79408971/</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894733821</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415481813</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">790619</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130412120223.0</recordChangeDate>
+        <recordIdentifier>2294596</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
