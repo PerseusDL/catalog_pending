@@ -4,17 +4,19 @@
     xmlns:atom="http://www.w3.org/2005/Atom"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
     <mods:titleInfo xml:lang="en" type="uniform">
-        <mods:title xmlns="http://www.loc.gov/mods/v3">Hippias</mods:title>
+        <mods:title>Patriae encomium</mods:title>
     </mods:titleInfo>
     <mods:part>
         <mods:extent unit="words">
-            <mods:total>999</mods:total>
+            <mods:total>984</mods:total>
         </mods:extent>
     </mods:part>
-    <mods:identifier>Perseus:text:2008.01.0421</mods:identifier>
-    <mods:identifier type="Perseus:abo">Perseus:abo:tlg,0062,002</mods:identifier>
-    <mods:identifier type="tlg">0062.002</mods:identifier>
-    <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0062.tlg002.perseus-grc1</mods:identifier>
+    <mods:titleInfo xmlns="http://www.loc.gov/mods/v3" type="translated" lang="lat">
+        <mods:title>Patriae Encomium</mods:title>
+    </mods:titleInfo>
+    <mods:identifier>Perseus:text:2008.01.0429</mods:identifier>
+    <mods:identifier type="tlg">0062.010</mods:identifier>
+    <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0062.tlg010.perseus-grc1</mods:identifier>
     <mods:name xmlns="http://www.loc.gov/mods/v3"
         xmlns:ns2="http://www.w3.org/1999/xlink"
         authority="naf"
@@ -41,19 +43,19 @@
     </mods:language>
     <mods:part xmlns="http://www.loc.gov/mods/v3">
         <mods:extent unit="pages">
-            <mods:start>33</mods:start>
-            <mods:end>46</mods:end>
+            <mods:start>209</mods:start>
+            <mods:end>220</mods:end>
         </mods:extent>
     </mods:part>
     <mods:location xmlns="http://www.loc.gov/mods/v3">
-        <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=pQt92b9xGogC&amp;printsec=titlepage#PPA33,M1</mods:url>
+        <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=pQt92b9xGogC&amp;printsec=titlepage#PPA209,M1</mods:url>
     </mods:location>
     <mods:location xmlns="http://www.loc.gov/mods/v3">
-        <mods:url displayLabel="Open Content Alliance">http://www.archive.org/stream/lucianha01luciuoft#page/32/mode/2up</mods:url>
+        <mods:url displayLabel="Open Content Alliance">http://www.archive.org/stream/lucianha01luciuoft#page/208/mode/2up</mods:url>
     </mods:location>
     <mods:location xmlns="http://www.loc.gov/mods/v3">
         <mods:url displayLabel="Perseus" note="Greek">
-            http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0421</mods:url>
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0429</mods:url>
     </mods:location>
     <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
         <mods:titleInfo>
@@ -147,4 +149,3 @@
         </mods:location>
     </mods:relatedItem>
 </mods:mods>
-
