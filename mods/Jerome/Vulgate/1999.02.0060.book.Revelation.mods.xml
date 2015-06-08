@@ -9,8 +9,8 @@
     <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/181843323">
         <title>Bible. Revelation.</title>
     </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book:Revelation</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0031.tlg027.perseus-lat1</identifier>
+    <identifier>Perseus:text:1999.02.0060:book=Revelation</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0031.tlg027.perseus-lat1</identifier>
     <identifier type="tlg">0031.027</identifier>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>

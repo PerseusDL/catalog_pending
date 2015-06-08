@@ -24,7 +24,7 @@
     </language>
     <identifier type="tlg">0059.033</identifier>
     <identifier>Perseus:text:1999.01.0180:text=Minos</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0059.tlg033.perseus-eng1</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0059.tlg033.perseus-eng1</identifier>
     <part xmlns="http://www.loc.gov/mods/v3">
         <text>Stephanus, Vol II</text>
         <extent unit="pages">

@@ -8,8 +8,8 @@
     <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/183875648">
         <title>Bible. Galatians.</title>
     </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book:Galatians</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0031.tlg009.perseus-lat1</identifier>
+    <identifier>Perseus:text:1999.02.0060:book=Galatians</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0031.tlg009.perseus-lat1</identifier>
     <identifier type="tlg">0031.009</identifier>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
