@@ -2,22 +2,21 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
     <titleInfo>
-        <title>
-            Hebrews</title>
+        <title>Nahum</title>
     </titleInfo>
     <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/174581762">
-        <title>Bible. Hebrews.</title>
+        valueURI="http://viaf.org/viaf/186314968/">
+        <title>Bible. Nahum.</title>
     </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book=Hebrews</identifier>
-    <identifier type="ctsurn">urn:cts:greekLit:tlg0031.tlg019.perseus-lat1</identifier>
-    <identifier type="tlg">0031.019</identifier>
+    <identifier>Perseus:text:1999.02.0060:book=Nahum</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0527.tlg042.perseus-lat1</identifier>
+    <identifier type="tlg">0527.042</identifier>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <location>
         <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0060%3Abook%3DHebrews</url>
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0060:book=Nahum</url>
     </location>
     <relatedItem type="host">
         <titleInfo>
