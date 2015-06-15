@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
         <titleInfo>
-            <title></title>  <!-- The title of the  published volume, may be different from the frequently used work title-->     
+            <title></title>  <!-- The title of the published volume, may be different from the frequently used work title-->     
         </titleInfo>
     <titleInfo type="alternative"><!-- Other values for this attribute include uniform and translated. I have been using
     alternative to add an additional work title for versions/expressions that have translated or other complicated titles-->
