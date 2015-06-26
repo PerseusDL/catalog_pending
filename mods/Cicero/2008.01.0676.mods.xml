@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3
+    http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Timaeus</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+        <namePart>Cicero, Marcus Tullius.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr92-17292.html">
+        <namePart>Mueller, C. F. W. (Carl Friedrich Wilhelm)</namePart>
+        <namePart type="date">1830-1903</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier>Perseus:text:2008.01.0676</identifier>
+    <identifier type="cts-urn">urn:cts:latinLit:phi0474.phi072.perseus-lat1</identifier>
+    <identifier type="phi">474.72</identifier>
+    <identifier type="stoa author-text">stoa0087-stoa061</identifier>
+    <part>
+        <extent unit="pages">
+            <start>214</start>
+            <end>230</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"> http://books.google.com/books?id=AWl0AAAAIAAJ&amp;pg=PA214
+        </url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="Latin"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0676</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Scripta quae manserunt omnia</title>
+            <partNumber>Partis IV, Vol III</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+            <namePart>Cicero, Marcus Tullius.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr92-17292.html">
+            <namePart>Mueller, C. F. W. (Carl Friedrich Wilhelm)</namePart>
+            <namePart type="date">1830-1903</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B.G. Teubneri</publisher>
+            <dateIssued>1900</dateIssued>
+            <edition>Editio stereotypa</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent/>
+        </physicalDescription>
+        <tableOfContents/>
+        <note type="statement of responsibility">recognovit C.F.W. Müller ...</note>
+        <classification authority="lcc">PA6279</classification>
+        <identifier type="oclc">462171669</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/462171669</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks" note="1890 printing"
+                >http://books.google.com/books?id=AWl0AAAAIAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"/>
+        </location>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana: [Scriptores
+            Romani]</title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <recordInfo>
+            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>

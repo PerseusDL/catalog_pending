@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Epinomis</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+        <namePart>Plato</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        valueURI="http://id.loc.gov/authorities/names/n88635997">
+        <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+        <namePart type="date">b. 1882</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier type="tlg">0059.035</identifier>
+    <identifier>Perseus:text:1999.01.0180:text=Epin.</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0059.tlg035.perseus-eng1</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English">
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0180:text=Epin.</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Plato</title>
+            <subTitle>with an English Translation</subTitle>
+            <partNumber>Volume 8</partNumber>
+            <partName>Charmides, Alcibiades I and II, Hipparchus, the Lovers, Theages, Minos, Epinomis</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+            <namePart>Plato</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            valueURI="http://id.loc.gov/authorities/names/n88635997">
+            <namePart>Lamb, W. R. M. (Walter Rangeley Maitland),</namePart>
+            <namePart type="date">b. 1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">mau</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Cambridge</placeTerm>
+            </place>
+            <publisher>Harvard University Press</publisher>
+            <dateIssued>1927</dateIssued>
+            <dateModified>1955</dateModified>
+            <edition>Reprint</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xx, 489 pages ; 17 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Philosophers</topic>
+            <topic>Ancient</topic>
+        </subject>
+        <classification authority="lcc"/>
+        <classification authority="ddc"/>
+        <identifier type="oclc">4601236</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/4601236</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"/>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>

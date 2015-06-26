@@ -24,7 +24,7 @@
     </language>
     <identifier>Perseus:text:2008.01.0678</identifier>
     <identifier type="stoa author-text">stoa0058-stoa001</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:stoa0058.stoa001.perseus-lat2</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:stoa0058.stoa001.perseus-lat2</identifier>
     <part>
         <extent unit="pages">
             <start>128</start>

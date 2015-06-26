@@ -8,8 +8,8 @@
     <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/174984235/">
         <title>Bible. Philippians.</title>
     </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book:Philippians</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg0031.tlg011.perseus-lat1</identifier>
+    <identifier>Perseus:text:1999.02.0060:book=Philippians</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0031.tlg011.perseus-lat1</identifier>
     <identifier type="tlg">0031.011</identifier>
     <language>
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>

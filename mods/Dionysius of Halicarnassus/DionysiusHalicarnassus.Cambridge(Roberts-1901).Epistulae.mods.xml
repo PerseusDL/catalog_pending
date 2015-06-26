@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <nonSort>The </nonSort>
+        <title>three literary letters</title>
+        <subTitle>(Ep. ad Ammaeum I, Ep. ad Pompeium, Ep. ad Ammaeum II)</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-82922.html">
+        <namePart>Dionysius</namePart>
+        <namePart type="termsOfAddress">of Halicarnassus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-49021.html">
+        <namePart>Roberts, W. Rhys (William Rhys)</namePart>
+        <namePart type="date">1858-1929</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Cambridge</placeTerm>
+        </place>
+        <publisher>University Press</publisher>
+        <dateIssued>1901</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xi p., 1 l., 232 p. front. (facsim.) 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">the Greek text edited with English translation,
+        facsimile, notes, glossary of rhetorical and grammatical terms, bibliography, and introductory essay
+        on Dionysius as a literary critic by W. Rhys Roberts ...</note>
+    <note>Includes index.</note>
+    <note>Greek and English on opposite pages.</note>
+    <note type="bibliography">"Bibliography of the Scripta rhetorica": p. [209]-219.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Dionysius</namePart>
+            <namePart type="termsOfAddress">of Halicarnassus</namePart>
+        </name>
+        <topic>Criticism and interpretation.</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Greek literature</topic>
+        <topic>History and criticism</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Rhetoric</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <classification authority="lcc">PA3966 .E6 1901</classification>
+    <identifier type="lccn">01025231</identifier>
+    <identifier type="oclc">551583844</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/01025231/</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/551583844</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">https://books.google.com/books?id=1HBiAAAAMAA</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/threeliterarylet00dionuoft</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951d006938084</url>
+    </location>
+<relatedItem type="constituent">
+    <titleInfo>
+       <title>Epsitula ad Ammaeum I</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-82922.html">
+        <namePart>Dionysius</namePart>
+        <namePart type="termsOfAddress">of Halicarnassus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n50-49021.html">
+        <namePart>Roberts, W. Rhys (William Rhys)</namePart>
+        <namePart type="date">1858-1929</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0081.008</identifier>
+    <part>
+        <extent unit="pages">
+            <start>52</start>
+            <end>85</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951d006938084?urlappend=%3Bseq=66</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance">https://archive.org/stream/threeliterarylet00dionuoft#page/50/mode/2up</url>
+    </location>
+</relatedItem>   
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistula ad Pompeium Geminum</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-82922.html">
+            <namePart>Dionysius</namePart>
+            <namePart type="termsOfAddress">of Halicarnassus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-49021.html">
+            <namePart>Roberts, W. Rhys (William Rhys)</namePart>
+            <namePart type="date">1858-1929</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0081.015</identifier>
+        <part>
+            <extent unit="pages">
+                <start>86</start>
+                <end>127</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951d006938084?urlappend=%3Bseq=102</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">https://archive.org/stream/threeliterarylet00dionuoft#page/86/mode/2up</url>
+        </location>
+    </relatedItem>    
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Thucydidis idiomatibus</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Epistula ad Ammaeum II</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-82922.html">
+            <namePart>Dionysius</namePart>
+            <namePart type="termsOfAddress">of Halicarnassus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-49021.html">
+            <namePart>Roberts, W. Rhys (William Rhys)</namePart>
+            <namePart type="date">1858-1929</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0081.011</identifier>
+        <part>
+            <extent unit="pages">
+                <start>128</start>
+                <end>158</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951d006938084?urlappend=%3Bseq=144</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">https://archive.org/stream/threeliterarylet00dionuoft#page/128/mode/2up</url>
+        </location>
+    </relatedItem>    
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">971202</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20111219094821.0</recordChangeDate>
+        <recordIdentifier>7724547</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

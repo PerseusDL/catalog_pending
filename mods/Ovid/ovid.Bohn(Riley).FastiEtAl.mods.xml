@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <nonSort>The</nonSort>
+        <title>fasti</title>
+        <subTitle>Tristia ; Pontic epistles ; Ibis ; and, Halieuticon of Ovid</subTitle>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+        ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+        <namePart>Ovid</namePart>
+        <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+        <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+        <namePart type="date">1816-1878</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <publisher>H.G. Bohn</publisher>
+        <dateIssued>1851</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bohn's classical library</title>
+        </titleInfo>
+    </relatedItem>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xvi, 503 p. ; 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">literally translated into English prose, with copious notes, by Henry T. Riley.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 A.D. or 18 A.D</namePart>
+        </name>
+        <genre>Translations into English</genre>
+    </subject>
+    <classification authority="lcc">PA6522 .A3 1851</classification>
+    <identifier type="lccn">2010554460</identifier>
+    <identifier type="oclc">2376727</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/2010554460/</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat"
+            >http://www.worldcat.org/title/fasti-tristia-pontic-epistles-ibis-and-halieuticon-of-ovid/oclc/2376727</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/fastitristiapont00ovid</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.c004092079</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fasti</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="eng">
+            <title>Calendar of Ovid</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+            <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+            <namePart type="date">1816-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <identifier type="phi">959.7</identifier>
+        <identifier type="stoa author-text">stoa0216-stoa005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>246</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uc1.c004092079?urlappend=%3Bseq=30</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/fastitristiapont00ovid#page/n21/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Tristia</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="eng">
+            <title>Lament</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+            <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+            <namePart type="date">1816-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <identifier type="phi">959.8</identifier>
+        <identifier type="stoa author-text">stoa0216-stoa013</identifier>
+        <part>
+            <extent unit="pages">
+                <start>247</start>
+                <end>368</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uc1.c004092079?urlappend=%3Bseq=276</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/fastitristiapont00ovid#page/246/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistulae ex Ponto</title>
+        </titleInfo>
+        <titleInfo type="translated" lang="eng">
+            <title>Pontic Epistles</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+            <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+            <namePart type="date">1816-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <identifier type="phi">959.9</identifier>
+        <identifier type="stoa author-text">stoa0216-stoa004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>369</start>
+                <end>474</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uc1.c004092079?urlappend=%3Bseq=398</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/fastitristiapont00ovid#page/368/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ibis</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+            <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+            <namePart type="date">1816-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <identifier type="phi">959.10</identifier>
+        <identifier type="stoa author-text">stoa0216-stoa008</identifier>
+        <part>
+            <extent unit="pages">
+                <start>475</start>
+                <end>497</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uc1.c004092079?urlappend=%3Bseq=504</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/fastitristiapont00ovid#page/474/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Haliueticon</title>
+        </titleInfo>
+        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+            <namePart>Ovid</namePart>
+            <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n88-627784.html">
+            <namePart>Riley, Henry T. (Henry Thomas)</namePart>
+            <namePart type="date">1816-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <identifier type="phi">959.14</identifier>
+        <identifier type="stoa author-text">stoa0216-stoa006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>498</start>
+                <end>503</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uc1.c004092079?urlappend=%3Bseq=528</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/fastitristiapont00ovid#page/498/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">110809</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130607095906.0</recordChangeDate>
+        <recordIdentifier>16911580</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

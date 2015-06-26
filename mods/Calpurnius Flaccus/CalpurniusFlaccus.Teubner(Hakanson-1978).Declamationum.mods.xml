@@ -52,7 +52,7 @@
     <identifier type="lccn">79348097</identifier>
     <identifier type="oclc">5125336</identifier>
     <identifier type="phi">1100.1</identifier>
-    <identifier type="cts-urn">urn:cts:latinLit:phi1100.phi001.opp-lat2</identifier>
+    <identifier type="ctsurn">urn:cts:latinLit:phi1100.phi001.opp-lat2</identifier>
     <identifier type="stoa author-text">stoa0072-stoa001</identifier>
     <location><url displayLabel="LC Permalink">http://lccn.loc.gov/79348097/mods</url></location>
     <location>

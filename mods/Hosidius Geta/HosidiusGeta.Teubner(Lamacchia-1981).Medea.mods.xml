@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Hosidii Getae Medea</title>
+        <subTitle>cento Vergilianus</subTitle>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>Medea</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Medea</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n82-29236.html">
+        <namePart>Hosidius Geta</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name  authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39962541">
+        <namePart>Lamacchia, Rosa.</namePart>
+        <namePart type="date">1921-1989</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">ge</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>B.G. Teubner</publisher>
+        <dateIssued>1981</dateIssued>
+        <edition>1. Aufl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <identifier type="stoa author-text">stoa0152a-stoa001</identifier>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxviii, 31 p. ; 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">edidit, Rosa Lamacchia.</note>
+    <note>Includes indexes.</note>
+    <note type="bibliography">Bibliography: p. xxiii-xxvi.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Medea</namePart>
+            <namePart type="termsOfAddress">consort of Aegeus, King of Athens (Mythological character)</namePart>
+        </name>
+        <genre>Drama</genre>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Virgil</namePart>
+        </name>
+        <genre>Adaptations</genre>
+    </subject>
+    <classification authority="lcc">PA6445.H35 M4 1981</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">81210326</identifier>
+    <identifier type="oclc">882973205</identifier>
+    <location><url displayLabel="LC Permalink">http://lccn.loc.gov/81210326</url></location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/882973205</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id408047313</url>
+    </location>
+    <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">811207</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20140501151449.0</recordChangeDate>
+        <recordIdentifier>3271717</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

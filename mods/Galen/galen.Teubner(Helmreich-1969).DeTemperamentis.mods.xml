@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo lang="grc" transliteration="rom">
+        <title>Peri kraseōn</title>
+    </titleInfo>
+    <titleInfo type="uniform" lang="lat">
+        <title>De temperamentis</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n79-59644.html">
+        <namePart>Galen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n83-218013.html
+        ">
+        <namePart>Helmreich, Georg</namePart>
+        <namePart type="date">1849-1921</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Stutgardiae</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1969</dateIssued>
+        <edition>Ed. stereo. ed. anni 1904.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xi, 132 p. 20 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Rec. Georgius Helmreich.</note>
+    <note type="bibliography">Bibliography: p. ix-xi.</note>
+    <classification authority="lcc">PA3404.G2 D38 1969</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <subject>
+        <topic>Temperament</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <subject>
+        <topic>Pathology</topic>
+        <topic>Early works to 1800</topic>
+    </subject>
+    <identifier type="tlg">0057.009</identifier>
+    <identifier type="lccn">78283514</identifier>
+    <identifier type="oclc">4692060</identifier>
+    <identifier type="oclc" displayLabel="Digitized SLUB edition">889992708</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/889992708</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks" note="1904 Edition"
+            >http://books.google.com/books?id=Wbd8Xz49A94C</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB" note="1969 Editio Stereotypis"
+            >http://digital.slub-dresden.de/id413088340</url>
+    </location>
+    <location>
+        <url displayLabel="Open Library"/>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust"/>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">790227</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20050810113517.0</recordChangeDate>
+        <recordIdentifier>7173533</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
