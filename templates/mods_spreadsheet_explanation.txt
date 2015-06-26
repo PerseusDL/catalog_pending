@@ -1,0 +1,137 @@
+0"primary id"
+  -A two part id representing the work that takes the format: textgroup.work.
+
+1"primary id type"
+  -The id type typically indicates the naming authority that established the id, e.g. tlg, phi, stoa, etc.
+
+2"additional ids (id|type;etc)"
+  -Any other ids that are associated with the work, a work may have any number of ids. Id information is ; separated, id and type are | separated.
+
+3"primary title"
+  -Standard title to identify the work. Please check the catalog for standard titles.
+
+4"other titles (title|type;etc)"
+  -Any other titles associated with the work. Possible type values are "abbreviated," "translated," "alternative," or "host." Host type is for the title of the physical volume that the work appears in, this is particularly significant for volumes that contain many works or for works that span multiple volumes. Host type might not be applicable to digital editions.
+
+5"author name"
+  -Standard form of the author's name, please check the catalog for standard names.
+
+6"author term of address"
+  -Used to record titles and enumeration associated with name, e.g. Comicus, Mytilenensis, bishop of [...], etc.
+
+7"author date(s)"
+  -Author birth and death dates, if known.
+
+8"authority;authorityURI;valueURI"
+  -Details authority record for personal name, "For authority, use naf or VIAF; for authority URI use http://viaf.org/viaf/ or http://id.loc.gov/authorities/names/ and then for the valueURI use the URI for the individual authority record" (https://github.com/PerseusDL/catalog_pending/blob/master/templates/modsrecord.template.xml) Applies to the name info that precedes it.
+
+9"editor or translator"
+  -Provide value of "editor" or "translator" for the person identified by the following fields.
+
+10"name"
+  -Name of editor or translator.
+
+11"term of address"
+  -See 6.
+
+12"date(s)"
+  -See 7.
+
+13"authority;authorityURI;valueURI"
+  -See 8.
+
+14"editor or translator"
+  -See above.
+
+15"name"
+  -See above.
+
+16"term of address"
+  -See above.
+
+17"date(s)"
+  -See above.
+
+18"authority;authorityURI;valueURI"
+  -See above.
+
+19"editor or translator"
+  -See above.
+
+20"name"
+  -See above.
+
+21"term of address"
+  -See above.
+
+22"date(s)"
+  -See above.
+
+23"authority;authorityURI;valueURI"
+  -See above.
+
+24"manuscript? (t/f)"
+  -Provide value "t" or "f"
+
+25"country code"
+  -Country in which the edition was published, for codes see http://www.loc.gov/marc/countries/.
+
+26"city"
+  -City in which the edition was published.
+
+27"publisher"
+  -Name of the publisher.
+
+28"dateIssued"
+  -The date that the resource was published, released, or issued. http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html#dateissued
+
+29"dateCreated"
+  -Date of the creation of the resource. http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html#datecreated
+
+30"dateModified"
+  -Date when a resource was modified or changed. http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html#datemodified
+
+31"edition"
+  -Identification of which edition or version is represented.
+
+32"text language code"
+  -Language of the primary text. Codes given here: http://www.loc.gov/marc/languages/language_name.html
+
+33"other languages (lang code|objectPart;)"
+  -Any other languages associated with the edition. If a dual language text (like a Loeb), provide the second text as "code|text". Other object parts can include "introduction," "preface," "summary," etc.
+
+34"extent desc."
+  -Statement of number and specific material of the resource that express physical extent. http://www.loc.gov/standards/mods/v3/mods-userguide-elements.html#extent
+
+35"page start;unit(optional)"
+  -Starting page number, defaults to page as the unit. If expressing the extent of the work in anything other than pagination, include the unit type following the number and a semicolon, e.g. "4r;folio"  
+
+36"page end"
+  -End page number.
+
+37"page range;unit(optional)"
+  -Range of pages, can include a list of ranges, e.g. "1-3, 10-14". Like the start/end extent, if the unit is something other than pages, specify after a semicolon.
+
+38"Topics (topic|subtopic;etc.)"
+  -Subjects and topics, using the controlled values defined by the Library of Congress. http://authorities.loc.gov/
+
+39"series title"
+  -If edition is a member of a series, provide title. Reference catalog for standard names.
+
+40"online location (label|url;etc)"
+  -Digital resource location, can also include location of bibliographic records for the edition. Provide name of resource (WorldCat, Google Books, etc.) and url.
+
+41“physical location (type|name;etc.)"
+  -Institution or repository where resource is located. (manuscripts)
+
+42"shelf location"
+  -Location identifier. (manuscripts)
+
+43"notes"
+  -Space for any textual information.
+
+44"table of contents"
+  -Listing of table of contents for physical volume, no set format for this field.
+
+45"multivolume? (t/f)"
+  -"t" if the work spans multiple volumes, "f" otherwise.
