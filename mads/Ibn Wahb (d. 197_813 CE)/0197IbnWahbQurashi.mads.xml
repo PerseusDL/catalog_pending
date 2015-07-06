@@ -25,7 +25,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="ctsurn">urn:cts:arabicLit:0197IbnWahbQurashi</mads:identifier>
-  <mads:identifier type="mrurn">#0197.IbnWahbQurashi</mads:identifier>
+  <mads:identifier type="mrurn">0197IbnWahbQurashi</mads:identifier>
   <mads:identifier type="lccn">lccn-nr9220024</mads:identifier>
   <mads:identifier type="viaf">22452839</mads:identifier>
   <mads:extension>

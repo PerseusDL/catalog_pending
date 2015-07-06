@@ -26,7 +26,7 @@
   <mods:language objectPart="text">
     <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
   </mods:language>
-  <mods:identifier type="mrurn">#0200.YahyaIbnSalamTaymi.Tafsir.NoorLib_019401</mods:identifier>
+  <mods:identifier type="mrurn">0200YahyaIbnSalamTaymi.Tafsir</mods:identifier>
   <mods:identifier type="ctsurn">urn:cts:arabicLit:0200YahyaIbnSalamTaymi.Tafsir.NoorLib-ara1</mods:identifier>
   <mods:location>
     <mods:url displayLabel="Noor Digital Library">http://www.noorlib.ir/View/ar/Book/BookView/Image/19401</mods:url>

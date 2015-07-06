@@ -26,7 +26,7 @@
   <mods:language objectPart="text">
     <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
   </mods:language>
-  <mods:identifier type="mrurn">#0179.MalikIbnAnas.Muwatta.Khizana_0056849.MS01</mods:identifier>
+  <mods:identifier type="mrurn">0179MalikIbnAnas.Muwatta</mods:identifier>
   <mods:identifier type="ctsurn">urn:cts:arabicLit:0179MalikIbnAnas.Muwatta.KhizanaMS01-ara19</mods:identifier>
   <mods:relatedItem type="host">
     <mods:titleInfo lang="ara">

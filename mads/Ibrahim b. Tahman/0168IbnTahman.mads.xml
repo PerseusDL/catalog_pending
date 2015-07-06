@@ -25,7 +25,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="ctsurn">urn:cts:arabicLit:0168IbnTahman</mads:identifier>
-  <mads:identifier type="mrurn">#0168.IbnTahman</mads:identifier>
+  <mads:identifier type="mrurn">0168IbnTahman</mads:identifier>
   <mads:identifier type="lccn"/>
   <mads:identifier type="viaf"/>
   <mads:extension>

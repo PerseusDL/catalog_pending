@@ -25,7 +25,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="ctsurn">urn:cts:arabicLit:0151IbnIshaq</mads:identifier>
-  <mads:identifier type="mrurn">#0151.IbnIshaq</mads:identifier>
+  <mads:identifier type="mrurn">0151IbnIshaq</mads:identifier>
   <mads:identifier type="lccn">lccn-n88194910</mads:identifier>
   <mads:identifier type="viaf">4972197</mads:identifier>
   <mads:extension>

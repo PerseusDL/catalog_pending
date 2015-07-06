@@ -25,7 +25,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="ctsurn">urn:cts:arabicLit:0209AbuCaliAshyabBaghdadi</mads:identifier>
-  <mads:identifier type="mrurn">#0209.AbuCaliAshyabBaghdadi</mads:identifier>
+  <mads:identifier type="mrurn">0209AbuCaliAshyabBaghdadi</mads:identifier>
   <mads:identifier type="lccn"/>
   <mads:identifier type="viaf"/>
   <mads:extension>

@@ -25,7 +25,7 @@
     </mads:name>
   </mads:variant>
   <mads:identifier type="ctsurn">urn:cts:arabicLit:0180IsmacilIbnJacfarAnsari</mads:identifier>
-  <mads:identifier type="mrurn">#0180.IsmacilIbnJacfarAnsari</mads:identifier>
+  <mads:identifier type="mrurn">0180IsmacilIbnJacfarAnsari</mads:identifier>
   <mads:identifier type="lccn">lccn-n98951914</mads:identifier>
   <mads:identifier type="viaf">38701169</mads:identifier>
   <mads:extension>

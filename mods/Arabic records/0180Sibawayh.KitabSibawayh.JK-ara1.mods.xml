@@ -26,7 +26,7 @@
   <mods:language objectPart="text">
     <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
   </mods:language>
-  <mods:identifier type="mrurn">#0180.Sibawayh.KitabSibawayh.JK_006989</mods:identifier>
+  <mods:identifier type="mrurn">0180Sibawayh.KitabSibawayh</mods:identifier>
   <mods:identifier type="ctsurn">urn:cts:arabicLit:0180Sibawayh.KitabSibawayh.JK-ara1</mods:identifier>
   <mods:relatedItem type="host">
     <mods:titleInfo lang="ara">

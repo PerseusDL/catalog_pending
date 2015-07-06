@@ -23,7 +23,7 @@
   <mods:language objectPart="text">
     <mods:languageTerm type="code" authority="iso639-2b">ara</mods:languageTerm>
   </mods:language>
-  <mods:identifier type="mrurn">#0189.MuhammadShaybani.JamicSaghir.Shamela_0006160</mods:identifier>
+  <mods:identifier type="mrurn">0189MuhammadShaybani.JamicSaghir</mods:identifier>
   <mods:identifier type="ctsurn">urn:cts:arabicLit:0189MuhammadShaybani.JamicSaghir.Shamela-ara1</mods:identifier>
   <mods:location>
     <mods:url displayLabel="al-Maktaba al-shamila">http://shamela.ws/browse.php/book-6160</mods:url>
