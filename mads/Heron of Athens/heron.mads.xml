@@ -14,11 +14,11 @@
             <mads:namePart>Ἥρων</mads:namePart>
         </mads:name>
     </mads:variant>
-    <mads:identifier type="fhg">fhg0413</mads:identifier>
+    <mads:identifier type="fhg">fhg0433</mads:identifier>
     <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
     <mads:extension>
         <mads:description>List of related work identifiers</mads:description>
-        <identifier type="fhg">fhg0413.fhg001</identifier>
+        <identifier type="fhg">fhg0433.fhg001</identifier>
     </mads:extension>
     <mads:recordInfo>
         <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
