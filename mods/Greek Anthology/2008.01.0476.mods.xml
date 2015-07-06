@@ -48,7 +48,7 @@
         </titleInfo>
     </relatedItem>
     <identifier>Perseus:text:2008.01.0476</identifier>
-    <identifier type="cts-urn">urn:cts:greekLit:tlg7000.tlg001.perseus-grc5</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg7000.tlg001.perseus-grc5</identifier>
     <identifier type="oclc">2848020</identifier>
     <identifier type="lccn">17000015</identifier>
     <identifier type="oca">greekanthology05newyuoft</identifier>
