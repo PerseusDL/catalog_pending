@@ -2,7 +2,7 @@
 <modsCollection xmlns="http://www.loc.gov/mods/v3"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <mods ID="Vol1">
+    <mods ID="mods1">
         <titleInfo>
             <nonSort>The</nonSort>
             <title>ecclesiastical history</title>
@@ -95,7 +95,7 @@
             </languageOfCataloging>
         </recordInfo>
     </mods>
-    <mods ID="Vol2">
+    <mods ID="mods2">
             <titleInfo>
                 <nonSort>The</nonSort>
                 <title>ecclesiastical history</title>
