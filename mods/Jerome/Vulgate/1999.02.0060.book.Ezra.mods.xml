@@ -1,45 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Ezra</title>
-    </titleInfo>
-    <titleInfo type="alternative">
-        <title>Prayer of Azariah</title>
-    </titleInfo>
-    <identifier>Perseus:text:1999.02.0060:book=Ezra</identifier>
-    <identifier type="ctsurn"></identifier>
-    <identifier type="tlg"></identifier>
-    <language>
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-    </language>
-    <location>
-        <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0060:book=Ezra</url>
-    </location>    
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Vulgate Bible</title>
-        </titleInfo>
-        <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/174716827">
-            <title>Bible.‏ ‎Latin.‏ ‎Vulgate‏</title>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-124709.html">
-            <namePart>Jerome</namePart>
-            <namePart type="termsOfAddress">Saint</namePart>
-            <namePart type="date">d. 419 or 20</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <publisher>Bible Foundation and On-Line Book Initiative</publisher>
-        </originInfo>
-        <location>
-            <url displayLabel="FTP">ftp.std.com/obi/Religion/Vulgate</url>
-        </location>
-    </relatedItem>
-</mods>
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <mods:titleInfo>
+    <mods:title>Ezra</mods:title>
+  </mods:titleInfo>
+  <mods:titleInfo type="alternative">
+    <mods:title>Prayer of Azariah</mods:title>
+  </mods:titleInfo>
+  <mods:identifier>Perseus:text:1999.02.0060:book=Ezra</mods:identifier>
+  <mods:identifier type="ctsurn"/>
+  <mods:identifier type="tlg"/>
+  <mods:language>
+    <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+  </mods:language>
+  <mods:location>
+    <mods:url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0060:book=Ezra</mods:url>
+  </mods:location>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>Vulgate Bible</mods:title>
+    </mods:titleInfo>
+    <mods:titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/174716827">
+      <mods:title>Bible.‏ ‎Latin.‏ ‎Vulgate‏</mods:title>
+    </mods:titleInfo>
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-124709.html">
+      <mods:namePart>Jerome</mods:namePart>
+      <mods:namePart type="termsOfAddress">Saint</mods:namePart>
+      <mods:namePart type="date">d. 419 or 20</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:originInfo>
+      <mods:publisher>Bible Foundation and On-Line Book Initiative</mods:publisher>
+    </mods:originInfo>
+    <mods:location>
+      <mods:url displayLabel="FTP">ftp.std.com/obi/Religion/Vulgate</mods:url>
+    </mods:location>
+  </mods:relatedItem>
+</mods:mods>

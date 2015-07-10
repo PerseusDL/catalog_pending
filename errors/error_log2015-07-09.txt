@@ -1,0 +1,359 @@
+For file /n80-32173.xml.mads.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /n80-32173.xml.mads.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_data/mads/PrimaryAuthors/J/John, of Damascus, Saint/n80-32173.xml.mads.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:300:in `block in update_from_catalog_data'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:292:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:292:in `update_from_catalog_data'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:24:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+Error for catalog_data update, file was was /home/ubuntu/catalog_data/mods/latinLit/phi0588/abo023/opp-lat3/phi0588.phi023.opp-lat3.mods1.xml, error message was: undefined method `label_eng' for nil:NilClass
+
+Error for catalog_data update, file was was /home/ubuntu/catalog_data/mods/latinLit/phi0588/abo023/opp-eng1/phi0588.phi023.opp-eng1.mods1.xml, error message was: undefined method `label_eng' for nil:NilClass
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+caught the lower exceptions
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+LCCN id found in record, this is probably an editor, can not create textgroup
+
+For file /onomacritus.EGF.mods.xml: The author id saved in the CITE table doesn't match the id in the file, please check.
+
+, ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/cite_colls.rb:93:in `block in add_to_cite_tables'", "/home/ubuntu/cite_collections_rails/app/helpers/cite_colls.rb:86:in `each'", "/home/ubuntu/cite_collections_rails/app/helpers/cite_colls.rb:86:in `add_to_cite_tables'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:219:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Onomacritus/onomacritus.EGF.mods.xml failed
+
+
+For file /2008.01.0479.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /2008.01.0479.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0479.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0479.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0479.mods.xml failed
+
+
+For file /2008.01.0480.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /2008.01.0480.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0480.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0480.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0480.mods.xml failed
+
+
+For file /2008.01.0478.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /2008.01.0478.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0478.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0478.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0478.mods.xml failed
+
+
+For file /2008.01.0477.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /2008.01.0477.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0477.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0477.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0477.mods.xml failed
+
+
+For file /GeographiGraeciMinores.Vol2.modsconst15.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /GeographiGraeciMinores.Vol2.modsconst15.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol2.modsconst15.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol2.modsconst15.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol2.modsconst15.xml failed
+
+
+For file /GeographiGraeciMinores.Vol1.modsconst12.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /GeographiGraeciMinores.Vol1.modsconst12.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol1.modsconst12.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol1.modsconst12.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol1.modsconst12.xml failed
+
+
+/1999.02.0122.mods.xml is a commentary, saving for another time
+
+Unrecognized id type, 
+
+For file /home/ubuntu/catalog_pending/mods/Boethius/1999.02.0122.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:78:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Boethius/1999.02.0122.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Boethius/1999.02.0122.mods.xml failed
+
+
+For file /1999.02.0060.book.Ezra.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /1999.02.0060.book.Ezra.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Ezra.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Ezra.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Ezra.mods.xml failed
+
+
+For file /1999.02.0060.book.Nehemiah.mods.xml : Could not find a suitable id, please check 
+        that there is a standard id, that there are no ?'s, or that, if a mads, the mads namespace is present.
+
+For file /1999.02.0060.book.Nehemiah.mods.xml : There was an error while trying to find an id, error message was .
+
+For file /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Nehemiah.mods.xml: something went wrong,  ["/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:512:in `error_handler'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:344:in `find_rec_id'", "/home/ubuntu/cite_collections_rails/app/helpers/application_helper.rb:68:in `find_basic_info'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:215:in `add_mods'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:87:in `block in mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `each'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:85:in `mods_import'", "/home/ubuntu/cite_collections_rails/app/importers/pending_record_importer.rb:26:in `import'", "/home/ubuntu/cite_collections_rails/lib/tasks/importing.rake:16:in `block in <top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `call'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:240:in `block in execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:235:in `execute'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:179:in `block in invoke_with_call_chain'", "/home/ubuntu/.rvm/rubies/ruby-2.0.0-p643/lib/ruby/2.0.0/monitor.rb:211:in `mon_synchronize'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:172:in `invoke_with_call_chain'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/task.rb:165:in `invoke'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:150:in `invoke_task'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block (2 levels) in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `each'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:106:in `block in top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:115:in `run_with_threads'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:100:in `top_level'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:78:in `block in run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:176:in `standard_exception_handling'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/lib/rake/application.rb:75:in `run'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/gems/rake-10.3.1/bin/rake:33:in `<top (required)>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `load'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/rake:23:in `<main>'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `eval'", "/home/ubuntu/.rvm/gems/ruby-2.0.0-p643/bin/ruby_executable_hooks:15:in `<main>'"]
+
+For file /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Nehemiah.mods.xml : No info hash returned, something has gone wrong, please check. 
+
+The import for this file, /home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Nehemiah.mods.xml failed
+
+
