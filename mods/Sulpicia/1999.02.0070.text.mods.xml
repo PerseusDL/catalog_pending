@@ -26,6 +26,7 @@
     <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
+    <identifier>Perseus:text:1999.02.0070</identifier>
     <identifier type="stoa author-text">stoa0269-stoa002</identifier>
     <identifier type="ctsurn">urn:cts:latinLit:phi0660.phi003.perseus-lat1</identifier>
     <identifier type="Perseus:abo">Perseus:abo:phi,0660,003</identifier> 
