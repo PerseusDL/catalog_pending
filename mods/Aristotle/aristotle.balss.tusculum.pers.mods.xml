@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Biologische Schriften: griechisch und deutsch</title>    
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Biological writings: Greek and German</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+        <namePart>Aristotle</namePart>
+        <namePart type="date">384-322</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+        <namePart>Balss, Heinrich</namePart>
+        <namePart type="date">1886-1957</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">München</placeTerm>
+        </place>
+        <publisher>Tusculum</publisher>
+        <dateIssued>1943</dateIssued>
+        <edition>1. Aufl., 1.-3. Tsd</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>301 S.</extent>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Tusculum-Bücher</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">894766395</identifier> 
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894766395</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id416243460</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Metaphysica</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.025</identifier>
+        <part>
+            <extent unit="pages">
+            <list>6-8, 18</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/10/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/16/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De partibus animalium</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.030</identifier>
+        <part>
+            <extent unit="pages">
+                <list>8-12, 64-92, 94-96, 102-112, 122-124, 126-132</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/11/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/39/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/54/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/58/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/68/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/70/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Protrepticus</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.033</identifier>
+        <part>
+            <extent unit="pages">
+                <list>12-18</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/13/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Physica</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.031</identifier>
+        <part>
+            <extent unit="pages">
+                <list>18-28</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/16/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Historia animalium</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.014</identifier>
+        <part>
+            <extent unit="pages">
+                <list>28-64, 94, 96-102, 112-122, 134-172, 194-200, 220-224</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/21/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/54/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/55/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/63/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/74/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/104/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/117/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Anima</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.002</identifier>
+        <part>
+            <extent unit="pages">
+                <list>172-184</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/93/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De generatione animalium</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.012</identifier>
+        <part>
+            <extent unit="pages">
+                <list>124-126, 186-194, 200-220, 224-240</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/69/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/100/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/107/</url>
+        </location>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/119/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De longaevitate at brevitate vitae</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristotle</namePart>
+            <namePart type="date">384-322</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.020</identifier>
+        <part>
+            <extent unit="pages">
+                <list>242-248</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/128/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Politica</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/99852973">
+            <namePart>Cicero, Marcus Tullius</namePart>
+            <namePart type="date">106-43</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/17001645">
+            <namePart>Balss, Heinrich</namePart>
+            <namePart type="date">1886-1957</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.035</identifier>
+        <part>
+            <extent unit="pages">
+                <list>248-254</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110725/131/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>
