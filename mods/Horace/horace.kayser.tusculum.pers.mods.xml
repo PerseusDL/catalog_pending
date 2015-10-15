@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Carmina: Oden und Epoden</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/100227522">
+        <namePart>Horace</namePart>
+        <namePart type="date">65-8</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/170632577">
+        <namePart>Kayser, Theodor</namePart>
+        <namePart type="date">1829-1909</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/31651896">
+        <namePart>Burger, Franz</namePart>
+        <namePart type="date">1880-1933</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">München</placeTerm>
+        </place>
+        <publisher>Heimeran</publisher>
+        <dateIssued>1927</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Tusculum-Bücher</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">897149598</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/897149598</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id416459323</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo type="uniform">
+            <title>Odes</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Carmina</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/100227522">
+            <namePart>Horace</namePart>
+            <namePart type="date">65-8</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/170632577">
+            <namePart>Kayser, Theodor</namePart>
+            <namePart type="date">1829-1909</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/31651896">
+            <namePart>Burger, Franz</namePart>
+            <namePart type="date">1880-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.1</identifier>
+        <identifier type="stoa author-text">stoa0152-stoa003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>109</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/108169/8/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmen Saeculare</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/100227522">
+            <namePart>Horace</namePart>
+            <namePart type="date">65-8</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/170632577">
+            <namePart>Kayser, Theodor</namePart>
+            <namePart type="date">1829-1909</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/31651896">
+            <namePart>Burger, Franz</namePart>
+            <namePart type="date">1880-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.2</identifier>
+        <identifier type="stoa author-text">stoa0152-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>109</start>
+                <end>111</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/108169/116/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epodes</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/100227522">
+            <namePart>Horace</namePart>
+            <namePart type="date">65-8</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/170632577">
+            <namePart>Kayser, Theodor</namePart>
+            <namePart type="date">1829-1909</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/31651896">
+            <namePart>Burger, Franz</namePart>
+            <namePart type="date">1880-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="phi">893.3</identifier>
+        <part>
+            <extent unit="pages">
+                <start>112</start>
+                <end>132</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/108169/119/0/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

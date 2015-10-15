@@ -1,0 +1,904 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:mx="http://www.loc.gov/MARC21/slim"
+           xmlns:srw="http://www.loc.gov/zing/srw/">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf163516157</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">150414n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/163516157</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="|" tag="700">
+      <mx:subfield code="a">Pontius Carthaginiensis</mx:subfield>
+      <mx:subfield code="0">(BNF)12357457</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius Carthaginiensis,</mx:subfield>
+      <mx:subfield code="d">02..-02..</mx:subfield>
+      <mx:subfield code="0">(SUDOC)032569785</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">(św. ;</mx:subfield>
+      <mx:subfield code="d">?-ca 260).</mx:subfield>
+      <mx:subfield code="0">(NUKAT)n 2008087279</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">Carthaginiensis</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="0">(DNB)119523264</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">Diaken en hagiograaf,</mx:subfield>
+      <mx:subfield code="d">ca. 350 na Chr.</mx:subfield>
+      <mx:subfield code="0">(NTA)071195300</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage,</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="0">(LC)nr2002022275</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">diacono della diocesi di Cartagine,</mx:subfield>
+      <mx:subfield code="d">sec. III</mx:subfield>
+      <mx:subfield code="0">(BAV)ADV11573725</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">diacre</mx:subfield>
+      <mx:subfield code="0">(RERO)vtls000132195</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="0" tag="700">
+      <mx:subfield code="a">Pôncio</mx:subfield>
+      <mx:subfield code="0">(PTBNP)787092</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Понтий Картагенски</mx:subfield>
+      <mx:subfield code="0">(WKP)Q713373</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Понтий Картагенски</mx:subfield>
+      <mx:subfield code="0">(ISNI)0000000112261839</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">IT</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">XX</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">XT</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="377">
+      <mx:subfield code="a">lat</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="375" ind1=" " ind2=" ">
+      <mx:subfield code="a">unknown</mx:subfield>
+      <mx:subfield code="2">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponce</mx:subfield>
+      <mx:subfield code="c">Diacre</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponce</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">Diacre</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponce</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">de Carthage</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponce</mx:subfield>
+      <mx:subfield code="c">de Carthage</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Poncjusz z Kartaginy</mx:subfield>
+      <mx:subfield code="c">męczennik, pisarz wczesnochrześcijański</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Carthaginiensis</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Carthaginiensis,</mx:subfield>
+      <mx:subfield code="d">sec. III</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Carthaginiensis.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Carthaginiensis</mx:subfield>
+      <mx:subfield code="d">sec. III</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Diakon</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius Diakon.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="|" tag="400">
+      <mx:subfield code="a">Pontius diaconus</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius diaconus</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius of Carthage</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius of Carthage.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">Deacon of the Diocese of Carthage,</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage,</mx:subfield>
+      <mx:subfield code="d">d. ca. 260</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius,</mx:subfield>
+      <mx:subfield code="c">of Carthage, Saint,</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="c">Deacon of the Diocese of Carthage</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="c">of Carthage, Saint</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">Diaconus</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">Diakon</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">Diaconus</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">Diakon</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">von Karthago</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="d">d. ca. 260</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">spätantiker christlicher römischer Autor</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pontius</mx:subfield>
+      <mx:subfield code="c">von Karthago</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="|" tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio,</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage,</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio,</mx:subfield>
+      <mx:subfield code="c">diacono</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="c">Diacono</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="d">ca. 3. Jh</mx:subfield>
+      <mx:subfield code="c">Diacono</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ponzio</mx:subfield>
+      <mx:subfield code="c">diacono</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pôncio,</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage,</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pôncio</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pôncio de Cartago</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pôncio.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Pôncio</mx:subfield>
+      <mx:subfield code="d">-approximately 260</mx:subfield>
+      <mx:subfield code="c">Saint, Deacon of Carthage</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/163516157</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Canali, Luca 1925-...</mx:subfield>
+      <mx:subfield code="9">12</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Possidius (saint ;  037.-044.).</mx:subfield>
+      <mx:subfield code="9">8</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Simonetti, Manlio</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Carena, Carlo</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Mohrmann, Christine 1903-1988</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Cyprianus, Thascius Caecilius, ca. 200-258.</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Paulinus, Mediolanensis, -422.</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Paulin de Milan (03..-04..).</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="951">
+      <mx:subfield code="a">Fondazione Lorenzo Valla</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Bastiaensen, A. A. R. (Antonius Adrianus Robertus), 1926-2009</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Santos, Mário</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Cyprian, Saint, Bishop of Carthage.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Plazanet-Siarri, Nadine 1959-....</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="941">
+      <mx:subfield code="a">070</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="941">
+      <mx:subfield code="a">auteur</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">am</mx:subfield>
+      <mx:subfield code="9">44</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9788804121916</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9782908587159</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9789723097535</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9788831130066</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Beatissimi Cecilii Cypriani Carthaginensiu[m] pre̜sulis, oratoris, verbiq[ue] divini pre̜conis eloque[n]tissimi, ac Trini uniusq[ue] dei proclamatoris vehementissimi Opera hinc inde excerpta, et in unu[m] vigiliis, &amp; su[m]ptib[us] magistri Bertholdi Rembolt, &amp; Joannis Waterloes calcographoru[m] peritissimoru[m] ac veracissimoru[m] collecta &amp; impressa quorum distinctio fronte sequenti notatur.</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Cyprien, Ambroise, Augustin : 3 vies par 3 témoins</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Delaney. Dict. of Cath. biog.</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Divi Caecilii Cypriani episcopi Carthaginiensis, et gloriosissimi martyris, opera ad veritatem vetustissimorum exemplarium summa fide emendata, addito etiam quinto epistolarum libro, antea nunquam edito. Alia eidem Cypriano adscripta. Cum duplici rerum ac verborum indice, maxima diligentia collecto.</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Early Christian biographies</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">The genuine works of St. Cyprian, archbishop of Carthage ... : together with his life</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Des heiligen Kirchenvaters Caecilius Cyprianus Traktate ; Des Diakons Pontius Leben des hl. Cyprianus / aus dem Lateinischen übersetzt von Julius Baer. - München, 1918.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Das leben Cyprians</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Opere</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Opuscula selecta</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">S. Cypriani ep. ac S. Pontii Diac. scripta quae citantur in Martyrologio Romano</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Sancti Caecilii Cypriani Opera omnia Ad mss. codices recognita &amp; illustrata</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Traktate</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">&lt;A &gt;verdadeira vida de São Cipriano bispo e mártir</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vie d'Ambroise</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vie de Cyprien</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vita Augustini</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vita Cypriani</mx:subfield>
+      <mx:subfield code="0">(VIAF)219192731</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">XR</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vita di Agostino</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vita di Ambrogio</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Vita e martirio di San Cipriano</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Works.</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Fondazione L. Valla : A. Mondadori</mx:subfield>
+      <mx:subfield code="9">12</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Città Nuova Ed.</mx:subfield>
+      <mx:subfield code="9">8</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">The Catholic Univ. of America Press</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Jos. Kõsel</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Perisse</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Paulus</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Mondadori</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Libraria academica Wagneriana</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Soc. Ed. Intern.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Printed by W. Bowyer for W. Taylor ... and H. Clements ...</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">IT</mx:subfield>
+      <mx:subfield code="9">19</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">FR</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">DE</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">US</mx:subfield>
+      <mx:subfield code="9">4</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">PT</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">PTBNP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">GB</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">AT</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">NL</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">151.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">152.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">153.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">154.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">155.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">156.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">157.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">158.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">159.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">160.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">161.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">162.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">163.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">164.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">165.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">166.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">167.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">168.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">169.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">170.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">171.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">172.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">173.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">174.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">175.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">176.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">177.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">178.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">179.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">180.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">181.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">182.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">183.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">184.</mx:subfield>
+      <mx:subfield code="9">5</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">185.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">186.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">187.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">188.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">189.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">190.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">191.</mx:subfield>
+      <mx:subfield code="9">9</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">192.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">193.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">194.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">195.</mx:subfield>
+      <mx:subfield code="9">6</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">196.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">197.</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">198.</mx:subfield>
+      <mx:subfield code="9">9</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">199.</mx:subfield>
+      <mx:subfield code="9">7</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">200.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">201.</mx:subfield>
+      <mx:subfield code="9">3</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">350</mx:subfield>
+      <mx:subfield code="b">300-01-01</mx:subfield>
+      <mx:subfield code="c">circa</mx:subfield>
+   </mx:datafield>
+</mx:record>
