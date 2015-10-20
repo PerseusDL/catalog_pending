@@ -109,7 +109,6 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <!-- forgot phi -->
         <identifier type="phi">893.2</identifier>
         <part>
             <extent unit="pages">

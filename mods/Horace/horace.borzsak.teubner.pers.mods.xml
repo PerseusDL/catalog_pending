@@ -3,32 +3,36 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
     version="3.5">
     <titleInfo>
-        <title>Q. Horati Flacci Carmina</title>
+        <title>Q. Horati Flacci Opera</title>
     </titleInfo>
-    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+    <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+        authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
         <namePart>Horace</namePart>
         <namePart type="date">65-8</namePart>
         <role>
             <roleTerm  authority="marcrelator" type="text">creator</roleTerm>
         </role>
     </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-        <namePart>Klingner, Friedrich</namePart>
-        <namePart type="date">1894-1968</namePart>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/66475384">
+        <namePart>Borzsák, István</namePart>
+        <namePart type="date">1914-2007</namePart>
         <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            <roleTerm  authority="marcrelator" type="text">editor</roleTerm>
         </role>
     </name>
     <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
     <originInfo>
         <place>
-            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            <placeTerm type="code" authority="marccountry">ge</placeTerm>
         </place>
         <place>
-            <placeTerm type="text">Lipsiae</placeTerm>
+            <placeTerm type="text">Leipzig</placeTerm>
         </place>
-        <publisher>in aedibus B.G. Teubner</publisher>
-        <dateIssued>1939</dateIssued>
+        <publisher>Teubner</publisher>
+        <dateIssued>1984</dateIssued>
+        <edition>1. Aufl.</edition>
         <issuance>monographic</issuance>
     </originInfo>
     <language objectPart="text">
@@ -36,39 +40,40 @@
     </language>
     <physicalDescription>
         <form authority="marcform">print</form>
-        <extent>xx, 4, 379 p. diagrs. 21 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>xii, 362 p.; 21 cm</extent>
     </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">recensuit Fridericus Klingner</note>
-    <classification authority="lcc">PA6104 .H7 1939</classification>
+    <note type="statement of responsibility" altRepGroup="00">edidit Stephanus Borzsák</note>
+    <note type="bibliography">Includes bibliographical references and indexes</note>
+    <classification authority="lcc">PA6393 .A2 1984</classification>
     <relatedItem type="series">
         <titleInfo>
-            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
         </titleInfo>
     </relatedItem>
-    <identifier type="lccn">a 40002219</identifier>
-    <identifier type="phi">893.1</identifier>
-    <identifier type="oclc">16879719</identifier>
+    <identifier type="lccn">85169859</identifier>
+    <identifier type="oclc">882974774</identifier>
     <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/16879719</url>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/882974774</url>
     </location>
     <location>
-        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415493617</url>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id408084502</url>
     </location>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Carmina</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -80,27 +85,29 @@
         <part>
             <extent unit="pages">
                 <start>1</start>
-                <end>131</end>
+                <end>125</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/11/0/</url>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104440/7/</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Carmen Saeculare</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -111,28 +118,31 @@
         <identifier type="phi">893.2</identifier>
         <part>
             <extent unit="pages">
-                <start>132</start>
-                <end>135</end>
+                <start>125</start>
+                <end>127</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/142/0/</url>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/104440/131/</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Epodi</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -143,28 +153,31 @@
         <identifier type="phi">893.3</identifier>
         <part>
             <extent unit="pages">
-                <start>136</start>
-                <end>161</end>
+                <start>128</start>
+                <end>150</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/146/0/</url>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/104440/134/</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Sermones</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -175,28 +188,31 @@
         <identifier type="phi">893.4</identifier>
         <part>
             <extent unit="pages">
-                <start>162</start>
-                <end>243</end>
+                <start>151</start>
+                <end>229</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/172/0/</url>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/104440/157/</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Epistulae</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -207,28 +223,31 @@
         <identifier type="phi">893.5</identifier>
         <part>
             <extent unit="pages">
-                <start>244</start>
-                <end>299</end>
+                <start>230</start>
+                <end>291</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/254/0/</url>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/104440/236/</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
             <title>Ars Poetica</title>
         </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522"> 
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100227522">
             <namePart>Horace</namePart>
             <namePart type="date">65-8</namePart>
             <role>
                 <roleTerm type="text">creator</roleTerm>
             </role>
         </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/59880091">
-            <namePart>Klingner, Friedrich</namePart>
-            <namePart type="date">1894-1968</namePart>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66475384">
+            <namePart>Borzsák, István</namePart>
+            <namePart type="date">1914-2007</namePart>
             <role>
                 <roleTerm type="text">editor</roleTerm>
             </role>
@@ -236,22 +255,24 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="phi">893.6</identifier>
+        <identifier type="phi">0893.6</identifier>
         <part>
             <extent unit="pages">
-                <start>300</start>
-                <end>318</end>
+                <start>292</start>
+                <end>312</end>
             </extent>
         </part>
         <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106888/310/0/</url>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/104440/298/</url>
         </location>
     </relatedItem>
     <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
         <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">980508</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20010816092539.0</recordChangeDate>
-        <recordIdentifier>7377241</recordIdentifier>
+        <recordCreationDate encoding="marc">850624</recordCreationDate>
+        <recordChangeDate encoding="iso8601">19860911000000.0</recordChangeDate>
+        <recordIdentifier>1922024</recordIdentifier>
         <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
     </recordInfo>

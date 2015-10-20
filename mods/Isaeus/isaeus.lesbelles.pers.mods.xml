@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Discours</title>   
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Orationes</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+        <namePart>Isaeus</namePart>
+        <namePart type="date">420-350</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+        <namePart>Roussel, Pierre</namePart>
+        <namePart type="date">1881-1945</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>Les Belles Lettres</publisher>
+        <dateIssued>1922</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>239 S.</extent>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Collection des universités de France</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">894712886</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894712886</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id414999851</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Cleonymo</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>20</start>
+                <end>32</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/13/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Menecle</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>36</start>
+                <end>48</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/27/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Pyrrho</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>52</start>
+                <end>71</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/41/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Nicostrato</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>74</start>
+                <end>81</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/62/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Dicaeogene</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>88</start>
+                <end>102</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/71/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Philoctemone</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>108</start>
+                <end>124</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/87/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Apollodoro</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.007</identifier>
+        <part>
+            <extent unit="pages">
+                <start>128</start>
+                <end>140</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/105/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Cirone</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.008</identifier>
+        <part>
+            <extent unit="pages">
+                <start>144</start>
+                <end>158</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/119/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Astyphilo</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>162</start>
+                <end>173</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/135/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Aristarcho</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.010</identifier>
+        <part>
+            <extent unit="pages">
+                <start>178</start>
+                <end>186</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/148/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Hagnia</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.011</identifier>
+        <part>
+            <extent unit="pages">
+                <start>190</start>
+                <end>205</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/158/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pro Euphileto</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.012</identifier>
+        <part>
+            <extent unit="pages">
+                <start>211</start>
+                <end>215</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/175/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/265571975"> 
+            <namePart>Isaeus</namePart>
+            <namePart type="date">420-350</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/27089013">
+            <namePart>Roussel, Pierre</namePart>
+            <namePart type="date">1881-1945</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0017.013</identifier>
+        <part>
+            <extent unit="pages">
+                <start>220</start>
+                <end>230</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110746/181/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>
