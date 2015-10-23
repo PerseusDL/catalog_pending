@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Thucydides Book 4.</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI=" http://viaf.org/viaf/65474532">
+    <namePart>Graves, C. E. (Charles Edward)</namePart>
+    <namePart type="date">1839-1920</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier>Perseus:text:1999.04.0036</identifier>
+  <identifier type="viafurn">viaf65474532.viaf001</identifier>
+  <!-- <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier> -->
+  <part>
+    <extent unit="pages">
+      <start>108</start>
+      <end>306</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="GoogleBooks">https://books.google.com/books?id=bYMDAAAAQAAJ&amp;pg=PA109</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0036</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Thoukydidou Xyngraphes 4</title>
+      <subTitle>The fourth book of Thucydides. Edited with notes by C.E. Graves</subTitle>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>History of the Peloponnesian War</title>
+      <partNumber>Book IV.</partNumber>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-21175.html">
+      <namePart>Thucydides.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI=" http://viaf.org/viaf/65474532">
+      <namePart>Graves, C. E. (Charles Edward)</namePart>
+      <namePart type="date">1839-1920</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Macmillan</publisher>
+      <dateIssued>1884</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="notes">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>vi, 320 p. ; 17 cm.</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <geographic>Greece</geographic>
+      <topic>History</topic>
+      <temporal>Peloponnesian War, 431-404 B.C</temporal>
+    </subject>
+    <classification authority="lcc">PA4452 A34 1884</classification>
+    <identifier type="tlg">0003.001</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0003,001</identifier>
+    <identifier type="lccn"/>
+    <identifier type="oclc">10925672</identifier>
+    <identifier type="oca"/>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/10925672</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+      <url displayLabel="Open Library"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=bYMDAAAAQAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">670101</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
+</mods>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+  version="3.5">
+    <titleInfo>
+    <title>Commentary</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+    valueURI="http://viaf.org/viaf/107078652">
+    <namePart>Adam, James</namePart>
+    <namePart type="date">1860-1907</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <!--   <identifier type="tlg" displayLabel="IsCommentaryOn">0059.030</identifier> -->
+  <identifier>Perseus:text:1999.04.0094</identifier>
+  <identifier type="viafurn">viaf107078652.viaf002</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">
+      http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0094</url>
+  </location>
+  <relatedItem>
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>republic of Plato</title>
+  </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+    valueURI="http://viaf.org/viaf/107078652">
+    <namePart>Adam, James</namePart>
+    <namePart type="date">1860-1907</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <publisher>University press</publisher>
+    <dateIssued>1902</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="notes">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. 23cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <tableOfContents>I. Books I-V. - II. Books VI-X and indexes.</tableOfContents>
+  <note type="statement of responsibility">
+      ed. with critical notes, commentary and appendices, by James Adam.
+       </note>
+  <note>Perseus used this edition for the critical notes.</note>
+  <classification authority="lcc">PA4279 .R4 1902</classification>
+  <identifier type="lccn">03031460</identifier>
+  <identifier type="oclc">2940825</identifier>
+  <identifier type="Perseus:abo">Perseus:abo:lccn,03031460</identifier>
+  <!--   <identifier type="tlg" displayLabel="IsCommentaryOn">0059.030</identifier> -->
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/03031460</url>
+  </location>
+  <location>
+    <url displayLabel="WorldCat">http://worldcat.org/oclc/2940825</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks" note="Vol 1">http://books.google.com/books?vid=OCLC02940825</url>
+  </location>
+    <location>
+      <url displayLabel="HathiTrust" note="Vol 2">http://hdl.handle.net/2027/uc1.b4810239</url>
+    </location>
+  </relatedItem>
+</mods>

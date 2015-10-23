@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Introduction to Commentary on Sophocles: Ajax</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+    valueURI="http://viaf.org/viaf/2603144">
+    <namePart>Jebb, Richard Claverhouse</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1841-1905</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf2603144.viaf038</identifier>
+  <identifier>Perseus:text:1999.04.0024:text=intro</identifier>
+  <!-- 
+  <identifier type="tlg" displayLabel="IsIntroductionTo">0011.003</identifier>
+   -->
+  <part>
+    <extent unit="pages">
+      <start>ix</start>
+      <end>liv</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0024:text=intro</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks">https://books.google.com/books?id=vZ5zAAAAIAAJ&amp;pg=PP15</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Sophocles</title>
+      <subTitle>the plays and fragments with critical notes, commentary, and translation in English
+        prose</subTitle>
+      <partNumber>Part 7</partNumber>
+      <partName>The Ajax</partName>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+      <namePart>Sophocles</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+      <namePart>Jebb, Richard Claverhouse</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1841-1905.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text"/>
+      </place>
+      <publisher>Cambridge University Press</publisher>
+      <dateIssued>1907</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="commentary">
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Sophocles</namePart>
+      </name>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Mythology, Greek</topic>
+      <topic>Drama</topic>
+    </subject>
+    <classification authority="lcc">PA4413 .A2 </classification>
+    <classification authority="ddc">882/.01</classification>
+    <identifier type="oclc">263442921</identifier>
+    <identifier type="tlg">0011.003</identifier>
+    <location>
+      <url displayLabel="Worldcat">http://www.worldcat.org/oclc/263442921</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"/>
+    </location>
+    <location>
+      <url displayLabel="Open Library"/>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=vZ5zAAAAIAAJ</url>
+    </location>
+  </relatedItem>
+</mods>

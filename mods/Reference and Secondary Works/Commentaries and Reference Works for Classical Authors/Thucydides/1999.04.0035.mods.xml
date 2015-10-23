@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   version="3.2"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Commentary on Thucydides</title>
+      <subTitle>Book VIII</subTitle>
+   </titleInfo>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/64373497">
+      <namePart>Tucker, Thomas George</namePart>
+      <namePart type="date">1859-1946</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <identifier type="viafurn">viaf64373497.viaf001</identifier>
+   <identifier>Perseus:text:1999.04.0035</identifier>
+   <part>
+      <extent unit="pages">
+         <start>135</start>
+         <end>305</end>
+      </extent>
+   </part>
+   <!-- 
+  <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
+   -->
+   <location>
+      <url displayLabel="Perseus" note="English"
+         >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0035</url>
+   </location>
+   <relatedItem type="host">
+      <titleInfo>
+         <nonSort>The</nonSort>
+         <title>Eighth Book of Thucydides</title>
+      </titleInfo>
+      <titleInfo type="uniform">
+         <title>History of the Peloponnesian War</title>
+         <partNumber>Book VIII.</partNumber>
+      </titleInfo>
+      <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+         ns2:href="http://errol.oclc.org/laf/n79-21175.html">
+         <namePart>Thucydides.</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+         </role>
+      </name>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/64373497">
+         <namePart>Tucker, Thomas George</namePart>
+         <namePart type="date">1859-1946</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+         </place>
+         <place>
+            <placeTerm type="text">Boston</placeTerm>
+         </place>
+         <publisher>Macmillan</publisher>
+         <dateIssued>1892</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language objectPart="introduction">
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </language>
+      <language objectPart="text">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <subject authority="lcsh">
+         <geographic>Greece</geographic>
+         <topic>History</topic>
+         <temporal>Peloponnesian War, 431-404 B.C</temporal>
+      </subject>
+      <classification authority="lcc">PA3411.C7 T47</classification>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+         <extent>xxxi, 323 pages 17 cm.</extent>
+      </physicalDescription>
+      <relatedItem type="series">
+         <titleInfo>
+            <title>Macmillan's classical series for colleges &amp; schools</title>
+         </titleInfo>
+      </relatedItem>
+      <identifier type="oclc">1211672</identifier>
+      <location>
+         <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1211672</url>
+      </location>
+      <location>
+         <url displayLabel="Open Content Alliance">https://archive.org/details/eighthbook00thucuoft</url>
+      </location>
+      <recordInfo>
+         <recordContentSource authority="marcorg">OTU</recordContentSource>
+         <recordCreationDate encoding="marc">730112</recordCreationDate>
+         <languageOfCataloging>
+            <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+         </languageOfCataloging>
+      </recordInfo>
+   </relatedItem>
+</mods>

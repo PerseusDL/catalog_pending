@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+    <titleInfo>
+        <title>Commentary on the Iliad</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/52075227">
+        <namePart>Leaf, Walter</namePart>
+        <namePart type="date">1852-1927</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <!-- <identifier type="tlg" displayLabel="isCommentaryOn">0012.001</identifier> -->
+    <identifier type="viafurn">viaf52075227.viaf001</identifier>
+    <identifier>Perseus:text:1999.04.0056</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0056</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>Iliad</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n78-95639.html">
+            <namePart>Homer</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/52075227">
+            <namePart>Leaf, Walter</namePart>
+            <namePart type="date">1852-1927</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New York</placeTerm>
+            </place>
+            <publisher>The Macmillan company</publisher>
+            <dateIssued>1900-1902</dateIssued>
+            <edition>2nd edition</edition>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="notes">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>2 v. front. (facsim., v. 2) illus. 23 cm.</extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Achilles (Mythological character)-</topic>
+            <topic>Poetry</topic>
+        </subject>
+        <note type="statement of responsibility">ed., with apparatus criticus, prolegomena, notes, and appendices, by Walter Leaf</note>
+        <classification authority="lcc">PA4109 .A2 1900</classification>
+        <classification authority="ddc"/>
+        <identifier type="oclc">317329171</identifier>
+        <identifier type="lccn">04015413</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/04015413</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/317329171</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust" note="Vol 1"
+                >http://hdl.handle.net/2027/uc2.ark:/13960/t49p31h39</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust" note="Vol 2">
+                http://hdl.handle.net/2027/uc2.ark:/13960/t7sn05m11
+            </url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg"/>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+
+</mods>

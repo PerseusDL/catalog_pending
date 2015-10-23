@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    version="3.3"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Introduction to Commentary on Theocritus</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/274557206">
+        <namePart>Cholmeley, R. J. (Roger James)</namePart>
+        <namePart type="date">1872-1919</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <identifier>Perseus:text:1999.04.0069:text=intro</identifier>
+    <identifier type="viafurn">viaf274557206.viaf003</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/search?doc=Perseus:text:1999.04.0069:text=intro</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>idylls of Theocritus</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n50-33430.html">
+            <namePart>Theocritus.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no2009-29777.html">
+            <namePart>Cholmeley, R. J. (Roger James)</namePart>
+            <namePart type="date">1872-</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lonson</placeTerm>
+            </place>
+            <publisher>G. Bell</publisher>
+            <dateIssued>1901</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="commentary">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+<digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Pastoral poetry, Greek</topic>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Alexandria (Egypt)</geographic>
+            <topic>Poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Mediterranean Region</geographic>
+            <topic>Poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Country life</topic>
+            <topic>Poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>City and town life</topic>
+            <topic>Poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Greek poetry, Hellenistic</topic>
+        </subject>
+        <classification authority="lcc">PA4442.A2 1971</classification>
+        <classification authority="ddc">881/.01</classification>
+        <classification authority="lcc">PA4442 A2 1919</classification>
+        <identifier>Perseus:text:1999.04.0069</identifier>
+        <identifier type="oclc">221329750</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/221329750</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"> </url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=x-U2AAAAYAAJ</url>
+        </location>
+    </relatedItem>
+</mods>

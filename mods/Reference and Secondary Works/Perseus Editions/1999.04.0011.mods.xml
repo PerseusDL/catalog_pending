@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Douris</title>
+    <subTitle>a master-painter of Athenian red-figure vases</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/219241798">
+    <namePart>Buitron-Oliver, Diana.</namePart>
+    <namePart type="date">1946-2002</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Mainz am Rhein</placeTerm>
+    </place>
+    <publisher>Philipp von Zabern</publisher>
+    <dateIssued>1995</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+ <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility">by Diana M. Buitron-Oliver.</note>
+  <note>Includes bibliographical references and indexes.</note>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Douris</namePart>
+      <namePart type="date">6th/5th cent. B.C</namePart>
+    </name>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Vase-painting, Greek</topic>
+  </subject>
+  <classification authority="lcc">ND115.D8 B84 1995</classification>
+  <classification authority="ddc" edition="20">738/.092</classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Forschungen zur antiken Keramik. Bd. 9</title>
+      <partNumber>II Reihe</partNumber>
+      <partName>Kerameus</partName>
+    </titleInfo>
+  </relatedItem>
+  <identifier>Perseus:text:1999.04.0011</identifier>
+  <identifier type="isbn">3805313578</identifier>
+  <identifier type="Perseus:abo"></identifier>
+  <!--     <identifier type="viafurn">viaf17286815.viaf001</identifier> -->
+  <identifier type="Perseus:abo-sec">sec00012.sec002</identifier>
+  <identifier type="lccn">95151045</identifier>
+  <identifier type="oclc">32442872</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/32442872</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0011</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">MdBWA</recordContentSource>
+    <recordCreationDate encoding="marc">950509</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19950831161620.0 </recordChangeDate>
+    <recordIdentifier>1151061 </recordIdentifier>
+  </recordInfo>
+</mods>

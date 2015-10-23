@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Introduction</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/89701455">
+    <namePart>Bury, Robert Gregg</namePart>
+    <namePart type="date">1869-1951</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier>Perseus:text:1999.04.0090:text=intro</identifier>
+  <identifier type="viafurn">viaf89701455.viaf002</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0090:text=intro</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <nonSort>The</nonSort>
+      <title>Symposium of Plato</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/nr87-721.html">
+      <namePart>Bury, Robert Gregg</namePart>
+      <namePart type="date">b. 1869</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+      </role>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>Heffer</publisher>
+      <dateIssued>1909</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>lxxviii, 179 p. ; 23 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited with introduction, critical notes, and commentary
+    by R. G. Bury.</note>
+    <note>Text in Greek; introduction and notes in English.</note>
+    <note>Includes indexes.</note>
+    <note>Bibliography: p. lxxi.</note>
+    <classification authority="lcc">PA4279 .S8</classification>
+    <!--      <identifier type="tlg">0059.011</identifier>-->
+    <identifier type="oclc">1613143</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1613143</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus"
+        >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0090</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015018601297</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"> </recordChangeDate>
+      <recordIdentifier> </recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+</mods>

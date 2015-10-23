@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Three Court Days</title>
+  </titleInfo>
+  <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27085472">
+    <namePart>Boegehold, Alan L. (Alan Lindley)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <identifier type="Perseus:abo">Perseus:abo:sec,00011</identifier>
+  <identifier type="Perseus:abo-sec">sec00011.sec001</identifier>
+  <!--   <identifier type="viafurn">viaf27085472.viaf001</identifier>
+     -->
+  <identifier>Perseus:text:1999.04.0002</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0002</url>
+  </location>
+  <language>
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Symposion 1990</title>
+      <subTitle>Vortr&#xE4;ge zur griechischen und hellenistischen Rechtsgeschichte (Pacific
+        Grove, California, 24.-26. September 1990)</subTitle>
+    </titleInfo>
+    <name type="corporate">
+      <namePart>Gesellschaft f&#xFC;r Griechische und Hellenistische Rechtsgeschichte</namePart>
+      <namePart>Symposion</namePart>
+      <namePart>(1990 : Pacific Grove, Calif.)</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n81-22053.html">
+      <namePart>Gagarin, Michael.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <genre authority="marc">conference publication</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">K&#xF6;ln</placeTerm>
+      </place>
+      <publisher>B&#xF6;hlau</publisher>
+      <dateIssued>1991</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+    </language>
+    <language>
+      <languageTerm authority="iso639-2b" type="code">ita</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>x, 314 p. ; 24 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">herausgegeben von Michael Gagarin = Papers on Greek and
+      Hellenistic legal history / edited by Michael Gagarin.</note>
+    <note>English, French, German, and Italian.</note>
+    <note>Includes bibliographical references and indexes.</note>
+    <subject>
+      <geographicCode authority="marcgac">e-gr---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Law, Greek</topic>
+      <topic>Congresses</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Homicide (Greek law)</topic>
+      <topic>Congresses</topic>
+    </subject>
+    <classification authority="lcc">KL4106.5 .G47 1990</classification>
+    <classification authority="ddc" edition="20">340.5/38</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Akten der Gesellschaft f&#xFC;r griechische und hellenistische Rechtsgeschichte,
+          Bd. 8</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">3412001929</identifier>
+    <identifier type="lccn">92209943</identifier>
+    <identifier type="oclc">26235138</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/26235138</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">920902</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19931008135430.3 </recordChangeDate>
+      <recordIdentifier>4406815 </recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+</mods>

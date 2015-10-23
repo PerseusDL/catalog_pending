@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Overview of Latin Syntax</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7623582">
+        <namePart>Mahoney, Anne</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier type="viafurn">viaf7623582.viaf001</identifier> 
+    <identifier>Perseus:text:1999.04.0022</identifier>
+    <physicalDescription>
+        <digitalOrigin>born digital</digitalOrigin>
+    </physicalDescription>
+    <originInfo>
+        <dateCreated>2000</dateCreated>
+        <publisher>Perseus Digital Library</publisher>
+        <place>
+            <placeTerm>Tufts University</placeTerm>
+            <placeTerm>Medford, MA</placeTerm>
+        </place>
+    </originInfo>
+    <location>
+        <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0022</url>
+    </location>         
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

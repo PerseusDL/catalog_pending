@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Carmina</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/42551788">
+    <namePart>Shorey, Paul</namePart>
+    <namePart type="date">1857-1934</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/61939413">
+    <namePart>Laing, Gordon Jennings</namePart>
+    <namePart type="date">1869-1945</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!-- <identifier type="phi" displayLabel="isCommentaryOn">893.1</identifier> -->
+  <identifier type="viafurn">viaf42551788.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0067:text=Carm</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0067:text=Carm.</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Horace</title>
+      <subTitle>Odes and epodes</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+      <namePart>Horace.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n80-80289.html">
+      <namePart>Shorey, Paul</namePart>
+      <namePart type="date">1857-1934</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/no97-32580.html">
+      <namePart>Laing, Gordon Jennings</namePart>
+      <namePart type="date">1869-</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">joint editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>B.H. Sanborn &amp; Co.</publisher>
+      <dateIssued>1910</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxxvii, 514 p. 18 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited, with introduction and notes, by Paul Shorey ...
+      revised by Paul Shorey and Gordon J. Laing ...</note>
+    <classification authority="lcc">PA6111.S8 H6 1910</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>The Students' series of Latin Classics</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">2914291</identifier>
+    <location>
+      <url displayLabel="WorldCat"
+        >http://www.worldcat.org/title/horace-odes-and-epodes/oclc/2914291</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust" note="1911 printing">
+        http://hdl.handle.net/2027/miua.1808630.0001.001</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">770425</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19980421190559.0 </recordChangeDate>
+      <recordIdentifier>7758769 </recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+</mods>

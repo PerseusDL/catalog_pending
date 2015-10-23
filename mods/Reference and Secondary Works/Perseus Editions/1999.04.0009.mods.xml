@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <nonSort>An</nonSort>
+        <title>Overview of Classical Greek History from Mycenae to Alexander</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/108815313">
+        <namePart>Martin, Thomas R.</namePart>
+        <namePart type="date">1947-</namePart>
+        <role> 
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text"> 
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">mau</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Medford</placeTerm>
+        </place>
+        <publisher>Perseus Digital Library</publisher>
+        <dateIssued>1997</dateIssued>
+    </originInfo>
+    <identifier type="viafurn">viaf108815313.viaf001</identifier>
+    <identifier>Perseus:text:1999.04.0009</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0009</url>
+    </location>    
+    <relatedItem type="otherVersion">
+        <titleInfo>
+            <title>Ancient Greece</title>
+            <subTitle>from prehistoric to Hellenistic times</subTitle>
+        </titleInfo>
+        <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/108815313">
+            <namePart>Martin, Thomas R.</namePart>
+            <namePart type="date">1947-</namePart>
+            <role> 
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marcgt">bibliography</genre>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">ctu</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New Haven</placeTerm>
+            </place>
+            <publisher>Yale University Press</publisher>
+            <dateIssued>1996</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xiii, 252 p. : ill., maps ; 24 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility" altRepGroup="00">Thomas R. Martin.</note>
+        <note type="bibliography">Includes bibliographical references (p. 223-235) and index.</note>
+        <subject>
+            <geographicCode authority="marcgac">e-fr---</geographicCode>
+        </subject>
+        <subject authority="lcsh">
+            <geographic>Greece</geographic>
+            <topic>History</topic>
+            <temporal>To 146 B.C</temporal>
+        </subject>
+        <classification authority="lcc">DF77 .M3 1996</classification>
+        <classification authority="ddc" edition="20">938</classification>
+        <identifier type="isbn">0300067674 (cloth : alk. paper)</identifier>
+        <identifier type="isbn">0300069561 (pbk. : alk. paper)</identifier>
+        <identifier type="lccn">95026690</identifier>
+        <identifier type="oclc">33900145</identifier>
+        <location>
+            <url displayLabel="Worldcat">http://worlccat.org/oclc/33900145</url>
+        </location>
+        <recordInfo>
+            <descriptionStandard>aacr</descriptionStandard>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">951204</recordCreationDate>
+            <recordChangeDate encoding="iso8601">19970424174256.6</recordChangeDate>
+            <recordIdentifier>3979607</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+                (Revision 1.106 2014/12/19)</recordOrigin>
+        </recordInfo>
+    </relatedItem>  
+</mods>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Perseus Classics Collection: An Overview </title>
+    </titleInfo>
+    <name type="personal">
+        <namePart>Cerrato, Lisa</namePart>
+        <role>
+            <roleTerm type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI=" http://viaf.org/viaf/48823016">
+        <namePart>Chavez, Robert</namePart>
+        <role>
+            <roleTerm type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language>
+        <languageTerm authority="iso639-2b" type="text">eng</languageTerm>
+    </language>
+    <identifier type="viafurn">viaf48823016.viaf001</identifier>
+    <identifier>Perseus:text:1999.04.0053</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0053</url>
+    </location>
+</mods>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Areopagiticus</title>
+        <subTitle>Notes</subTitle>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/2603144">
+        <namePart>Jebb, Richard Claverhouse</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <namePart type="date">1841-1905</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <!--   <identifier displayLabel="isCommentaryOn" type="tlg">0010.018</identifier> -->
+    <identifier>Perseus:text:1999.04.0100:orator=Isocrates:speech=7</identifier>
+    <identifier type="viafurn">viaf2603144.viaf025</identifier>
+    <location>
+        <url displayLabel="Perseus" note="English">
+            http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0100:orator=Isocrates:speech=7
+        </url>
+    </location>    
+    <relatedItem type="host">
+    <titleInfo>
+        <title>Selections from the Attic orators</title>
+        <subTitle>Antiphon, Andocides, Lysias, Isocrates, Isaeus</subTitle>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/2603144">
+        <namePart>Jebb, Richard Claverhouse</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <namePart type="date">1841-1905</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">New York</placeTerm>
+        </place>
+        <dateIssued>1888</dateIssued>
+        <edition>2d ed., rev.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>434 p.; 17 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Speeches, addresses, etc., Greek</topic>
+    </subject>
+    <classification authority="lcc">PA3412.M3 A57</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Macmillan's school class books</title>
+        </titleInfo>
+    </relatedItem>
+    <note>being a companion volume to 'The Attic orators from Antiphon to Isaeus.' Edited with notes by R.C. Jebb.</note>
+    <identifier type="oclc">598322</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/598322</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance" note="1896 printing"
+            >http://archive.org/details/selectionsfromat00jebbuoft/</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044085074235</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+        <recordOrigin/>
+    </recordInfo>
+    </relatedItem>
+</mods>

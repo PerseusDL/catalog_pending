@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  xmlns:mods="http://www.loc.gov/mods/v3" version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <mods:titleInfo>
+    <mods:title>Commentary on Vergil's Aeneid</mods:title>
+    <mods:partNumber>Volume 1</mods:partNumber>
+  </mods:titleInfo>
+  <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/20464050">
+    <mods:namePart>Conington, John</mods:namePart>
+    <mods:namePart type="date">1825-1869</mods:namePart>
+    <mods:role>
+      <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+    </mods:role>
+  </mods:name>
+  <mods:identifier>Perseus:bib:oclc,24674386</mods:identifier>
+  <!-- 
+  <mods:identifier type="phi" displayLabel="isCommentaryOn">690.3</mods:identifier> -->
+  <mods:identifier>Perseus:text:1999.02.0050</mods:identifier>
+  <mods:identifier type="viafurn">viaf20464050.viaf001</mods:identifier>
+  <mods:language objectPart="text">
+    <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+  </mods:language>
+  <mods:location>
+    <mods:url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0050</mods:url>
+  </mods:location>
+  <mods:relatedItem type="host">
+    <mods:titleInfo>
+      <mods:title>P. Vergili Maronis opera</mods:title>
+      <mods:subTitle>The works of Virgil</mods:subTitle>
+    </mods:titleInfo>
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+      ns2:href="http://errol.oclc.org/laf/n79-14062.html">
+      <mods:namePart>Virgil</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+      ns2:href="http://errol.oclc.org/laf/n88-628827.html">
+      <mods:namePart>Conington, John</mods:namePart>
+      <mods:namePart type="date">1825-1869</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
+      ns2:href="http://errol.oclc.org/laf/n50-3028.html">
+      <mods:namePart>Nettleship, Henry</mods:namePart>
+      <mods:namePart type="date">1839-1893</mods:namePart>
+      <mods:role>
+        <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+      </mods:role>
+    </mods:name>
+    <mods:typeOfResource>text</mods:typeOfResource>
+    <mods:originInfo>
+      <mods:place>
+        <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+      </mods:place>
+      <mods:place>
+        <mods:placeTerm type="text">London</mods:placeTerm>
+      </mods:place>
+      <mods:publisher>Whittaker &amp; Co., [etc.]</mods:publisher>
+      <mods:dateIssued>1872-76</mods:dateIssued>
+      <mods:dateIssued encoding="marc" point="start">1872</mods:dateIssued>
+      <mods:dateIssued encoding="marc" point="end">1876</mods:dateIssued>
+      <mods:edition>3d ed.</mods:edition>
+      <mods:issuance>monographic</mods:issuance>
+    </mods:originInfo>
+    <mods:language>
+      <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+    </mods:language>
+    <mods:physicalDescription>
+      <mods:form authority="marcform">print</mods:form>
+      <mods:extent>3 v. 23 cm.</mods:extent>
+    </mods:physicalDescription>
+    <mods:tableOfContents>v. 1. The Eclogues and Georgics.--v. 2. The first six books of the Aeneid.--v.
+      3. The last six books of the Aeneid.</mods:tableOfContents>
+    <mods:note type="statement of responsibility">with a commentary by John Conington ...</mods:note>
+    <mods:note>Vol. 3 has title: P. Vergili Maronis opera. The works of Virgil, with a commentary by John
+      Conington ... and Henry Nettleship ... 2d ed., rev. London, 1875.</mods:note>
+    <mods:subject authority="lcsh">
+      <mods:topic>Aeneas (Legendary character)</mods:topic>
+      <mods:topic>Poetry</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Pastoral poetry, Latin</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Didactic poetry, Latin</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Epic poetry, Latin</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Country life</mods:topic>
+      <mods:topic>Poetry</mods:topic>
+    </mods:subject>
+    <mods:subject authority="lcsh">
+      <mods:topic>Agriculture</mods:topic>
+      <mods:topic>Poetry</mods:topic>
+    </mods:subject>
+    <mods:classification authority="lcc">PA6801 .A2 1872</mods:classification>
+    <mods:relatedItem type="series">
+      <mods:titleInfo>
+        <mods:title>Bibliotheca classica</mods:title>
+      </mods:titleInfo>
+    </mods:relatedItem>
+    <mods:identifier type="lccn">06014719</mods:identifier>
+    <mods:identifier type="oclc">237112983</mods:identifier>
+    <mods:location>
+      <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/237112983</mods:url>
+    </mods:location>
+    <mods:recordInfo>
+      <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
+      <mods:recordCreationDate encoding="marc">750408</mods:recordCreationDate>
+      <mods:recordChangeDate encoding="iso8601">20010522110357.0 </mods:recordChangeDate>
+      <mods:recordIdentifier>7270831 </mods:recordIdentifier>
+    </mods:recordInfo>
+  </mods:relatedItem>
+</mods:mods>

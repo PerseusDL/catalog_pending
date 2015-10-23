@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <nonSort>A</nonSort>
+        <title>dictionary of Greek and Roman antiquities</title>
+    </titleInfo>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/88890045">
+        <namePart>Smith, William</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <namePart type="date">1813-1893</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/43774881">
+        <namePart>Wayte, William</namePart>
+        <namePart type="date">1829-1898</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/43455180">
+        <namePart>Marindin, G. E. (George Eden)</namePart>
+        <namePart type="date">1841-1939</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">dictionary</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">London</placeTerm>
+        </place>
+        <publisher>J. Murray</publisher>
+        <dateIssued>1890-91</dateIssued>
+        <dateIssued encoding="marc" point="start">1890</dateIssued>
+        <dateIssued encoding="marc" point="end">1891</dateIssued>
+        <edition>3d ed., rev. and enl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>2 v. illus. 25 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">Ed. by William Smith ... William Wayte ... G. E. Marindin ...</note>
+    <note>"Mr. Wayte undertook the direction of vol. I, and Mr. Marindin that of vol. II."--Pref.</note>
+    <subject>
+        <geographicCode authority="marcgac">e------</geographicCode>
+        <geographicCode authority="marcgac">ff-----</geographicCode>
+        <geographicCode authority="marcgac">aw-----</geographicCode>
+        <geographicCode authority="marcgac">e-gr---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Greece</geographic>
+        <topic>Antiquities</topic>
+        <topic>Dictionaries</topic>
+    </subject>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>Antiquities</topic>
+        <topic>Dictionaries</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Classical dictionaries</topic>
+    </subject>
+    <classification authority="lcc">DE5</classification>
+    <identifier type="viafurn">viaf88890045.viaf001</identifier>
+    <identifier type="lccn">03029178</identifier>
+    <identifier type="oclc">1084048</identifier>
+    <identifier>Perseus:text:1999.04.0063</identifier>
+    <location>
+        <url displayLabel="LC Permalink">http://lccn.loc.gov/03029178</url>
+    </location>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1084048</url>
+    </location>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0063</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust" note="Vol1">http://hdl.handle.net/2027/mdp.39015069901745</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust" note="Vol2">http://hdl.handle.net/2027/hvd.hn3312</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">790925</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20040623114418.0</recordChangeDate>
+        <recordIdentifier>272579</recordIdentifier>
+    </recordInfo>
+</mods>

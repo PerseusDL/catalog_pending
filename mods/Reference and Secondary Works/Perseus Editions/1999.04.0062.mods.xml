@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Harper's dictionary of classical literature and antiquities</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5777966">
+    <namePart>Peck, Harry Thurston</namePart>
+    <namePart type="date">1856-1914</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Harper &amp; brothers</publisher>
+    <dateIssued>1898</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">text</form>
+    <extent>xv, 1701 p. illus., maps. 26 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Classical dictionaries</topic>
+  </subject>
+  <classification authority="lcc">DE5 .P36</classification>
+  <identifier type="lccn">01020387</identifier>
+  <identifier>Perseus:text:1999.04.0062</identifier>
+  <identifier type="oclc">1059805</identifier>
+  <identifier type="Perseus:abo">Perseus:abo:lccn,01020387</identifier>
+  <identifier type="viafurn">viaf288254787.viaf001</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0062</url>
+  </location>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/01020387</url>
+  </location>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/1059805</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/coo1.ark:/13960/t9960437h</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">821217</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20020909141210.0 </recordChangeDate>
+    <recordIdentifier>8192901 </recordIdentifier>
+  </recordInfo>
+</mods>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+        <titleInfo>
+        <title>Iugurtha</title>
+        <subTitle>Notes</subTitle>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr95-15154.html
+        ">
+        <namePart>Ahlberg, Axel Wilhelm</namePart>
+        <namePart type="date">1874-1951</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier type="viafurn">viaf60087717.viaf005</identifier>
+    <identifier>Perseus:text:2007.01.0024:text=Jug.</identifier>
+    <!-- <identifier type="IsCommentaryOn">631.2</identifier> -->
+    <location>
+        <url displayLabel="Perseus" note="Latin"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0024:text=Jug.</url>
+    </location>
+    <relatedItem type="host">
+    <titleInfo>
+        <title>C. Sallusti Crispi</title>
+        <subTitle>Catilina, Iugurtha, orationes et epistulae excerptae de historiis</subTitle>
+    </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n79-18348.html">
+            <namePart>Sallust</namePart>
+            <namePart type="date">86-34 B.C</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr95-15154.html
+            ">
+        <namePart>Ahlberg, Axel Wilhelm</namePart>
+        <namePart type="date">1874-1951</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1919</dateIssued>
+        <edition>Editio Maior</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>viii, 170 p. diagr. 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">recognovit Axel W. Ahlberg.</note>
+    <subject authority="lcsh">
+        <geographic>Rome</geographic>
+        <topic>History</topic>
+        <temporal>Conspiracy of Catiline, 65-62 B.C</temporal>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Jugurthine War, 111-105 B.C</topic>
+    </subject>
+    <classification authority="lcc">PA6104</classification>
+    <identifier type="oclc">63596235</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/63596235</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/catilinaiugurtha00salluoft</url>
+    </location>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+        </titleInfo>
+        <titleInfo>
+            <title>Teubner</title>
+        </titleInfo>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+    </relatedItem>
+</mods>

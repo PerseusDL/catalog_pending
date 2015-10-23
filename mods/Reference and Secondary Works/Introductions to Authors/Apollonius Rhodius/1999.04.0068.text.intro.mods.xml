@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3
+    http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Commentary on Apollonius: Argonautica</title>
+        <subTitle>Introduction</subTitle>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf"
+        valueURI="http://viaf.org/viaf/45640099">
+        <namePart>Mooney, George W.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <!-- <identifier type="tlg" displayLabel="IsIntroductionTo">0001.001</identifier> -->
+    <identifier>Perseus:text:1999.04.0068:text=intro</identifier>
+    <identifier type="viafurn">viaf45640099.viaf002</identifier>
+    <part>
+        <extent unit="pages">
+            <start>1</start>
+            <end>64</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0068:text=intro</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/argonauticaedite00apoluoft#page/n13/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>Argonautica of Apollonius Rhodius</title>
+        </titleInfo>
+        <titleInfo type="uniform">
+            <title>Argonautica.</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-8541.html">
+            <namePart>Apollonius,</namePart>
+            <namePart type="termsOfAddress">Rhodius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf"
+            valueURI="http://viaf.org/viaf/45640099">
+            <namePart>Mooney, George W.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Longmans, Green</publisher>
+            <dateIssued>1912</dateIssued>
+            <edition/>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="notes">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>v, 454 p. ; 23 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">ed. with introduction and commentary by George W.
+        Mooney.</note>
+        <subject authority="lcsh">
+            <topic>Argonauts (Greek mythology)</topic>
+            <genre>Poetry</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Jason (Greek mythology)</topic>
+            <genre>Poetry</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Medea (Greek mythology)</topic>
+            <genre>Poetry</genre>
+        </subject>
+        <classification authority="lcc">PA3872</classification>
+        <classification authority="ddc">883</classification>
+        <identifier type="oclc">4348547</identifier>
+        <!-- 
+    <identifier type="tlg">0001.001</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:tlg,0001,001</identifier> -->
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bohn Classical Library</title>
+            </titleInfo>
+        </relatedItem>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/4348547</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/argonauticaedite00apoluoft</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+            <recordCreationDate encoding="marc"/>
+            <recordChangeDate encoding="iso8601"/>
+            <recordIdentifier/>
+        </recordInfo>
+    </relatedItem>
+</mods>

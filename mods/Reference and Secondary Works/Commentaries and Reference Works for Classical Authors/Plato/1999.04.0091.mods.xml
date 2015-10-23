@@ -1,0 +1,123 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary On Plato</title>
+    <subTitle>Gorgias</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+    valueURI="http://viaf.org/viaf/71609118">
+    <namePart>Lodge, Gonzalez,</namePart>
+    <namePart type="date">1863-1942</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!-- 
+  <identifier type="tlg" displayLabel="IsCommentaryOn">0059.023</identifier>
+   -->
+  <identifier>Perseus:text:1999.04.0091</identifier>
+  <identifier type="viafurn">viaf71609118.viaf001</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0091</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Gorgias</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/71609118">
+      <namePart>Lodge, Gonzalez,</namePart>
+      <namePart type="date">1863-1942</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/42580245/">
+      <namePart>Deuschle, Julius</namePart>
+      <namePart type="date">1828-1861</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">original co-editor</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/35215885">
+      <namePart>Cron, Christian,</namePart>
+      <namePart type="date">1813-1892</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">original co-editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn &amp; Company</publisher>
+      <dateIssued>1891</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="notes">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>iv, 308 p. 20 cm.</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">Plato ; edited on the basis of Deuschle-Cron's edition by Gonzalez Lodge.</note>
+    <note>Text in Greek; introduction and notes in English.</note>
+    <classification authority="lcc">PA3411.C7 P74 1891</classification>
+    <!--     <identifier type="tlg">0059.023</identifier>-->
+    <identifier type="lccn">12037786</identifier>
+    <identifier type="oclc">311570</identifier>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>College Series of Greek Authors</title>
+      </titleInfo>
+    </relatedItem>
+    <subject>
+      <topic>Ethics</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <subject>
+      <topic>Political Science</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/311570</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.hw3evz</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"> </recordChangeDate>
+      <recordIdentifier> </recordIdentifier>
+    </recordInfo>
+  </relatedItem>
+</mods>

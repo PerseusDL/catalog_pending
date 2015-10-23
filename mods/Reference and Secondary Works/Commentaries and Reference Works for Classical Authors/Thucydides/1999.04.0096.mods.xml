@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Thucydides Book 5</title>
+  </titleInfo>
+  <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/46837585">
+    <namePart>Fowler, Harold North</namePart>
+    <namePart type="date">1859-1955</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf46837585.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0096</identifier>
+  <!-- 
+  <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
+   -->
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0096</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Thucydides</title>
+      <partNumber>Book V</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>De bello peloponnesiaco. Book V. Greek.</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-21175.html
+      ">
+      <namePart>Thucydides.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/46837585">
+      <namePart>Fowler, Harold North</namePart>
+      <namePart type="date">1859-1955</namePart>
+      <role>
+        <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">biography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn &amp; company</publisher>
+      <dateIssued>1888</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="commentary">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>2 p.l., 213 p. 20 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <geographic>Greece</geographic>
+      <topic>History</topic>
+      <temporal>Peloponnesian War, 431-404 B.C</temporal>
+    </subject>
+    <classification authority="lcc">PA3411.C7 T55 1888</classification>
+    <identifier type="lccn">12039489</identifier>
+    <identifier type="oclc">6502185</identifier>
+    <identifier type="oca">thucydidesbook5e00thucuoft</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/12039489</url>
+    </location>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/6502185</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance"
+        >http://www.archive.org/details/thucydidesbook5e00thucuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=8_hKAAAAMAAJ</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">830624</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20020708180959.0 </recordChangeDate>
+    <recordIdentifier>7296059 </recordIdentifier>
+  </recordInfo>
+
+</mods>

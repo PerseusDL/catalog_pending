@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   version="3.3"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Commentary on Thucydides</title>
+      <subTitle>Book 1</subTitle>
+   </titleInfo>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/58981340/">
+      <namePart>Morris, Charles D'Urban</namePart>
+      <namePart type="date">1827-1886</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <identifier type="viafurn">viaf58981340.viaf001</identifier>
+   <identifier>Perseus:text:1999.04.0097</identifier>
+   <!-- 
+  <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
+   -->
+   <location>
+      <url displayLabel="Perseus" note="English"
+         >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0097</url>
+   </location>
+   <relatedItem type="host">
+   <titleInfo>
+      <title>Thucydides</title>
+      <partNumber>Book I</partNumber>
+   </titleInfo>
+   <titleInfo type="uniform">
+      <title>History of the Peloponnesian War</title>
+      <partNumber>Book I.</partNumber>
+   </titleInfo>
+   <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n79-21175.html">
+      <namePart>Thucydides.</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/58981340/">
+      <namePart>Morris, Charles D'Urban</namePart>
+      <namePart type="date">1827-1886</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn</publisher>
+      <dateIssued>1887</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language objectPart="introduction">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+   </language>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>ix, 349 pg.</extent>
+   </physicalDescription>
+   <note type="statement of responsibility">edited on the basis of Classen's edition by Charles D.
+      Morris.</note>
+   <classification authority="lcc">PA4452 A31 1886</classification>
+   <subject authority="lcsh">
+      <geographic>Greece</geographic>
+      <topic>History</topic>
+      <temporal>Peloponnesian War, 431-404 B.C</temporal>
+   </subject>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>College series of Greek authors</title>
+      </titleInfo>
+   </relatedItem>
+      <!-- 
+   <identifier type="tlg">0003.001</identifier>
+   <identifier type="Perseus:abo">Perseus:abo:tlg,0003,001 </identifier> -->
+   <identifier type="oclc">2952094</identifier>
+   <identifier type="oca">book1thucydid00thucuoft</identifier>
+   <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2952094</url>
+   </location>
+   <location>
+      <url displayLabel="Open Content Alliance"
+         >http://www.archive.org/details/book1thucydid00thucuoft</url>
+   </location>
+   <location>
+      <url displayLabel="Open Library">http://openlibrary.org/details/book1thucydid00thucuoft</url>
+   </location>
+   <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=tCkBAAAAYAAJ</url>
+   </location>
+   <recordInfo>
+      <descriptionStandard>aacr2</descriptionStandard>
+      <recordContentSource authority="marcorg">OTV</recordContentSource>
+      <recordCreationDate encoding="marc">870824</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+   </relatedItem>
+</mods>

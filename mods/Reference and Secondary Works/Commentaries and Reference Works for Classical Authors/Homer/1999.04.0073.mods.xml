@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+  version="3.3"
+  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>Homeric dictionary for schools and colleges</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="ttp://viaf.org/viaf/"
+    valueURI="ttp://viaf.org/viaf/49473038">
+    <namePart>Autenrieth, Georg</namePart>
+    <namePart type="date">1833-1900</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+    ns2:href="http://errol.oclc.org/laf/no2001-7131.html">
+    <namePart>Keep, Robert P. (Robert Porter)</namePart>
+    <namePart type="date">1844-1904</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+    </role>
+  </name>
+  <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+    ns2:href="http://errol.oclc.org/laf/no96-32015.html">
+    <namePart>Flagg, Isaac</namePart>
+    <namePart type="date">1843-1931</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <publisher>Harper &amp; brothers</publisher>
+    <dateIssued>1891</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent/>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject>
+    <topic>Homer</topic>
+    <topic>Language</topic>
+    <topic>Glossaries, etc.</topic>
+  </subject>
+  <classification authority="lcc">PA4209.Z5 A9 1891</classification>
+  <identifier>Perseus:text:1999.04.0073</identifier>
+  <identifier type="lccn">09022983</identifier>
+  <identifier type="oclc">2167482</identifier>
+  <identifier type="viafurn">viaf49473038.viaf001</identifier>
+  <!--   <identifier type="tlg" displayLabel="isLexiconTo">0012.001</identifier> -->
+  <!--   <identifier type="tlg" displayLabel="isLexiconTo">0012.002</identifier> -->
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/09022983</url>
+  </location>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2167482</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0073</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance" note="1895 edition"
+      >http://www.archive.org/details/homericdictionar00auteiala</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks">http://books.google.com/books?id=RFA4AAAAMAAJ</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">841105</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040706170545.0 </recordChangeDate>
+    <recordIdentifier>9625624 </recordIdentifier>
+  </recordInfo>
+</mods>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Institutio oratoria</title>
+        <subTitle>Introduction</subTitle>
+        <partName>Books I-III</partName>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17516500">
+        <namePart>Butler, Harold Edgeworth</namePart>
+        <namePart type="date">1878-1951</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <!--  <identifier type="phi" displayLabel="isIntroductionTo">1002.1</identifier>-->
+    <identifier type="viafurn">viaf17516500.viaf001</identifier>
+    <identifier>Perseus:text:2007.01.0061</identifier>
+    <part>
+        <extent unit="pages">
+            <start>vii</start>
+            <end>xiii</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Perseus" note="English"
+            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0061</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo type="uniform">
+            <title>Institutiones Oratoriae</title>
+            <partNumber>Volume 1</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n80-46563.html">
+            <namePart>Quintilian.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n86-808009.html">
+            <namePart>Butler, Harold Edgeworth</namePart>
+            <namePart type="date">1878-1951</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New York</placeTerm>
+            </place>
+            <publisher>W. Heinemann</publisher>
+            <publisher>Harvard University Press</publisher>
+            <dateIssued>1920</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+          <digitalOrigin>digitized other analog</digitalOrigin>
+        </physicalDescription>
+        <note>Latin and English on opposite pages</note>
+        <note>Includes indexes</note>
+        <note type="statement of responsibility">with an English translation, by H.E. Butler ...</note>
+        <note>Bibliography: v. 1, p.xi-xiii.</note>
+        <subject authority="lcsh">
+            <topic>Oratory</topic>
+            <topic>Early works to 1800</topic>
+        </subject>
+        <classification authority="lcc">PA6156</classification>
+        <classification authority="ddc">875</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>The Loeb classical library. [Latin authors]</title>
+                <partNumber>124</partNumber>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>LCL 124</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">tmp92021026</identifier>
+        <identifier type="oclc">10517921</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92021026</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/10517921</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/institutioorator00quin</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
