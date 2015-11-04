@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Lysiae Orationes</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Orationes</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/183417170">
+        <namePart>Lysias</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/19766626">
+        <namePart>Thalheim, Theodor Franz Arthur</namePart>
+        <namePart type="date">1847-1921</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1929</dateIssued>
+        <edition>Editio minor stereotypa altera</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>XVI, 256 S.</extent>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">894733859</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894733859</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415481120</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De caede Eratosthenis</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>11</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/21/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epitaphis</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>11</start>
+                <end>28</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/31/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Contra Simonem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>28</start>
+                <end>37</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/48/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>περὶ τραύματος ἐκ προνοίας ὐπὲρ οὗ καὶ πρὸς ὅν</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>37</start>
+                <end>41</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/57/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pro Callia</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>41</start>
+                <end>42</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/61/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Andocidem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>43</start>
+                <end>53</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/63/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Areopagiticus</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.007</identifier>
+        <part>
+            <extent unit="pages">
+                <start>53</start>
+                <end>62</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/73/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>καθηγοπία πρὸς τοὺς συνουσιαστὰς κακολογιῶν</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.008</identifier>
+        <part>
+            <extent unit="pages">
+                <start>62</start>
+                <end>66</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/82/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pro milite</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>66</start>
+                <end>70</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/86/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Theomnestum 1</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.010</identifier>
+        <part>
+            <extent unit="pages">
+                <start>70</start>
+                <end>76</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/90/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Theomnestum 2</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.011</identifier>
+        <part>
+            <extent unit="pages">
+                <start>76</start>
+                <end>78</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/96/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Eratosthenem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.012</identifier>
+        <part>
+            <extent unit="pages">
+                <start>79</start>
+                <end>99</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/106858/99/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Agoratum</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.013</identifier>
+        <part>
+            <extent unit="pages">
+                <start>99</start>
+                <end>120</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/119/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Alcibiadem 1</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.014</identifier>
+        <part>
+            <extent unit="pages">
+                <start>120</start>
+                <end>131</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/140/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Alcibiadem 2</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.015</identifier>
+        <part>
+            <extent unit="pages">
+                <start>131</start>
+                <end>133</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/151/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pro Mantitheo</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.016</identifier>
+        <part>
+            <extent unit="pages">
+                <start>134</start>
+                <end>139</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/154/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>πρὸς τὸ δημόσοιν περὶ τῶν ἐράτωνος χρημάτων</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.017</identifier>
+        <part>
+            <extent unit="pages">
+                <start>139</start>
+                <end>141</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/159/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>περὶ τῆς δημεύσεως τῶν τοῦ νικίου ἀδελφοῦ ἐπίλογος</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.018</identifier>
+        <part>
+            <extent unit="pages">
+                <start>141</start>
+                <end>147</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/161/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>ὑπὲρ τῶν ἀριστοφάνους χρημάτων, πρὸς τὸ δημόσιον</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.019</identifier>
+        <part>
+            <extent unit="pages">
+                <start>147</start>
+                <end>160</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/167/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pro Polystrato</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.020</identifier>
+        <part>
+            <extent unit="pages">
+                <start>160</start>
+                <end>168</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/180/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>ἀπολογία δωροδοκίας ἀπαράσημος</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.021</identifier>
+        <part>
+            <extent unit="pages">
+                <start>168</start>
+                <end>173</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/188/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>κατὰ τῶν σιτοπωλῶν</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.022</identifier>
+        <part>
+            <extent unit="pages">
+                <start>174</start>
+                <end>178</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/194/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Pancleonem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.023</identifier>
+        <part>
+            <extent unit="pages">
+                <start>179</start>
+                <end>182</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/199/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>ὑπὲρ τοῦ ἀδυνάτου</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.024</identifier>
+        <part>
+            <extent unit="pages">
+                <start>182</start>
+                <end>188</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/202/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>δήμου καταλύσεως ἀπολογία</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.025</identifier>
+        <part>
+            <extent unit="pages">
+                <start>188</start>
+                <end>197</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/208/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>περὶ τῆς εὐάνδρου δοκιμασίας</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.026</identifier>
+        <part>
+            <extent unit="pages">
+                <start>197</start>
+                <end>202</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/217/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Epicratem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.027</identifier>
+        <part>
+            <extent unit="pages">
+                <start>203</start>
+                <end>206</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/223/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Ergociem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.028</identifier>
+        <part>
+            <extent unit="pages">
+                <start>206</start>
+                <end>210</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/226/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Philocratem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.029</identifier>
+        <part>
+            <extent unit="pages">
+                <start>210</start>
+                <end>213</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/230/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Nicomachum</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.030</identifier>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>221</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/233/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Philonem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.031</identifier>
+        <part>
+            <extent unit="pages">
+                <start>221</start>
+                <end>228</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/241/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>In Diogitonem</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.032</identifier>
+        <part>
+            <extent unit="pages">
+                <start>228</start>
+                <end>236</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/248/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Olympiacus</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.033</identifier>
+        <part>
+            <extent unit="pages">
+                <start>236</start>
+                <end>238</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/256/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>περὶ τοῦ μὴ καταλῦσαι τὴν πάτριον πολιτείαν ἀθήνησι</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/183417170">
+            <namePart>Lysias</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/19766626">
+            <namePart>Thalheim, Theodor Franz Arthur</namePart>
+            <namePart type="date">1847-1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0540.034</identifier>
+        <part>
+            <extent unit="pages">
+                <start>239</start>
+                <end>241</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/106858/259/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
