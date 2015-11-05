@@ -1,0 +1,323 @@
+<html>
+<head><title>Image map created by yEd</title>
+<style type="text/css">
+.tooltip {
+  font-size:10pt;
+  background-color:#FFFFCC;
+  border:1px solid black;
+  padding:2px
+}
+</style>
+<style type="text/css">
+.tooltip {
+  position:absolute;
+  display:none
+}
+</style>
+</head>
+<body>
+
+<script type="text/javascript">
+tooltip = null;
+document.onmousemove = updateTooltip;
+function updateTooltip(e) {
+try {
+if (document.all) {
+if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+x = document.documentElement.scrollLeft + window.event.x;
+y = document.documentElement.scrollTop + window.event.y;
+}
+else { // all other Explorers
+x = document.body.scrollLeft + window.event.x;
+y = document.body.scrollTop + window.event.y;
+}
+}
+else {
+x = e.pageX;
+y = e.pageY;
+}
+if (tooltip != null) {
+o = 20;
+var sx, sy;
+if (self.pageYOffset) { // all except Explorer
+sx = self.pageXOffset;
+sy = self.pageYOffset;
+}
+else if (document.documentElement && document.documentElement.scrollTop) { // Explorer 6 Strict
+sx = document.documentElement.scrollLeft;
+sy = document.documentElement.scrollTop;
+}
+else if (document.body) { // all other Explorers
+sx = document.body.scrollLeft;
+sy = document.body.scrollTop;
+}
+t = y + o + tooltip.offsetHeight;
+w = sy + document.body.clientHeight;
+if (t > w) {
+y = y - o - tooltip.offsetHeight;
+}
+else {
+y = y + o;
+}
+t = x + o + tooltip.offsetWidth;
+w = sx + document.body.clientWidth;
+if (t > w) {
+x = x - o - tooltip.offsetWidth;
+}
+else {
+x = x + o;
+}
+if ((tooltip.style.top == '' || tooltip.style.top == 0) && (tooltip.style.left == '' || tooltip.style.left == 0))
+{
+tooltip.style.width = tooltip.offsetWidth + 'px';
+tooltip.style.height = tooltip.offsetHeight + 'px';
+}
+tooltip.style.left = x + "px";
+tooltip.style.top = y + "px";
+}
+} catch (error) { error = null; }
+}
+function showTooltip(id) {
+try {
+tooltip = document.getElementById(id);
+tooltip.style.display = "block";
+} catch (error) { error = null; }
+}
+function hideTooltip() {
+try {
+tooltip.style.display = "none";
+} catch (error) { error = null; }
+}
+</script>
+
+<div class="tooltip" id="n0">No</div>
+<div class="tooltip" id="n1">Identify edition</div>
+<div class="tooltip" id="n2">Edition in the <br>Perseus catalog?</div>
+<div class="tooltip" id="n3">Add new URL to Github<br>record in catalog_data</div>
+<div class="tooltip" id="n4">Check catalog_pending<br>just to be sure!</div>
+<div class="tooltip" id="n5">Yes</div>
+<div class="tooltip" id="n6">Found?</div>
+<div class="tooltip" id="n7">Done!</div>
+<div class="tooltip" id="n8">Need to create<br>a MODS record</div>
+<div class="tooltip" id="n9">No</div>
+<div class="tooltip" id="n10">Search Library of <br>Congress Catalog for <br>Edition</div>
+<div class="tooltip" id="n11">Found?</div>
+<div class="tooltip" id="n12">Download MODS record<br>to catalog_pending</div>
+<div class="tooltip" id="n13">Create MODS record<br>using template in <br>catalog_pending</div>
+<div class="tooltip" id="n14">Enhance MODS Record</div>
+<div class="tooltip" id="n15">Have a base MODS <br>record ready for your<br>edition now?</div>
+<div class="tooltip" id="n16">Yes</div>
+<div class="tooltip" id="n17">No</div>
+<div class="tooltip" id="n18">Why not? Go eat<br>a chocolate bar<br>and try again!</div>
+<div class="tooltip" id="n19">No</div>
+<div class="tooltip" id="n20">Yes</div>
+<div class="tooltip" id="n21">One author?</div>
+<div class="tooltip" id="n22">More than <br>one author?</div>
+<div class="tooltip" id="n23">Man, this is a really long line!</div>
+<div class="tooltip" id="n24">One work?</div>
+<div class="tooltip" id="n25">yes</div>
+<div class="tooltip" id="n26">Add work identifier, linked data<br>URIs (for editor and author),<br>and links to online editions and <br>bibliographic records.</div>
+<div class="tooltip" id="n27">One volume or<br>more than one?</div>
+<div class="tooltip" id="n28">yes</div>
+<div class="tooltip" id="n29">one</div>
+<div class="tooltip" id="n30">Save final MODS<br>record under author name<br>in catalog_pending.</div>
+<div class="tooltip" id="n31">Wanna see <br>an example?</div>
+<div class="tooltip" id="n32">well now<br>what?</div>
+<div class="tooltip" id="n33">Well fine,<br>be that way!<br></div>
+<div class="tooltip" id="n34">Go look<br>at this!</div>
+<div class="tooltip" id="n35">Yes</div>
+<div class="tooltip" id="n36">No</div>
+<div class="tooltip" id="n37">Add same information as above-BUT<br>create one MODS record for each<br>volume.  Save all MODS files in single<br> "mods Collection" record.<br></div>
+<div class="tooltip" id="n38">more than<br>one</div>
+<div class="tooltip" id="n39">Save final modsCollection<br>record under author name<br>in catalog_pending.</div>
+<div class="tooltip" id="n40">well now<br>what?</div>
+<div class="tooltip" id="n41">Wanna see <br>an example?</div>
+<div class="tooltip" id="n42">Go look<br>at this!</div>
+<div class="tooltip" id="n43">Yes</div>
+<div class="tooltip" id="n44">Keep going!</div>
+<div class="tooltip" id="n45">More than<br>one work?</div>
+<div class="tooltip" id="n46">One volume or<br>more than one?</div>
+<div class="tooltip" id="n47">irrelevant</div>
+<div class="tooltip" id="n48">yes</div>
+<div class="tooltip" id="n49">Confused yet?</div>
+<div class="tooltip" id="n50">Add same info to each MODS record/s<br>as above for single author-single work,<br>BUT ALSO:</div>
+<div class="tooltip" id="n51">Save final MODS<br>record/s under author name<br>in catalog_pending.</div>
+<div class="tooltip" id="n52">Really?</div>
+<div class="tooltip" id="n53">Thank you <br>for your honesty.</div>
+<div class="tooltip" id="n54">One work</div>
+<div class="tooltip" id="n55">No</div>
+<div class="tooltip" id="n56">Yes</div>
+<div class="tooltip" id="n57">yes</div>
+<div class="tooltip" id="n58">More than<br>one work?</div>
+<div class="tooltip" id="n59">Add same basic info as single author/single work<br>but also create <relatedItem> <br>constituent records for each author/work<br>that contain work IDs, page #s, and<br>page level URL within the MODS record/s.</div>
+<div class="tooltip" id="n60">Wanna see <br>an example?</div>
+<div class="tooltip" id="n61">Go look<br>at this!</div>
+<div class="tooltip" id="n62">yes</div>
+<div class="tooltip" id="n63">yes</div>
+<div class="tooltip" id="n64">No</div>
+<div class="tooltip" id="n65">No</div>
+<div class="tooltip" id="n66">Save final MODS<br>record/s under Composite Record<br>folder in catalog_pending.</div>
+<div class="tooltip" id="n67">Wanna see <br>an example?</div>
+<div class="tooltip" id="n68">Yes</div>
+<div class="tooltip" id="n69">Go look<br>at this!</div>
+<div class="tooltip" id="n70">Yes</div>
+<div class="tooltip" id="n71">Have a saved and <br>enhanced MODS record/s<br>now?</div>
+<div class="tooltip" id="n72">Perhaps its time<br>for a coffee break<br>then?</div>
+<div class="tooltip" id="n73">No</div>
+<div class="tooltip" id="n74">Enhance and or create<br>MADS record</div>
+<div class="tooltip" id="n75">Are the author/authors of<br>this editon already in the Perseus<br>Catalog?</div>
+<div class="tooltip" id="n76">Done!</div>
+<div class="tooltip" id="n77">Yes</div>
+<div class="tooltip" id="n78">Yes</div>
+<div class="tooltip" id="n79">Authority record<br>aready exist?</div>
+<div class="tooltip" id="n80">Record in<br>LCNAF?</div>
+<div class="tooltip" id="n81">Record in<br>VIAF?</div>
+<div class="tooltip" id="n82">yes</div>
+<div class="tooltip" id="n83">Create MADS record<br>using template in<br>catalog_pending</div>
+<div class="tooltip" id="n84">No</div>
+<div class="tooltip" id="n85">Clearly this flowchart<br>could have been better organized!</div>
+<div class="tooltip" id="n86">Download MADS <br>record from Id.gov.<br></div>
+<div class="tooltip" id="n87">Download MARCXML<br>record and use LC<br>XSLT script to convert<br>to MADS record.<br></div>
+<div class="tooltip" id="n88">no</div>
+<div class="tooltip" id="n89">Add variant names, name abbreviations<br>from reference works, fields of activity,<br>links to various online sources, and<br>most importantly, WORK identifiers.</div>
+<div class="tooltip" id="n90">Know what a work<br>identifier is?</div>
+<div class="tooltip" id="n91">Wanna see <br>an example?</div>
+<div class="tooltip" id="n92">Go look<br>at this!</div>
+<div class="tooltip" id="n93">Drat! They are too<br>hard to explain in a<br>flowchart bubble.</div>
+<div class="tooltip" id="n94">Use the TLG canon</div>
+<div class="tooltip" id="n95">Use the PHI Canon or the <br>STOA list of Latin Authors<br>to find identifier.</div>
+<div class="tooltip" id="n96">Whew! Check the Authors-Abbreviations<br>Editions spreadsheet list of Greek and<br>Latin authors to see if author and works<br>have been identified there.</div>
+<div class="tooltip" id="n97">Found a<br>work ID?</div>
+<div class="tooltip" id="n98">Great! Input this ID in your<br>MODS and MADS records.</div>
+<div class="tooltip" id="n99">Is your work<br>Greek or Latin?</div>
+<div class="tooltip" id="e4">Yes</div>
+<div class="tooltip" id="e37">Follow the directions here about<br>adding constituent records</div>
+<div class="tooltip" id="e55">no</div>
+<div class="tooltip" id="e57">yes</div>
+<div class="tooltip" id="e58">yes</div>
+<div class="tooltip" id="e65">No</div>
+<div class="tooltip" id="e66">Yes</div>
+<div class="tooltip" id="e69">Yes</div>
+<div class="tooltip" id="e70">No</div>
+
+<map name="image1_1">
+  <area shape="poly" coords="1518,1101,1527,1105,1545,1112,1615,1145,1619,1136,1549,1103,1530,1095,1521,1092,1518,1101,1518,1101" alt="" onmouseover="showTooltip('e70')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1514,1068,1595,1017,1589,1008,1509,1060,1514,1068,1514,1068" alt="" onmouseover="showTooltip('e69')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1121,1088,1154,1088,1154,1078,1121,1078,1121,1088,1121,1088" alt="" onmouseover="showTooltip('e66')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="1083,1063,1157,1005,1151,997,1077,1056,1083,1063,1083,1063" alt="" onmouseover="showTooltip('e65')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="571,1095,571,1167,581,1167,581,1095,571,1095,571,1095" alt="" onmouseover="showTooltip('e58')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="402,1095,402,1171,412,1171,412,1095,402,1095,402,1095" alt="" onmouseover="showTooltip('e57')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="260,1116,260,1178,270,1178,270,1116,260,1116,260,1116" alt="" onmouseover="showTooltip('e55')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="721,686,721,782,726,782,721,781,720,789,725,790,720,787,719,790,723,792,720,789,718,790,721,794,719,790,714,792,719,801,724,799,724,798,725,798,727,796,727,796,728,795,729,792,729,791,730,790,731,782,731,782,731,782,731,686,721,686,721,686" alt="" onmouseover="showTooltip('e37')" onmouseout="hideTooltip()"/>
+  <area shape="poly" coords="645,279,700,295,703,285,647,269,645,279,645,279" alt="" onmouseover="showTooltip('e4')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1603,1122,1719,1201" alt="" onmouseover="showTooltip('n99')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1601,970,1744,1050" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n98')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1424,1044,1540,1123" alt="" onmouseover="showTooltip('n97')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1165,1046,1376,1120" alt="" onmouseover="showTooltip('n96')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1739,1201,1882,1290" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n95')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1521,1219,1637,1290" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n94')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1156,961,1272,1007" alt="" onmouseover="showTooltip('n93')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="847,1306,927,1346" href="https://github.com/PerseusDL/catalog_pending/wiki/Sample-MADS-Records" alt="" onmouseover="showTooltip('n92')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="829,1176,945,1255" alt="" onmouseover="showTooltip('n91')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="979,1043,1121,1123" alt="" onmouseover="showTooltip('n90')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="713,1036,923,1130" href="https://github.com/PerseusDL/catalog_pending/wiki/Creation-of-MADS-Records-and-General-Enhancement-of-All-Authority-Records" alt="" onmouseover="showTooltip('n89')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="463,1036,493,1066" alt="" onmouseover="showTooltip('n88')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="530,1172,644,1251" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n87')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="365,1176,479,1255" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n86')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="131,902,161,932" alt="" onmouseover="showTooltip('n85')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1731,734,1761,764" alt="" onmouseover="showTooltip('n84')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="207,1184,323,1255" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n83')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="321,1036,351,1066" alt="" onmouseover="showTooltip('n82')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="526,1036,625,1095" alt="" onmouseover="showTooltip('n81')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="358,1036,457,1095" alt="" onmouseover="showTooltip('n80')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="215,1014,314,1116" href="http://catalog.perseus.org" alt="" onmouseover="showTooltip('n79')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1583,578,1613,608" alt="" onmouseover="showTooltip('n78')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1685,510,1715,540" alt="" onmouseover="showTooltip('n77')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1669,435,1778,486" alt="" onmouseover="showTooltip('n76')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1639,554,1808,688" alt="" onmouseover="showTooltip('n75')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="15,1033,181,1097" href="https://github.com/PerseusDL/catalog_pending/wiki/Finding-and-Downloading-Authority-Records" alt="" onmouseover="showTooltip('n74')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1523,510,1553,540" alt="" onmouseover="showTooltip('n73')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1445,425,1561,496" alt="" onmouseover="showTooltip('n72')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1422,554,1583,680" alt="" onmouseover="showTooltip('n71')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1223,852,1253,882" alt="" onmouseover="showTooltip('n70')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1263,881,1343,921" href="https://github.com/PerseusDL/catalog_pending/wiki/Multiple-Authors-Multiple-Works-Single-Volume-MODS-Record-Example" alt="" onmouseover="showTooltip('n69')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1223,756,1253,786" alt="" onmouseover="showTooltip('n68')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1096,831,1212,910" alt="" onmouseover="showTooltip('n67')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="864,789,1030,889" href="https://github.com/PerseusDL/catalog_pending/wiki/Single-Author-Multiple-Works-MODS-Record-Example" alt="" onmouseover="showTooltip('n66')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="376,442,406,472" alt="" onmouseover="showTooltip('n65')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="201,442,231,472" alt="" onmouseover="showTooltip('n64')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="488,835,518,865" alt="" onmouseover="showTooltip('n63')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="482,755,512,785" alt="" onmouseover="showTooltip('n62')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1263,781,1343,821" href="https://github.com/PerseusDL/catalog_pending/wiki/Single-Author-Multiple-Works-MODS-Record-Example" alt="" onmouseover="showTooltip('n61')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1096,731,1212,810" alt="" onmouseover="showTooltip('n60')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="621,797,831,910" alt="" onmouseover="showTooltip('n59')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="334,844,433,903" alt="" onmouseover="showTooltip('n58')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="284,749,314,779" alt="" onmouseover="showTooltip('n57')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1202,680,1232,710" alt="" onmouseover="showTooltip('n56')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1202,604,1232,634" alt="" onmouseover="showTooltip('n55')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="334,755,433,814" alt="" onmouseover="showTooltip('n54')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1253,685,1369,731" alt="" onmouseover="showTooltip('n53')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1253,599,1362,650" alt="" onmouseover="showTooltip('n52')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="864,610,1030,681" href="https://github.com/PerseusDL/catalog_pending/wiki/Single-Author-Multiple-Works-MODS-Record-Example" alt="" onmouseover="showTooltip('n51')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="629,614,822,685" alt="" onmouseover="showTooltip('n50')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1096,614,1212,693" alt="" onmouseover="showTooltip('n49')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="428,542,458,572" alt="" onmouseover="showTooltip('n48')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="572,615,608,645" alt="" onmouseover="showTooltip('n47')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="449,610,565,689" alt="" onmouseover="showTooltip('n46')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="320,513,419,572" alt="" onmouseover="showTooltip('n45')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="407,320,437,350" alt="" onmouseover="showTooltip('n44')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1195,528,1225,558" alt="" onmouseover="showTooltip('n43')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1255,518,1335,558" href="https://github.com/PerseusDL/catalog_pending/wiki/Single-Author-Single-Work-Multiple-Volumes-modsCollection-Record-Example" alt="" onmouseover="showTooltip('n42')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1096,467,1212,546" alt="" onmouseover="showTooltip('n41')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1055,475,1085,505" alt="" onmouseover="showTooltip('n40')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="864,471,1030,542" alt="" onmouseover="showTooltip('n39')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="540,462,570,492" alt="" onmouseover="showTooltip('n38')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="629,464,811,566" alt="" onmouseover="showTooltip('n37')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1202,360,1232,390" alt="" onmouseover="showTooltip('n36')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1202,430,1232,460" alt="" onmouseover="showTooltip('n35')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1253,425,1333,465" href="https://github.com/PerseusDL/catalog_pending/wiki/Single-Author-Single-Work-MODS-Record-Example" alt="" onmouseover="showTooltip('n34')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1253,355,1333,395" alt="" onmouseover="showTooltip('n33')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1047,370,1077,400" alt="" onmouseover="showTooltip('n32')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1096,366,1212,445" alt="" onmouseover="showTooltip('n31')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="864,370,1030,441" alt="" onmouseover="showTooltip('n30')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="572,384,602,414" alt="" onmouseover="showTooltip('n29')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="412,380,442,410" alt="" onmouseover="showTooltip('n28')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="449,370,565,449" alt="" onmouseover="showTooltip('n27')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="632,374,797,445" alt="" onmouseover="showTooltip('n26')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="284,380,314,410" alt="" onmouseover="showTooltip('n25')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="320,380,419,439" alt="" onmouseover="showTooltip('n24')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1036,317,1066,347" alt="" onmouseover="showTooltip('n23')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="185,749,284,820" alt="" onmouseover="showTooltip('n22')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="185,380,284,439" alt="" onmouseover="showTooltip('n21')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1502,291,1532,321" alt="" onmouseover="showTooltip('n20')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1508,98,1538,128" alt="" onmouseover="showTooltip('n19')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1430,15,1546,86" alt="" onmouseover="showTooltip('n18')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1189,203,1219,233" alt="" onmouseover="showTooltip('n17')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1180,143,1210,173" alt="" onmouseover="showTooltip('n16')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1408,135,1569,261" alt="" onmouseover="showTooltip('n15')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="15,427,171,486" alt="" onmouseover="showTooltip('n14')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="1239,212,1389,283" href="https://github.com/PerseusDL/catalog_pending/blob/master/templates/modsrecord.template.xml" alt="" onmouseover="showTooltip('n13')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1239,85,1382,156" href="https://github.com/PerseusDL/catalog_pending/wiki/Saving-and-Naming-MODS-and-modsCollection-Records" alt="" onmouseover="showTooltip('n12')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="1083,158,1199,229" alt="" onmouseover="showTooltip('n11')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="885,158,1015,229" href="https://catalog.loc.gov/" alt="" onmouseover="showTooltip('n10')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="635,188,665,218" alt="" onmouseover="showTooltip('n9')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="702,178,818,229" alt="" onmouseover="showTooltip('n8')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="702,280,811,331" alt="" onmouseover="showTooltip('n7')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="549,228,665,299" alt="" onmouseover="showTooltip('n6')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="328,167,358,197" alt="" onmouseover="showTooltip('n5')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="385,228,501,299" href="https://github.com/PerseusDL/catalog_pending" alt="" onmouseover="showTooltip('n4')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="385,141,501,205" href="https://github.com/PerseusDL/catalog_data" alt="" onmouseover="showTooltip('n3')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="177,174,276,276" href="http://catalog.perseus.org" alt="" onmouseover="showTooltip('n2')" onmouseout="hideTooltip()" target="_blank"/>
+  <area shape="rect" coords="22,193,147,247" alt="" onmouseover="showTooltip('n1')" onmouseout="hideTooltip()"/>
+  <area shape="rect" coords="329,228,359,258" alt="" onmouseover="showTooltip('n0')" onmouseout="hideTooltip()"/>
+</map>
+
+
+    <table class="yimagetable" cellspacing="0" cellpadding="0" border="0">
+      <tr>
+        <td><img class="yimage" src="PerseusCatalogDataCreation1_1.png" usemap="#image1_1" border="0" alt=""/></td>
+      </tr>
+    </table>
+
+</body>
+</html>
