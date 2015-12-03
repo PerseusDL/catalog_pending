@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Pindari Carmina cum fragmentis</title>   
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Carmina</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+        <namePart>Pindar</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+        <namePart>Snell, Bruno</namePart>
+        <namePart type="date">1896-1986</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1955</dateIssued>
+        <edition>Editio altera</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>VIII, 375 S.</extent>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">879601228</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/879601228</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id403862027</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Olympia</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+            <namePart>Snell, Bruno</namePart>
+            <namePart type="date">1896-1986</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>58</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104547/5/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pythia</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+            <namePart>Snell, Bruno</namePart>
+            <namePart type="date">1896-1986</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>121</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104547/63/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Nemea</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+            <namePart>Snell, Bruno</namePart>
+            <namePart type="date">1896-1986</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>122</start>
+                <end>162</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104547/126/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Isthmia</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+            <namePart>Snell, Bruno</namePart>
+            <namePart type="date">1896-1986</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>163</start>
+                <end>190</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104547/167/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/100181310"> 
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/108234736">
+            <namePart>Snell, Bruno</namePart>
+            <namePart type="date">1896-1986</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>191</start>
+                <end>304</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/104547/195/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>
