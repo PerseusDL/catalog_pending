@@ -1,91 +1,85 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <nonSort>The</nonSort>
-        <title>Princeton encyclopedia of classical sites</title>
-    </titleInfo>
-    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/110579934/">
-        <namePart>Stillwell, Richard</namePart>
-        <namePart type="date">1899-1982</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/98481700/">
-        <namePart>MacDonald, William L. (William Lloyd)</namePart>
-        <namePart type="date">1921-2010</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/7284054/">
-        <namePart>McAllister, Marian Holland</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">nju</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Princeton, N.J</placeTerm>
-        </place>
-        <publisher>Princeton University Press</publisher>
-        <dateIssued>1976</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">electronic</form>
-        <extent>xxii, 1019 p., [12] leaves of plates : maps ; 29 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">Richard Stillwell, editor, William L. MacDonald, 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>Princeton encyclopedia of classical sites</title>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/110579934/">
+    <namePart>Stillwell, Richard</namePart>
+    <namePart type="date">1899-1982</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/98481700/">
+    <namePart>MacDonald, William L. (William Lloyd)</namePart>
+    <namePart type="date">1921-2010</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7284054/">
+    <namePart>McAllister, Marian Holland</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nju</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Princeton, N.J</placeTerm>
+    </place>
+    <publisher>Princeton University Press</publisher>
+    <dateIssued>1976</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">electronic</form>
+    <extent>xxii, 1019 p., [12] leaves of plates : maps ; 29 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Richard Stillwell, editor, William L. MacDonald, 
         associate editor, Marian Holland McAllister, assistant editor.</note>
-    <note>Includes index.</note>
-    <subject>
-        <geographicCode authority="marcgac">e------</geographicCode>
-        <geographicCode authority="marcgac">ff-----</geographicCode>
-        <geographicCode authority="marcgac">aw-----</geographicCode>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Classical antiquities</topic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Excavations (Archaeology)</topic>
-    </subject>
-    <classification authority="lcc">DE59 .P7</classification>
-    <classification authority="ddc">938/.003</classification>
-    <identifier>Perseus:text:1999.04.0006</identifier>
-    <identifier type="viafurn">viaf110579934.viaf001</identifier>
-    <identifier type="isbn">0691035423</identifier>
-    <identifier type="lccn">75030210</identifier>
-    <identifier type="oclc">1858195</identifier>
-    <location>
-        <url displayLabel="LCCN">http://lccn.loc.gov/75030210/</url>
-    </location>
-    <location>
-        <url displayLabel="Worlcat">http://www.worldcat.org/oclc/1858195</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">751009</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20150414142407.0</recordChangeDate>
-        <recordIdentifier>3635199</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  <note>Includes index.</note>
+  <subject>
+    <geographicCode authority="marcgac">e------</geographicCode>
+    <geographicCode authority="marcgac">ff-----</geographicCode>
+    <geographicCode authority="marcgac">aw-----</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Classical antiquities</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Excavations (Archaeology)</topic>
+  </subject>
+  <classification authority="lcc">DE59 .P7</classification>
+  <classification authority="ddc">938/.003</classification>
+  <identifier>Perseus:text:1999.04.0006</identifier>
+  <identifier type="viafurn">viaf110579934.viaf001</identifier>
+  <identifier type="isbn">0691035423</identifier>
+  <identifier type="lccn">75030210</identifier>
+  <identifier type="oclc">1858195</identifier>
+  <location>
+    <url displayLabel="LCCN">http://lccn.loc.gov/75030210/</url>
+  </location>
+  <location>
+    <url displayLabel="Worlcat">http://www.worldcat.org/oclc/1858195</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">751009</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150414142407.0</recordChangeDate>
+    <recordIdentifier>3635199</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

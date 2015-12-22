@@ -1,72 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Dictionary of Greek and Roman Geography</title>
-    </titleInfo>
-    <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/88890045">
-        <namePart>Smith, William</namePart>
-        <namePart type="termsOfAddress">Sir</namePart>
-        <namePart type="date">1813-1893</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <genre authority="marc">dictionary</genre>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Walton &amp; Maberly</publisher>
-        <publisher>John Murray</publisher>
-        <dateIssued>1854-1857</dateIssued>
-        <dateIssued encoding="marc" point="start">1854</dateIssued>
-        <dateIssued encoding="marc" point="end">1857</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <tableOfContents>v. 1 Abacaenum-Hytanis. 1854. v. 2 Iabadius-Zymethus. 1857.</tableOfContents>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>2 v. illus., maps. 24 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Classical Geography</topic>
-        <topic>Dictionaries</topic>
-    </subject>
-    <classification authority="lcc">DE25</classification>
-    <classification authority="ddc">913.38</classification>
-    <identifier type="oclc">3212573</identifier>
-    <identifier type="viafurn">viaf88890045.viaf002</identifier>
-    <identifier>Perseus:text:1999.04.0064</identifier>
-    <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3212573</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064</url>
-    </location>
-    <location>
-        <url displayLabel="HathiTrust" note="Vol 1">http://hdl.handle.net/2027/hvd.hn38ys</url>
-    </location>
-    <location>
-        <url displayLabel="HathiTrust" note="Vol 2">http://hdl.handle.net/2027/mdp.39015010769043</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Dictionary of Greek and Roman Geography</title>
+  </titleInfo>
+  <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/88890045">
+    <namePart>Smith, William</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1813-1893</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marc">dictionary</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Walton &amp; Maberly</publisher>
+    <publisher>John Murray</publisher>
+    <dateIssued>1854-1857</dateIssued>
+    <dateIssued encoding="marc" point="start">1854</dateIssued>
+    <dateIssued encoding="marc" point="end">1857</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <tableOfContents>v. 1 Abacaenum-Hytanis. 1854. v. 2 Iabadius-Zymethus. 1857.</tableOfContents>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v. illus., maps. 24 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Classical Geography</topic>
+    <topic>Dictionaries</topic>
+  </subject>
+  <classification authority="lcc">DE25</classification>
+  <classification authority="ddc">913.38</classification>
+  <identifier type="oclc">3212573</identifier>
+  <identifier type="viafurn">viaf88890045.viaf002</identifier>
+  <identifier>Perseus:text:1999.04.0064</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3212573</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust" note="Vol 1">http://hdl.handle.net/2027/hvd.hn38ys</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust" note="Vol 2">http://hdl.handle.net/2027/mdp.39015010769043</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

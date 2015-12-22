@@ -1,36 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Carmina Omnia</title>
-        <subTitle>Commentary on Text of Sulpicia</subTitle>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7623582/">
-        <namePart>Mahoney, Anne (Anne Elizabeth)</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <digitalOrigin>born digital</digitalOrigin>
-    </physicalDescription>
-    <originInfo>
-        <dateCreated>2000</dateCreated>
-        <publisher>Perseus Digital Library</publisher>
-        <place>
-            <placeTerm>Tufts University</placeTerm>
-            <placeTerm>Medford, MA</placeTerm>
-        </place>
-    </originInfo>
-    <identifier type="viafurn">viaf7623582.viaf003</identifier>
-    <identifier>Perseus:text:1999.02.0070:text=comm</identifier>
-    <!--     <identifier type="phi" displayLabel="isCommentaryOn">660.3</identifier>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Carmina Omnia</title>
+    <subTitle>Commentary on Text of Sulpicia</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7623582/">
+    <namePart>Mahoney, Anne (Anne Elizabeth)</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <digitalOrigin>born digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>2000</dateCreated>
+    <publisher>Perseus Digital Library</publisher>
+    <place>
+      <placeTerm>Tufts University</placeTerm>
+      <placeTerm>Medford, MA</placeTerm>
+    </place>
+  </originInfo>
+  <identifier type="viafurn">viaf7623582.viaf003</identifier>
+  <identifier>Perseus:text:1999.02.0070:text=comm</identifier>
+  <!--     <identifier type="phi" displayLabel="isCommentaryOn">660.3</identifier>
          -->
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0070:text=comm</url>
-    </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0070:text=comm</url>
+  </location>
 </mods>

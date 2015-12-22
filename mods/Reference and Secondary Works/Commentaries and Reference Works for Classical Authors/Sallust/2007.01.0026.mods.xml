@@ -1,109 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-      <titleInfo>
-        <title>Catilina, Iugurtha, Orationes Et Epistulae</title>
-        <subTitle>Index</subTitle>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/60087717">
-        <namePart>Ahlberg, Axel Wilhelm</namePart>
-        <namePart type="date">1874-1951</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <identifier type="viafurn">viaf60087717.viaf002</identifier>
-    <identifier>Perseus:text:2007.01.0026</identifier>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-    </language>
-    <part>
-        <extent unit="pages">
-            <start>162</start>
-            <end>170</end>
-        </extent>
-    </part>
-    <location>
-        <url displayLabel="Open Content Alliance">https://archive.org/stream/catilinaiugurtha00salluoft#page/162/mode/2up</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0026</url>
-    </location>
-      <relatedItem type="host">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Catilina, Iugurtha, Orationes Et Epistulae</title>
+    <subTitle>Index</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/60087717">
+    <namePart>Ahlberg, Axel Wilhelm</namePart>
+    <namePart type="date">1874-1951</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <identifier type="viafurn">viaf60087717.viaf002</identifier>
+  <identifier>Perseus:text:2007.01.0026</identifier>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <part>
+    <extent unit="pages">
+      <start>162</start>
+      <end>170</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="Open Content Alliance">https://archive.org/stream/catilinaiugurtha00salluoft#page/162/mode/2up</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0026</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>C. Sallusti Crispi</title>
-        <subTitle>Catilina, Iugurtha, orationes et epistulae excerptae de historiis</subTitle>
+      <title>C. Sallusti Crispi</title>
+      <subTitle>Catilina, Iugurtha, orationes et epistulae excerptae de historiis</subTitle>
     </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-18348.html">
-            <namePart>Sallust</namePart>
-            <namePart type="date">86-34 B.C</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/60087717">
-        <namePart>Ahlberg, Axel Wilhelm</namePart>
-        <namePart type="date">1874-1951</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-18348.html">
+      <namePart>Sallust</namePart>
+      <namePart type="date">86-34 B.C</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/60087717">
+      <namePart>Ahlberg, Axel Wilhelm</namePart>
+      <namePart type="date">1874-1951</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">gw</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Lipsiae</placeTerm>
-        </place>
-        <publisher>in aedibus B. G. Teubneri</publisher>
-        <dateIssued>1919</dateIssued>
-        <edition>Editio Maior</edition>
-        <issuance>monographic</issuance>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1919</dateIssued>
+      <edition>Editio Maior</edition>
+      <issuance>monographic</issuance>
     </originInfo>
     <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>viii, 170 p. diagr. 19 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
+      <form authority="marcform">print</form>
+      <extent>viii, 170 p. diagr. 19 cm.</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
     </physicalDescription>
     <note type="statement of responsibility">recognovit Axel W. Ahlberg.</note>
     <subject authority="lcsh">
-        <geographic>Rome</geographic>
-        <topic>History</topic>
-        <temporal>Conspiracy of Catiline, 65-62 B.C</temporal>
+      <geographic>Rome</geographic>
+      <topic>History</topic>
+      <temporal>Conspiracy of Catiline, 65-62 B.C</temporal>
     </subject>
     <subject authority="lcsh">
-        <topic>Jugurthine War, 111-105 B.C</topic>
+      <topic>Jugurthine War, 111-105 B.C</topic>
     </subject>
     <classification authority="lcc">PA6104</classification>
     <identifier type="oclc">63596235</identifier>
     <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/63596235</url>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/63596235</url>
     </location>
     <location>
-        <url displayLabel="Open Content Alliance"
-            >http://www.archive.org/details/catilinaiugurtha00salluoft</url>
+      <url displayLabel="Open Content Alliance">http://www.archive.org/details/catilinaiugurtha00salluoft</url>
     </location>
     <relatedItem type="series">
-        <titleInfo>
-            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
-        </titleInfo>
-        <titleInfo>
-            <title>Teubner</title>
-        </titleInfo>
+      <titleInfo>
+        <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+      </titleInfo>
+      <titleInfo>
+        <title>Teubner</title>
+      </titleInfo>
     </relatedItem>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg"/>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

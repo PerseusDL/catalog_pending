@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Introduction to Commentary on Sophocles: Ajax</title>
   </titleInfo>
-  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-    valueURI="http://viaf.org/viaf/2603144">
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2603144">
     <namePart>Jebb, Richard Claverhouse</namePart>
     <namePart type="termsOfAddress">Sir</namePart>
     <namePart type="date">1841-1905</namePart>
@@ -28,8 +26,7 @@
     </extent>
   </part>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0024:text=intro</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0024:text=intro</url>
   </location>
   <location>
     <url displayLabel="GoogleBooks">https://books.google.com/books?id=vZ5zAAAAIAAJ&amp;pg=PP15</url>
@@ -42,15 +39,13 @@
       <partNumber>Part 7</partNumber>
       <partName>The Ajax</partName>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-127755.html">
       <namePart>Sophocles</namePart>
       <role>
         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
       </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-39216.html">
       <namePart>Jebb, Richard Claverhouse</namePart>
       <namePart type="termsOfAddress">Sir</namePart>
       <namePart type="date">1841-1905.</namePart>

@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Polygonotos and His Group</title>
-    </titleInfo>
-    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/73991910"> 
-        <namePart>Matheson, Susan B.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <identifier type="viafurn">viaf73991910.viaf001</identifier> 
-    <identifier>Perseus:text:1999.04.0015</identifier>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <dateIssued>1999</dateIssued>
-        <dateCreated>1998</dateCreated>
-        <publisher>Perseus Digital Library</publisher>
-        <place>
-            <placeTerm>Tufts University</placeTerm>
-            <placeTerm>Medford, MA</placeTerm>
-        </place>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <digitalOrigin>born digital</digitalOrigin>
-          </physicalDescription>
-    <location>
-        <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0015</url>
-    </location>       
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Polygonotos and His Group</title>
+  </titleInfo>
+  <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" valueURI="http://viaf.org/viaf/73991910">
+    <namePart>Matheson, Susan B.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <identifier type="viafurn">viaf73991910.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0015</identifier>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <dateIssued>1999</dateIssued>
+    <dateCreated>1998</dateCreated>
+    <publisher>Perseus Digital Library</publisher>
+    <place>
+      <placeTerm>Tufts University</placeTerm>
+      <placeTerm>Medford, MA</placeTerm>
+    </place>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <digitalOrigin>born digital</digitalOrigin>
+  </physicalDescription>
+  <location>
+    <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0015</url>
+  </location>
 </mods>

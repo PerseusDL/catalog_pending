@@ -1,125 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+  <titleInfo>
+    <title>Commentary on Hymn 16 to Asclepius</title>
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr91-18023.html">
+    <namePart>Allen, Thomas W. (Thomas William)</namePart>
+    <namePart type="date">b. 1862</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-79304.html">
+    <namePart>Sikes, E. E. (Edward Ernest)</namePart>
+    <namePart type="date">1867-1940</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!--     <identifier type="tlg" displayLabel="IsCommentaryOn">0013.016</identifier> -->
+  <identifier>Perseus:text:1999.04.0029:text=comm:poem=16</identifier>
+  <identifier type="viafurn">viaf113122402.viaf016</identifier>
+  <location>
+    <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0029:text=comm:poem=16</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Commentary on Hymn 16 to Asclepius</title>
+      <nonSort>The </nonSort>
+      <title>Homeric hymns</title>
+      <partName>Commentary</partName>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/nr91-18023.html">
-        <namePart>Allen, Thomas W. (Thomas William)</namePart>
-        <namePart type="date">b. 1862</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <titleInfo xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="uniform" ns2:href="http://errol.oclc.org/laf/n82-234462.html">
+      <title>Homeric hymns.</title>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n78-95639.html">
+      <namePart>Homer</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n79-79304.html">
-        <namePart>Sikes, E. E. (Edward Ernest)</namePart>
-        <namePart type="date">1867-1940</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr91-18023.html">
+      <namePart>Allen, Thomas W. (Thomas William)</namePart>
+      <namePart type="date">b. 1862</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-79304.html">
+      <namePart>Sikes, E. E. (Edward Ernest)</namePart>
+      <namePart type="date">1867-1940</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marc">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New York</placeTerm>
+      </place>
+      <publisher>Macmillan and Co.</publisher>
+      <dateIssued>1904</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <!--     <identifier type="tlg" displayLabel="IsCommentaryOn">0013.016</identifier> -->
-    <identifier>Perseus:text:1999.04.0029:text=comm:poem=16</identifier>
-    <identifier type="viafurn">viaf113122402.viaf016</identifier>    
-    <location>
-        <url displayLabel="Perseus"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0029:text=comm:poem=16</url>
-    </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <nonSort>The </nonSort>
-            <title>Homeric hymns</title>
-            <partName>Commentary</partName>
-        </titleInfo>
-        <titleInfo authority="naf" type="uniform" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n82-234462.html">
-            <title>Homeric hymns.</title>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n78-95639.html">
-            <namePart>Homer</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/nr91-18023.html">
-            <namePart>Allen, Thomas W. (Thomas William)</namePart>
-            <namePart type="date">b. 1862</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-79304.html">
-            <namePart>Sikes, E. E. (Edward Ernest)</namePart>
-            <namePart type="date">1867-1940</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <genre authority="marc">bibliography</genre>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">enk</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">New York</placeTerm>
-            </place>
-            <publisher>Macmillan and Co.</publisher>
-            <dateIssued>1904</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="notes">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>lxxviii, 330 p. ; 23 cm..</extent>
-        </physicalDescription>
-        <note>Perseus used the English commentary from this text only.</note>
-        <note type="statement of responsibility">edited, with preface, apparatus criticus, notes,
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>lxxviii, 330 p. ; 23 cm..</extent>
+    </physicalDescription>
+    <note>Perseus used the English commentary from this text only.</note>
+    <note type="statement of responsibility">edited, with preface, apparatus criticus, notes,
             and appendices by Thomas W. Allen and E.E. Sikes.</note>
-        <subject authority="lcsh">
-            <topic>Hymns, Greek (Classical)</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Gods, Greek</topic>
-            <topic>Poetry</topic>
-        </subject>
-        <classification authority="lcc">PA4023 .H8</classification>
-        <classification authority="ddc">883.1</classification>
-        <identifier type="oclc">32944910</identifier>
-        <identifier>Perseus:text:1999.04.0029</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://worldcat.org/oclc/32944910</url>
-        </location>
-        <location>
-            <url displayLabel="Perseus" note="English"
-                >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0029</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/homerichymnsedit00homeuoft</url>
-        </location>
-        <location>
-            <url displayLabel="Open Library"
-                >http://www.openlibrary.org/details/homerichymnsedit00homeuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"> </recordChangeDate>
-            <recordIdentifier> </recordIdentifier>
-        </recordInfo>
-    </relatedItem>
+    <subject authority="lcsh">
+      <topic>Hymns, Greek (Classical)</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Gods, Greek</topic>
+      <topic>Poetry</topic>
+    </subject>
+    <classification authority="lcc">PA4023 .H8</classification>
+    <classification authority="ddc">883.1</classification>
+    <identifier type="oclc">32944910</identifier>
+    <identifier>Perseus:text:1999.04.0029</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/32944910</url>
+    </location>
+    <location>
+      <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0029</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">http://www.archive.org/details/homerichymnsedit00homeuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library">http://www.openlibrary.org/details/homerichymnsedit00homeuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"> </recordChangeDate>
+      <recordIdentifier> </recordIdentifier>
+    </recordInfo>
+  </relatedItem>
 </mods>

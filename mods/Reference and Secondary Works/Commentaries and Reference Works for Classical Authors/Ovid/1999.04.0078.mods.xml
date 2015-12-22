@@ -1,111 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3
-    http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
-<titleInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3     http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+  <titleInfo>
     <title>The Metamorphoses of Ovid, Books XIII and XIV</title>
     <subTitle>Notes</subTitle>
-</titleInfo>    
-    <name authority="none" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="">
-        <namePart>Simmons, Charles</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <!--  <identifier type="phi" displayLabel="IsCommentaryOn">959.6</identifier> -->
-    <identifier type="viafurn"></identifier>
-    <identifier>Perseus:text:1999.04.0078</identifier>
-    <part>
-        <extent unit="pages">
-            <start>78</start>
-            <end>244</end>
-        </extent>
-    </part>
-    <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044011015641?urlappend=%3Bseq=174</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0078</url>
-    </location>
-    
-    <relatedItem type="host"> 
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="none" type="personal" ns2:href="">
+    <namePart>Simmons, Charles</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!--  <identifier type="phi" displayLabel="IsCommentaryOn">959.6</identifier> -->
+  <identifier type="viafurn"/>
+  <identifier>Perseus:text:1999.04.0078</identifier>
+  <part>
+    <extent unit="pages">
+      <start>78</start>
+      <end>244</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044011015641?urlappend=%3Bseq=174</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0078</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>P. Ovidii Nasonis metamorphoseon XIII. XIV</title>
-        <subTitle>The metamorphoses of Ovid, book XIII and XIV</subTitle>
+      <title>P. Ovidii Nasonis metamorphoseon XIII. XIV</title>
+      <subTitle>The metamorphoses of Ovid, book XIII and XIV</subTitle>
     </titleInfo>
     <titleInfo type="uniform">
-        <title>Metamorphoses</title>
+      <title>Metamorphoses</title>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n79-41738.html">
-        <namePart>Ovid</namePart>
-        <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-41738.html">
+      <namePart>Ovid</namePart>
+      <namePart type="date">43 B.C.-17 or 18 A.D</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <name authority="none" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="">
-        <namePart>Simmons, Charles</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="none" type="personal" ns2:href="">
+      <namePart>Simmons, Charles</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <genre authority="marc">bibliography</genre>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Macmillan</publisher>
-        <dateIssued>1899</dateIssued>
-        <issuance>monographic</issuance>
-        <edition>Second Edition</edition>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Macmillan</publisher>
+      <dateIssued>1899</dateIssued>
+      <issuance>monographic</issuance>
+      <edition>Second Edition</edition>
     </originInfo>
     <language objectPart="introduction">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
     <language objectPart="notes">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
     <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <digitalOrigin>digitized other analog</digitalOrigin>
+      <form authority="marcform">print</form>
+      <digitalOrigin>digitized other analog</digitalOrigin>
     </physicalDescription>
     <note type="statement of responsibility">edited with introduction, analysis and notes by Charles
         Simmons.</note>
     <note>Includes index.</note>
     <subject authority="lcsh">
-        <topic>Metamorphosis</topic>
-        <topic>Mythology</topic>
-        <topic>Poetry</topic>
+      <topic>Metamorphosis</topic>
+      <topic>Mythology</topic>
+      <topic>Poetry</topic>
     </subject>
     <subject authority="lcsh">
-        <topic>Mythology, Classical</topic>
-        <topic>Poetry</topic>
+      <topic>Mythology, Classical</topic>
+      <topic>Poetry</topic>
     </subject>
     <subject authority="lcsh">
-        <topic>Fables, Latin</topic>
+      <topic>Fables, Latin</topic>
     </subject>
     <classification authority="lcc">PA6519</classification>
-        <identifier type="oclc">902991996</identifier>
-        <location><url displayLabel="WorldCat">http://www.worldcat.org/oclc/902991996</url></location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044011015641</url>
-        </location>
+    <identifier type="oclc">902991996</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/902991996</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044011015641</url>
+    </location>
     <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
     </recordInfo>
-    </relatedItem>
+  </relatedItem>
 </mods>

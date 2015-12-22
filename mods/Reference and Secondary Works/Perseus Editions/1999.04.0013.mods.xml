@@ -1,45 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>The</nonSort>
-        <title>Kleophrades Painter</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/58944394">
-        <namePart>Padgett, J. Michael</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <identifier type="viafurn">viaf58944394.viaf002</identifier>
-    <identifier>Perseus:text:1999.04.0013</identifier>
-    <physicalDescription>
-        <digitalOrigin>born digital</digitalOrigin>
-    </physicalDescription>
-    <originInfo>
-        <dateCreated>1999</dateCreated>
-        <publisher>Perseus Digital Library</publisher>
-        <place>
-            <placeTerm>Tufts University</placeTerm>
-            <placeTerm>Medford, MA</placeTerm>
-        </place>
-    </originInfo>
-    <location>
-        <url displayLabel="Worldcat"
-            >http://www.worldcat.org/oclc/315313333</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0013</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg"/>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>Kleophrades Painter</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/58944394">
+    <namePart>Padgett, J. Michael</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf58944394.viaf002</identifier>
+  <identifier>Perseus:text:1999.04.0013</identifier>
+  <physicalDescription>
+    <digitalOrigin>born digital</digitalOrigin>
+  </physicalDescription>
+  <originInfo>
+    <dateCreated>1999</dateCreated>
+    <publisher>Perseus Digital Library</publisher>
+    <place>
+      <placeTerm>Tufts University</placeTerm>
+      <placeTerm>Medford, MA</placeTerm>
+    </place>
+  </originInfo>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/315313333</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0013</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

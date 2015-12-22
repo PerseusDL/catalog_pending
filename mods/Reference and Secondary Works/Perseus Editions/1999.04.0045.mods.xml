@@ -1,58 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <title>Greek vase-painting in Midwestern collections</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/127577/">
-        <namePart>Moon, Warren G.</namePart>
-        <namePart type="date">1945-1992</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">ilu</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Chicago</placeTerm>
-        </place>
-        <publisher>Chicago Art Institute</publisher>
-        <dateIssued>1979</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">Warren G. Moon, Louise Berge.</note>
-    <note>Catalogue of an exhibition held at the Art Institute of Chicago, December 22, 1979-February 24, 1980.</note>
-    <subject authority="lcsh">
-        <topic>Vase-painting, Greek</topic>
-        <topic>Exhibitions</topic>
-    </subject>
-    <identifier type="oclc">6433970</identifier>
-    <identifier type="viafurn">viaf127577.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0045</identifier>
-    <location>
-        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/6433970</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0045</url>
-    </location>
-    <recordInfo>
-        <descriptionStandard>aacr</descriptionStandard>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-        <recordOrigin/>
-    </recordInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Greek vase-painting in Midwestern collections</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/127577/">
+    <namePart>Moon, Warren G.</namePart>
+    <namePart type="date">1945-1992</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">ilu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Chicago</placeTerm>
+    </place>
+    <publisher>Chicago Art Institute</publisher>
+    <dateIssued>1979</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Warren G. Moon, Louise Berge.</note>
+  <note>Catalogue of an exhibition held at the Art Institute of Chicago, December 22, 1979-February 24, 1980.</note>
+  <subject authority="lcsh">
+    <topic>Vase-painting, Greek</topic>
+    <topic>Exhibitions</topic>
+  </subject>
+  <identifier type="oclc">6433970</identifier>
+  <identifier type="viafurn">viaf127577.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0045</identifier>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/6433970</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0045</url>
+  </location>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+    <recordOrigin/>
+  </recordInfo>
 </mods>

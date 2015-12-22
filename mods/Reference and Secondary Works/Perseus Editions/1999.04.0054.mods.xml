@@ -1,77 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <nonSort>A</nonSort>
-        <title>topographical dictionary of ancient Rome</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54512956">
-        <namePart>Platner, Samuel Ball</namePart>
-        <namePart type="date">1863-1921</namePart>
-        <role>
-            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-        </role>
-    </name>
-    <name  authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27195339">
-        <namePart>Ashby, Thomas</namePart>
-        <namePart type="date">1874-1931</namePart>
-        <role>
-            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <genre authority="marcgt">dictionary</genre>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Oxford University Press, H. Milford</publisher>
-        <dateIssued>1929</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xxiii, 609 p. plates, maps (1 fold.) plans. 25 cm.</extent>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">by Samuel Ball Platner, completed and revised by Thomas Ashby.</note>
-    <subject authority="lcsh">
-        <geographic>Rome (Italy)</geographic>
-        <topic>Antiquities</topic>
-    </subject>
-    <subject authority="lcsh">
-        <geographic>Rome (Italy)</geographic>
-        <topic>Description and travel</topic>
-    </subject>
-    <classification authority="lcc">DG16 .P685</classification>
-    <classification authority="ddc">913.376</classification>
-    <identifier type="lccn">30010804</identifier>
-    <identifier type="oclc">1061481</identifier>
-    <identifier type="viafurn">viaf27195339.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0054</identifier>
-    <location displayLabel="Worldcat">
-        <url>http://worldcat.org/oclc/1061481</url>
-    </location>
-    <location>
-        <url
-            displayLabel="University of Chicago"
-            >http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DG16.P72</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">741030</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20100423083950.0</recordChangeDate>
-        <recordIdentifier>6873183</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>topographical dictionary of ancient Rome</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54512956">
+    <namePart>Platner, Samuel Ball</namePart>
+    <namePart type="date">1863-1921</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27195339">
+    <namePart>Ashby, Thomas</namePart>
+    <namePart type="date">1874-1931</namePart>
+    <role>
+      <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">dictionary</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Oxford University Press, H. Milford</publisher>
+    <dateIssued>1929</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xxiii, 609 p. plates, maps (1 fold.) plans. 25 cm.</extent>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Samuel Ball Platner, completed and revised by Thomas Ashby.</note>
+  <subject authority="lcsh">
+    <geographic>Rome (Italy)</geographic>
+    <topic>Antiquities</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Rome (Italy)</geographic>
+    <topic>Description and travel</topic>
+  </subject>
+  <classification authority="lcc">DG16 .P685</classification>
+  <classification authority="ddc">913.376</classification>
+  <identifier type="lccn">30010804</identifier>
+  <identifier type="oclc">1061481</identifier>
+  <identifier type="viafurn">viaf27195339.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0054</identifier>
+  <location displayLabel="Worldcat">
+    <url>http://worldcat.org/oclc/1061481</url>
+  </location>
+  <location>
+    <url displayLabel="University of Chicago">http://www.lib.uchicago.edu/cgi-bin/eos/eos_title.pl?callnum=DG16.P72</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0054</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">741030</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100423083950.0</recordChangeDate>
+    <recordIdentifier>6873183</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

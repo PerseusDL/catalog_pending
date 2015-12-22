@@ -1,113 +1,109 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Commentary on Demosthenes</title>
+    <subTitle>Contra Lacritum</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17307266/">
+    <namePart>Paley, Frederick Apthorp,</namePart>
+    <namePart type="date">1815-1888</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/12378705/">
+    <namePart>Sandys, John Edwin</namePart>
+    <namePart type="date">1844-1922</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf17307266.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0085:speech=34</identifier>
+  <!--     <identifier type="tlg" displayLabel="IsCommentaryOn">0014.034</identifier> -->
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0085:speech=34</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Commentary on Demosthenes</title>
-        <subTitle>Contra Lacritum</subTitle>
+      <title>Select private orations of Demosthenes</title>
+      <partNumber>Part I</partNumber>
     </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-63465.html">
+      <namePart>Demosthenes.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17307266/">
-        <namePart>Paley, Frederick Apthorp,</namePart>
-        <namePart type="date">1815-1888</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+      <namePart>Paley, Frederick Apthorp,</namePart>
+      <namePart type="date">1815-1888</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/12378705/">
-        <namePart>Sandys, John Edwin</namePart>
-        <namePart type="date">1844-1922</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <identifier type="viafurn">viaf17307266.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0085:speech=34</identifier>
-    <!--     <identifier type="tlg" displayLabel="IsCommentaryOn">0014.034</identifier> -->
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0085:speech=34</url>
-    </location>    
-    <relatedItem type="host">
-    <titleInfo>
-        <title>Select private orations of Demosthenes</title>
-        <partNumber>Part I</partNumber>
-    </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n79-63465.html">
-        <namePart>Demosthenes.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17307266/">
-            <namePart>Paley, Frederick Apthorp,</namePart>
-            <namePart type="date">1815-1888</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/12378705/">
-        <namePart>Sandys, John Edwin</namePart>
-        <namePart type="date">1844-1922</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
+      <namePart>Sandys, John Edwin</namePart>
+      <namePart type="date">1844-1922</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Cambridge</placeTerm>
-        </place>
-        <publisher>Cambridge University Press</publisher>
-        <dateIssued>1898</dateIssued>
-        <issuance>monographic</issuance>
-        <edition>3rd ed., revised</edition>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>Cambridge University Press</publisher>
+      <dateIssued>1898</dateIssued>
+      <issuance>monographic</issuance>
+      <edition>3rd ed., revised</edition>
     </originInfo>
     <language objectPart="notes">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
     </language>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent></extent>
+      <form authority="marcform">print</form>
+      <extent/>
     </physicalDescription>
-        <tableOfContents>Containing Contra Phormionem, Lacritum, Pantaenetum, Boeotum de nomine, Boeotum de dote, Dionysodorum</tableOfContents>
+    <tableOfContents>Containing Contra Phormionem, Lacritum, Pantaenetum, Boeotum de nomine, Boeotum de dote, Dionysodorum</tableOfContents>
     <note type="statement of responsibility" altRepGroup="00">parts I with introductions and English commentary by F. A. Paley,
         with supplementary notes by J. E. Sandys</note>
     <note>Text in Greek.</note>
     <note>Includes indexes.</note>
     <subject authority="lcsh">
-        <topic>Speeches, addresses, etc., Greek</topic>
+      <topic>Speeches, addresses, etc., Greek</topic>
     </subject>
     <subject authority="lcsh">
-        <geographic>Athens (Greece)</geographic>
-        <topic>Politics and government</topic>
-        <genre>Early works to 1800</genre>
+      <geographic>Athens (Greece)</geographic>
+      <topic>Politics and government</topic>
+      <genre>Early works to 1800</genre>
     </subject>
     <classification authority="lcc">PA3949 .A7</classification>
     <classification authority="ddc">885/.01</classification>
-        <identifier type="oclc">654694634</identifier>
-       <location>
-           <url displayLabel="Worldcat">http://www.worldcat.org/oclc/308111</url>
-       </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b4028942</url>
-        </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"></recordCreationDate>
-        <recordChangeDate encoding="iso8601"></recordChangeDate>
-        <recordIdentifier></recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+    <identifier type="oclc">654694634</identifier>
+    <location>
+      <url displayLabel="Worldcat">http://www.worldcat.org/oclc/308111</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b4028942</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

@@ -1,104 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>De officiis:  introduction and bibliography</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/24678621">
-        <namePart>Miller, Walter</namePart>
-        <namePart type="date">1864-1949</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <identifier>Perseus:text:2007.01.0051</identifier>
-    <!-- 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>De officiis:  introduction and bibliography</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24678621">
+    <namePart>Miller, Walter</namePart>
+    <namePart type="date">1864-1949</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier>Perseus:text:2007.01.0051</identifier>
+  <!-- 
     <identifier type="Perseus:abo" displayLabel="isIntroductionTo">Perseus:abo:phi,0474,055</identifier> -->
-    <identifier type="viafurn">viaf24678621.viaf003</identifier>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0051</url>
-    </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>De officiis</title>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-32166.html">
-            <namePart>Cicero, Marcus Tullius.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n88-622162.html">
-            <namePart>Miller, Walter</namePart>
-            <namePart type="date">1864-1949</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <dateIssued>1913</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xix, 423, p. ; 17 cm.</extent>
-        </physicalDescription>
-        <note>Latin and English on opposite pages.</note>
-        <note>Bibliography: p. xv-xix.</note>
-        <subject authority="lcsh">
-            <topic>Ethics</topic>
-            <topic>Early works to 1800</topic>
-        </subject>
-        <classification authority="lcc">PA6156.C6</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library</title>
-            </titleInfo>
-        </relatedItem>
-        <relatedItem type="series">
-            <titleInfo type="abbreviated">
-                <title>Loeb</title>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="oclc">51786301</identifier>
-        <identifier type="isbn">0674990331</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/51786301</url>
-        </location>
-        <location>
-            <url displayLabel="GoogleBooks" note="Original Edition"
-                >http://books.google.com/books?id=tKb-ah7iIgAC</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/deofficiiswithen00ciceuoft</url>
-        </location>
+  <identifier type="viafurn">viaf24678621.viaf003</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0051</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>De officiis</title>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+      <namePart>Cicero, Marcus Tullius.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n88-622162.html">
+      <namePart>Miller, Walter</namePart>
+      <namePart type="date">1864-1949</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>Harvard University Press</publisher>
+      <dateIssued>1913</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xix, 423, p. ; 17 cm.</extent>
+    </physicalDescription>
+    <note>Latin and English on opposite pages.</note>
+    <note>Bibliography: p. xv-xix.</note>
+    <subject authority="lcsh">
+      <topic>Ethics</topic>
+      <topic>Early works to 1800</topic>
+    </subject>
+    <classification authority="lcc">PA6156.C6</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>The Loeb classical library</title>
+      </titleInfo>
     </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+    <relatedItem type="series">
+      <titleInfo type="abbreviated">
+        <title>Loeb</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">51786301</identifier>
+    <identifier type="isbn">0674990331</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/51786301</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks" note="Original Edition">http://books.google.com/books?id=tKb-ah7iIgAC</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">http://www.archive.org/details/deofficiiswithen00ciceuoft</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

@@ -1,101 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Protagoras</title>
+    <subTitle>Commentary</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/107078652">
+    <namePart>Adam, James</namePart>
+    <namePart type="date">1860-1907</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr87-839.html">
+    <namePart>Adam, Adela Marion</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <identifier type="viafurn">viaf107078652.viaf001</identifier>
+  <!--<identifier type="tlg" displayLabel="IsCommentaryOn">0059.022</identifier>-->
+  <identifier>Perseus:text:1999.04.0093</identifier>
+  <part>
+    <extent unit="pages">
+      <start>75</start>
+      <end>193</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0093</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Protagoras</title>
-        <subTitle>Commentary</subTitle>
+      <title>Platonis Protagoras</title>
     </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/107078652">
-        <namePart>Adam, James</namePart>
-        <namePart type="date">1860-1907</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-139459.html">
+      <namePart>Plato</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/nr87-839.html">
-        <namePart>Adam, Adela Marion</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/107078652">
+      <namePart>Adam, James</namePart>
+      <namePart type="date">1860-1907</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
-    <identifier type="viafurn">viaf107078652.viaf001</identifier>
-    <!--<identifier type="tlg" displayLabel="IsCommentaryOn">0059.022</identifier>-->
-    <identifier>Perseus:text:1999.04.0093</identifier>
-    <part>
-        <extent unit="pages">
-            <start>75</start>
-            <end>193</end>
-        </extent>
-    </part>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0093</url>
-    </location>
-    <relatedItem type="host">
-    <titleInfo>
-        <title>Platonis Protagoras</title>
-    </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-139459.html">
-            <namePart>Plato</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/107078652">
-        <namePart>Adam, James</namePart>
-        <namePart type="date">1860-1907</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/nr87-839.html">
-        <namePart>Adam, Adela Marion</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr87-839.html">
+      <namePart>Adam, Adela Marion</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Cambridge</placeTerm>
-        </place>
-        <publisher>The University press</publisher>
-        <dateIssued>1893</dateIssued>
-        <issuance>monographic</issuance>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>The University press</publisher>
+      <dateIssued>1893</dateIssued>
+      <issuance>monographic</issuance>
     </originInfo>
-        <language objectPart="eng">
-            <languageTerm type="code" authority="iso639-2b">notes</languageTerm>
-        </language>
+    <language objectPart="eng">
+      <languageTerm type="code" authority="iso639-2b">notes</languageTerm>
+    </language>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xxxvii, 213 p. 18 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
+      <form authority="marcform">print</form>
+      <extent>xxxvii, 213 p. 18 cm.</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
     </physicalDescription>
     <classification authority="lcc">PA4279 .P8 1893</classification>
     <identifier type="oclc">2108007</identifier>
     <location>
-        <url displayLabel="WorldCat">http://worldcat.org/oclc/2108007</url>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/2108007</url>
     </location>
     <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uiug.30112063006172</url>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uiug.30112063006172</url>
     </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

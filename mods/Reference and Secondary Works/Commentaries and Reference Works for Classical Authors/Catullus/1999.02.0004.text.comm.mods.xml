@@ -1,75 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Catullus</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/159935921">
+    <namePart>Merrill, Elmer Truesdell</namePart>
+    <namePart type="date">1860-1936</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier>Perseus:text:1999.02.0004:text=comm</identifier>
+  <identifier type="viafurn">viaf159935921.viaf001</identifier>
+  <!-- <identifier type="phi" displayLabel="IsCommentaryOn">472.1</identifier> -->
+  <location>
+    <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0004:text=comm</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Commentary on Catullus</title>
+      <title>Catullus</title>
     </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/159935921">
-        <namePart>Merrill, Elmer Truesdell</namePart>
-        <namePart type="date">1860-1936</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-6943.html">
+      <namePart>Catullus, Gaius Valerius.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n87-125966.html">
+      <namePart>Merrill, Elmer Truesdell</namePart>
+      <namePart type="date">1860-1936</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>[Harvard University Press]</publisher>
+      <dateIssued>[1893]</dateIssued>
+      <dateIssued encoding="marc">1893</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
     <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
-    <identifier>Perseus:text:1999.02.0004:text=comm</identifier>
-    <identifier type="viafurn">viaf159935921.viaf001</identifier>
-    <!-- <identifier type="phi" displayLabel="IsCommentaryOn">472.1</identifier> -->
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>1, 273 p. 19 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility"> ed. by Elmer Truesdell Merrill.</note>
+    <classification authority="lcc">PA6274 .A2</classification>
+    <identifier type="oclc">8121753</identifier>
+    <!-- <identifier type="phi">472.1</identifier> -->
     <location>
-        <url displayLabel="Perseus"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0004:text=comm</url>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106005763302</url>
     </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Catullus</title>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-6943.html">
-            <namePart>Catullus, Gaius Valerius.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n87-125966.html">
-            <namePart>Merrill, Elmer Truesdell</namePart>
-            <namePart type="date">1860-1936</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>[Harvard University Press]</publisher>
-            <dateIssued>[1893]</dateIssued>
-            <dateIssued encoding="marc">1893</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>1, 273 p. 19 cm.</extent>
-        </physicalDescription>
-        <note type="statement of responsibility"> ed. by Elmer Truesdell Merrill.</note>
-        <classification authority="lcc">PA6274 .A2</classification>
-        <identifier type="oclc">8121753</identifier>
-        <!-- <identifier type="phi">472.1</identifier> -->
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.32106005763302</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/8121753</url>
-        </location>
-    </relatedItem>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/8121753</url>
+    </location>
+  </relatedItem>
 </mods>

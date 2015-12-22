@@ -1,77 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">    
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Demosthenis Orationes ex recensione Guilielmi Dindorfii</title>
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-63465.html">
+    <namePart>Demosthenes.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Blass, Friedrich</namePart>
+    <namePart type="date">1843-1907</namePart>
+    <role>
+      <roleTerm type="text">ed.</roleTerm>
+    </role>
+  </name>
+  <name type="personal">
+    <namePart>Dindorf, Wilhelm</namePart>
+    <namePart type="date">1802-1883</namePart>
+    <role>
+      <roleTerm type="text">ed.</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Lipsiae</placeTerm>
+    </place>
+    <publisher>in aedibus B.G. Teubneri</publisher>
+    <dateIssued>1892-1901</dateIssued>
+    <dateIssued point="start" encoding="marc">1892</dateIssued>
+    <dateIssued point="end" encoding="marc">1901</dateIssued>
+    <edition>Editio minor steretotypa.</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language>
+    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>3 v. 18 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Vol 1, 1901; v. 2, 1900; v. 3: editio minor, 1892.</tableOfContents>
+  <note type="statement of responsibility" altRepGroup="00">Editio quarta correctior curante Friderico Blass. Editio minor steretotypa.</note>
+  <subject authority="lcsh">
+    <topic>Speeches, addresses, etc., Greek</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Athens (Greece)</geographic>
+    <topic>Politics and government</topic>
+    <genre>Early works to 1800</genre>
+  </subject>
+  <classification authority="lcc">PA3404 .D3 1901</classification>
+  <relatedItem type="series">
     <titleInfo>
-        <title>Demosthenis Orationes ex recensione Guilielmi Dindorfii</title>
+      <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.g.]</title>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n79-63465.html">
-        <namePart>Demosthenes.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart>Blass, Friedrich</namePart>
-        <namePart type="date">1843-1907</namePart>
-        <role>
-            <roleTerm type="text">ed.</roleTerm>
-        </role>
-    </name>
-    <name type="personal">
-        <namePart>Dindorf, Wilhelm</namePart>
-        <namePart type="date">1802-1883</namePart>
-        <role>
-            <roleTerm type="text">ed.</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">gw</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Lipsiae</placeTerm>
-        </place>
-        <publisher>in aedibus B.G. Teubneri</publisher>
-        <dateIssued>1892-1901</dateIssued>
-        <dateIssued point="start" encoding="marc">1892</dateIssued>
-        <dateIssued point="end" encoding="marc">1901</dateIssued>
-        <edition>Editio minor steretotypa.</edition>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language>
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>3 v. 18 cm.</extent>
-    </physicalDescription>
-    <tableOfContents>Vol 1, 1901; v. 2, 1900; v. 3: editio minor, 1892.</tableOfContents>
-    <note type="statement of responsibility" altRepGroup="00">Editio quarta correctior curante Friderico Blass. Editio minor steretotypa.</note>
-    <subject authority="lcsh">
-        <topic>Speeches, addresses, etc., Greek</topic>
-    </subject>
-    <subject authority="lcsh">
-        <geographic>Athens (Greece)</geographic>
-        <topic>Politics and government</topic>
-        <genre>Early works to 1800</genre>
-    </subject>
-    <classification authority="lcc">PA3404 .D3 1901</classification>
-    <relatedItem type="series">
-        <titleInfo>
-            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.g.]</title>
-        </titleInfo>
-    </relatedItem>
-    <identifier type="lccn">34019036</identifier>
-    <identifier type="oclc">1903468</identifier>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">751223</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20031022131335.0</recordChangeDate>
-        <recordIdentifier>8761179</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  </relatedItem>
+  <identifier type="lccn">34019036</identifier>
+  <identifier type="oclc">1903468</identifier>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">751223</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20031022131335.0</recordChangeDate>
+    <recordIdentifier>8761179</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

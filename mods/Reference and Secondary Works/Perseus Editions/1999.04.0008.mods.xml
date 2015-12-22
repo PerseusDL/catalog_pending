@@ -1,86 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>One Hundred Greek Sculptors, Their Careers and Extant Works</title>
+  </titleInfo>
+  <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100291618">
+    <namePart>Stewart, Andrew F.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf100291618.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0008</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0008</url>
+  </location>
+  <note>This online work is part of an adapation of Part III of the host work.</note>
+  <relatedItem type="host">
     <titleInfo>
-        <title>One Hundred Greek Sculptors, Their Careers and Extant Works</title>
+      <title>Greek sculpture</title>
+      <subTitle>an exploration</subTitle>
     </titleInfo>
-    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/100291618">
-        <namePart>Stewart, Andrew F.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100291618">
+      <namePart>Stewart, Andrew F.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">ctu</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">New Haven</placeTerm>
+      </place>
+      <publisher>Yale University Press</publisher>
+      <dateIssued>c1990</dateIssued>
+      <dateIssued encoding="marc">1990</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
     </language>
-    <identifier type="viafurn">viaf100291618.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0008</identifier>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>2 v. : ill. ; 30 cm.</extent>
+    </physicalDescription>
+    <tableOfContents>v. 1. Text -- v. 2. Plates.</tableOfContents>
+    <note type="statement of responsibility" altRepGroup="00">Andrew Stewart.</note>
+    <note>Includes index.</note>
+    <note type="bibliography">Bibliography: v. 1, p. 349-365.</note>
+    <subject>
+      <geographicCode authority="marcgac">e-gr---</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Sculpture, Greek</topic>
+    </subject>
+    <classification authority="lcc">NB90 .S74 1990</classification>
+    <classification authority="ddc" edition="20">733/.3</classification>
+    <identifier type="isbn">0300040725 (set : alk. paper)</identifier>
+    <identifier type="lccn">89009024</identifier>
+    <identifier type="oclc">19668783</identifier>
     <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0008</url>
+      <url displayLabel="Worldcat">http://worldcat.org/oclc/19668783</url>
     </location>
-    <note>This online work is part of an adapation of Part III of the host work.</note>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Greek sculpture</title>
-            <subTitle>an exploration</subTitle>
-        </titleInfo>
-        <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/100291618">
-            <namePart>Stewart, Andrew F.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <genre authority="marcgt">bibliography</genre>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">ctu</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">New Haven</placeTerm>
-            </place>
-            <publisher>Yale University Press</publisher>
-            <dateIssued>c1990</dateIssued>
-            <dateIssued encoding="marc">1990</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language>
-            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>2 v. : ill. ; 30 cm.</extent>
-        </physicalDescription>
-        <tableOfContents>v. 1. Text -- v. 2. Plates.</tableOfContents>
-        <note type="statement of responsibility" altRepGroup="00">Andrew Stewart.</note>
-        <note>Includes index.</note>
-        <note type="bibliography">Bibliography: v. 1, p. 349-365.</note>
-        <subject>
-            <geographicCode authority="marcgac">e-gr---</geographicCode>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Sculpture, Greek</topic>
-        </subject>
-        <classification authority="lcc">NB90 .S74 1990</classification>
-        <classification authority="ddc" edition="20">733/.3</classification>
-        <identifier type="isbn">0300040725 (set : alk. paper)</identifier>
-        <identifier type="lccn">89009024</identifier>
-        <identifier type="oclc">19668783</identifier>
-        <location>
-            <url displayLabel="Worldcat">http://worldcat.org/oclc/19668783</url>
-        </location>
-        <recordInfo>
-            <descriptionStandard>aacr</descriptionStandard>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">890417</recordCreationDate>
-            <recordChangeDate encoding="iso8601">19900725124243.4</recordChangeDate>
-            <recordIdentifier>1507653</recordIdentifier>
-            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+    <recordInfo>
+      <descriptionStandard>aacr</descriptionStandard>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">890417</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19900725124243.4</recordChangeDate>
+      <recordIdentifier>1507653</recordIdentifier>
+      <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-        </recordInfo>
-    </relatedItem>
+    </recordInfo>
+  </relatedItem>
 </mods>

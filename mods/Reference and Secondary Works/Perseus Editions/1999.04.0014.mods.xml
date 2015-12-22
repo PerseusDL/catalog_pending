@@ -1,52 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Phintias and Euthymides</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56646848">
-        <namePart>Neils, Jenifer</namePart>
-        <namePart type="date">1950-</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">mau</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Medford</placeTerm>
-        </place>
-        <publisher>Perseus Digital Library</publisher>
-        <dateIssued>1999</dateIssued>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Phintias and Euthymides</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56646848">
+    <namePart>Neils, Jenifer</namePart>
+    <namePart type="date">1950-</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Medford</placeTerm>
+    </place>
+    <publisher>Perseus Digital Library</publisher>
+    <dateIssued>1999</dateIssued>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
     <digitalOrigin>born digital</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Vase-painting, Greek</topic>
-    </subject>
-    <identifier type="viafurn">viaf56646848.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0014</identifier>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0014</url>
-    </location>
-    <location>
-        <url displayLabel="Worldcat">http://www.worldcat.org/title/phintias-and-euthymides/oclc/315313280</url>
-    </location>
-    <recordInfo>
-        <descriptionStandard>aacr</descriptionStandard>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-        <recordOrigin/>
-    </recordInfo>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Vase-painting, Greek</topic>
+  </subject>
+  <identifier type="viafurn">viaf56646848.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0014</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0014</url>
+  </location>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/title/phintias-and-euthymides/oclc/315313280</url>
+  </location>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+    <recordOrigin/>
+  </recordInfo>
 </mods>

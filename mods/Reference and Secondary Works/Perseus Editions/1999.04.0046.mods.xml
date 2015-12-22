@@ -1,90 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <nonSort>The</nonSort>
-        <title>archaeological collection of the Johns Hopkins University</title>
-        <subTitle>Selections</subTitle>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/110696082">
-        <namePart>Williams, Ellen Reeder.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>archaeological collection of the Johns Hopkins University</title>
+    <subTitle>Selections</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/110696082">
+    <namePart>Williams, Ellen Reeder.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>Johns Hopkins University</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">sponsor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <genre authority="marcgt">bibliography</genre>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mdu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Baltimore</placeTerm>
+    </place>
+    <publisher>Johns Hopkins University Press</publisher>
+    <dateIssued>1984</dateIssued>
+    <dateIssued encoding="marc">1984</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xii, 211 p. : ill. ; 31 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">Ellen Reeder Williams.</note>
+  <note type="bibliography">Includes bibliographical references.</note>
+  <subject>
+    <geographicCode authority="marcgac">e-gr---</geographicCode>
+    <geographicCode authority="marcgac">aw-----</geographicCode>
+    <geographicCode authority="marcgac">n-us-md</geographicCode>
+  </subject>
+  <subject authority="lcsh">
     <name type="corporate">
-        <namePart>Johns Hopkins University</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">sponsor</roleTerm>
-        </role>
+      <namePart>Johns Hopkins University</namePart>
     </name>
-    <typeOfResource>text</typeOfResource>
-    <genre authority="marcgt">bibliography</genre>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">mdu</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Baltimore</placeTerm>
-        </place>
-        <publisher>Johns Hopkins University Press</publisher>
-        <dateIssued>1984</dateIssued>
-        <dateIssued encoding="marc">1984</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xii, 211 p. : ill. ; 31 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">Ellen Reeder Williams.</note>
-    <note type="bibliography">Includes bibliographical references.</note>
-    <subject>
-        <geographicCode authority="marcgac">e-gr---</geographicCode>
-        <geographicCode authority="marcgac">aw-----</geographicCode>
-        <geographicCode authority="marcgac">n-us-md</geographicCode>
-    </subject>
-    <subject authority="lcsh">
-        <name type="corporate">
-            <namePart>Johns Hopkins University</namePart>
-        </name>
-        <topic>Archaeological collections</topic>
-        <topic>Catalogs</topic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Classical antiquities</topic>
-        <topic>Catalogs</topic>
-    </subject>
-    <subject authority="lcsh">
-        <geographic>Middle East</geographic>
-        <topic>Antiquities</topic>
-        <topic>Catalogs</topic>
-    </subject>
-    <classification authority="lcc">DE46.5.B344 J64 1984</classification>
-    <classification authority="ddc" edition="19">930</classification>
-    <identifier type="isbn">0801830508</identifier>
-    <identifier type="lccn">83018699</identifier>
-    <identifier>Perseus:text:1999.04.0046</identifier>
-    <identifier type="viafurn">viaf110696082.viaf001</identifier>
-    <location>
-        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9970688</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0046</url>
-    </location>
-    <recordInfo>
-        <descriptionStandard>aacr</descriptionStandard>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">830829</recordCreationDate>
-        <recordChangeDate encoding="iso8601">19870212000000.0</recordChangeDate>
-        <recordIdentifier>1878746</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+    <topic>Archaeological collections</topic>
+    <topic>Catalogs</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Classical antiquities</topic>
+    <topic>Catalogs</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Middle East</geographic>
+    <topic>Antiquities</topic>
+    <topic>Catalogs</topic>
+  </subject>
+  <classification authority="lcc">DE46.5.B344 J64 1984</classification>
+  <classification authority="ddc" edition="19">930</classification>
+  <identifier type="isbn">0801830508</identifier>
+  <identifier type="lccn">83018699</identifier>
+  <identifier>Perseus:text:1999.04.0046</identifier>
+  <identifier type="viafurn">viaf110696082.viaf001</identifier>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9970688</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0046</url>
+  </location>
+  <recordInfo>
+    <descriptionStandard>aacr</descriptionStandard>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">830829</recordCreationDate>
+    <recordChangeDate encoding="iso8601">19870212000000.0</recordChangeDate>
+    <recordIdentifier>1878746</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

@@ -1,89 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.3">
-    <titleInfo>
-        <title>Syntax of classical Greek from Homer to Demosthenes</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/2490055">
-        <namePart>Gildersleeve, Basil L. (Basil Lanneau)</namePart>
-        <namePart type="date">1831-1924</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56998278">
-        <namePart>Miller, Charles William Emil</namePart>
-        <namePart type="date">1863-1934</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">contributor</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">New York</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Cincinnati [etc.]</placeTerm>
-        </place>
-        <publisher>American book company</publisher>
-        <dateIssued>[c1900-11]</dateIssued>
-        <dateIssued point="end" encoding="marc">1900</dateIssued>
-        <dateIssued qualifier="questionable" point="end" encoding="marc">1900</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>2 v.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Greek language</topic>
-        <topic>Syntax</topic>
-    </subject>
-    <tableOfContents>pt. 1. The syntax of the simple sentence, embracing the doctrine of the moods
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.3">
+  <titleInfo>
+    <title>Syntax of classical Greek from Homer to Demosthenes</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2490055">
+    <namePart>Gildersleeve, Basil L. (Basil Lanneau)</namePart>
+    <namePart type="date">1831-1924</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56998278">
+    <namePart>Miller, Charles William Emil</namePart>
+    <namePart type="date">1863-1934</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">contributor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cincinnati [etc.]</placeTerm>
+    </place>
+    <publisher>American book company</publisher>
+    <dateIssued>[c1900-11]</dateIssued>
+    <dateIssued point="end" encoding="marc">1900</dateIssued>
+    <dateIssued qualifier="questionable" point="end" encoding="marc">1900</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 v.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Greek language</topic>
+    <topic>Syntax</topic>
+  </subject>
+  <tableOfContents>pt. 1. The syntax of the simple sentence, embracing the doctrine of the moods
         and tenses.--pt. 2. The syntax of the simple sentence continued, embracing the doctrine of
         the article.</tableOfContents>
-    <classification authority="lcc">PA367 .G5</classification>
-    <identifier type="lccn">01029489</identifier>
-    <identifier type="oclc">4718810</identifier>
-    <identifier type="viafurn">viaf2490055.viaf001</identifier>
-    <identifier type="oca">p1syntaxofclassi00gilduoft</identifier>
-    <identifier>Perseus:text:1999.04.0074</identifier>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0074</url>
-    </location>
-    <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/01029489</url>
-    </location>
-    <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4718810</url>
-    </location>
-    <location>
-        <url displayLabel="Open Content Alliance" note="Volume 1"
-            >http://www.archive.org/details/p1syntaxofclassi00gilduoft</url>
-    </location>
-    <location>
-        <url displayLabel="GoogleBooks" note="Volume 1"
-            >http://books.google.com/books?id=PQ4AAAAAYAAJ</url>
-    </location>
-    <location>
-        <url displayLabel="GoogleBooks" note="Volume 2"
-            >http://books.google.com/books?id=aJckAAAAMAAJ</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">830523</recordCreationDate>
-        <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
-        <recordIdentifier>7256826</recordIdentifier>
-    </recordInfo>
+  <classification authority="lcc">PA367 .G5</classification>
+  <identifier type="lccn">01029489</identifier>
+  <identifier type="oclc">4718810</identifier>
+  <identifier type="viafurn">viaf2490055.viaf001</identifier>
+  <identifier type="oca">p1syntaxofclassi00gilduoft</identifier>
+  <identifier>Perseus:text:1999.04.0074</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0074</url>
+  </location>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/01029489</url>
+  </location>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/4718810</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance" note="Volume 1">http://www.archive.org/details/p1syntaxofclassi00gilduoft</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks" note="Volume 1">http://books.google.com/books?id=PQ4AAAAAYAAJ</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks" note="Volume 2">http://books.google.com/books?id=aJckAAAAMAAJ</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">830523</recordCreationDate>
+    <recordChangeDate encoding="iso8601">00000000000000.0</recordChangeDate>
+    <recordIdentifier>7256826</recordIdentifier>
+  </recordInfo>
 </mods>

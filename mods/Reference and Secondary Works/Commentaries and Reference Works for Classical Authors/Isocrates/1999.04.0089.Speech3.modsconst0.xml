@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods:mods xmlns:mods="http://www.loc.gov/mods/v3">
+  <titleInfo>
+    <title>Isocrates. Cyprian orations</title>
+    <subTitle>Evagoras, Ad Nicoclem, Nicocles aut Cyprii.</subTitle>
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n78-80925.html">
+    <namePart>Isocrates.</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56683103">
+    <namePart>Forster, Edward Seymour</namePart>
+    <namePart type="date">1879-1950</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>Oxford, Clarendon Press</publisher>
+    <dateIssued>1912</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="commentary">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>160 p. in various pagings ; 21 cm.</extent>
+  </physicalDescription>
+  <tableOfContents>Evagoras.--Ad Nicoclem.--Nicocles aut Cyprii.</tableOfContents>
+  <note type="statement of responsibility">Isocrates ; edited, with introd. and notes, by
+            Edward S. Forster.</note>
+  <note>Includes index.</note>
+  <subject authority="lcsh">
+    <topic>Speeches, addresses, etc., Greek</topic>
+  </subject>
+  <classification authority="lcc">PA4216 .A3 </classification>
+  <classification authority="ddc">885/.01</classification>
+  <identifier type="oclc">2050917</identifier>
+  <identifier>Perseus:text:1999.04.0089</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2050917</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0089</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance">https://archive.org/details/cyprianorationse00isocuoft</url>
+  </location>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>Greek texts and commentaries</title>
+    </titleInfo>
+    <titleInfo>
+      <title>Nicocles aut Cyprii. Commentary.</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56683103">
+      <namePart>Forster, Edward Seymour</namePart>
+      <namePart type="date">1879-1950</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <identifier type="viafurn">viaf56683103.viaf002</identifier>
+    <identifier>Perseus:text:1999.04.0089:speech=3</identifier>
+    <!--<identifier type="tlg" displayLabel="IsCommentaryOn">0010.014</identifier> -->
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+    </language>
+    <part>
+      <extent unit="pages">
+        <start>132</start>
+        <end>150</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0089:speech=3</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">https://archive.org/stream/cyprianorationse00isocuoft#page/132/mode/2up</url>
+    </location>
+  </relatedItem>
+  <mods:relatedItem type="host"/>
+</mods:mods>

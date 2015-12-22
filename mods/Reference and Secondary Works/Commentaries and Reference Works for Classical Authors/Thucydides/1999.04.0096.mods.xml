@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Commentary on Thucydides Book 5</title>
   </titleInfo>
@@ -21,8 +19,7 @@
   <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
    -->
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0096</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0096</url>
   </location>
   <relatedItem type="host">
     <titleInfo>
@@ -32,9 +29,7 @@
     <titleInfo type="uniform">
       <title>De bello peloponnesiaco. Book V. Greek.</title>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n79-21175.html
-      ">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-21175.html       ">
       <namePart>Thucydides.</namePart>
       <role>
         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
@@ -86,8 +81,7 @@
       <url displayLabel="WorldCat">http://www.worldcat.org/oclc/6502185</url>
     </location>
     <location>
-      <url displayLabel="Open Content Alliance"
-        >http://www.archive.org/details/thucydidesbook5e00thucuoft</url>
+      <url displayLabel="Open Content Alliance">http://www.archive.org/details/thucydidesbook5e00thucuoft</url>
     </location>
     <location>
       <url displayLabel="GoogleBooks">http://books.google.com/books?id=8_hKAAAAMAAJ</url>
@@ -99,5 +93,4 @@
     <recordChangeDate encoding="iso8601">20020708180959.0 </recordChangeDate>
     <recordIdentifier>7296059 </recordIdentifier>
   </recordInfo>
-
 </mods>

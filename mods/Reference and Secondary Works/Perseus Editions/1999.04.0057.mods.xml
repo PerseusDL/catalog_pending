@@ -1,87 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>A</nonSort>
-        <title>Greek-English lexicon</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/66541464">
-        <namePart>Liddell, Henry George,</namePart>
-        <namePart type="date">1811-1898</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/41917157">
-        <namePart>Scott, Robert</namePart>
-        <namePart type="date">1811-1887</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/41917157">
-        <namePart>Jones, Henry Stuart,</namePart>
-        <namePart type="date">1867-1939</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/95328930">
-        <namePart>McKenzie, Roderick,</namePart>
-        <namePart type="date">1887-1937</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Oxford</placeTerm>
-        </place>
-        <publisher>Clarendon Press</publisher>
-        <dateIssued>1940</dateIssued>
-        <edition>New Edition</edition>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-    </language>
-    <note type="statement of responsibility">a new ed. revised and augmented throughout by Henry Stuart Jones 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>Greek-English lexicon</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/66541464">
+    <namePart>Liddell, Henry George,</namePart>
+    <namePart type="date">1811-1898</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41917157">
+    <namePart>Scott, Robert</namePart>
+    <namePart type="date">1811-1887</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41917157">
+    <namePart>Jones, Henry Stuart,</namePart>
+    <namePart type="date">1867-1939</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/95328930">
+    <namePart>McKenzie, Roderick,</namePart>
+    <namePart type="date">1887-1937</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>Clarendon Press</publisher>
+    <dateIssued>1940</dateIssued>
+    <edition>New Edition</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+  </language>
+  <note type="statement of responsibility">a new ed. revised and augmented throughout by Henry Stuart Jones 
         with the assistance of Roderick McKenzie and with the co-operation of many scholars.</note>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xlviii, 2111 p. ; 30 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Greek Language</topic>
-        <topic>Dictionaries</topic>
-        <topic>English</topic>
-    </subject>
-    <classification authority="lcc">PA445.E5 L6 1940</classification>
-    <identifier type="oclc">13606128</identifier>
-    <identifier type="lccn">90102654</identifier>
-    <identifier type="viafurn">viaf66541464.viaf002</identifier>
-    <identifier>Perseus:text:1999.04.0057</identifier>
-    <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/90102654</url>
-    </location>
-    <location>
-        <url displayLabel="WorldCat"
-            >http://www.worldcat.org/title/greek-english-lexicon/oclc/13606128</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057</url>
-    </location>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xlviii, 2111 p. ; 30 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Greek Language</topic>
+    <topic>Dictionaries</topic>
+    <topic>English</topic>
+  </subject>
+  <classification authority="lcc">PA445.E5 L6 1940</classification>
+  <identifier type="oclc">13606128</identifier>
+  <identifier type="lccn">90102654</identifier>
+  <identifier type="viafurn">viaf66541464.viaf002</identifier>
+  <identifier>Perseus:text:1999.04.0057</identifier>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/90102654</url>
+  </location>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/title/greek-english-lexicon/oclc/13606128</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0057</url>
+  </location>
 </mods>

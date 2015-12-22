@@ -1,14 +1,11 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <nonSort>The</nonSort>
     <title>art of reading Latin</title>
     <subTitle>how to teach it</subTitle>
   </titleInfo>
-  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-    valueURI="http://viaf.org/viaf/72144418">
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/72144418">
     <namePart>Hale, William Gardner</namePart>
     <namePart type="date">1849-1928</namePart>
     <role>
@@ -47,8 +44,7 @@
   <identifier type="viafurn">viaf72144418.viaf001</identifier>
   <identifier type="oca"/>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0066</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0066</url>
   </location>
   <location>
     <url displayLabel="LC Permalink">http://lccn.loc.gov/10028561</url>
@@ -57,8 +53,7 @@
     <url displayLabel="WorldCat">http://www.worldcat.org/oclc/5015317</url>
   </location>
   <location>
-    <url displayLabel="Open Content Alliance"
-      >http://www.archive.org/details/artofreadinglati00hale</url>
+    <url displayLabel="Open Content Alliance">http://www.archive.org/details/artofreadinglati00hale</url>
   </location>
   <location>
     <url displayLabel="GoogleBooks">http://books.google.com/books?id=lJHYaU8MKEIC</url>

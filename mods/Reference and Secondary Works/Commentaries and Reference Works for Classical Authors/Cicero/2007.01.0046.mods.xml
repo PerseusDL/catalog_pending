@@ -1,96 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3
-    http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3     http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Paradoxa Stoicorum ad M. Brutum</title>
+    <subTitle>Apparatus Criticus</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/45044320">
+    <namePart>Baiter, J. G. (Johann Georg)</namePart>
+    <namePart type="date">1801-1877</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69018807">
+    <namePart>Kayser, C. L. (Carl Ludwig)</namePart>
+    <namePart type="date">1808-1872</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf45044320.viaf001</identifier>
+  <identifier>Perseus:text:2007.01.0046</identifier>
+  <!-- 
+    <identifier type="phi" displayLabel="isCommentaryOn">474.47</identifier> -->
+  <location>
+    <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0046</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Paradoxa Stoicorum ad M. Brutum</title>
-        <subTitle>Apparatus Criticus</subTitle>
+      <title>M. Tullii Ciceronis De officiis ad Marcum filium libri tres, Paradoxa stoicorum,
+                Timaeus</title>
     </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-32166.html">
+      <namePart>Cicero, Marcus Tullius.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/45044320">
-        <namePart>Baiter, J. G. (Johann Georg)</namePart>
-        <namePart type="date">1801-1877</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+      <namePart>Baiter, J. G. (Johann Georg)</namePart>
+      <namePart type="date">1801-1877</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69018807">
-        <namePart>Kayser, C. L. (Carl Ludwig)</namePart>
-        <namePart type="date">1808-1872</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+      <namePart>Kayser, C. L. (Carl Ludwig)</namePart>
+      <namePart type="date">1808-1872</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
-    <language objectPart="text"> 
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>B. Tauchnitz</publisher>
+      <dateIssued>1865</dateIssued>
+      <edition>Ed. stereotypa.</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
-    <identifier type="viafurn">viaf45044320.viaf001</identifier>
-    <identifier>Perseus:text:2007.01.0046</identifier>
-    <!-- 
-    <identifier type="phi" displayLabel="isCommentaryOn">474.47</identifier> -->
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>144 p. ; 20 cm.</extent>
+    </physicalDescription>
+    <classification authority="lcc">PA6278</classification>
+    <identifier type="oclc">65567844</identifier>
     <location>
-        <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0046</url>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/65567844</url>
     </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>M. Tullii Ciceronis De officiis ad Marcum filium libri tres, Paradoxa stoicorum,
-                Timaeus</title>
-        </titleInfo>
-        <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-32166.html">
-            <namePart>Cicero, Marcus Tullius.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/45044320">
-            <namePart>Baiter, J. G. (Johann Georg)</namePart>
-            <namePart type="date">1801-1877</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69018807">
-            <namePart>Kayser, C. L. (Carl Ludwig)</namePart>
-            <namePart type="date">1808-1872</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">gw</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Lipsiae</placeTerm>
-            </place>
-            <publisher>B. Tauchnitz</publisher>
-            <dateIssued>1865</dateIssued>
-            <edition>Ed. stereotypa.</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>144 p. ; 20 cm.</extent>
-        </physicalDescription>
-        <classification authority="lcc">PA6278</classification>
-        <identifier type="oclc">65567844</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/65567844</url>
-        </location>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Opera quae supersunt omnia</title>
-            </titleInfo>
-        </relatedItem>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Opera quae supersunt omnia</title>
+      </titleInfo>
     </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

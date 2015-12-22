@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Harper's dictionary of classical literature and antiquities</title>
   </titleInfo>
@@ -44,8 +43,7 @@
   <identifier type="Perseus:abo">Perseus:abo:lccn,01020387</identifier>
   <identifier type="viafurn">viaf288254787.viaf001</identifier>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0062</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0062</url>
   </location>
   <location>
     <url displayLabel="LC Permalink">http://lccn.loc.gov/01020387</url>

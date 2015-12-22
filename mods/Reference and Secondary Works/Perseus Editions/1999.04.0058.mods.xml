@@ -1,65 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>An</nonSort>
-        <title>Intermediate Greek-English Lexicon</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/66541464">
-        <namePart>Liddell, Henry George,</namePart>
-        <namePart type="date">1811-1898</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/41917157">
-        <namePart>Scott, Robert</namePart>
-        <namePart type="date">1811-1887</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Oxford</placeTerm>
-        </place>
-        <publisher>Clarendon Press</publisher>
-        <dateIssued>1889</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Greek Language</topic>
-        <topic>Dictionaries</topic>
-        <topic>English</topic>
-    </subject>
-    <identifier type="oclc">6693592</identifier>
-    <identifier type="viafurn">viaf66541464.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0058</identifier>
-    <location>
-        <url displayLabel="WorldCat"
-            >http://www.worldcat.org/oclc/6693592</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058</url>
-    </location>
-    <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044041126962</url>
-    </location>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An</nonSort>
+    <title>Intermediate Greek-English Lexicon</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/66541464">
+    <namePart>Liddell, Henry George,</namePart>
+    <namePart type="date">1811-1898</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/41917157">
+    <namePart>Scott, Robert</namePart>
+    <namePart type="date">1811-1887</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>Clarendon Press</publisher>
+    <dateIssued>1889</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Greek Language</topic>
+    <topic>Dictionaries</topic>
+    <topic>English</topic>
+  </subject>
+  <identifier type="oclc">6693592</identifier>
+  <identifier type="viafurn">viaf66541464.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0058</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/6693592</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0058</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044041126962</url>
+  </location>
 </mods>
