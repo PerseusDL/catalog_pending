@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.0"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.0" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <nonSort>The</nonSort>
     <title>Greek orators</title>
@@ -63,12 +61,10 @@
     <url displayLabel="WorldCat">http://www.worldcat.org/oclc/1380523</url>
   </location>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0075</url>
   </location>
   <location>
-    <url displayLabel="Open Content Alliance"
-      >http://www.archive.org/details/greekorators00dobsuoft</url>
+    <url displayLabel="Open Content Alliance">http://www.archive.org/details/greekorators00dobsuoft</url>
   </location>
   <location>
     <url displayLabel="Open Library">http://openlibrary.org/details/greekorators00dobsuoft</url>

@@ -1,79 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>Greek grammar for colleges</title>
+  </titleInfo>
+  <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/20462595">
+    <namePart>Smyth, Herbert Weir</namePart>
+    <namePart type="date">1857-1937</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">nyu</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">New York</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cincinnati [etc.]</placeTerm>
+    </place>
+    <publisher>American Book Company</publisher>
+    <dateIssued>[c1920]</dateIssued>
+    <dateIssued encoding="marc">1920</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xvi, 784 p. 21 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">by Herbert Weir Smyth ...</note>
+  <note>First published in 1916 under title: A Greek grammar for schools and colleges.</note>
+  <subject authority="lcsh">
+    <topic>Greek language</topic>
+    <topic>Grammar</topic>
+  </subject>
+  <classification authority="lcc">PA258 .S63</classification>
+  <relatedItem type="series">
     <titleInfo>
-        <nonSort>A</nonSort>
-        <title>Greek grammar for colleges</title>
+      <title>Greek series for colleges and schools</title>
     </titleInfo>
-    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/20462595">
-        <namePart>Smyth, Herbert Weir</namePart>
-        <namePart type="date">1857-1937</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">nyu</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">New York</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Cincinnati [etc.]</placeTerm>
-        </place>
-        <publisher>American Book Company</publisher>
-        <dateIssued>[c1920]</dateIssued>
-        <dateIssued encoding="marc">1920</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xvi, 784 p. 21 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">by Herbert Weir Smyth ...</note>
-    <note>First published in 1916 under title: A Greek grammar for schools and colleges.</note>
-    <subject authority="lcsh">
-        <topic>Greek language</topic>
-        <topic>Grammar</topic>
-    </subject>
-    <classification authority="lcc">PA258 .S63</classification>
-    <relatedItem type="series">
-        <titleInfo>
-            <title>Greek series for colleges and schools</title>
-        </titleInfo>
-    </relatedItem>
-    <identifier type="viafurn">viaf20462595.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0007</identifier>
-    <identifier type="lccn">20004131</identifier>
-    <identifier type="oclc">402001</identifier>
-    <location>
-        <url displayLabel="Worldcat.org">http://worldcat.org/oclc/402001</url>
-    </location>
-    <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/20004131</url>
-    </location>
-    <location>
-        <url displayLabel="electronic resource" usage="primary display"
-            >http://www.textkit.com/files/hws_Greek_Grammar_AR5.pdf</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">720908</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20060511191824.0</recordChangeDate>
-        <recordIdentifier>7783093</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  </relatedItem>
+  <identifier type="viafurn">viaf20462595.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0007</identifier>
+  <identifier type="lccn">20004131</identifier>
+  <identifier type="oclc">402001</identifier>
+  <location>
+    <url displayLabel="Worldcat.org">http://worldcat.org/oclc/402001</url>
+  </location>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/20004131</url>
+  </location>
+  <location>
+    <url displayLabel="electronic resource" usage="primary display">http://www.textkit.com/files/hws_Greek_Grammar_AR5.pdf</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0007</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">720908</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20060511191824.0</recordChangeDate>
+    <recordIdentifier>7783093</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

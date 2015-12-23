@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Commentary on Carmina</title>
   </titleInfo>
@@ -26,31 +24,27 @@
   <identifier type="viafurn">viaf42551788.viaf001</identifier>
   <identifier>Perseus:text:1999.04.0067:text=Carm</identifier>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0067:text=Carm.</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0067:text=Carm.</url>
   </location>
   <relatedItem type="host">
     <titleInfo>
       <title>Horace</title>
       <subTitle>Odes and epodes</subTitle>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n79-81354.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-81354.html">
       <namePart>Horace.</namePart>
       <role>
         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
       </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n80-80289.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n80-80289.html">
       <namePart>Shorey, Paul</namePart>
       <namePart type="date">1857-1934</namePart>
       <role>
         <roleTerm type="text" authority="marcrelator">editor</roleTerm>
       </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/no97-32580.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/no97-32580.html">
       <namePart>Laing, Gordon Jennings</namePart>
       <namePart type="date">1869-</namePart>
       <role>
@@ -86,8 +80,7 @@
     </relatedItem>
     <identifier type="oclc">2914291</identifier>
     <location>
-      <url displayLabel="WorldCat"
-        >http://www.worldcat.org/title/horace-odes-and-epodes/oclc/2914291</url>
+      <url displayLabel="WorldCat">http://www.worldcat.org/title/horace-odes-and-epodes/oclc/2914291</url>
     </location>
     <location>
       <url displayLabel="HathiTrust" note="1911 printing">

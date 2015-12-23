@@ -1,75 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <title>Ausführliche Grammatik der griechischen Sprache</title>
-        <partNumber>Tomus I</partNumber>
-        <partNumber>Band 1-2</partNumber>
-        <partName>Elementar- und Formenlehre</partName>
-    </titleInfo>
-    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17977842">
-        <namePart>Kühner, Raphael</namePart>
-        <namePart type="date">1802-1878</namePart>
-        <role>
-            <roleTerm  authority="marcrelaor" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24690108">
-        <namePart>Blass,Friedrich</namePart>
-        <namePart type="date">1843-1907</namePart>
-        <role>
-            <roleTerm  authority="marcrelaor" type="text">editor</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">gw</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Hannover</placeTerm>
-        </place>
-        <publisher>Hahnsche Buchhandlung</publisher>
-        <dateIssued>1890-1892</dateIssued>
-        <dateModified>1992</dateModified>
-        <edition>Reprint</edition>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-      <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Greek language</topic>
-        <topic>Grammar</topic>
-    </subject>
-    <classification authority="lcc">PA254 .K69</classification>
-    <identifier type="ISBN">377525191X</identifier>
-    <identifier type="oclc">880470904</identifier>
-    <identifier type="viafurn">viaf24690108.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0019</identifier>
-    <location>
-        <url displayLabel="Worldcat">http://worldcat.org/880470904</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0019</url>
-    </location>
-    <location>
-        <url displayLabel="Open Content Alliance" note="Vol 1-Band I">https://archive.org/details/p1ausfhrlichegra01khuoft</url>
-    </location>
-    <location>
-        <url displayLabel="Open Content Alliance" note="Vol 1-Band II">https://archive.org/details/p2ausfhrlichegra01khuoft</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">810403</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20100818110417.0</recordChangeDate>
-        <recordIdentifier>8079902</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Ausführliche Grammatik der griechischen Sprache</title>
+    <partNumber>Tomus I</partNumber>
+    <partNumber>Band 1-2</partNumber>
+    <partName>Elementar- und Formenlehre</partName>
+  </titleInfo>
+  <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17977842">
+    <namePart>Kühner, Raphael</namePart>
+    <namePart type="date">1802-1878</namePart>
+    <role>
+      <roleTerm authority="marcrelaor" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24690108">
+    <namePart>Blass,Friedrich</namePart>
+    <namePart type="date">1843-1907</namePart>
+    <role>
+      <roleTerm authority="marcrelaor" type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">gw</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Hannover</placeTerm>
+    </place>
+    <publisher>Hahnsche Buchhandlung</publisher>
+    <dateIssued>1890-1892</dateIssued>
+    <dateModified>1992</dateModified>
+    <edition>Reprint</edition>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Greek language</topic>
+    <topic>Grammar</topic>
+  </subject>
+  <classification authority="lcc">PA254 .K69</classification>
+  <identifier type="ISBN">377525191X</identifier>
+  <identifier type="oclc">880470904</identifier>
+  <identifier type="viafurn">viaf24690108.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0019</identifier>
+  <location>
+    <url displayLabel="Worldcat">http://worldcat.org/880470904</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0019</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance" note="Vol 1-Band I">https://archive.org/details/p1ausfhrlichegra01khuoft</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance" note="Vol 1-Band II">https://archive.org/details/p2ausfhrlichegra01khuoft</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">810403</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20100818110417.0</recordChangeDate>
+    <recordIdentifier>8079902</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

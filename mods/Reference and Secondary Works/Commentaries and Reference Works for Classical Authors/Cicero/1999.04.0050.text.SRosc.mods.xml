@@ -1,101 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Pro S. Roscio Amerino</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39744457/">
+    <namePart>Greenough, J. B. (James Bradstreet)</namePart>
+    <namePart type="date">1833-1901</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10578204">
+    <namePart>Kittredge, George Lyman,</namePart>
+    <namePart type="date">1860-1941</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <identifier>Perseus:text:1999.04.0050:text=S. Rosc.</identifier>
+  <identifier type="Perseus:abo-sec">sec00009.sec002</identifier>
+  <!-- <identifier type="phi" displayLabel="isCommentaryOn">474.2</identifier> -->
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0050:text=S.+Rosc.</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Commentary on Pro S. Roscio Amerino</title>
+      <title>Select orations of Cicero</title>
     </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/39744457/">
-        <namePart>Greenough, J. B. (James Bradstreet)</namePart>
-        <namePart type="date">1833-1901</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39744457/">
+      <namePart>Greenough, J. B. (James Bradstreet)</namePart>
+      <namePart type="date">1833-1901</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/10578204">
-        <namePart>Kittredge, George Lyman,</namePart>
-        <namePart type="date">1860-1941</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10578204">
+      <namePart>Kittredge, George Lyman,</namePart>
+      <namePart type="date">1860-1941</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn &amp; company</publisher>
+      <dateIssued>1897</dateIssued>
+      <edition>(Allen and Greenough's edition)</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
     </language>
-    <identifier>Perseus:text:1999.04.0050:text=S. Rosc.</identifier>
-    <identifier type="Perseus:abo-sec">sec00009.sec002</identifier>
-    <!-- <identifier type="phi" displayLabel="isCommentaryOn">474.2</identifier> -->
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <subject>
+      <geographicCode authority="marcgac">e------</geographicCode>
+      <geographicCode authority="marcgac">ff-----</geographicCode>
+      <geographicCode authority="marcgac">aw-----</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Speeches, addresses, etc., Latin</topic>
+    </subject>
+    <classification authority="lcc">PA6279.A4 A5</classification>
+    <identifier>Perseus:text:1999.04.0050</identifier>
+    <identifier type="Perseus:abo">Perseus:abo:sec,00009</identifier>
     <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0050:text=S.+Rosc.</url>
+      <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0050</url>
     </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Select orations of Cicero</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/39744457/">
-            <namePart>Greenough, J. B. (James Bradstreet)</namePart>
-            <namePart type="date">1833-1901</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/10578204">
-            <namePart>Kittredge, George Lyman,</namePart>
-            <namePart type="date">1860-1941</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Boston</placeTerm>
-            </place>
-            <publisher>Ginn &amp; company</publisher>
-            <dateIssued>1897</dateIssued>
-            <edition>(Allen and Greenough's edition)</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <digitalOrigin>digitized other analog</digitalOrigin>
-        </physicalDescription>
-        <subject>
-            <geographicCode authority="marcgac">e------</geographicCode>
-            <geographicCode authority="marcgac">ff-----</geographicCode>
-            <geographicCode authority="marcgac">aw-----</geographicCode>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Speeches, addresses, etc., Latin</topic>
-        </subject>
-        <classification authority="lcc">PA6279.A4 A5</classification>
-        <identifier>Perseus:text:1999.04.0050</identifier>
-        <identifier type="Perseus:abo">Perseus:abo:sec,00009</identifier>
-        <location>
-            <url displayLabel="Perseus" note="English"
-                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0050</url>
-        </location>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/551722185</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008024815</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601"/>
-            <recordIdentifier/>
-        </recordInfo>
-    </relatedItem>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/551722185</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008024815</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601"/>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
 </mods>
