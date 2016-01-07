@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Introduction to Commentary on Sophocles:  Philoctetes</title>
   </titleInfo>
@@ -19,8 +18,7 @@
   <identifier>Perseus:text:1999.04.0026:text=intro</identifier>
   <!-- <identifier type="tlg" displayLabel="IsIntroductionTo">0011.006</identifier> -->
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0026:text=intro</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0026:text=intro</url>
   </location>
   <relatedItem type="host">
     <titleInfo>
@@ -30,15 +28,13 @@
       <partNumber>Part IV</partNumber>
       <partName>The Philoctetes</partName>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n79-127755.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-127755.html">
       <namePart>Sophocles</namePart>
       <role>
         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
       </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-      ns2:href="http://errol.oclc.org/laf/n50-39216.html">
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-39216.html">
       <namePart>Jebb, Richard Claverhouse</namePart>
       <namePart type="termsOfAddress">Sir</namePart>
       <namePart type="date">1841-1905.</namePart>

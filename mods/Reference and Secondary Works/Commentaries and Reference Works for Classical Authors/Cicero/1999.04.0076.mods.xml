@@ -1,100 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <title>Selected letters of Cicero</title>
-        <partName>Commentary</partName>
-    </titleInfo>
-    <name authority="viaf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://viaf.org/viaf/77047589">
-        <namePart>Abbott, Frank Frost</namePart>
-        <namePart type="date">1860-1924</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">mau</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Boston</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Ginn and Company</publisher>
-        <dateIssued>1904</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
-    </language>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>lxxvi, 315 p. ; 19 cm.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility">edited with introduction and notes, by Frank Frost
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Selected letters of Cicero</title>
+    <partName>Commentary</partName>
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="viaf" type="personal" ns2:href="http://viaf.org/viaf/77047589">
+    <namePart>Abbott, Frank Frost</namePart>
+    <namePart type="date">1860-1924</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Boston</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Ginn and Company</publisher>
+    <dateIssued>1904</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>lxxvi, 315 p. ; 19 cm.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility">edited with introduction and notes, by Frank Frost
         Abbott.</note>
-    <note>Includes index.</note>
-    <note>The Perseus metadata indicates an edition of 1909, but the latest edition published in the
+  <note>Includes index.</note>
+  <note>The Perseus metadata indicates an edition of 1909, but the latest edition published in the
     public domain was 1904.</note>
-    <subject>
-        <geographicCode authority="marcgac">e------</geographicCode>
-        <geographicCode authority="marcgac">ff-----</geographicCode>
-        <geographicCode authority="marcgac">aw-----</geographicCode>
-    </subject>
-    <subject authority="lcsh">
-        <name type="personal">
-            <namePart>Cicero, Marcus Tullius</namePart>
-        </name>
-        <genre>Correspondence</genre>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Statesmen</topic>
-        <geographic>Rome</geographic>
-        <genre>Correspondence</genre>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Authors, Latin</topic>
-        <genre>Correspondence</genre>
-    </subject>
-    <classification authority="lcc">PA6111.C7 C7 </classification>
-    <relatedItem type="series">
-        <titleInfo>
-            <title>College series of Latin authors</title>
-        </titleInfo>
-    </relatedItem>    
-    <identifier type="viafurn">viaf77047589.viaf001</identifier>
-    <identifier type="oclc">19854878</identifier>
-    <identifier>Perseus:text:1999.04.0076</identifier>
-    <!-- 
+  <subject>
+    <geographicCode authority="marcgac">e------</geographicCode>
+    <geographicCode authority="marcgac">ff-----</geographicCode>
+    <geographicCode authority="marcgac">aw-----</geographicCode>
+  </subject>
+  <subject authority="lcsh">
+    <name type="personal">
+      <namePart>Cicero, Marcus Tullius</namePart>
+    </name>
+    <genre>Correspondence</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Statesmen</topic>
+    <geographic>Rome</geographic>
+    <genre>Correspondence</genre>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Authors, Latin</topic>
+    <genre>Correspondence</genre>
+  </subject>
+  <classification authority="lcc">PA6111.C7 C7 </classification>
+  <relatedItem type="series">
+    <titleInfo>
+      <title>College series of Latin authors</title>
+    </titleInfo>
+  </relatedItem>
+  <identifier type="viafurn">viaf77047589.viaf001</identifier>
+  <identifier type="oclc">19854878</identifier>
+  <identifier>Perseus:text:1999.04.0076</identifier>
+  <!-- 
     <identifier type="phi" displayLabel="IsCommentaryOn">474.56</identifier>
     <identifier type="phi" displayLabel="IsCommentaryOn">474.57</identifier>
     <identifier type="phi" displayLabel="IsCommentaryOn">0474.58</identifier>
      -->
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0076:text=comm</url>
-    </location>
-    <location>
-        <url displayLabel="Worldcat">
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0076:text=comm</url>
+  </location>
+  <location>
+    <url displayLabel="Worldcat">
             http://www.worldcat.org/title/selected-letters/oclc/19854878
         </url>
-    </location>
-    <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31175009228910</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31175009228910</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

@@ -1,44 +1,37 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.5"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.5" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Allen and Greenough's New Latin grammar for schools and colleges</title>
   </titleInfo>
-  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-    valueURI="http://viaf.org/viaf/77615260">
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/77615260">
     <namePart>Allen, Joseph Henry</namePart>
     <namePart type="date">1820-1898.</namePart>
     <role>
       <roleTerm authority="marcrelator" type="text">creator</roleTerm>
     </role>
   </name>
-  <name authority="viaf" type="personal" authorityURI="ttp://viaf.org/viaf/"
-    valueURI="http://viaf.org/viaf/39744457">
+  <name authority="viaf" type="personal" authorityURI="ttp://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39744457">
     <namePart>Greenough, J. B. (James Bradstreet)</namePart>
     <namePart type="date">1833-1901</namePart>
     <role>
       <roleTerm authority="marcrelator" type="text">joint author</roleTerm>
     </role>
   </name>
-  <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-    ns2:href="http://errol.oclc.org/laf/n79-123627.html">
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-123627.html">
     <namePart>Kittredge, George Lyman</namePart>
     <namePart type="date">1860-1941</namePart>
     <role>
       <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
     </role>
   </name>
-  <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-    ns2:href="http://errol.oclc.org/laf/nr97-33269.html">
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/nr97-33269.html">
     <namePart>Howard, Albert Andrew,</namePart>
     <namePart type="date">1858-1925</namePart>
     <role>
       <roleTerm authority="marcrelator" type="text">joint editor</roleTerm>
     </role>
   </name>
-  <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-    ns2:href="http://errol.oclc.org/laf/n90-636509.html">
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n90-636509.html">
     <namePart>D'Ooge, Benjamin L. (Benjamin Leonard)</namePart>
     <namePart type="date">b. 1860</namePart>
     <role>
@@ -90,12 +83,10 @@
     <url displayLabel="LC Permalink">http://lccn.loc.gov/03023416</url>
   </location>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0001</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0001</url>
   </location>
   <location>
-    <url displayLabel="Open Content Alliance"
-      >http://www.archive.org/details/allengreenoughsn00alleiala</url>
+    <url displayLabel="Open Content Alliance">http://www.archive.org/details/allengreenoughsn00alleiala</url>
   </location>
   <location>
     <url displayLabel="GoogleBooks">http://books.google.com/books?id=chsCAAAAYAAJ</url>

@@ -1,95 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>A</nonSort>
-        <title>Latin Dictionary</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/2845558">
-        <namePart>Lewis, Charlton Thomas,</namePart>
-        <namePart type="date">1834-1904</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/40764865">
-        <namePart>Short, Charles</namePart>
-        <namePart type="date">1821-1886</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/15528757">
-        <namePart>Freund, Wilhelm</namePart>
-        <namePart type="date">1806-1894</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">original author</roleTerm>
-        </role>
-    </name>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/72261432">
-        <namePart>Andrews, Ethan Allen,</namePart>
-        <namePart type="date">1787-1858</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Oxford</placeTerm>
-        </place>
-        <publisher>Clarendon Press</publisher>
-        <dateIssued>1879</dateIssued>
-        <edition/>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-    </language>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xiv, 2019 p.</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note>	rev., enl., and in great part rewritten by Charlton T. Lewis and Charles Short.</note>
-    <note>founded on Andrews' edition of Freund's Latin dictionary</note>
-    <subject authority="lcsh">
-        <topic>Latin Language</topic>
-        <topic>Dictionaries</topic>
-        <topic>English</topic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Latin Language</topic>
-        <topic>Dictionaries</topic>
-        <topic>Latin</topic>
-    </subject>
-    <identifier>Perseus:text:1999.04.0059</identifier>
-    <identifier type="viafurn">viaf2845558.viaf002</identifier>
-    <identifier type="oclc">656160108</identifier>
-    <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/656160108</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="Latin"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059</url>
-    </location>
-    <location>
-        <url displayLabel="HathiTrust" note="1891 printing">http://hdl.handle.net/2027/inu.30000041560198</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg"/>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>Latin Dictionary</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2845558">
+    <namePart>Lewis, Charlton Thomas,</namePart>
+    <namePart type="date">1834-1904</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/40764865">
+    <namePart>Short, Charles</namePart>
+    <namePart type="date">1821-1886</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15528757">
+    <namePart>Freund, Wilhelm</namePart>
+    <namePart type="date">1806-1894</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">original author</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/72261432">
+    <namePart>Andrews, Ethan Allen,</namePart>
+    <namePart type="date">1787-1858</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxford</placeTerm>
+    </place>
+    <publisher>Clarendon Press</publisher>
+    <dateIssued>1879</dateIssued>
+    <edition/>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>xiv, 2019 p.</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note>	rev., enl., and in great part rewritten by Charlton T. Lewis and Charles Short.</note>
+  <note>founded on Andrews' edition of Freund's Latin dictionary</note>
+  <subject authority="lcsh">
+    <topic>Latin Language</topic>
+    <topic>Dictionaries</topic>
+    <topic>English</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Latin Language</topic>
+    <topic>Dictionaries</topic>
+    <topic>Latin</topic>
+  </subject>
+  <identifier>Perseus:text:1999.04.0059</identifier>
+  <identifier type="viafurn">viaf2845558.viaf002</identifier>
+  <identifier type="oclc">656160108</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/656160108</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0059</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust" note="1891 printing">http://hdl.handle.net/2027/inu.30000041560198</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

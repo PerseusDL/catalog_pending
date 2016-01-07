@@ -1,111 +1,105 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Commentary on the Iliad</title>
+    <subTitle>Books IV-VI</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/20458158/">
+    <namePart>Seymour, Thomas D. (Thomas Day)</namePart>
+    <namePart type="date">1848-1907</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!-- <identifier type="tlg" displayLabel="isCommentaryOn">0012.001</identifier> -->
+  <identifier type="viafurn">viaf20458158.viaf002</identifier>
+  <identifier>Perseus:text:1999.04.0088</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0088</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Commentary on the Iliad</title>
-        <subTitle>Books IV-VI</subTitle>
+      <title>Homer's Iliad, books IV-VI</title>
     </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/20458158/">
-        <namePart>Seymour, Thomas D. (Thomas Day)</namePart>
-        <namePart type="date">1848-1907</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <titleInfo type="uniform" nameTitleGroup="1">
+      <title>Iliad</title>
+      <partNumber>Book 4-6</partNumber>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n78-95639.html">
+      <namePart>Homer</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/20458158/">
+      <namePart>Seymour, Thomas D. (Thomas Day)</namePart>
+      <namePart type="date">1848-1907</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Ginn &amp; Company</publisher>
+      <dateIssued>1891</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
     </language>
-    <!-- <identifier type="tlg" displayLabel="isCommentaryOn">0012.001</identifier> -->
-    <identifier type="viafurn">viaf20458158.viaf002</identifier>
-    <identifier>Perseus:text:1999.04.0088</identifier>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0088</url>
-    </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Homer's Iliad, books IV-VI</title>
-        </titleInfo>
-        <titleInfo type="uniform" nameTitleGroup="1">
-            <title>Iliad</title>
-            <partNumber>Book 4-6</partNumber>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n78-95639.html">
-            <namePart>Homer</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/20458158/">
-            <namePart>Seymour, Thomas D. (Thomas Day)</namePart>
-            <namePart type="date">1848-1907</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <genre authority="marcgt">bibliography</genre>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">mau</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Boston</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>Ginn &amp; Company</publisher>
-            <dateIssued>1891</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="notes">
-            <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-        </language>
-        <language objectPart="text">
-            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>2 p. l., 213 p. 21 cm.</extent>
-        </physicalDescription>
-        <note type="statement of responsibility" altRepGroup="00">Edited on the basis of the Ameis-Hentze edition, by Thomas D. Seymour.</note>
-        <note type="bibliography">"Auxiliaries": p. 198-200.</note>
-        <subject authority="lcsh">
-            <name type="personal">
-                <namePart type="termsOfAddress">(Mythological character)</namePart>
-                <namePart>Achilles</namePart>
-            </name>
-            <genre>Poetry</genre>
-        </subject>
-        <classification authority="lcc">PA3411.C7 H73 1891a</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>College series of Greek authors</title>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="lccn">41030920</identifier>
-        <identifier type="oclc">11294521</identifier>
-        <location>
-            <url displayLabel="LC Permalink">http://lccn.loc.gov/41030920</url>
-        </location>
-        <location>
-            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/11294521</url>
-        </location>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044102850369</url>
-        </location>
+    <language objectPart="text">
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>2 p. l., 213 p. 21 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Edited on the basis of the Ameis-Hentze edition, by Thomas D. Seymour.</note>
+    <note type="bibliography">"Auxiliaries": p. 198-200.</note>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart type="termsOfAddress">(Mythological character)</namePart>
+        <namePart>Achilles</namePart>
+      </name>
+      <genre>Poetry</genre>
+    </subject>
+    <classification authority="lcc">PA3411.C7 H73 1891a</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>College series of Greek authors</title>
+      </titleInfo>
     </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">841022</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20150402125840.0</recordChangeDate>
-        <recordIdentifier>9256610</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+    <identifier type="lccn">41030920</identifier>
+    <identifier type="oclc">11294521</identifier>
+    <location>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/41030920</url>
+    </location>
+    <location>
+      <url displayLabel="Worldcat">http://www.worldcat.org/oclc/11294521</url>
+    </location>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044102850369</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">841022</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20150402125840.0</recordChangeDate>
+    <recordIdentifier>9256610</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

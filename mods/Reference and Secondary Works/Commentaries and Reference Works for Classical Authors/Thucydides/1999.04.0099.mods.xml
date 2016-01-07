@@ -1,110 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   version="3.2"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <titleInfo>
-      <title>Commentary on Thucydides</title>
-      <subTitle>Book VII</subTitle>
-   </titleInfo>
-   <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/"
-      valueURI="http://viaf.org/viaf/109600634/">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Thucydides</title>
+    <subTitle>Book VII</subTitle>
+  </titleInfo>
+  <name authority="naf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/109600634/">
+    <namePart>Smith, Charles Forster</namePart>
+    <namePart type="date">1852-1931</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf109600634.viaf003</identifier>
+  <identifier>Perseus:text:1999.04.0099</identifier>
+  <!-- 
+  <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
+   -->
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0099</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Book VII</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>History of the Peloponnesian War</title>
+      <partNumber>Book VII.</partNumber>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-21175.html">
+      <namePart>Thucydides.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-839410.html">
       <namePart>Smith, Charles Forster</namePart>
       <namePart type="date">1852-1931</namePart>
       <role>
-         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
       </role>
-   </name>
-   <language objectPart="text">
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn</publisher>
+      <dateIssued>1888</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="introduction">
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-   </language>
-   <identifier type="viafurn">viaf109600634.viaf003</identifier>
-   <identifier>Perseus:text:1999.04.0099</identifier>
-   <!-- 
-  <identifier type="tlg" displayLabel="IsCommentaryOn">0003.001</identifier>
-   -->
-   <location>
-      <url displayLabel="Perseus" note="English"
-         >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0099</url>
-   </location>
-   <relatedItem type="host">
-      <titleInfo>
-         <title>Book VII</title>
-      </titleInfo>
-      <titleInfo type="uniform">
-         <title>History of the Peloponnesian War</title>
-         <partNumber>Book VII.</partNumber>
-      </titleInfo>
-      <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-         ns2:href="http://errol.oclc.org/laf/n79-21175.html">
-         <namePart>Thucydides.</namePart>
-         <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-         </role>
-      </name>
-      <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-         ns2:href="http://errol.oclc.org/laf/n86-839410.html">
-         <namePart>Smith, Charles Forster</namePart>
-         <namePart type="date">1852-1931</namePart>
-         <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-         </role>
-      </name>
-      <typeOfResource>text</typeOfResource>
-      <originInfo>
-         <place>
-            <placeTerm type="code" authority="marccountry">mau</placeTerm>
-         </place>
-         <place>
-            <placeTerm type="text">Boston</placeTerm>
-         </place>
-         <publisher>Ginn</publisher>
-         <dateIssued>1888</dateIssued>
-         <issuance>monographic</issuance>
-      </originInfo>
-      <language objectPart="introduction">
-         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-      </language>
-      <language objectPart="text">
-         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-      </language>
-      <subject authority="lcsh">
-         <geographic>Greece</geographic>
-         <topic>History</topic>
-         <temporal>Peloponnesian War, 431-404 B.C</temporal>
-      </subject>
-      <classification authority="lcc">PA3411.C7 T47</classification>
-      <physicalDescription>
-         <form authority="marcform">print</form>
-         <extent>202 p. maps.</extent>
-      </physicalDescription>
-      <note type="statement of responsibility">edited on the basis of Classen's edition, by Charles
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <subject authority="lcsh">
+      <geographic>Greece</geographic>
+      <topic>History</topic>
+      <temporal>Peloponnesian War, 431-404 B.C</temporal>
+    </subject>
+    <classification authority="lcc">PA3411.C7 T47</classification>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>202 p. maps.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited on the basis of Classen's edition, by Charles
       Forster Smith.</note>
-      <relatedItem type="series">
-         <titleInfo>
-            <title>College series of Greek authors</title>
-         </titleInfo>
-      </relatedItem>
-      <identifier type="oca">bookvith00thucuoft</identifier>
-      <identifier type="oclc">17416925</identifier>
-      <location>
-         <url displayLabel="WorldCat">http://worldcat.org/oclc/17416925</url>
-      </location>
-      <location>
-         <url displayLabel="Open Content Alliance">
+    <relatedItem type="series">
+      <titleInfo>
+        <title>College series of Greek authors</title>
+      </titleInfo>
+    </relatedItem>
+    <identifier type="oca">bookvith00thucuoft</identifier>
+    <identifier type="oclc">17416925</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/17416925</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">
             http://www.archive.org/details/bookvith00thucuoft</url>
-      </location>
-      <location>
-         <url displayLabel="Open Library">http://www.archive.org/details/bookvith00thucuoft</url>
-      </location>
-      <location>
-         <url displayLabel="GoogleBooks">http://books.google.com/books?id=wg9CAAAAIAAJ</url>
-      </location>
-      <recordInfo>
-         <recordContentSource authority="marcorg">OTU</recordContentSource>
-         <recordCreationDate encoding="marc">730112</recordCreationDate>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
-         </languageOfCataloging>
-      </recordInfo>
-   </relatedItem>
+    </location>
+    <location>
+      <url displayLabel="Open Library">http://www.archive.org/details/bookvith00thucuoft</url>
+    </location>
+    <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=wg9CAAAAIAAJ</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">730112</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
 </mods>

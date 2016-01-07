@@ -1,108 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   version="3.3"
-   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-   <titleInfo>
-      <title>Commentary on Thucydides</title>
-      <subTitle>Book III</subTitle>
-   </titleInfo>
-   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-      valueURI="http://viaf.org/viaf/76387703">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Thucydides</title>
+    <subTitle>Book III</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/76387703">
+    <namePart>Marchant, E. C. (Edgar Cardew)</namePart>
+    <namePart type="date">1864-1960</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <!--   <identifier type="tlg" displayLabel="commentary">0003.001</identifier> -->
+  <identifier type="viafurn">viaf76387703.viaf002</identifier>
+  <identifier>Perseus:text:1999.04.0031</identifier>
+  <part>
+    <extent unit="pages">
+      <start>107</start>
+      <end>217</end>
+    </extent>
+  </part>
+  <location>
+    <url displayLabel="Open Content Alliance">https://archive.org/stream/histories03thucuoft#page/106/mode/2up</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0031</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Thucydides</title>
+      <partNumber>Book III</partNumber>
+    </titleInfo>
+    <titleInfo type="uniform">
+      <title>History of the Peloponnesian War</title>
+      <partNumber>Book III.</partNumber>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-21175.html">
+      <namePart>Thucydides.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-69828.html">
       <namePart>Marchant, E. C. (Edgar Cardew)</namePart>
       <namePart type="date">1864-1960</namePart>
       <role>
-         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
       </role>
-   </name>
-   <language objectPart="text">
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Macmillan</publisher>
+      <dateIssued>1909</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="introduction">
       <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-   </language>
-   <!--   <identifier type="tlg" displayLabel="commentary">0003.001</identifier> -->
-   <identifier type="viafurn">viaf76387703.viaf002</identifier>
-   <identifier>Perseus:text:1999.04.0031</identifier>
-   <part>
-      <extent unit="pages">
-         <start>107</start>
-         <end>217</end>
-      </extent>
-   </part>
-   <location>
-      <url displayLabel="Open Content Alliance">https://archive.org/stream/histories03thucuoft#page/106/mode/2up</url>
-   </location>
-   <location>
-      <url displayLabel="Perseus" note="English"
-         >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0031</url>
-   </location>
-   <relatedItem type="host">
-      <titleInfo>
-         <title>Thucydides</title>
-         <partNumber>Book III</partNumber>
-      </titleInfo>
-      <titleInfo type="uniform">
-         <title>History of the Peloponnesian War</title>
-         <partNumber>Book III.</partNumber>
-      </titleInfo>
-      <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-         ns2:href="http://errol.oclc.org/laf/n79-21175.html">
-         <namePart>Thucydides.</namePart>
-         <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-         </role>
-      </name>
-      <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-         ns2:href="http://errol.oclc.org/laf/n86-69828.html">
-         <namePart>Marchant, E. C. (Edgar Cardew)</namePart>
-         <namePart type="date">1864-1960</namePart>
-         <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-         </role>
-      </name>
-      <typeOfResource>text</typeOfResource>
-      <originInfo>
-         <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-         </place>
-         <place>
-            <placeTerm type="text">London</placeTerm>
-         </place>
-         <publisher>Macmillan</publisher>
-         <dateIssued>1909</dateIssued>
-         <issuance>monographic</issuance>
-      </originInfo>
-      <language objectPart="introduction">
-         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-      </language>
-      <language objectPart="notes">
-         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-      </language>
-      <language objectPart="text">
-         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-      </language>
-      <physicalDescription>
-         <form authority="marcform">print</form>
-         <digitalOrigin>digitized other analog</digitalOrigin>
-         <extent>xlii, 226 p. ; 17 cm.</extent>
-      </physicalDescription>
-      <note type="statement of responsibility">edited by E. C. Marchant.</note>
-      <!-- <identifier type="tlg">0003.001</identifier> -->
-      <identifier type="oclc">2677668</identifier>
-      <identifier type="oca">histories03thucuoft</identifier>
-      <location>
-         <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2677668</url>
-      </location>
-      <location>
-         <url displayLabel="Open Content Alliance" note="1950 Reprint"
-            >http://www.archive.org/details/histories03thucuoft</url>
-      </location>
-      <location>
-         <url displayLabel="Open Library">http://openlibrary.org/details/histories03thucuoft</url>
-      </location>
-      <recordInfo>
-         <recordContentSource authority="marcorg">OTSM</recordContentSource>
-         <recordCreationDate encoding="marc">890131</recordCreationDate>
-         <languageOfCataloging>
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-         </languageOfCataloging>
-      </recordInfo>
-   </relatedItem> 
+    </language>
+    <language objectPart="notes">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+      <extent>xlii, 226 p. ; 17 cm.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">edited by E. C. Marchant.</note>
+    <!-- <identifier type="tlg">0003.001</identifier> -->
+    <identifier type="oclc">2677668</identifier>
+    <identifier type="oca">histories03thucuoft</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2677668</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance" note="1950 Reprint">http://www.archive.org/details/histories03thucuoft</url>
+    </location>
+    <location>
+      <url displayLabel="Open Library">http://openlibrary.org/details/histories03thucuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OTSM</recordContentSource>
+      <recordCreationDate encoding="marc">890131</recordCreationDate>
+      <languageOfCataloging>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+    </recordInfo>
+  </relatedItem>
 </mods>

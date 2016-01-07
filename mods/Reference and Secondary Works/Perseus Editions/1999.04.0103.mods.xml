@@ -1,78 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <nonSort>A</nonSort>
-        <title>history of the Giza Necropolis</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/">
-        <namePart>Reisner, George Andrew</namePart>
-        <namePart type="date">1867-1942</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">author</roleTerm>
-        </role>
-    </name>
-    <name type="corporate">
-        <namePart>California</namePart>
-        <namePart>University.</namePart>
-        <namePart>Hearst Egyptian Expedition.</namePart>
-    </name>
-    <name type="conference">
-        <namePart>Joint Egyptian Expedition of Harvard University and the Boston Museum of Fine Arts.</namePart>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">mau</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Cambridge</placeTerm>
-        </place>
-        <publisher>Harvard University Press</publisher>
-        <dateIssued>1942</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>1 vol</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note>"The excavations of the expedition directed by myself were carried out in the original 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <nonSort>A</nonSort>
+    <title>history of the Giza Necropolis</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/">
+    <namePart>Reisner, George Andrew</namePart>
+    <namePart type="date">1867-1942</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">author</roleTerm>
+    </role>
+  </name>
+  <name type="corporate">
+    <namePart>California</namePart>
+    <namePart>University.</namePart>
+    <namePart>Hearst Egyptian Expedition.</namePart>
+  </name>
+  <name type="conference">
+    <namePart>Joint Egyptian Expedition of Harvard University and the Boston Museum of Fine Arts.</namePart>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">mau</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Cambridge</placeTerm>
+    </place>
+    <publisher>Harvard University Press</publisher>
+    <dateIssued>1942</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>1 vol</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note>"The excavations of the expedition directed by myself were carried out in the original 
         concession granted to me in 1902 and the concession granted to Schiaparelli, transferred to me in 1906. 
         In 1902-5 the expedition under my guidance was the 'Hearst Expedition' of the University of California.
         In 1905 the expedition was transferred to Harvard University and the Boston Museum of Fine Arts."</note>
-    <subject authority="lcsh">
-        <topic>Tombs</topic>
-        <geographic>Egypt</geographic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Pyramids</topic>
-    </subject>
-    <subject authority="lcsh">
-        <geographic>Jīzah (Egypt)</geographic>
-    </subject>
-    <classification authority="lcc">DT73.G5 R45</classification>
-    <classification authority="ddc">913.32</classification>
-    <identifier type="lccn">a 46001442</identifier>
-    <identifier>Perseus:text:1999.04.0103</identifier>
-    <identifier type="viafurn">viaf46814080.viaf001</identifier>
-    <identifier type="oclc">2214243</identifier>
-    <location>
-        <url displayLabel="WorldCat">http://worldcat.org/oclc/2214243</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0103</url>
-    </location> 
-    <recordInfo>
-        <recordContentSource authority="marcorg">Harvard Univ. Library</recordContentSource>
-        <recordCreationDate encoding="marc">760607</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20050415191746.0</recordChangeDate>
-        <recordIdentifier>10215382</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  <subject authority="lcsh">
+    <topic>Tombs</topic>
+    <geographic>Egypt</geographic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Pyramids</topic>
+  </subject>
+  <subject authority="lcsh">
+    <geographic>Jīzah (Egypt)</geographic>
+  </subject>
+  <classification authority="lcc">DT73.G5 R45</classification>
+  <classification authority="ddc">913.32</classification>
+  <identifier type="lccn">a 46001442</identifier>
+  <identifier>Perseus:text:1999.04.0103</identifier>
+  <identifier type="viafurn">viaf46814080.viaf001</identifier>
+  <identifier type="oclc">2214243</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://worldcat.org/oclc/2214243</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0103</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">Harvard Univ. Library</recordContentSource>
+    <recordCreationDate encoding="marc">760607</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20050415191746.0</recordChangeDate>
+    <recordIdentifier>10215382</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

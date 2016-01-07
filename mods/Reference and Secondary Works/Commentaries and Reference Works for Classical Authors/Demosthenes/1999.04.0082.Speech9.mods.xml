@@ -1,94 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Commentary on Demosthenes: Phillipics III</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-        valueURI="http://viaf.org/viaf/2208436">
-        <namePart>Davies, Gilbert A. (Gilbert Austin),</namePart>
-        <namePart type="date">1868-1948</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <identifier type="viafurn">viaf2208436.viaf003</identifier>
-    <identifier>Perseus:text:1999.04.0082:speech=9</identifier>
-    <!-- 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Commentary on Demosthenes: Phillipics III</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2208436">
+    <namePart>Davies, Gilbert A. (Gilbert Austin),</namePart>
+    <namePart type="date">1868-1948</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf2208436.viaf003</identifier>
+  <identifier>Perseus:text:1999.04.0082:speech=9</identifier>
+  <!-- 
     <identifier type="tlg" displayLabel="IsCommentaryOn">0014.009</identifier> -->
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0082:speech=9</url>
-    </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Philippics I, II, III: with introduction and notes</title>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-63465.html">
-            <namePart>Demosthenes.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
-            valueURI="http://viaf.org/viaf/2208436">
-            <namePart>Davies, Gilbert A. (Gilbert Austin),</namePart>
-            <namePart type="date">1868-1948</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">enk</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <publisher>Cambridge University Press</publisher>
-            <dateIssued>1949</dateIssued>
-            <edition>Reprint</edition>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <language objectPart="commentary">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>xxv, 126 p. ; 17 cm.</extent>
-        </physicalDescription>
-        <subject authority="lcsh">
-            <topic>Demosthenes</topic>
-            <topic>Philippicae</topic>
-        </subject>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>Pitt Press Series</title>
-            </titleInfo>
-        </relatedItem>
-        <classification authority="lcc">PA3950.P6</classification>
-        <classification authority="ddc">885/.01 22</classification>
-        <identifier>Perseus:text:1999.04.0082</identifier>
-        <identifier type="oclc">3343391</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3343391</url>
-        </location>
-        <location>
-            <url>http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0082</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-            <recordCreationDate encoding="marc"/>
-            <recordChangeDate encoding="iso8601">20081121</recordChangeDate>
-            <recordIdentifier/>
-        </recordInfo>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0082:speech=9</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>Philippics I, II, III: with introduction and notes</title>
+    </titleInfo>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-63465.html">
+      <namePart>Demosthenes.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2208436">
+      <namePart>Davies, Gilbert A. (Gilbert Austin),</namePart>
+      <namePart type="date">1868-1948</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <publisher>Cambridge University Press</publisher>
+      <dateIssued>1949</dateIssued>
+      <edition>Reprint</edition>
+      <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="commentary">
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxv, 126 p. ; 17 cm.</extent>
+    </physicalDescription>
+    <subject authority="lcsh">
+      <topic>Demosthenes</topic>
+      <topic>Philippicae</topic>
+    </subject>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>Pitt Press Series</title>
+      </titleInfo>
     </relatedItem>
+    <classification authority="lcc">PA3950.P6</classification>
+    <classification authority="ddc">885/.01 22</classification>
+    <identifier>Perseus:text:1999.04.0082</identifier>
+    <identifier type="oclc">3343391</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3343391</url>
+    </location>
+    <location>
+      <url>http://www.perseus.tufts.edu/hopper/text.jsp?doc=Perseus:text:1999.04.0082</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+      <recordCreationDate encoding="marc"/>
+      <recordChangeDate encoding="iso8601">20081121</recordChangeDate>
+      <recordIdentifier/>
+    </recordInfo>
+  </relatedItem>
 </mods>
