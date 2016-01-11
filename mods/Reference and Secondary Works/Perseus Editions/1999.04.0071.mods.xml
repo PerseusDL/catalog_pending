@@ -1,79 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>An</nonSort>
-        <title>introduction to Latin textual emendation</title>
-        <subTitle>based on the text of Plautus</subTitle>
-    </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n50-50877.html
-        ">
-        <namePart>Lindsay, W. M. (Wallace Martin)</namePart>
-        <namePart type="date">1858-1937</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Macmillan and Co.</publisher>
-        <dateIssued>1896</dateIssued>
-        <edition/>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-        <extent>xii, 131 p. 18 cm.</extent>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Plautus, Titus Maccius</topic>
-        <topic>Criticism, Textual</topic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Latin literature</topic>
-        <topic>Criticism, Textual.</topic>
-    </subject>
-    <classification authority="lcc">PA6585 .L5</classification>
-    <identifier type="lccn">01018584</identifier>
-    <identifier type="oclc">2601550</identifier>
-    <identifier>Perseus:text:1999.04.0071</identifier>
-    <identifier type="viafurn">viaf44378479.viaf002</identifier>
-    <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/01018584</url>
-    </location>
-    <location>
-        <url displayLabel="WorldCat">http://worldcat.org/oclc/2601550</url>
-    </location>
-    <location>
-        <url displayLabel="Open Content Alliance"
-            >https://archive.org/details/introductiontola00linduoft</url>
-    </location>
-
-    <location>
-        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015050669038</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0071</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg"/>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>An</nonSort>
+    <title>introduction to Latin textual emendation</title>
+    <subTitle>based on the text of Plautus</subTitle>
+  </titleInfo>
+  <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-50877.html         ">
+    <namePart>Lindsay, W. M. (Wallace Martin)</namePart>
+    <namePart type="date">1858-1937</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Macmillan and Co.</publisher>
+    <dateIssued>1896</dateIssued>
+    <edition/>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+    <extent>xii, 131 p. 18 cm.</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Plautus, Titus Maccius</topic>
+    <topic>Criticism, Textual</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Latin literature</topic>
+    <topic>Criticism, Textual.</topic>
+  </subject>
+  <classification authority="lcc">PA6585 .L5</classification>
+  <identifier type="lccn">01018584</identifier>
+  <identifier type="oclc">2601550</identifier>
+  <identifier>Perseus:text:1999.04.0071</identifier>
+  <identifier type="viafurn">viaf44378479.viaf002</identifier>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/01018584</url>
+  </location>
+  <location>
+    <url displayLabel="WorldCat">http://worldcat.org/oclc/2601550</url>
+  </location>
+  <location>
+    <url displayLabel="Open Content Alliance">https://archive.org/details/introductiontola00linduoft</url>
+  </location>
+  <location>
+    <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015050669038</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0071</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg"/>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

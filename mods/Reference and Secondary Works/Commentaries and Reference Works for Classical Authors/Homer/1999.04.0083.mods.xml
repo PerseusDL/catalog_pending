@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  version="3.3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <titleInfo>
     <title>Selections from Homer's Iliad</title>
   </titleInfo>
@@ -59,8 +57,7 @@
   <identifier type="lccn">79018756</identifier>
   <identifier type="oclc">5264322</identifier>
   <location>
-    <url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0083</url>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0083</url>
   </location>
   <location>
     <url displayLabel="WorldCat">http://www.worldcat.org/oclc/5264322</url>

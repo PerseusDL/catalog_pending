@@ -1,39 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <nonSort>The</nonSort>
-        <title>Attic orators from Antiphon to Isaeos</title>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2603144">
-        <namePart>Jebb, Richard Claverhouse</namePart>
-        <namePart type="termsOfAddress">Sir</namePart>
-        <namePart type="date">1841-1905</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">London</placeTerm>
-        </place>
-        <publisher>Macmillan and co.</publisher>
-        <dateIssued>1876</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>2 vols</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <tableOfContents>Introduction to Attic Oratory -- Antiphon: Life -- Antiphon: Style -- Antiphon:
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <nonSort>The</nonSort>
+    <title>Attic orators from Antiphon to Isaeos</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2603144">
+    <namePart>Jebb, Richard Claverhouse</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1841-1905</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">London</placeTerm>
+    </place>
+    <publisher>Macmillan and co.</publisher>
+    <dateIssued>1876</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>2 vols</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <tableOfContents>Introduction to Attic Oratory -- Antiphon: Life -- Antiphon: Style -- Antiphon:
         Works -- Andokides: Life -- Andokides: Style -- Andokides: Works -- Lysias: Life -- Lysias:
         Style -- Lysias: Works-The Extant Collection-Epideictic and Deliberative Speeches -- Lysias:
         Works-Forensic Speeches in Public Causes -- Lysias: Works-Forensic Speeches in Private
@@ -42,41 +41,38 @@
         Isokrates: Works-Political Writings -- Isokrates: Works-Forensic Speeches -- Isokrates:
         Works-Letters.Fragments -- Isaeos: Life -- Isaeos: Style -- Isaeos: Works --The Matured
         Civil Eloquence -- Retrospect -- The Decline and the Revival</tableOfContents>
-    <subject authority="lcsh">
-        <topic>Speeches, addresses, etc., Greek</topic>
-        <topic>History and criticism</topic>
-    </subject>
-    <subject authority="lcsh">
-        <topic>Oratory, Ancient</topic>
-    </subject>
-    <classification authority="lcc">PA3263</classification>
-    <identifier>Perseus:text:1999.04.0077</identifier>
-    <identifier type="Perseus:abo">Perseus:abo:sec,00015</identifier>
-    <identifier type="Perseus:abo-sec">sec00015.sec001</identifier>
-    <identifier type="lccn">04014085</identifier>
-    <identifier type="oclc">5150055</identifier>
-    <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/04014085</url>
-    </location>
-    <location>
-        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/5150055</url>
-    </location>
-    <location>
-        <url displayLabel="GoogleBooks" note="Vol 1"
-        >http://books.google.com/books?id=d6ICAAAAQAAJ</url>
-    </location>
-    <location>
-        <url displayLabel="GoogleBooks" note="Vol 2"
-        >http://books.google.com/books?id=n6VfAAAAMAAJ</url>
-    </location>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0077</url>
-    </location>
-    <recordInfo>
-        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
-        <recordCreationDate encoding="marc"/>
-        <recordChangeDate encoding="iso8601"/>
-        <recordIdentifier/>
-    </recordInfo>
+  <subject authority="lcsh">
+    <topic>Speeches, addresses, etc., Greek</topic>
+    <topic>History and criticism</topic>
+  </subject>
+  <subject authority="lcsh">
+    <topic>Oratory, Ancient</topic>
+  </subject>
+  <classification authority="lcc">PA3263</classification>
+  <identifier>Perseus:text:1999.04.0077</identifier>
+  <identifier type="Perseus:abo">Perseus:abo:sec,00015</identifier>
+  <identifier type="Perseus:abo-sec">sec00015.sec001</identifier>
+  <identifier type="lccn">04014085</identifier>
+  <identifier type="oclc">5150055</identifier>
+  <location>
+    <url displayLabel="LC Permalink">http://lccn.loc.gov/04014085</url>
+  </location>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/5150055</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks" note="Vol 1">http://books.google.com/books?id=d6ICAAAAQAAJ</url>
+  </location>
+  <location>
+    <url displayLabel="GoogleBooks" note="Vol 2">http://books.google.com/books?id=n6VfAAAAMAAJ</url>
+  </location>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0077</url>
+  </location>
+  <recordInfo>
+    <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+    <recordCreationDate encoding="marc"/>
+    <recordChangeDate encoding="iso8601"/>
+    <recordIdentifier/>
+  </recordInfo>
 </mods>

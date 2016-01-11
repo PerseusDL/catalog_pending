@@ -1,103 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>Introduction to Precepts</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71455668">
+    <namePart>Jones, W. H. S. (William Henry Samuel)</namePart>
+    <namePart type="date">1876-1963</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf71455668.viaf005</identifier>
+  <!-- <identifier type="tlg" displayLabel="IsIntroductionTo">0627.051</identifier> -->
+  <identifier>Perseus:text:2007.01.0078</identifier>
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0078</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Introduction to Precepts</title>
+      <title>Hippocrates</title>
+      <partNumber>Volume I</partNumber>
     </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71455668">
-        <namePart>Jones, W. H. S. (William Henry Samuel)</namePart>
-        <namePart type="date">1876-1963</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-5643.html">
+      <namePart>Hippocrates.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-6756.html">
+      <namePart>Jones, W. H. S. (William Henry Samuel)</namePart>
+      <namePart type="date">1876-1963</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+      <place>
+        <placeTerm type="code" authority="marccountry">enk</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Cambridge</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">London</placeTerm>
+      </place>
+      <publisher>Harvard University Press</publisher>
+      <publisher>Heinemann</publisher>
+      <edition>Reprint</edition>
+      <dateModified>1984</dateModified>
+      <dateIssued>1923</dateIssued>
+      <issuance>monographic</issuance>
+    </originInfo>
     <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
     </language>
-    <identifier type="viafurn">viaf71455668.viaf005</identifier>
-    <!-- <identifier type="tlg" displayLabel="IsIntroductionTo">0627.051</identifier> -->
-    <identifier>Perseus:text:2007.01.0078</identifier>
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0078</url>
-    </location>
-    <relatedItem type="host">
-        <titleInfo>
-            <title>Hippocrates</title>
-            <partNumber>Volume I</partNumber>
-        </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-5643.html">
-            <namePart>Hippocrates.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n79-6756.html">
-            <namePart>Jones, W. H. S. (William Henry Samuel)</namePart>
-            <namePart type="date">1876-1963</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
-        <typeOfResource>text</typeOfResource>
-        <originInfo>
-            <place>
-                <placeTerm type="code" authority="marccountry">enk</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">Cambridge</placeTerm>
-            </place>
-            <place>
-                <placeTerm type="text">London</placeTerm>
-            </place>
-            <publisher>Harvard University Press</publisher>
-            <publisher>Heinemann</publisher>
-            <edition>Reprint</edition>
-            <dateModified>1984</dateModified>
-            <dateIssued>1923</dateIssued>
-            <issuance>monographic</issuance>
-        </originInfo>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-        </language>
-        <physicalDescription>
-            <form authority="marcform">print</form>
-            <extent>lxix, 361</extent>
-        </physicalDescription>
-        <note type="statement of responsibility">with an English translation by W. H. S. Jones.</note>
-        <subject authority="lcsh">
-            <name type="personal">
-                <namePart>Hippocrates</namePart>
-            </name>
-            <topic>Translations into English</topic>
-        </subject>
-        <subject authority="lcsh">
-            <topic>Medicine, Greek and Roman</topic>
-        </subject>
-        <classification authority="lcc">PA3612.H65</classification>
-        <classification authority="ddc">610</classification>
-        <relatedItem type="series">
-            <titleInfo>
-                <title>The Loeb classical library</title>
-                <partNumber>147</partNumber>
-            </titleInfo>
-        </relatedItem>
-        <identifier type="isbn">0674991621</identifier>
-        <identifier type="oclc">312053</identifier>
-        <location>
-            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/312053</url>
-        </location>
-        <location>
-            <url displayLabel="Open Content Alliance"
-                >http://www.archive.org/details/hippocrates01hippuoft</url>
-        </location>
-        <recordInfo>
-            <recordContentSource authority="marcorg">DLC</recordContentSource>
-            <recordCreationDate encoding="marc">790925</recordCreationDate>
-            <recordChangeDate encoding="iso8601">19961204112120.4</recordChangeDate>
-            <recordIdentifier>3580601</recordIdentifier>
-        </recordInfo>
+    <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>lxix, 361</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">with an English translation by W. H. S. Jones.</note>
+    <subject authority="lcsh">
+      <name type="personal">
+        <namePart>Hippocrates</namePart>
+      </name>
+      <topic>Translations into English</topic>
+    </subject>
+    <subject authority="lcsh">
+      <topic>Medicine, Greek and Roman</topic>
+    </subject>
+    <classification authority="lcc">PA3612.H65</classification>
+    <classification authority="ddc">610</classification>
+    <relatedItem type="series">
+      <titleInfo>
+        <title>The Loeb classical library</title>
+        <partNumber>147</partNumber>
+      </titleInfo>
     </relatedItem>
+    <identifier type="isbn">0674991621</identifier>
+    <identifier type="oclc">312053</identifier>
+    <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/312053</url>
+    </location>
+    <location>
+      <url displayLabel="Open Content Alliance">http://www.archive.org/details/hippocrates01hippuoft</url>
+    </location>
+    <recordInfo>
+      <recordContentSource authority="marcorg">DLC</recordContentSource>
+      <recordCreationDate encoding="marc">790925</recordCreationDate>
+      <recordChangeDate encoding="iso8601">19961204112120.4</recordChangeDate>
+      <recordIdentifier>3580601</recordIdentifier>
+    </recordInfo>
+  </relatedItem>
 </mods>

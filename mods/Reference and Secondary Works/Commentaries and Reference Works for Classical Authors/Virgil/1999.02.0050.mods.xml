@@ -1,7 +1,5 @@
 <?xml version="1.0"?>
-<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
-  xmlns:mods="http://www.loc.gov/mods/v3" version="3.3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+<mods:mods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xmlns:mods="http://www.loc.gov/mods/v3" version="3.3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
   <mods:titleInfo>
     <mods:title>Commentary on Vergil's Aeneid</mods:title>
     <mods:partNumber>Volume 1</mods:partNumber>
@@ -22,31 +20,27 @@
     <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
   </mods:language>
   <mods:location>
-    <mods:url displayLabel="Perseus" note="English"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0050</mods:url>
+    <mods:url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0050</mods:url>
   </mods:location>
   <mods:relatedItem type="host">
     <mods:titleInfo>
       <mods:title>P. Vergili Maronis opera</mods:title>
       <mods:subTitle>The works of Virgil</mods:subTitle>
     </mods:titleInfo>
-    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-      ns2:href="http://errol.oclc.org/laf/n79-14062.html">
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-14062.html">
       <mods:namePart>Virgil</mods:namePart>
       <mods:role>
         <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-      ns2:href="http://errol.oclc.org/laf/n88-628827.html">
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n88-628827.html">
       <mods:namePart>Conington, John</mods:namePart>
       <mods:namePart type="date">1825-1869</mods:namePart>
       <mods:role>
         <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
       </mods:role>
     </mods:name>
-    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal"
-      ns2:href="http://errol.oclc.org/laf/n50-3028.html">
+    <mods:name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-3028.html">
       <mods:namePart>Nettleship, Henry</mods:namePart>
       <mods:namePart type="date">1839-1893</mods:namePart>
       <mods:role>

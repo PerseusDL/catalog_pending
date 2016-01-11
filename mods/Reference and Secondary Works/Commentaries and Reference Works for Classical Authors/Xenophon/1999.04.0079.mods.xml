@@ -1,99 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-    version="3.5">
-    <titleInfo>
-        <title>Memorabilia</title>
-        <subTitle>Commentary</subTitle>
-    </titleInfo>
-    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/287358498">
-        <namePart>Smith, Josiah Resnick</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
-    </language>
-    <identifier type="viafurn">viaf287358498.viaf001</identifier>
-    <identifier>Perseus:text:1999.04.0079</identifier>
-    <!-- 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+  <titleInfo>
+    <title>Memorabilia</title>
+    <subTitle>Commentary</subTitle>
+  </titleInfo>
+  <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/287358498">
+    <namePart>Smith, Josiah Resnick</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+  </language>
+  <identifier type="viafurn">viaf287358498.viaf001</identifier>
+  <identifier>Perseus:text:1999.04.0079</identifier>
+  <!-- 
   <identifier type="tlg" displayLabel="IsCommentaryOn">0032.002</identifier>
    -->
-    <location>
-        <url displayLabel="Perseus" note="English"
-            >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0079</url>
-    </location>
-    <relatedItem type="host">
+  <location>
+    <url displayLabel="Perseus" note="English">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0079</url>
+  </location>
+  <relatedItem type="host">
     <titleInfo>
-        <title>Memorabilia</title>
+      <title>Memorabilia</title>
     </titleInfo>
-        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-            ns2:href="http://errol.oclc.org/laf/n80-36673.html">
-            <namePart>Xenophon.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/206561171">
-        <namePart>Smith, Josiah Resnick.</namePart>
-            <role>
-                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-            </role>
-        </name>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n80-36673.html">
+      <namePart>Xenophon.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/206561171">
+      <namePart>Smith, Josiah Resnick.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+    </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">mau</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Boston</placeTerm>
-        </place>
-        <publisher>Ginn &amp; Co.</publisher>
-        <dateIssued>c1903</dateIssued>
-        <dateIssued encoding="marc">1903</dateIssued>
-        <issuance>monographic</issuance>
+      <place>
+        <placeTerm type="code" authority="marccountry">mau</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Boston</placeTerm>
+      </place>
+      <publisher>Ginn &amp; Co.</publisher>
+      <dateIssued>c1903</dateIssued>
+      <dateIssued encoding="marc">1903</dateIssued>
+      <issuance>monographic</issuance>
     </originInfo>
     <language objectPart="notes">
-        <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
     </language>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+      <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xix, 270 p., [1] leaf of plates : port. ; 21 cm.</extent>
+      <form authority="marcform">print</form>
+      <extent>xix, 270 p., [1] leaf of plates : port. ; 21 cm.</extent>
     </physicalDescription>
     <note type="statement of responsibility" altRepGroup="00">Xenophon ; edited on the basis of the Breitenbach-Mücke 
         edition by Josiah Renick Smith.</note>
     <subject authority="lcsh">
-        <name type="personal">
-            <namePart>Socrates</namePart>
-        </name>
-        <topic>Trials, litigation, etc</topic>
-        <genre>Early works to 1800</genre>
+      <name type="personal">
+        <namePart>Socrates</namePart>
+      </name>
+      <topic>Trials, litigation, etc</topic>
+      <genre>Early works to 1800</genre>
     </subject>
     <classification authority="lcc">PA3411.C7 X47 1903</classification>
     <relatedItem type="series">
-        <titleInfo>
-            <title>College series of Greek authors</title>
-        </titleInfo>
+      <titleInfo>
+        <title>College series of Greek authors</title>
+      </titleInfo>
     </relatedItem>
     <identifier type="lccn">03007779</identifier>
     <identifier type="oclc">3263820</identifier>
-        <location>
-            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc2.ark:/13960/t3kw59d0v</url>
-        </location>
-        <location>
-            <url displayLabel="Worldcat">http://www.worldcat.org/title/memorabilia/oclc/3263820</url>
-        </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">770914</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20040519135019.0</recordChangeDate>
-        <recordIdentifier>7260268</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
-				(Revision 1.106 2014/12/19)</recordOrigin>   
-    </recordInfo>
+    <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc2.ark:/13960/t3kw59d0v</url>
+    </location>
+    <location>
+      <url displayLabel="Worldcat">http://www.worldcat.org/title/memorabilia/oclc/3263820</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">770914</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040519135019.0</recordChangeDate>
+    <recordIdentifier>7260268</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+  </recordInfo>
 </mods>

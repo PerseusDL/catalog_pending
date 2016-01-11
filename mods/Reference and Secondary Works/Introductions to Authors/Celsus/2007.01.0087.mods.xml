@@ -1,99 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>De Medicina</title>
-        <subTitle>Introduction</subTitle>
-    </titleInfo>
-    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/84795155">
-        <namePart>Daremberg, Charles Victor</namePart>
-        <namePart type="date">1817-1872</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
-    </name>
-    <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
-    </language>
-    <identifier>Perseus:text:2007.01.0087</identifier>
-    <identifier type="viafurn">viaf84795155.viaf001</identifier>
-    <!--     <identifier type="Perseus:abo" displayLabel="isIntroductionTo">Perseus:abo:phi,0836,002</identifier> 
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+  <titleInfo>
+    <title>De Medicina</title>
+    <subTitle>Introduction</subTitle>
+  </titleInfo>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/84795155">
+    <namePart>Daremberg, Charles Victor</namePart>
+    <namePart type="date">1817-1872</namePart>
+    <role>
+      <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+    </role>
+  </name>
+  <language objectPart="text">
+    <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+  </language>
+  <identifier>Perseus:text:2007.01.0087</identifier>
+  <identifier type="viafurn">viaf84795155.viaf001</identifier>
+  <!--     <identifier type="Perseus:abo" displayLabel="isIntroductionTo">Perseus:abo:phi,0836,002</identifier> 
          -->
-    <location>
-        <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0087</url>
-    </location>       
-    <relatedItem type="host">    
-        <titleInfo>
-        <title>A. Cornelii Celsi De medicina libri octo</title>
+  <location>
+    <url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2007.01.0087</url>
+  </location>
+  <relatedItem type="host">
+    <titleInfo>
+      <title>A. Cornelii Celsi De medicina libri octo</title>
     </titleInfo>
     <titleInfo type="uniform">
-        <title>De medicina. Latin.</title>
+      <title>De medicina. Latin.</title>
     </titleInfo>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n50-34315.html">
-        <namePart>Celsus, Aulus Cornelius.</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n50-34315.html">
+      <namePart>Celsus, Aulus Cornelius.</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
     </name>
-    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
-        ns2:href="http://errol.oclc.org/laf/n84-805528.html">
-        <namePart>Daremberg, Charles Victor</namePart>
-        <namePart type="date">1817-1872</namePart>
-        <role>
-            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
-        </role>
+    <name xmlns:ns2="http://www.w3.org/1999/xlink" authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n84-805528.html">
+      <namePart>Daremberg, Charles Victor</namePart>
+      <namePart type="date">1817-1872</namePart>
+      <role>
+        <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
     </name>
     <typeOfResource>text</typeOfResource>
     <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">gw</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Lipsiae</placeTerm>
-        </place>
-        <publisher>in aedibus B. G. Teubneri</publisher>
-        <dateIssued>1891</dateIssued>
-        <issuance>monographic</issuance>
+      <place>
+        <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+        <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B. G. Teubneri</publisher>
+      <dateIssued>1891</dateIssued>
+      <issuance>monographic</issuance>
     </originInfo>
     <relatedItem type="series">
-        <titleInfo>
-            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
-        </titleInfo>
+      <titleInfo>
+        <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+      </titleInfo>
     </relatedItem>
     <relatedItem type="series">
-        <titleInfo type="abbreviated">
-            <title>Teubner</title>
-        </titleInfo>
+      <titleInfo type="abbreviated">
+        <title>Teubner</title>
+      </titleInfo>
     </relatedItem>
     <language objectPart="text">
-        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>xlviii, 405 p., 1 l. 18 cm.</extent>
+      <form authority="marcform">print</form>
+      <extent>xlviii, 405 p., 1 l. 18 cm.</extent>
     </physicalDescription>
     <note>A reprint of the edition of 1859.</note>
     <subject authority="lcsh">
-        <topic>Medicine, Greek and Roman</topic>
+      <topic>Medicine, Greek and Roman</topic>
     </subject>
     <classification authority="lcc">PA6104 .C3 1891</classification>
     <identifier type="lccn">34013832</identifier>
     <identifier type="oclc">43547300</identifier>
     <location>
-        <url displayLabel="GoogleBooks">http://books.google.com/books?id=fzhJAAAAYAAJ</url>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=fzhJAAAAYAAJ</url>
     </location>
     <location>
-        <url displayLabel="LC Permalink">http://lccn.loc.gov/34013832</url>
+      <url displayLabel="LC Permalink">http://lccn.loc.gov/34013832</url>
     </location>
     <location>
-        <url displayLabel="WorldCat">http://worldcat.org/oclc/43547300</url>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/43547300</url>
     </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">810130</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20040212111856.0</recordChangeDate>
-        <recordIdentifier>10165968</recordIdentifier>
-    </recordInfo>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">810130</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20040212111856.0</recordChangeDate>
+    <recordIdentifier>10165968</recordIdentifier>
+  </recordInfo>
 </mods>

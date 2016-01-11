@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xmlns:mods="http://www.loc.gov/mods/v3"
-  xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
-  version="3.5">
+<mods:mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
   <mods:titleInfo type="translated" lang="lat">
     <mods:title>Washingtonii Vita</mods:title>
   </mods:titleInfo>
@@ -10,16 +7,14 @@
     <mods:nonSort>A</mods:nonSort>
     <mods:title>life of George Washington,in Latin prose</mods:title>
   </mods:titleInfo>
-  <mods:name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"
-    valueURI="http://viaf.org/viaf/32343182">
+  <mods:name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32343182">
     <mods:namePart>Glass, Francis</mods:namePart>
     <mods:namePart type="date">1790-1824</mods:namePart>
     <mods:role>
       <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
     </mods:role>
   </mods:name>
-  <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/"
-    valueURI="http://id.loc.gov/authorities/names/no97044584">
+  <mods:name type="personal" authority="naf" authorityURI="http://id.loc.gov/authorities/names/" valueURI="http://id.loc.gov/authorities/names/no97044584">
     <mods:namePart>Reynolds, John N.</mods:namePart>
     <mods:role>
       <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
@@ -72,8 +67,7 @@
     <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/nyp.33433082397229</mods:url>
   </mods:location>
   <mods:location>
-    <mods:url displayLabel="Perseus" note="Latin"
-      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0129</mods:url>
+    <mods:url displayLabel="Perseus" note="Latin">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0129</mods:url>
   </mods:location>
   <mods:recordInfo>
     <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
