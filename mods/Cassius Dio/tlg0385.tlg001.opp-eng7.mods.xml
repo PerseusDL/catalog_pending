@@ -17,7 +17,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548</mods:identifier>
         <mods:identifier type="oca">diosromanhistory01cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -37,11 +37,11 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>xxviii, 449 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Fragments Book I-Fragments Book XI</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
@@ -76,7 +76,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -99,17 +99,21 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
-    </mods:mods>
+    </mods:mods>    
     <mods:mods ID="mods2" xmlns:mods="http://www.loc.gov/mods/v3"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:atom="http://www.w3.org/2005/Atom"
@@ -125,7 +129,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory02cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -145,13 +149,14 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>519 pg</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Fragments Book XII-Fragments Book XXXV, Fragments of Uncertain
             Reference</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
@@ -163,9 +168,6 @@
         </mods:location>
         <mods:location xmlns="http://www.loc.gov/mods/v3">
             <mods:url displayLabel="WorldCat">http://worldcat.org/oclc/3370548</mods:url>
-        </mods:location>
-        <mods:location>
-            <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008506415</mods:url>
         </mods:location>
         <mods:location xmlns="http://www.loc.gov/mods/v3">
             <mods:url displayLabel="Open Content Alliance">
@@ -184,7 +186,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -207,13 +209,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
@@ -233,7 +239,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory03cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -253,12 +259,12 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>519 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Book XXXVI-Book XL</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
@@ -292,7 +298,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -315,13 +321,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
@@ -341,7 +351,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory04cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -361,16 +371,17 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>502 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Book XLI-Book XLV</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
-                <mods:title>The Loeb classical library.</mods:title>
+                <mods:title>The Loeb classical library</mods:title>
             </mods:titleInfo>
         </mods:relatedItem>
         <mods:location xmlns="http://www.loc.gov/mods/v3">
@@ -399,7 +410,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -422,13 +433,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
@@ -448,7 +463,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory05cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -470,12 +485,13 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>526 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Book XLVI-L</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
@@ -505,7 +521,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -528,13 +544,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
@@ -554,7 +574,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory06cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -576,12 +596,13 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>492 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Book LI-LV</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
@@ -611,7 +632,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -634,17 +655,21 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
-    </mods:mods>
+    </mods:mods>  
     <mods:mods ID="mods7" xmlns:mods="http://www.loc.gov/mods/v3"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xmlns:atom="http://www.w3.org/2005/Atom"
@@ -660,7 +685,7 @@
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory07cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -682,11 +707,14 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>449 pg.</mods:extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
         <mods:tableOfContents>Book LVI-Book LX, Fragments of Book LVI and Book LVIII</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
@@ -716,7 +744,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -739,13 +767,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
@@ -757,15 +789,16 @@
         <mods:titleInfo xml:lang="en" type="uniform">
             <mods:title>Historia Romana</mods:title>
         </mods:titleInfo>
-        <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:title>Dio's Roman history</mods:title>
             <mods:partNumber>Vol VIII</mods:partNumber>
+            <mods:partNumber>Epitomes of Book LXI-LXX</mods:partNumber>
         </mods:titleInfo>
         <mods:identifier type="tlg">0385.001</mods:identifier>
         <mods:identifier type="lccn">14004947</mods:identifier>
         <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory08cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -785,18 +818,16 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>482 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
-        <mods:tableOfContents>Epitomes of Book LXI-LXX</mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
-        
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
-                <mods:title>The Loeb classical library</mods:title>
+                <mods:title>The Loeb classical library.</mods:title>
             </mods:titleInfo>
         </mods:relatedItem>
         <mods:location xmlns="http://www.loc.gov/mods/v3">
@@ -822,7 +853,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -838,21 +869,25 @@
             xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
+            ns2:href="http://errol.oclc.org/laf/n86-864627.html">
+            <mods:namePart>Cary, Earnest</mods:namePart>
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864629.html">
             <mods:namePart>Foster, Herbert Baldwin</mods:namePart>
             <mods:namePart type="date">1874-1906</mods:namePart>
             <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
-            </mods:role>
-        </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
-            authority="naf"
-            type="personal"
-            ns2:href="http://errol.oclc.org/laf/n86-864627.html">
-            <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
-                <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
     </mods:mods>
@@ -869,9 +904,9 @@
         </mods:titleInfo>
         <mods:identifier type="tlg">0385.001</mods:identifier>
         <mods:identifier type="lccn">14004947</mods:identifier>
-        <mods:identifier type="oclc">3370548</mods:identifier>
+        <mods:identifier type="oclc">3370548 </mods:identifier>
         <mods:identifier type="oca">diosromanhistory09cassuoft</mods:identifier>
-        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-grc6</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:greekLit:tlg0385.tlg001.opp-eng7</mods:identifier>
         <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
         <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:place>
@@ -893,12 +928,15 @@
         <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
             <mods:form authority="marcform">print</mods:form>
             <mods:extent>572 pg.</mods:extent>
-            <digitalOrigin>digitized other analog</digitalOrigin>
         </mods:physicalDescription>
-        <mods:tableOfContents>Epitome of Book LXXI-LXXX</mods:tableOfContents>
+        <mods:tableOfContents>
+            Epitome of Book LXXI-LXXX
+        </mods:tableOfContents>
         <mods:note xmlns="http://www.loc.gov/mods/v3" type="statement of responsibility">with an English translation by Earnest Cary, PH. D., on
             the basis of the version of Herbert Baldwin Foster, PH. D. In nine volumes.</mods:note>
         <mods:note xmlns="http://www.loc.gov/mods/v3">Vols. 4-9 have imprint: London, W. Heinemann; New York, G. P. Putnam's sons.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Bibliography: v. 1, p. xxviii.</mods:note>
+        <mods:note xmlns="http://www.loc.gov/mods/v3">Greek and English on opposite pages.</mods:note>
         <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">PA3612 .C3 1914</mods:classification>
         <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
             <mods:titleInfo>
@@ -921,6 +959,9 @@
         <mods:location>
             <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/inu.30000042681696</mods:url>
         </mods:location>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="GoogleBooks"/>
+        </mods:location>
         <mods:recordInfo xmlns="http://www.loc.gov/mods/v3">
             <mods:recordContentSource authority="marcorg">DLC</mods:recordContentSource>
             <mods:recordCreationDate encoding="marc">820428</mods:recordCreationDate>
@@ -928,7 +969,7 @@
             <mods:recordIdentifier>8236326</mods:recordIdentifier>
         </mods:recordInfo>
         <mods:language xmlns="http://www.loc.gov/mods/v3">
-            <mods:languageTerm type="code" authority="iso639-2b">grc</mods:languageTerm>
+            <mods:languageTerm type="code" authority="iso639-2b">eng</mods:languageTerm>
         </mods:language>
         <mods:name xmlns="http://www.loc.gov/mods/v3"
             xmlns:ns2="http://www.w3.org/1999/xlink"
@@ -951,13 +992,17 @@
                 <mods:roleTerm authority="marcrelator" type="text">original translator</mods:roleTerm>
             </mods:role>
         </mods:name>
-        <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
             authority="naf"
             type="personal"
             ns2:href="http://errol.oclc.org/laf/n86-864627.html">
             <mods:namePart>Cary, Earnest</mods:namePart>
-            <mods:namePart type="date">1879-</mods:namePart>
-            <mods:role xmlns="http://www.loc.gov/mods/v3">
+            <mods:namePart type="date">1879- </mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+            <mods:role>
                 <mods:roleTerm authority="marcrelator" type="text">editor</mods:roleTerm>
             </mods:role>
         </mods:name>
