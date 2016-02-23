@@ -1,0 +1,3396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Epigrammata Graeca</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+        <namePart>Page, Denys Lionel</namePart>
+        <namePart type="date">1908-1978</namePart>
+        <namePart type="termsOfAddress">Sir</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">enk</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Oxonii</placeTerm>
+        </place>
+        <publisher>E Typographeo Clarendoniano</publisher>
+        <dateIssued>1975</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xiv, 373 p.; 19 cm</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">edidit D. L. Page</note>
+    <note>Text in Greek; introductory matter in Latin</note>
+    <note>Includes indexes</note>
+    <subject authority="lcsh">
+        <topic>Epigrams, Greek</topic>
+    </subject>
+    <classification authority="lcc">PA3457 .E5</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Scriptorum classicorum bibliotheca Oxoniensis</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">0198145810 :</identifier>
+    <identifier type="lccn">76524016</identifier>
+    <identifier type="oclc">3997817</identifier>
+    <relatedItem>
+        <location>
+            <url displayLabel="Publisher description"
+                >http://www.loc.gov/catdir/enhancements/fy0603/76524016-d.html</url>
+        </location>
+    </relatedItem>
+    <identifier type="oclc">894750387</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894750387</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415776481</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/161630631">
+            <namePart>Archilochus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0232.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>1</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/9/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/78770488">
+            <namePart>Sappho</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0009.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>2</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/9/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47152779">
+            <namePart>Demodocus</namePart>
+            <namePart type="termsOfAddress">Lerius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0245.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>2</start>
+                <end>3</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/10/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/262316432">
+            <namePart>Phocylides</namePart>
+            <namePart type="date">fl. 544-541 B.C
+            </namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1604.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>3</start>
+                <end>3</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/11/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/292158608">
+            <namePart>Pisander</namePart>
+            <namePart type="termsOfAddress">Camirensis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0288.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>3</start>
+                <end>4</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/11/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100165204">
+            <namePart>Anacreon</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0237.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>4</start>
+                <end>8</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/12/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/90630343">
+            <namePart>Semonides</namePart>
+            <namePart type="termsOfAddress">of Amorgos</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0260.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>8</start>
+                <end>39</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/16/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236594">
+            <namePart>Philiades</namePart>
+            <namePart type="termsOfAddress">Megarensis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1587.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>40</start>
+                <end>40</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/48/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100181310">
+            <namePart>Pindar</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0033.005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>40</start>
+                <end>40</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/48/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100169207">
+            <namePart>Bacchylides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0199.009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>40</start>
+                <end>41</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/48/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268526195">
+            <namePart>Aeschylus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0085.010</identifier>
+        <part>
+            <extent unit="pages">
+                <start>42</start>
+                <end>42</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/50/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/297576907">
+            <namePart>Empedocles</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1342.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>42</start>
+                <end>42</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/50/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/101760867">
+            <namePart>Sophocles</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0011.009</identifier>
+        <part>
+            <extent unit="pages">
+                <start>43</start>
+                <end>43</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/51/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta Elegeiaca</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/284726704">
+            <namePart>Ion</namePart>
+            <namePart type="termsOfAddress">of Chios</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0308.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>43</start>
+                <end>44</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/51/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/265326651">
+            <namePart>Euripides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0006.031</identifier>
+        <part>
+            <extent unit="pages">
+                <start>44</start>
+                <end>44</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/52/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7041070">
+            <namePart>Hippon</namePart>
+            <namePart type="date">active 5th century B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1437.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>44</start>
+                <end>44</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/52/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/30332124">
+            <namePart>Parrhasius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1567.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>45</start>
+                <end>45</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/53/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/8183622">
+            <namePart>Zeuxis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0127.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>46</start>
+                <end>46</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/54/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/95161463">
+            <namePart>Thucydides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0003.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>46</start>
+                <end>46</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/54/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/46735515">
+            <namePart>Alcibiades</namePart>
+            <namePart type="date">450-404</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0236.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>46</start>
+                <end>46</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/54/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236323">
+            <namePart>Ion Samius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1446.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>47</start>
+                <end>47</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/55/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108159964">
+            <namePart>Plato</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0059.039</identifier>
+        <part>
+            <extent unit="pages">
+                <start>47</start>
+                <end>55</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/55/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2857599">
+            <namePart>Astydamas</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0325.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>55</start>
+                <end>55</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/63/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455073">
+            <namePart>Aphareus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1150.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>56</start>
+                <end>56</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/64/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata Demonstrativa</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7524651">
+            <namePart>Aristoteles</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0086.X04</identifier>
+        <part>
+            <extent unit="pages">
+                <start>56</start>
+                <end>56</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/64/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmentum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15160179">
+            <namePart>Theocritus</namePart>
+            <namePart type="termsOfAddress">Chius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1714.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>56</start>
+                <end>57</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/64/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69016459">
+            <namePart>Speusippus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1692.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>57</start>
+                <end>57</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/65/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455590">
+            <namePart>Mamercus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1476.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>57</start>
+                <end>57</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/65/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/317282446">
+            <namePart>Erinna</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1355.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>57</start>
+                <end>58</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/65/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/297103308">
+            <namePart>Menander,</namePart>
+            <namePart type="termsOfAddress">of Athens</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0541.044</identifier>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>59</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/67/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39766318">
+            <namePart>Aeschrion</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0679.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>59</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/67/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22527565">
+            <namePart>Antagoras</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0215.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>60</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/67/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57923583">
+            <namePart>Anyte</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0121.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>60</start>
+                <end>66</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/68/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69321152">
+            <namePart>Duris</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0178.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>66</start>
+                <end>66</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/74/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/61898461">
+            <namePart>Moero</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0220.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>67</start>
+                <end>67</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/75/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24394327">
+            <namePart>Nossis</namePart>
+            <namePart type="date">active 3rd century B.C.</namePart>
+            <namePart type="termsOfAddress">of Locri</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1540.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>67</start>
+                <end>70</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/75/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17614521">
+            <namePart>Perses</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1575.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>70</start>
+                <end>73</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/78/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455733">
+            <namePart>Phalaecus</namePart>
+            <namePart type="termsOfAddress">Phaecus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1581.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>73</start>
+                <end>74</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/81/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/70733943">
+            <namePart>Philetas</namePart>
+            <namePart type="termsOfAddress">Cous</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0212.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>75</start>
+                <end>75</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/83/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/14661953">
+            <namePart>Simmias</namePart> 
+            <namePart type="termsOfAddress">of Rhodes</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0211.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>75</start>
+                <end>77</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/83/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/213854447">
+            <namePart>Alexander Aetolus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0216.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>77</start>
+                <end>77</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/85/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/262974255">
+            <namePart>Apollonius Rhodius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0001.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>78</start>
+                <end>78</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/86/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100908520">
+            <namePart>Aratus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0653.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>78</start>
+                <end>78</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/86/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15159471">
+            <namePart>Arcesilaus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1172.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>79</start>
+                <end>79</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/87/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/79197227">
+            <namePart>Asclepiades</namePart>
+            <namePart type="termsOfAddress">of Samos</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0137.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>79</start>
+                <end>89</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/87/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/99454635">
+            <namePart>Callimachus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0147.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>89</start>
+                <end>109</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/97/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37304672">
+            <namePart>Hedylus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0198.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>109</start>
+                <end>112</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/117/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/218794913">
+            <namePart>Heraclitus</namePart>
+            <namePart type="termsOfAddress">Halicarnassensis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1415.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>113</start>
+                <end>113</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/121/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2858266">
+            <namePart>Nicias</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1533.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>113</start>
+                <end>115</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/121/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71427145">
+            <namePart>Posidippus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1632.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>115</start>
+                <end>124</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/123/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/52080638">
+            <namePart>Theaetetus</namePart>
+            <namePart type="termsOfAddress">Scholasticus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">4044.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>124</start>
+                <end>126</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/132/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/95161348">
+            <namePart>Theocritus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0005.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>126</start>
+                <end>133</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/134/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/75689774">
+            <namePart>Euphorion</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0221.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>134</start>
+                <end>134</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/142/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/74242146">
+            <namePart>Hegesippus</namePart>
+            <namePart type="termsOfAddress">Epigrammaticus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1396.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>134</start>
+                <end>136</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/142/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57415060">
+            <namePart>Leonidas,</namePart>
+            <namePart type="termsOfAddress">of Tarentum</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+            <displayForm>Leonidas Tarentinus</displayForm>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1458.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>137</start>
+                <end>172</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/145/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37304808">
+            <namePart>Mnasalces</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1513.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>172</start>
+                <end>176</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/180/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71783894">
+            <namePart>Philoxenus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1601.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>177</start>
+                <end>177</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/185/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/807154">
+            <namePart>Crates</namePart>
+            <namePart type="date">360-280</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0336.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>177</start>
+                <end>177</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/185/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392583">
+            <namePart>Damagetus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0158.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>177</start>
+                <end>181</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/185/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/78822798">
+            <namePart>Dioscorides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0173.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>181</start>
+                <end>194</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/189/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5318072">
+            <namePart>Nicaenetus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0218.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>194</start>
+                <end>196</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/202/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7775336">
+            <namePart>Phaedimus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1577.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>196</start>
+                <end>197</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/204/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5727144">
+            <namePart>Rhianus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0219.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>197</start>
+                <end>200</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/205/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/52081602">
+            <namePart>Theodoridas</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1715.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>200</start>
+                <end>205</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/208/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/228050642">
+            <namePart>Alcaeus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0106.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>206</start>
+                <end>212</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/214/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/89655631">
+            <namePart>Herodicus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2625.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>213</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/221/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54537283">
+            <namePart>Philippus</namePart>
+            <namePart type="termsOfAddress">Thessalonicensis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1589.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>213</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/221/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39767137">
+            <namePart>Samus Macedonius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1658.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>214</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/221/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22527577">
+            <namePart>Antipater Sidonius</namePart>
+            <namePart type="date">active approximately 100 B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0113.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>214</start>
+                <end>241</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/222/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/206318322">
+            <namePart>Dionysius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0167.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>241</start>
+                <end>242</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/249/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/299323588">
+            <namePart>Moschus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0035.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>243</start>
+                <end>243</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/251/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47153122">
+            <namePart>Phanias</namePart>
+            <namePart type="termsOfAddress">Epigrammaticus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1582.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>243</start>
+                <end>246</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/251/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/292250235">
+            <namePart>Polystratus</namePart>
+            <namePart type="termsOfAddress">Aegyptius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1628.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>246</start>
+                <end>247</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/254/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47555258">
+            <namePart>Zenodotus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0600.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>247</start>
+                <end>248</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/255/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/53911">
+            <namePart>Meleager</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1492.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>248</start>
+                <end>291</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/256/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268806125">
+            <namePart>Philodemus</namePart>
+            <namePart type="date">approximately 110 B.C.-approximately 40 B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1595.730</identifier>
+        <part>
+            <extent unit="pages">
+                <start>291</start>
+                <end>300</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/299/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15159601">
+            <namePart>Crinagoras</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0154.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>301</start>
+                <end>317</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/309/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69320835">
+            <namePart>Agis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0105.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>317</start>
+                <end>317</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/325/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17613782">
+            <namePart>Amyntas</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2649.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>317</start>
+                <end>318</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/325/</url>
+        </location>
+    </relatedItem><relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/12693373">
+            <namePart>Archelaus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0570.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>318</start>
+                <end>318</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/326/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54536699">
+            <namePart>Aristodicus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0133.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>319</start>
+                <end>319</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/327/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392557">
+            <namePart>Ariston</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0134.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>319</start>
+                <end>320</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/327/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/34843400">
+            <namePart>Artemon</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0136.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>321</start>
+                <end>321</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/329/</url>
+        </location>
+    </relatedItem><relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37304324">
+            <namePart>Carphyllides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0150.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>321</start>
+                <end>322</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/329/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/26423445">
+            <namePart>Chaeremon</namePart>
+            <namePart type="date">active 4th century B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0152.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>322</start>
+                <end>323</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/330/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236135">
+            <namePart>Damostratus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">7000.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>323</start>
+                <end>323</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/331/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39766736">
+            <namePart>Diotimus</namePart>
+            <namePart type="termsOfAddress">Adramyttenus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0174.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>323</start>
+                <end>326</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/331/</url>
+        </location>
+    </relatedItem><relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5317925">
+            <namePart>Glaucus</namePart>
+            <namePart type="termsOfAddress">Nicopolitanus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0193.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>326</start>
+                <end>327</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/334/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/52081192">
+            <namePart>Hegemon</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1391.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>327</start>
+                <end>328</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/335/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39766840">
+            <namePart>Hermocreon</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1422.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>328</start>
+                <end>328</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/336/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64395682">
+            <namePart>Hermodorus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1423.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>328</start>
+                <end>328</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/336/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64395761">
+            <namePart>Menecrates</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1501.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>328</start>
+                <end>329</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/336/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22275493">
+            <namePart>Nicander</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0022.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>329</start>
+                <end>330</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/337/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2858250">
+            <namePart>Nicarchus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1532.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>330</start>
+                <end>331</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/338/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/316786767">
+            <namePart>Nicomachus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1537.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>331</start>
+                <end>331</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/339/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64047121">
+            <namePart>Pamphilus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1554.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>332</start>
+                <end>332</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/340/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/69321390">
+            <namePart>Pancrates</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1556.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>332</start>
+                <end>333</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/340/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7775343">
+            <namePart>Phaenus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1579.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>333</start>
+                <end>334</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/341/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/74242421">
+            <namePart>Philetas Samius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1592.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>334</start>
+                <end>334</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/342/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/47196191">
+            <namePart>Theodorus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1716.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>334</start>
+                <end>335</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/342/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigramma</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/5318310">
+            <namePart>Thymocles</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1731.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>335</start>
+                <end>335</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/343/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54537436">
+            <namePart>Tymnes</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1744.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>335</start>
+                <end>337</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/343/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epigrammata</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate">
+            <namePart>Anonymi Epigrammatici</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+            <namePart>Page, Denys Lionel</namePart>
+            <namePart type="date">1908-1978</namePart>
+            <namePart type="termsOfAddress">Sir</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <tableOfContents>A. E Corona Meleagri (pg. 337-352) -- B. Alia Anonyma (pg. 352-356)</tableOfContents>
+        <identifier type="tlg">0138.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>337</start>
+                <end>356</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/107452/345/</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">780623</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20060718214615.0</recordChangeDate>
+        <recordIdentifier>9032187</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
