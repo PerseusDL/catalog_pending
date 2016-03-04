@@ -10,6 +10,11 @@
          <mads:namePart type="date">ca. 1.Jh.v.Chr</mads:namePart>
       </mads:name>
    </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>&#x3A0;&#x3B1;&#x3C5;&#x3C3;&#x3B1;&#x3BD;&#x3AF;&#x3B1;&#x3C2;</mads:namePart>
+      </mads:name>
+   </mads:variant>
    <mads:variant type="other" lang="lat">
       <mads:name type="personal">
          <mads:namePart>Pausanias</mads:namePart>
@@ -24,9 +29,12 @@
          <mads:namePart type="date">ca. 1.Jh.v.Chr</mads:namePart>
       </mads:name>
    </mads:variant>
-   <mads:url displayLabel="VIAF">http://viaf.org/viaf/27455714</mads:url>
+   <mads:note type="source">Smith's Dictionary: "Pausanias, A Lacedaemonian historian, who, according to Suidas (s. u.), wrote, Περὶ Ἑλλησπόντου, Λακωνικά, χρονικά, περὶ Ἀμφικτυόνων, περὶ τῶν ἐν Λάκωσιν ἑορτῶν. He is probably the author referred to by Aelian and Arrian (Tactic. 100.1) 
+      as having written on the subject of Tactics..."</mads:note>
    <mads:identifier type="tlg">2497</mads:identifier>
    <mads:identifier type="uri">http://viaf.org/viaf/27455714</mads:identifier>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/27455714</mads:url>
+   <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=pausanias-bio-13</mads:url>
    <mads:extension>
       <mads:description>List of related work identifiers</mads:description>
       <identifier type="tlg">2497.001</identifier>
