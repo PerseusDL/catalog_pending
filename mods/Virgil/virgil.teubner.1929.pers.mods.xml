@@ -53,7 +53,7 @@
     <identifier type="stoa author-text">stoa0290-stoa001</identifier>
     <identifier type="oclc">91339920</identifier>
     <location>
-        <url displayLabel="WorldCat">ttp://www.worldcat.org/oclc/91339920</url>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/91339920</url>
     </location>
     <location>
         <url displayLabel="SLUB">http://digital.slub-dresden.de/id413019845</url>
