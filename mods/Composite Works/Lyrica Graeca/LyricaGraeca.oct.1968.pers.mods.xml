@@ -1,997 +1,995 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" version="3.5">
+  <titleInfo>
+    <title>Lyrica Graeca selecta</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+    <namePart>Page, Denys Lionel</namePart>
+    <namePart type="termsOfAddress">Sir</namePart>
+    <namePart type="date">1908-1978</namePart>
+    <role>
+      <roleTerm type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">enk</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Oxonii</placeTerm>
+    </place>
+    <publisher>Clarendon</publisher>
+    <dateIssued>1968</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>vii, 268 p.; 19 cm</extent>
+    <digitalOrigin>digitized other analog</digitalOrigin>
+  </physicalDescription>
+  <note type="statement of responsibility" altRepGroup="00">edidit brevique adnotatione critica instruxit D.L. Page</note>
+  <note>Text in Greek</note>
+  <subject authority="lcsh">
+    <topic>Greek poetry</topic>
+  </subject>
+  <relatedItem type="series">
     <titleInfo>
-        <title>Lyrica Graeca selecta</title>
+      <title>Scriptorum classicorum bibliotheca Oxoniensis</title>
     </titleInfo>
-    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-        <namePart>Page, Denys Lionel</namePart>
-        <namePart type="termsOfAddress">Sir</namePart>
-        <namePart type="date">1908-1978</namePart>
-        <role>
-            <roleTerm type="text">editor</roleTerm>
-        </role>
+  </relatedItem>
+  <classification authority="lcc">PA3443 .P28</classification>
+  <identifier type="lccn">68108815</identifier>
+  <identifier type="oclc">894750240</identifier>
+  <location>
+    <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894750240</url>
+  </location>
+  <location>
+    <url displayLabel="SLUB">http://digital.slub-dresden.de/id415767245</url>
+  </location>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/266144783003245102867">
+      <namePart>Alcman</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
     </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">enk</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Oxonii</placeTerm>
-        </place>
-        <publisher>Clarendon</publisher>
-        <dateIssued>1968</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
     </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>vii, 268 p.; 19 cm</extent>
-        <digitalOrigin>digitized other analog</digitalOrigin>
-    </physicalDescription>
-    <note type="statement of responsibility" altRepGroup="00">edidit brevique adnotatione critica instruxit D.L. Page</note>
-    <note>Text in Greek</note>
-    <subject authority="lcsh">
-        <topic>Greek poetry</topic>
-    </subject>
-    <relatedItem type="series">
-        <titleInfo>
-            <title>Scriptorum classicorum bibliotheca Oxoniensis</title>
-        </titleInfo>
-    </relatedItem>
-    <classification authority="lcc">PA3443 .P28</classification>
-    <identifier type="lccn">68108815</identifier>
-    <identifier type="oclc">894750240</identifier>
+    <identifier type="tlg">0291.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>1</start>
+        <end>28</end>
+      </extent>
+    </part>
     <location>
-        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/894750240</url>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/9/</url>
     </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/282509558">
+      <namePart>Stesichorus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0292.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>29</start>
+        <end>54</end>
+      </extent>
+    </part>
     <location>
-        <url displayLabel="SLUB">http://digital.slub-dresden.de/id415767245</url>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/37/</url>
     </location>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/266144783003245102867">
-            <namePart>Alcman</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0291.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>1</start>
-                <end>28</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/9/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/282509558">
-            <namePart>Stesichorus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0292.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>29</start>
-                <end>54</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/37/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/228050642">
-            <namePart>Alcaeus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0383.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>55</start>
-                <end>96</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/63/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/78770488">
-            <namePart>Sappho</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0009.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>97</start>
-                <end>129</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/105/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Lesbia Incerti Auctoris</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <part>
-            <extent unit="pages">
-                <start>131</start>
-                <end>132</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/139/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/212789148">
-            <namePart>Ibycus</namePart>
-            <namePart type="date">active 6th century B.C.</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0293.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>133</start>
-                <end>145</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/141/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268654033">
-            <namePart>Anacreon</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0237.002</identifier>
-        <part>
-            <extent unit="pages">
-                <start>147</start>
-                <end>166</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/155/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/3926768">
-            <namePart>Simonides</namePart>
-            <namePart type="date">ca. 556-467 B.C.</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0261.002</identifier>
-        <part>
-            <extent unit="pages">
-                <start>167</start>
-                <end>190</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/175/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/9666495">
-            <namePart>Corinna</namePart>
-            <namePart type="termsOfAddress">of Tanagra</namePart>
-            <namePart type="date">active 5th century B.C.</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0294.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>191</start>
-                <end>202</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/199/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmentum</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392598">
-            <namePart>Eumelus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0298.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>204</start>
-                <end>204</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/212/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/281232934">
-            <namePart>Terpander</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0299.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>204</start>
-                <end>204</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/212/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455981">
-            <namePart>Xanthus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="plg">plg0204.plg001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>205</start>
-                <end>205</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/213/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmentum</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/76003898">
-            <namePart>Lasus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0366.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>205</start>
-                <end>205</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/213/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990802">
-            <namePart>Pratinas</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">1833.002</identifier>
-        <part>
-            <extent unit="pages">
-                <start>206</start>
-                <end>206</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/214/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392639">
-            <namePart>Myrtis</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="plg">plg0001.plg001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>207</start>
-                <end>207</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/215/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17573269">
-            <namePart>Telesilla</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0369.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>207</start>
-                <end>207</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/215/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22528473">
-            <namePart>Timocreon</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0265.002</identifier>
-        <part>
-            <extent unit="pages">
-                <start>208</start>
-                <end>210</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/216/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/284726704">
-            <namePart>Ion</namePart>
-            <namePart type="termsOfAddress">of Chios</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0308.003</identifier>
-        <part>
-            <extent unit="pages">
-                <start>210</start>
-                <end>211</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/218/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692841">
-            <namePart>Praxilla</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0372.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>211</start>
-                <end>212</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/219/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Epinicium in Alcibiadem</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/265326651">
-            <namePart>Euripides</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0006.022</identifier>
-        <part>
-            <extent unit="pages">
-                <start>212</start>
-                <end>212</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/220/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/399005">
-            <namePart>Melanippides</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0373.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>213</start>
-                <end>213</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/221/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57001715">
-            <namePart>Licymnius</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0374.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>213</start>
-                <end>213</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/221/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/262405895">
-            <namePart>Timotheus</namePart>
-            <namePart type="termsOfAddress">of Miletus</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0376.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>214</start>
-                <end>226</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/222/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/29919773">
-            <namePart>Telestes</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0377.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>226</start>
-                <end>228</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/234/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmentum</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/29920366">
-            <namePart>Ariphron</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0378.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>229</start>
-                <end>229</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/237/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmentum</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7524651">
-            <namePart>Aristotle</namePart>
-            <namePart type="date">384-322</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0086.050</identifier>
-        <part>
-            <extent unit="pages">
-                <start>230</start>
-                <end>231</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/238/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Carmina Popularia</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0295.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>233</start>
-                <end>236</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/241/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Carmina Convivialia</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0296.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>237</start>
-                <end>246</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/245/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Fragmenta</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Lyrica Adespota</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
-            <namePart>Page, Denys Lionel</namePart>
-            <namePart type="termsOfAddress">Sir</namePart>
-            <namePart type="date">1908-1978</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">0297.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>247</start>
-                <end>261</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/255/</url>
-        </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">731106</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20050829133348.0</recordChangeDate>
-        <recordIdentifier>6623480</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/228050642">
+      <namePart>Alcaeus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0383.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>55</start>
+        <end>96</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/63/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/78770488">
+      <namePart>Sappho</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0009.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>97</start>
+        <end>129</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/105/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lesbia Incerti Auctoris</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <part>
+      <extent unit="pages">
+        <start>131</start>
+        <end>132</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/139/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/212789148">
+      <namePart>Ibycus</namePart>
+      <namePart type="date">active 6th century B.C.</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0293.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>133</start>
+        <end>145</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/141/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268654033">
+      <namePart>Anacreon</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0237.002</identifier>
+    <part>
+      <extent unit="pages">
+        <start>147</start>
+        <end>166</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/155/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/3926768">
+      <namePart>Simonides</namePart>
+      <namePart type="date">ca. 556-467 B.C.</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0261.002</identifier>
+    <part>
+      <extent unit="pages">
+        <start>167</start>
+        <end>190</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/175/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/9666495">
+      <namePart>Corinna</namePart>
+      <namePart type="termsOfAddress">of Tanagra</namePart>
+      <namePart type="date">active 5th century B.C.</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0294.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>191</start>
+        <end>202</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/199/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmentum</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392598">
+      <namePart>Eumelus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0298.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>204</start>
+        <end>204</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/212/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/281232934">
+      <namePart>Terpander</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0299.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>204</start>
+        <end>204</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/212/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/27455981">
+      <namePart>Xanthus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="plg">plg0204.plg001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>205</start>
+        <end>205</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/213/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmentum</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/76003898">
+      <namePart>Lasus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0366.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>205</start>
+        <end>205</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/213/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24990802">
+      <namePart>Pratinas</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">1833.002</identifier>
+    <part>
+      <extent unit="pages">
+        <start>206</start>
+        <end>206</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/214/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305392639">
+      <namePart>Myrtis</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="plg">plg0001.plg001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>207</start>
+        <end>207</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/215/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/17573269">
+      <namePart>Telesilla</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0369.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>207</start>
+        <end>207</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/215/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22528473">
+      <namePart>Timocreon</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0265.002</identifier>
+    <part>
+      <extent unit="pages">
+        <start>208</start>
+        <end>210</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/216/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/284726704">
+      <namePart>Ion</namePart>
+      <namePart type="termsOfAddress">of Chios</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0308.003</identifier>
+    <part>
+      <extent unit="pages">
+        <start>210</start>
+        <end>211</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/218/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/44692841">
+      <namePart>Praxilla</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0372.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>211</start>
+        <end>212</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/219/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Epinicium in Alcibiadem</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/265326651">
+      <namePart>Euripides</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0006.022</identifier>
+    <part>
+      <extent unit="pages">
+        <start>212</start>
+        <end>212</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/220/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/399005">
+      <namePart>Melanippides</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0373.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>213</start>
+        <end>213</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/221/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57001715">
+      <namePart>Licymnius</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0374.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>213</start>
+        <end>213</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/221/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/262405895">
+      <namePart>Timotheus</namePart>
+      <namePart type="termsOfAddress">of Miletus</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0376.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>214</start>
+        <end>226</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/222/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/29919773">
+      <namePart>Telestes</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0377.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>226</start>
+        <end>228</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/234/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmentum</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/29920366">
+      <namePart>Ariphron</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0378.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>229</start>
+        <end>229</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/237/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmentum</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/7524651">
+      <namePart>Aristotle</namePart>
+      <namePart type="date">384-322</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0086.050</identifier>
+    <part>
+      <extent unit="pages">
+        <start>230</start>
+        <end>231</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/238/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Carmina Popularia</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0295.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>233</start>
+        <end>236</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/241/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Carmina Convivialia</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0296.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>237</start>
+        <end>246</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/245/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Fragmenta</title>
+    </titleInfo>
+    <name type="personal">
+      <namePart>Lyrica Adespota</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108480048">
+      <namePart>Page, Denys Lionel</namePart>
+      <namePart type="termsOfAddress">Sir</namePart>
+      <namePart type="date">1908-1978</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0297.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>247</start>
+        <end>261</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/109667/255/</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">731106</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20050829133348.0</recordChangeDate>
+    <recordIdentifier>6623480</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>

@@ -1,194 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
-    version="3.5">
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd" version="3.5">
+  <titleInfo>
+    <title>Œuvres spirituelles</title>
+  </titleInfo>
+  <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
+    <namePart>Diadochus</namePart>
+    <namePart type="termsOfAddress">Bishop of Photice</namePart>
+    <namePart type="date">active 5th century</namePart>
+    <role>
+      <roleTerm type="text">creator</roleTerm>
+    </role>
+  </name>
+  <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
+    <namePart>Des Places, Édouard</namePart>
+    <namePart type="date">1900-2000</namePart>
+    <role>
+      <roleTerm type="text">editor</roleTerm>
+    </role>
+  </name>
+  <typeOfResource>text</typeOfResource>
+  <originInfo>
+    <place>
+      <placeTerm type="code" authority="marccountry">fr</placeTerm>
+    </place>
+    <place>
+      <placeTerm type="text">Paris</placeTerm>
+    </place>
+    <publisher>Éditions du Cerf</publisher>
+    <dateIssued>1966</dateIssued>
+    <issuance>monographic</issuance>
+  </originInfo>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+  </language>
+  <physicalDescription>
+    <form authority="marcform">print</form>
+    <extent>220 p.; 20 cm</extent>
+  </physicalDescription>
+  <subject authority="lcsh">
+    <topic>Theology</topic>
+  </subject>
+  <classification authority="lcc">BR65.D375 F72 1966</classification>
+  <identifier type="lccn">67101060</identifier>
+  <identifier type="oclc">897396439</identifier>
+  <location>
+    <url displayLabel="Worldcat">http://www.worldcat.org/oclc/897396439</url>
+  </location>
+  <location>
+    <url displayLabel="SLUB">http://digital.slub-dresden.de/id417108427</url>
+  </location>
+  <relatedItem type="constituent">
     <titleInfo>
-        <title>Œuvres spirituelles</title>
+      <title>Capita centum de perfectione spirituali</title>
     </titleInfo>
     <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
-        <namePart>Diadochus</namePart>
-        <namePart type="termsOfAddress">Bishop of Photice</namePart>
-        <namePart type="date">active 5th century</namePart>
-        <role>
-            <roleTerm type="text">creator</roleTerm>
-        </role>
+      <namePart>Diadochus</namePart>
+      <namePart type="termsOfAddress">Bishop of Photice</namePart>
+      <namePart type="date">active 5th century</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
     </name>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
-        <namePart>Des Places, Édouard</namePart>
-        <namePart type="date">1900-2000</namePart>
-        <role>
-            <roleTerm type="text">editor</roleTerm>
-        </role>
+      <namePart>Des Places, Édouard</namePart>
+      <namePart type="date">1900-2000</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
     </name>
-    <typeOfResource>text</typeOfResource>
-    <originInfo>
-        <place>
-            <placeTerm type="code" authority="marccountry">fr</placeTerm>
-        </place>
-        <place>
-            <placeTerm type="text">Paris</placeTerm>
-        </place>
-        <publisher>Éditions du Cerf</publisher>
-        <dateIssued>1966</dateIssued>
-        <issuance>monographic</issuance>
-    </originInfo>
     <language objectPart="text">
-        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
     </language>
-    <physicalDescription>
-        <form authority="marcform">print</form>
-        <extent>220 p.; 20 cm</extent>
-    </physicalDescription>
-    <subject authority="lcsh">
-        <topic>Theology</topic>
-    </subject>
-    <classification authority="lcc">BR65.D375 F72 1966</classification>
-    <identifier type="lccn">67101060</identifier>
-    <identifier type="oclc">897396439</identifier>
+    <identifier type="tlg">2775.001</identifier>
+    <part>
+      <extent unit="pages">
+        <start>84</start>
+        <end>163</end>
+      </extent>
+    </part>
     <location>
-        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/897396439</url>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/9/</url>
     </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Sermo de ascensione</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
+      <namePart>Diadochus</namePart>
+      <namePart type="termsOfAddress">Bishop of Photice</namePart>
+      <namePart type="date">active 5th century</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
+      <namePart>Des Places, Édouard</namePart>
+      <namePart type="date">1900-2000</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">2775.002</identifier>
+    <part>
+      <extent unit="pages">
+        <start>164</start>
+        <end>168</end>
+      </extent>
+    </part>
     <location>
-        <url displayLabel="SLUB">http://digital.slub-dresden.de/id417108427</url>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/89/</url>
     </location>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Capita centum de perfectione spirituali</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
-            <namePart>Diadochus</namePart>
-            <namePart type="termsOfAddress">Bishop of Photice</namePart>
-            <namePart type="date">active 5th century</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
-            <namePart>Des Places, Édouard</namePart>
-            <namePart type="date">1900-2000</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">2775.001</identifier>
-        <part>
-            <extent unit="pages">
-                <start>84</start>
-                <end>163</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/9/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Sermo de ascensione</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
-            <namePart>Diadochus</namePart>
-            <namePart type="termsOfAddress">Bishop of Photice</namePart>
-            <namePart type="date">active 5th century</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
-            <namePart>Des Places, Édouard</namePart>
-            <namePart type="date">1900-2000</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">2775.002</identifier>
-        <part>
-            <extent unit="pages">
-                <start>164</start>
-                <end>168</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/89/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Visio</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
-            <namePart>Diadochus</namePart>
-            <namePart type="termsOfAddress">Bishop of Photice</namePart>
-            <namePart type="date">active 5th century</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
-            <namePart>Des Places, Édouard</namePart>
-            <namePart type="date">1900-2000</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">2775.003</identifier>
-        <part>
-            <extent unit="pages">
-                <start>169</start>
-                <end>179</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/94/</url>
-        </location>
-    </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Catechesis</title>
-        </titleInfo>
-        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
-            <namePart>Diadochus</namePart>
-            <namePart type="termsOfAddress">Bishop of Photice</namePart>
-            <namePart type="date">active 5th century</namePart>
-            <role>
-                <roleTerm type="text">creator</roleTerm>
-            </role>
-        </name>
-        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
-            <namePart>Des Places, Édouard</namePart>
-            <namePart type="date">1900-2000</namePart>
-            <role>
-                <roleTerm type="text">editor</roleTerm>
-            </role>
-        </name>
-        <language objectPart="text">
-            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
-        </language>
-        <identifier type="tlg">2775.004</identifier>
-        <part>
-            <extent unit="pages">
-                <start>180</start>
-                <end>183</end>
-            </extent>
-        </part>
-        <location>
-            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/105/</url>
-        </location>
-    </relatedItem>
-    <recordInfo>
-        <recordContentSource authority="marcorg">DLC</recordContentSource>
-        <recordCreationDate encoding="marc">840302</recordCreationDate>
-        <recordChangeDate encoding="iso8601">20130514110407.0</recordChangeDate>
-        <recordIdentifier>9422470</recordIdentifier>
-        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Visio</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
+      <namePart>Diadochus</namePart>
+      <namePart type="termsOfAddress">Bishop of Photice</namePart>
+      <namePart type="date">active 5th century</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
+      <namePart>Des Places, Édouard</namePart>
+      <namePart type="date">1900-2000</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">2775.003</identifier>
+    <part>
+      <extent unit="pages">
+        <start>169</start>
+        <end>179</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/94/</url>
+    </location>
+  </relatedItem>
+  <relatedItem type="constituent">
+    <titleInfo>
+      <title>Catechesis</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/32806504">
+      <namePart>Diadochus</namePart>
+      <namePart type="termsOfAddress">Bishop of Photice</namePart>
+      <namePart type="date">active 5th century</namePart>
+      <role>
+        <roleTerm type="text">creator</roleTerm>
+      </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/108837372">
+      <namePart>Des Places, Édouard</namePart>
+      <namePart type="date">1900-2000</namePart>
+      <role>
+        <roleTerm type="text">editor</roleTerm>
+      </role>
+    </name>
+    <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">2775.004</identifier>
+    <part>
+      <extent unit="pages">
+        <start>180</start>
+        <end>183</end>
+      </extent>
+    </part>
+    <location>
+      <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110661/105/</url>
+    </location>
+  </relatedItem>
+  <recordInfo>
+    <recordContentSource authority="marcorg">DLC</recordContentSource>
+    <recordCreationDate encoding="marc">840302</recordCreationDate>
+    <recordChangeDate encoding="iso8601">20130514110407.0</recordChangeDate>
+    <recordIdentifier>9422470</recordIdentifier>
+    <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
 				(Revision 1.106 2014/12/19)</recordOrigin>
-    </recordInfo>
+  </recordInfo>
 </mods>
