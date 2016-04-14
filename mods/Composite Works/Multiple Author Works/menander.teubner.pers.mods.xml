@@ -69,15 +69,6 @@
             <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
         </titleInfo>
     </relatedItem>
-    <relatedItem type="constituent">
-        <titleInfo>
-            <title>Menandrou kai Philistiōnos gnōmai kai dialektoi</title>
-        </titleInfo>
-        <name type="personal">
-            <namePart>Menander,</namePart>
-            <namePart type="termsOfAddress">of Athens</namePart>
-        </name>
-    </relatedItem>
     <identifier type="lccn">89460068</identifier>
     <identifier type="oclc">879603440</identifier>
     <location>

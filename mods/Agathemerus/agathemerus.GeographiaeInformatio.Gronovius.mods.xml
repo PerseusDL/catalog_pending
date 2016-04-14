@@ -113,16 +113,6 @@
             <topic>Geography, Ancient</topic>
         </subject>
         <classification authority="lcc">G114 .G73 1697</classification>
-        <relatedItem type="constituent">
-            <titleInfo>
-                <title>Periplus</title>
-            </titleInfo>
-            <name type="personal">
-                <namePart>Scylax,</namePart>
-                <namePart type="termsOfAddress">of Caryanda</namePart>
-                <namePart type="date">active 6th century B.C</namePart>
-            </name>
-        </relatedItem>
         <identifier type="lccn">2001553125</identifier>
         <identifier type="oclc">300523349</identifier>
         <location>

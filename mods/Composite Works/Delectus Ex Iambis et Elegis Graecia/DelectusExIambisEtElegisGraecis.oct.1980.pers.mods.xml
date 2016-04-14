@@ -552,7 +552,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
         </language>
-        <identifier type="tlg">ieg0001.ieg001</identifier>
+        <identifier type="ieg">ieg0001.ieg001</identifier>
         <part>
             <extent unit="pages">
                 <start>83</start>

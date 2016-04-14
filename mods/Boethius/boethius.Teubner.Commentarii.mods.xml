@@ -54,7 +54,8 @@
   <identifier type="oca">commentariiinlib00boetuoft</identifier>
   <identifier type="oclc">54042337</identifier>
   <identifier type="stoa author-text">stoa0058-stoa022</identifier>
-  <identifier type="tlg" displayLabel="isCommentaryOn">0086.017</identifier>
+  <!-- 
+  <identifier type="tlg" displayLabel="isCommentaryOn">0086.017</identifier> -->
   <location>
     <url displayLabel="WorldCat">http://worldcat.org/oclc/54042337</url>
   </location>

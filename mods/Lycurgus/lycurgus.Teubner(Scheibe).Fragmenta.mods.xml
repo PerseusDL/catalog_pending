@@ -17,6 +17,9 @@
       <roleTerm authority="marcrelator" type="text">editor</roleTerm>
     </role>
   </name>
+  <language objectPart="text">
+    <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+  </language>
   <identifier type="tlg">0034.002</identifier>
   <part>
     <extent unit="pages">

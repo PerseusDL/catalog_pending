@@ -3,7 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
     <titleInfo>
-        <title>Xenophontis opera omnia, Tomus II: Commentarii, Oeconomicus, Convivium, Apologia Socratis</title>   
+        <title>Xenophontis opera omnia</title>
+        <partNumber>Tomus II</partNumber>
+        <subTitle>Commentarii, Oeconomicus, Convivium, Apologia Socratis</subTitle>
     </titleInfo>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/89597697"> 
         <namePart>Xenophon</namePart>

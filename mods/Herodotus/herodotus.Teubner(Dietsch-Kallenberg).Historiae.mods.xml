@@ -38,7 +38,7 @@
             <dateIssued>1871</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <language objectPart="grc">
+        <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
         <physicalDescription>
@@ -114,7 +114,7 @@
             <dateIssued>1871</dateIssued>
             <issuance>monographic</issuance>
         </originInfo>
-        <language objectPart="grc">
+        <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
         <physicalDescription>

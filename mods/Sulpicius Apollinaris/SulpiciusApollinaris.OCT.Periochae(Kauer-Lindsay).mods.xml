@@ -144,7 +144,7 @@
         <mods:language objectPart="text">
             <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
         </mods:language>
-        <mods:identifier type="phi">1238.2</mods:identifier>
+        <mods:identifier type="phi">1235.2</mods:identifier>
         <mods:location>
             <mods:url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/110650/66/0/</mods:url>
         </mods:location>
