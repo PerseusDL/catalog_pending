@@ -1,0 +1,10 @@
+/home/ubuntu/catalog_pending/mads/Haury, Jakob/nr2003009667.mads.xml
+/home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0479.mods.xml 
+/home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0480.mods.xml 
+/home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0478.mods.xml 
+/home/ubuntu/catalog_pending/mods/Composite Works/Elegy and Iambus/2008.01.0477.mods.xml 
+/home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol2.modsconst15.xml 
+/home/ubuntu/catalog_pending/mods/Composite Works/Geographi Graeci Minores/GeographiGraeciMinores.Vol1.modsconst12.xml 
+/home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Ezra.mods.xml 
+/home/ubuntu/catalog_pending/mods/Jerome/Vulgate/1999.02.0060.book.Nehemiah.mods.xml 
+/home/ubuntu/catalog_pending/mods/John Chrysostom/johnChrysostom.malingrey.ducerf.pers.modsconst1.xml 
