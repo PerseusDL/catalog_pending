@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+    <titleInfo>
+        <title>Testimonia</title>
+    </titleInfo>
+    <name authority="Smith" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink" ns2:href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=polymnestus-bio-2">
+        <namePart>Polymnastus</namePart>
+        <namePart type="date">flourished 675-644 B.C.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n89-644933.html">
+        <namePart>Edmonds, J. M. (John Maxwell)</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <identifier type="plg">plg0013.plg001</identifier>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="text"> 
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>38</start>
+            <end>43</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/lyragraecabeingr01edmouoft#page/38/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Lyra Graeca</title>
+            <subTitle>being the remains of all the Greek lyrik poets from Eumelus to Timotheus
+                excepting Pindar</subTitle>
+            <partNumber>Volume 1</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n89-644933.html">
+            <namePart>Edmonds, J. M. (John Maxwell)</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <publisher>Heinemann</publisher>
+            <dateIssued>1922</dateIssued>
+            <dateIssued encoding="marc">1922</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xv, 459 pg.</extent>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>English poetry</topic>
+            <topic>Translations from Greek</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Greek poetry</topic>
+            <topic>History and criticism</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Greek poetry</topic>
+            <topic>Translations into English</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Greek poetry (Collections)</topic>
+        </subject>
+        <classification authority="lcc">PA3443 E4 1922</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb classical library</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">2475412</identifier>
+        <identifier type="lccn">22014302</identifier>
+        <identifier type="oca">lyragraecabeingr01edmouoft</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/22014302</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2475412</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/lyragraecabeingr01edmouoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://openlibrary.org/details/lyragraecabeingr01edmouoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks"/>
+        </location>
+    </relatedItem>
+</mods>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal" usage="primary"
+        valueURI="http://viaf.org/viaf/47119576">
+        <namePart>Cinaethon</namePart>
+        <namePart type="termsOfAddress">Lacedaemonius</namePart>
+        <namePart type="date">8./7. Jh. v. Chr.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+        <displayForm>Cinaetho</displayForm>
+    </name>
+    <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+        usage="primary" valueURI="http://id.loc.gov/authorities/names/n83135731">
+        <namePart>Kinkel, Gottfried</namePart>
+        <namePart type="date">1844-1891</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <identifier type="egf">egf0001.egf001</identifier>
+    <part>
+        <extent unit="pages">
+            <start>196</start>
+            <end>198</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=HpMOAAAAQAAJ&amp;pg=PA196</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://archive.org/stream/epicorumgraecoru00kinkuoft#page/196/mode/2up</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust"/>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Epicorum graecorum fragmenta</title>
+        </titleInfo>
+        <name authority="naf" authorityURI="http://id.loc.gov/authorities/names/" type="personal"
+            usage="primary" valueURI="http://id.loc.gov/authorities/names/n83135731">
+            <namePart>Kinkel, Gottfried</namePart>
+            <namePart type="date">1844-1891</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B.G. Teubneri</publisher>
+            <dateIssued>1877</dateIssued>
+            <dateIssued encoding="marc">1877</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <language objectPart="preface">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>vi, 322 p. 18 cm.</extent>
+        </physicalDescription>
+        <note>No more published.</note>
+        <subject authority="lcsh">
+            <topic>Greek poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Epic poetry, Greek</topic>
+        </subject>
+        <classification authority="lcc">PA3402 .E7 1877</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">34014794</identifier>
+        <identifier type="oclc">6807807</identifier>
+        <identifier type="oca">epicorumgraecoru00kinkuoft</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/34014794</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/6807807</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=HpMOAAAAQAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/epicorumgraecoru00kinkuoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library">http://openlibrary.org/epicorumgraecoru00kinkuoft</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015008687785</url>
+        </location>
+    </relatedItem>
+</mods>
