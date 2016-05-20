@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <mods:mods ID="mods1" xmlns:mods="http://www.loc.gov/mods/v3"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <mods:titleInfo xml:lang="en" type="uniform">
+            <mods:title>Ab Urbe Condita </mods:title>
+        </mods:titleInfo>
+        <mods:part>
+            <mods:extent unit="words">
+                <mods:total>516947</mods:total>
+            </mods:extent>
+        </mods:part>
+        <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:nonSort>The</mods:nonSort>
+            <mods:title>history of Rome</mods:title>
+            <mods:partNumber>Volume I</mods:partNumber>
+        </mods:titleInfo>
+        <mods:identifier type="oclc">13840509</mods:identifier>
+        <mods:identifier type="phi">914.1</mods:identifier>
+        <mods:identifier type="stoa author-text">stoa0179-stoa001</mods:identifier>
+        <mods:identifier type="Perseus:abo">Perseus:abo:phi,0914,001 </mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng11</mods:identifier>
+        <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
+        <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:place>
+                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+            </mods:place>
+            <mods:place>
+                <mods:placeTerm type="text">London</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>H. G. Bohn</mods:publisher>
+            <mods:dateIssued>1857</mods:dateIssued>
+            <mods:issuance>monographic</mods:issuance>
+        </mods:originInfo>
+        <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
+            <mods:form authority="marcform">print</mods:form>
+            <mods:extent>642 pg.</mods:extent>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+        </mods:physicalDescription>
+        <mods:tableOfContents>Books One to Eight</mods:tableOfContents>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">DG207.L5</mods:classification>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="ddc">878.4</mods:classification>
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
+            <mods:titleInfo>
+                <mods:title>Bohn's classical library</mods:title>
+                <mods:partNumber>v. 44</mods:partNumber>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="Worldcat">http://www.worldcat.org/oclc/13840509 </mods:url>
+        </mods:location>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="GoogleBooks" note="last two pages cut off"
+                >http://books.google.com/books?id=m41iAAAAMAAJ</mods:url>
+        </mods:location>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="Open Content Alliance" note="1865 printing"
+                >http://www.archive.org/details/historyofromelit01livyuoft</mods:url>
+        </mods:location>
+        <mods:location>
+            <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b001161106</mods:url>
+        </mods:location>
+        <mods:recordInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+            <mods:recordCreationDate encoding="marc"/>
+            <mods:recordChangeDate encoding="iso8601"/>
+            <mods:recordIdentifier/>
+        </mods:recordInfo>
+        <mods:language xmlns="http://www.loc.gov/mods/v3" objectPart="text">
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:language>
+        <mods:name xmlns="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <mods:namePart>Livy.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf" type="personal" ns2:href="http://errol.oclc.org/laf/n86-855196.html">
+            <mods:namePart>Spillan, D. (Daniel)</mods:namePart>
+            <mods:namePart type="date">d. 1854</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3">
+            <mods:geographicCode authority="marcgac">e-it---</mods:geographicCode>
+        </mods:subject>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3" authority="lcsh">
+            <mods:geographic>Rome</mods:geographic>
+            <mods:topic>History</mods:topic>
+        </mods:subject>
+    </mods:mods>
+    <mods:mods ID="mods2" xmlns:mods="http://www.loc.gov/mods/v3"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <mods:titleInfo xml:lang="en" type="uniform">
+            <mods:title>Ab Urbe Condita </mods:title>
+        </mods:titleInfo>
+        <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:nonSort>The</mods:nonSort>
+            <mods:title>history of Rome</mods:title>
+            <mods:partNumber>Volume II</mods:partNumber>
+        </mods:titleInfo>
+        <mods:identifier type="oclc">13840509</mods:identifier>
+        <mods:identifier type="phi">914.1</mods:identifier>
+        <mods:identifier type="stoa author-text">stoa0179-stoa001</mods:identifier>
+        <mods:identifier type="Perseus:abo">Perseus:abo:phi,0914,001 </mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng11</mods:identifier>
+        <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
+        <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:place>
+                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+            </mods:place>
+            <mods:place>
+                <mods:placeTerm type="text">London</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>H. G. Bohn</mods:publisher>
+            <mods:dateIssued>1849</mods:dateIssued>
+            <mods:issuance>monographic</mods:issuance>
+        </mods:originInfo>
+        <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
+            <mods:form authority="marcform">print</mods:form>
+            <mods:extent>559-1087</mods:extent>
+        </mods:physicalDescription>
+        <mods:tableOfContents>Books Nine to Twenty Six</mods:tableOfContents>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">DG207.L5</mods:classification>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="ddc">878.4</mods:classification>
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
+            <mods:titleInfo>
+                <mods:title>Bohn's classical library</mods:title>
+                <mods:partNumber>v. 45</mods:partNumber>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="Worldcat">http://www.worldcat.org/oclc/13840509</mods:url>
+        </mods:location>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=aVAIAAAAQAAJ</mods:url>
+        </mods:location>
+        <mods:location>
+            <mods:url displayLabel="HathiTrust" note="1859 printing">http://hdl.handle.net/2027/inu.32000005494606</mods:url>
+        </mods:location>
+        <mods:recordInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+            <mods:recordCreationDate encoding="marc"/>
+            <mods:recordChangeDate encoding="iso8601"/>
+            <mods:recordIdentifier/>
+        </mods:recordInfo>
+        <mods:language xmlns="http://www.loc.gov/mods/v3" objectPart="text">
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:language>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <mods:namePart>Livy.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/n86-855196.html">
+            <mods:namePart>Spillan, D. (Daniel)</mods:namePart>
+            <mods:namePart type="date">d. 1854</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/nr99-6586.html">
+            <mods:namePart>Edmonds, Cyrus R.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3">
+            <mods:geographicCode authority="marcgac">e-it---</mods:geographicCode>
+        </mods:subject>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3" authority="lcsh">
+            <mods:geographic>Rome</mods:geographic>
+            <mods:topic>History</mods:topic>
+        </mods:subject>
+    </mods:mods>
+    <mods:mods ID="mods3" xmlns:mods="http://www.loc.gov/mods/v3"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <mods:titleInfo xml:lang="en" type="uniform">
+            <mods:title>Ab Urbe Condita </mods:title>
+        </mods:titleInfo>
+        <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:nonSort>The</mods:nonSort>
+            <mods:title>history of Rome</mods:title>
+            <mods:partNumber>Volume III</mods:partNumber>
+        </mods:titleInfo>
+        <mods:identifier type="oclc">13840509</mods:identifier>
+        <mods:identifier type="phi">914.1</mods:identifier>
+        <mods:identifier type="stoa author-text">stoa0179-stoa001</mods:identifier>
+        <mods:identifier type="Perseus:abo">Perseus:abo:phi,0914,001 </mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng11</mods:identifier>
+        <mods:typeOfResource xmlns="http://www.loc.gov/mods/v3">text</mods:typeOfResource>
+        <mods:originInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:place>
+                <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+            </mods:place>
+            <mods:place>
+                <mods:placeTerm type="text">London</mods:placeTerm>
+            </mods:place>
+            <mods:publisher>H. G. Bohn</mods:publisher>
+            <mods:dateIssued>1850</mods:dateIssued>
+            <mods:issuance>monographic</mods:issuance>
+        </mods:originInfo>
+        <mods:physicalDescription xmlns="http://www.loc.gov/mods/v3">
+            <mods:form authority="marcform">print</mods:form>
+            <mods:extent>1088-1654</mods:extent>
+        </mods:physicalDescription>
+        <mods:tableOfContents>Books Twenty-Seven to Thirty-Six</mods:tableOfContents>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="lcc">DG207.L5</mods:classification>
+        <mods:classification xmlns="http://www.loc.gov/mods/v3" authority="ddc">878.4</mods:classification>
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="series">
+            <mods:titleInfo>
+                <mods:title>Bohn's classical library</mods:title>
+                <mods:partNumber>vol. 46</mods:partNumber>
+            </mods:titleInfo>
+        </mods:relatedItem>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="Worldcat">http://www.worldcat.org/oclc/13840509</mods:url>
+        </mods:location>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="GoogleBooks">http://books.google.com/books?id=k1AIAAAAQAAJ</mods:url>
+        </mods:location>
+        <mods:location>
+            <mods:url displayLabel="HathiTrust">http://hdl.handle.net/2027/pst.000024028592</mods:url>
+        </mods:location>
+        <mods:recordInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+            <mods:recordCreationDate encoding="marc"/>
+            <mods:recordChangeDate encoding="iso8601"/>
+            <mods:recordIdentifier/>
+        </mods:recordInfo>
+        <mods:language xmlns="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:language>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <mods:namePart>Livy.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/nr99-6586.html">
+            <mods:namePart>Edmonds, Cyrus R.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3">
+            <mods:geographicCode authority="marcgac">e-it---</mods:geographicCode>
+        </mods:subject>
+        <mods:subject xmlns="http://www.loc.gov/mods/v3" authority="lcsh">
+            <mods:geographic>Rome</mods:geographic>
+            <mods:topic>History</mods:topic>
+        </mods:subject>
+    </mods:mods>
+    <mods:mods ID="mods4" xmlns:mods="http://www.loc.gov/mods/v3"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:atom="http://www.w3.org/2005/Atom"
+        xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-4.xsd">
+        <mods:titleInfo xml:lang="en" type="uniform">
+            <mods:title>Ab Urbe Condita </mods:title>
+        </mods:titleInfo>
+        <mods:titleInfo xmlns="http://www.loc.gov/mods/v3">
+            <mods:title>The History of Rome</mods:title>
+        </mods:titleInfo>
+        <mods:identifier type="phi">914.1</mods:identifier>
+        <mods:identifier type="stoa author-text">stoa0179-stoa001</mods:identifier>
+        <mods:identifier type="ctsurn">urn:cts:latinLit:phi0914.phi001.opp-eng11</mods:identifier>
+        <mods:part xmlns="http://www.loc.gov/mods/v3">
+            <mods:extent unit="pages">
+                <mods:start>1655</mods:start>
+                <mods:end>2174</mods:end>
+            </mods:extent>
+        </mods:part>
+        <mods:tableOfContents>Books Thirty-Seven to The End</mods:tableOfContents>
+        <mods:location xmlns="http://www.loc.gov/mods/v3">
+            <mods:url displayLabel="Open Content Alliance">http://www.archive.org/stream/historyofromelit04livyuoft#page/n7/mode/2up</mods:url>
+        </mods:location>
+        <mods:relatedItem xmlns="http://www.loc.gov/mods/v3" type="host">
+            <mods:titleInfo>
+                <mods:nonSort>The </mods:nonSort>
+                <mods:title>History of Rome</mods:title>
+                <mods:partNumber>Volume IV</mods:partNumber>
+                <mods:partName>Books Thirty-Seven to The End</mods:partName>
+                <mods:subTitle>With the Epitomes and Fragments of the Lost Books</mods:subTitle>
+            </mods:titleInfo>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+                authority="naf"
+                type="personal"
+                ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+                <mods:namePart>Livy.</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:name xmlns:ns2="http://www.w3.org/1999/xlink"
+                authority="naf"
+                type="personal"
+                ns2:href="http://errol.oclc.org/laf/no2005-109475.html">
+                <mods:namePart>McDevitte, W. A. (William Alexander)</mods:namePart>
+                <mods:role>
+                    <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+                </mods:role>
+            </mods:name>
+            <mods:originInfo>
+                <mods:place>
+                    <mods:placeTerm type="code" authority="marccountry">enk</mods:placeTerm>
+                </mods:place>
+                <mods:place>
+                    <mods:placeTerm type="text">London</mods:placeTerm>
+                </mods:place>
+                <mods:publisher>H. G. Bohn</mods:publisher>
+                <mods:dateIssued>1862</mods:dateIssued>
+                <mods:issuance>monographic</mods:issuance>
+            </mods:originInfo>
+            <mods:language>
+                <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+            </mods:language>
+            <mods:physicalDescription>
+                <mods:form authority="marcform">print</mods:form>
+                <mods:extent>1655-2278</mods:extent>
+                <digitalOrigin>digitized other analog</digitalOrigin>
+            </mods:physicalDescription>
+            <mods:subject>
+                <mods:geographicCode authority="marcgac">e-it---</mods:geographicCode>
+            </mods:subject>
+            <mods:subject authority="lcsh">
+                <mods:geographic>Rome</mods:geographic>
+                <mods:topic>History</mods:topic>
+            </mods:subject>
+            <mods:classification authority="lcc">DG207.L5</mods:classification>
+            <mods:classification authority="ddc">878.4</mods:classification>
+            <mods:identifier type="oclc">13840509</mods:identifier>
+            <mods:location>
+                <mods:url displayLabel="WorldCat">http://www.worldcat.org/oclc/13840509 </mods:url>
+            </mods:location>
+            <mods:location>
+                <mods:url displayLabel="Open Content Alliance">http://www.archive.org/details/historyofromelit04livyuoft</mods:url>
+            </mods:location>
+            <mods:recordInfo>
+                <mods:recordContentSource authority="marcorg">OCoLC</mods:recordContentSource>
+                <mods:recordCreationDate encoding="marc"/>
+                <mods:recordChangeDate encoding="iso8601"/>
+                <mods:recordIdentifier/>
+            </mods:recordInfo>
+        </mods:relatedItem>
+        <mods:language xmlns="http://www.loc.gov/mods/v3">
+            <mods:languageTerm authority="iso639-2b" type="code">eng</mods:languageTerm>
+        </mods:language>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/n79-15690.html">
+            <mods:namePart>Livy.</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">creator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+        <mods:name xmlns="http://www.loc.gov/mods/v3"
+            xmlns:ns2="http://www.w3.org/1999/xlink"
+            authority="naf"
+            type="personal"
+            ns2:href="http://errol.oclc.org/laf/no2005-109475.html">
+            <mods:namePart>McDevitte, W. A. (William Alexander)</mods:namePart>
+            <mods:role>
+                <mods:roleTerm authority="marcrelator" type="text">translator</mods:roleTerm>
+            </mods:role>
+        </mods:name>
+    </mods:mods>
+</modsCollection>
