@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Peri aneimenou libellus</title>
+    </titleInfo>
+    <name authority="dnb" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/281028768">
+        <namePart>Romanus</namePart>
+        <namePart type="termsOfAddress">Sophista</namePart>
+        <namePart type="date">ca. 5. Jh. n. Chr. </namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr99-5240.html">
+        <namePart>Camphausen, Walter</namePart>
+        <namePart type="date">d. 1916</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B.G. Teubneri</publisher>
+        <dateIssued>1922</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <extent>xxiii, 28 p. ; 17 cm</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Rhetores Graeci</title>
+            <partNumber>Volumen XIII</partNumber>
+        </titleInfo>
+        <originInfo>
+            <publisher>Teubner</publisher>
+        </originInfo>
+    </relatedItem>
+    <note type="statement of responsibility"/>
+    <classification authority="lcc"/>
+    <identifier type="rhg">rhg0001.rhg001</identifier>
+    <identifier type="oclc">10261570</identifier>
+    <identifier type="oca">romanisophistaep00romauoft</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://worldcat.org/oclc/10261570</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/details/romanisophistaep00romauoft</url>
+    </location>
+    <location>
+        <url displayLabel="OpenLibrary"
+            >http://www.openlibrary.org/details/romanisophistaep00romauoft</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=6E0BAAAAMAAJ</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

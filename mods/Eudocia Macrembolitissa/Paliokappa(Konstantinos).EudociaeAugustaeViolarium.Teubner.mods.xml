@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   version="3.2"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+   <titleInfo>
+      <title>Eudociae Augustae Violarium</title>
+   </titleInfo>
+   <titleInfo type="alternative">
+      <title>Violarium</title>
+   </titleInfo>
+   <name authority="viaf" type="personal"  authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/237357814">
+      <namePart>Eudocia Macrembolitissa,</namePart>
+      <namePart type="termsOfAddress">Empress, consort of Romanus IV Diogenes, Emperor of the East,</namePart>
+      <namePart type="date">b. 1021</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">attributed author</roleTerm>
+      </role>
+   </name>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/98103664">
+      <namePart>Palaiokappa, Konstantinos</namePart>
+      <namePart type="date">fl. 1539-1551</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+      </role>
+   </name>
+   <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+      ns2:href="http://errol.oclc.org/laf/n88-32040.html">
+      <namePart>Flach, Hans</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Lipsiae</placeTerm>
+      </place>
+      <publisher>in aedibus B.G. Teubneri</publisher>
+      <dateIssued>1880</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+   </language>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+   </physicalDescription>
+   <note type="statement of responsibility">recensuit et emendabat fontium testimonia subscripsit
+      Joannes Flach.</note>
+   <note>This work is now generally accepted as the work of Konstantinos Palaiokappa.</note>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+      </titleInfo>
+   </relatedItem>
+   <identifier type="tlg">2766a.001</identifier>
+   <identifier type="lccn">34018609</identifier>
+   <identifier type="oclc">2551636</identifier>
+   <identifier type="oca">eudociaeaugustae00palauoft</identifier>
+   <identifier type="LC Permalink">http://lccn.loc.gov/34018609</identifier>
+   <location>
+      <url displayLabel="WorldCat">http://worldcat.org/oclc/2551636</url>
+   </location>
+   <location>
+      <url displayLabel="Open Content Alliance">
+         http://www.archive.org/details/eudociaeaugustae00palauoft</url>
+   </location>
+   <location>
+      <url displayLabel="Open Library"
+      >http://www.openlibrary.org/details/eudociaeaugustae00palauoft</url>
+   </location>
+   <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=zowBAAAAMAAJ</url>
+   </location>
+   <location>
+      <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.b4033900</url>
+   </location>
+   <recordInfo>
+      <recordContentSource authority="marcorg">OTV</recordContentSource>
+      <recordCreationDate encoding="marc">880815</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd">
+    <titleInfo>
+        <title>Titulus</title>
+    </titleInfo>
+    <name authority="Smith" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=lexiphanes-bio-1">
+        <namePart>Lexiphanes</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no97-26378.html">
+        <namePart>Kock, Theodor</namePart>
+        <namePart type="date">1820-1901</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <note></note>
+    <identifier type="caf">caf0001.caf001</identifier>
+    <part>
+        <extent unit="pages">
+            <start>383</start>
+            <end>383</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=YqUNAAAAIAAJ&amp;pg=PA383</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Comicorum atticorum fragmenta</title>
+            <partNumber>Volumen III</partNumber>
+            <partName>Novae Comoediae Fragmenta,</partName>
+            <partNumber>Pars II</partNumber>
+            <partName>Comicorum Incertae Aetatis Fragmenta, Fragmenta Incertorum Poetarum, Indices,
+                Supplementa</partName>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no97-26378.html">
+            <namePart>Kock, Theodor</namePart>
+            <namePart type="date">1820-1901</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsae</placeTerm>
+            </place>
+            <publisher>B. G. Teubner</publisher>
+            <dateIssued>1887</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="preface">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>ix, 756 p.</extent>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <topic>Greek drama (Comedy)</topic>
+        </subject>
+        <classification authority="lcc">PA3465 .A2 1887</classification>
+        <identifier type="lccn">04007641</identifier>
+        <identifier type="oclc">7486943 </identifier>
+        <identifier type="oca">comicorumatticor03kockuoft</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/04007641</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/7486943 </url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">
+                http://www.archive.org/details/comicorumatticor03kockuoft </url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://www.openlibrary.org/details/comicorumatticor03kockuoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=YqUNAAAAIAAJ</url>
+        </location>
+    </relatedItem>
+</mods>

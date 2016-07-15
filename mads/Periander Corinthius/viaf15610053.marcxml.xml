@@ -1,0 +1,184 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:mx="http://www.loc.gov/MARC21/slim"
+           xmlns:srw="http://www.loc.gov/zing/srw/">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf15160053</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">151121n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/15160053</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">Corinthius</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="0">(DNB)102402086</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">بيرياندر</mx:subfield>
+      <mx:subfield code="0">(WKP)Q328793</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">XS</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">Corinth</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="377">
+      <mx:subfield code="a">grc</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="375" ind1=" " ind2=" ">
+      <mx:subfield code="a">male</mx:subfield>
+      <mx:subfield code="2">1</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander av Korinth</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">Epistolographus</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">Korinther</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">Philosophus</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">Tyrann von Korinth</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">filosoof uit Oud Korinthe (700v Chr-583v Chr)</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">second tyrant of Corinth</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periander</mx:subfield>
+      <mx:subfield code="c">von Korinth</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandr</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandre de Corint</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandros</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandrosz korinthoszi türannosz</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandros</mx:subfield>
+      <mx:subfield code="c">Tyrann</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandros</mx:subfield>
+      <mx:subfield code="c">von Korinth</mx:subfield>
+      <mx:subfield code="d">v627-v585</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Periandro</mx:subfield>
+      <mx:subfield code="c">segundo tirano de Corinto, en el siglo VII a. C.</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Perijandar</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Périandre</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Περίανδρος</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Периандр</mx:subfield>
+      <mx:subfield code="c">второй коринфский тиран</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Периандър</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Перыяндр</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Періандр</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">פריאנדרוס</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">پریاندر</mx:subfield>
+      <mx:subfield code="c">فیلسوف در یونان باستان</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ペリアンドロス</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">佩里安德</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="500">
+      <mx:subfield code="a">Septem Sapientes</mx:subfield>
+      <mx:subfield code="0">(VIAF)25395398</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/15160053</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">-627</mx:subfield>
+      <mx:subfield code="b">-583-01-01</mx:subfield>
+      <mx:subfield code="c">lived</mx:subfield>
+   </mx:datafield>
+</mx:record>

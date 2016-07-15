@@ -1,0 +1,68 @@
+  <mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Pherecydes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Syros</mads:namePart>
+      <mads:namePart type="date">active 6th century B.C</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Ferecides</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Siro</mads:namePart> 
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Pherecydes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Syros</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name type="personal">
+      <mads:namePart>Pherekydēs</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Syrios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pherekydes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Syros</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="nonpublic">Encycl. Americana; Academic American encycl</mads:note>
+  <mads:note type="source">Schibli, H. S. Pherekydes of Syros, 1989: CIP info. (Pherekydes of Syros,
+    reputed teacher of Pythagoras; wrote a book about the birth of the gods and the origin of cosmos
+    in the 6th cent. B.C.)</mads:note>
+  <mads:note type="source">Oxford classical dict. (Pherecydes of Syros, fl. ca. 550 B.C., early
+    prose writer and author of "Heptamychos," a cosmogonic myth)</mads:note>
+  <mads:note type="source">Encycl. Britannica, 15th ed. (Pherecydes of Syros, fl. ca. 550 B.C.;
+    known for his work "Heptamychos")</mads:note>
+  <mads:note type="source">Megalē Hellēnikē enkykl. (Pherekydēs, ancient Greek philosopher from
+    Syros, fl. ca. 6th cent. B.C.; author of "Pentemychos")</mads:note>
+  <mads:note type="source">Papyros-Larous (Pherekydēs, ho Syrios, 6th cent. B.C.; wrote a work on
+    the nature of deities (Pentemychos or Heptamychos))</mads:note>
+  <mads:note type="source">La aurora del pensamiento griego, c2000: t.p. (Ferecides) p. 87
+    (Ferecides de Siro)</mads:note>
+    <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+    <mads:fieldOfActivity>Epistolary</mads:fieldOfActivity>
+  <mads:identifier type="lccn">n 88152183 </mads:identifier>
+    <mads:identifier type="tlg">0630</mads:identifier>
+    <mads:identifier type="tlg">1585</mads:identifier>
+    <mads:url displayLabel="VIAF">http://viaf.org/viaf/289101007/</mads:url>
+    <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1585.001</identifier>
+    </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130315113450.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n88152183</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
