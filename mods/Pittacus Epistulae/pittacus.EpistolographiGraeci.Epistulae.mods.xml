@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Epistula</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr91-22040.html">
+        <namePart>Pittacus,</namePart>
+        <namePart type="termsOfAddress">of Mitylene,</namePart>
+        <namePart type="date">ca. 650-ca. 570 B.C.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="tlg" type="corporate">
+        <namePart>Pittaci Epistula</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n93-57556.html">
+        <namePart>Hercher, Rudolf</namePart>
+        <namePart type="date">1821-1878</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <identifier type="tlg">1613.001</identifier>
+    <part>
+        <extent unit="pages">
+            <start>491</start>
+            <end>491</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=V5AOAAAAQAAJ&amp;pg=PA491</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/epistolographoih00hercuoft#page/490/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Epistolographoi hellenikoi</title>
+            <subTitle>Epistolographi graeci</subTitle>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n93-57556.html">
+            <namePart>Hercher, Rudolf</namePart>
+            <namePart type="date">1821-1878</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="text">Parisiis</placeTerm>
+            </place>
+            <publisher>A.F. Didot</publisher>
+            <dateIssued>1873</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <language objectPart="preface">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>lxxxvi, 843 pg.</extent>
+        </physicalDescription>
+        <note>Greek and Latin in parallel columns</note>
+        <note type="statement of responsibility">recensuit, recognovit, adnotatione critica et indicibus
+            instruxit Rudolphus Hercher; accedunt Francisci Boissonadii ad Synesium notae ineditae</note>
+        <subject authority="lcsh">
+            <topic>Greek letters</topic>
+        </subject>
+        <classification authority="lcc">PA3487 E4 1873</classification>
+        <identifier type="oclc">10236779</identifier>
+        <identifier type="lccn">tmp92003892</identifier>
+        <identifier type="oca">epistolographoih00hercuoft</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/tmp92003892</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/10236779</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/epistolographoih00hercuoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://openlibrary.org/details/epistolographoih00hercuoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=V5AOAAAAQAAJ</url>
+        </location>
+    </relatedItem>
+</mods>
