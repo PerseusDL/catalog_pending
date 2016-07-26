@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+    version="2.0">
+    <mads:authority lang="lat">
+        <mads:name>
+            <mads:namePart>Philetas</mads:namePart>
+            <mads:namePart type="termsOfAddress">of Ephesus</mads:namePart>
+        </mads:name>
+    </mads:authority>
+    <mads:variant type="other" lang="grc">
+        <mads:name>
+            <mads:namePart>Φιλητᾶς</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:note type="source">Smith's Dictionary: "Philetas, Of Ephesus, a prose writer, from whom the scholiasts on 
+        Aristophanes quote a statement respecting the Sibyls, but who is otherwise unknown.
+        (Schol. ad Aristoph. Pac. 1071, Av. 963; Suid. s. v. βάκις; Vossius, de Hist. Graec. p.
+        485, ed. Westernlan.)....." </mads:note>
+    <mads:identifier type="fhg">fhg0506</mads:identifier>
+    <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+    <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=philetas-bio-3</mads:url>
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type="fhg">fhg0506.fhg001</identifier>
+    </mads:extension>
+    <mads:recordInfo>
+        <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
+            <mads:languageTerm/>
+        </mads:languageOfCataloging>
+        <mads:recordContentSource xmlns="http://www.loc.gov/mods/v3">Perseus Digital Library</mads:recordContentSource>
+        <mads:recordCreationDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordChangeDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordIdentifier xmlns="http://www.loc.gov/mods/v3"/>
+    </mads:recordInfo>
+</mads:mads>
