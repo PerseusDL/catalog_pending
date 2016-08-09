@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="lat">
+      <mads:name type="personal" authority="viaf">
+         <mads:namePart>Choricius Gazaeus</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Χορίκιος</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Choricius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Gazaeus</mads:namePart>
+         <mads:namePart type="date">ca. um 526/40</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="eng">
+      <mads:name type="personal">
+         <mads:namePart>Choricius</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Gaza</mads:namePart>
+         <mads:namePart type="date">active 6th century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Choricius</mads:namePart>
+         <mads:namePart type="termsOfAddress">van Gaza</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Chorikios från Gaza</mads:namePart>
+         <mads:namePart type="date">500-talet</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Choricius de Gaza</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Choricius of Gaza</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Choricius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Rhetor</mads:namePart>
+         <mads:namePart type="date">ca. um 526/40</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Choricos</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Chorikios</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Chorycjusz z Gazy</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Coricio</mads:namePart>
+         <mads:namePart>di Gaza</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>כוריסיוס מעזה</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Rhetorician</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Sophist</mads:fieldOfActivity>
+   <mads:identifier type="uri">http://viaf.org/viaf/88917599</mads:identifier>
+   <mads:identifier type="tlg">4094</mads:identifier>
+   <mads:note type="source">Brill's New Pauly: "Choricius, Sophist and rhetorician from the school of Gaza in the 1st half of the 6th cent.; 
+      pupil and successor of Procopius of Gaza..."</mads:note>
+   <mads:url displayLabel="ID.gov">http://id.loc.gov/authorities/names/n2009022982</mads:url>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/88917599</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Choricius_of_Gaza</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">4094.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf88917599</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
