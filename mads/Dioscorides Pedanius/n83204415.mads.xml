@@ -1,0 +1,126 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Dioscorides Pedanius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Anazarbos</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc"> 
+    <mads:name type="personal">
+      <mads:namePart>Πεδάνιος Διοσκουρίδης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Dioscorides, Pedanius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Anazarbos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Dioscurides</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Dioscoride</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Dioscoride</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pedanio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Dioscórides</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Dioskouridēs</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Anazarveus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Dioskurides, Pedanios</mads:namePart>
+      <mads:namePart type="termsOfAddress">aus Anazarbos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Diosukoridesu</mads:namePart>
+      <mads:namePart type="termsOfAddress">Anazaruba</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Diyāsqūrīdūs</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pedaccus Dioscorides</mads:namePart>
+      <mads:namePart type="termsOfAddress">Anazarbaeus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pedacio Dioscórides, Anazarbeo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pedanios Dioskourides, Anazarveus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pedanius, Dioscorides</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Anazarbos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>ديسقوريدس</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Encycl. Brit. (Dioscorides, Pedanius (b. ca. A.D. 40, Anazarbus, Cilicia,
+    d. ca. 90) Greek physician)</mads:note>
+  <mads:note type="source">Oxford class. dict. (Dioscorides Pedanius, of Anazarbus)</mads:note>
+  <mads:note type="source">Papyros-Larous. (Dioskouridēs ho Anazarveus ē Tarseus, called also
+    Pedfanios, because of his Roman citizenship)</mads:note>
+  <mads:note type="source">Pauly-Wissowa. (Pedanios Dioskourides Anazarveus)</mads:note>
+  <mads:note type="source">Dioscurides triumphans, 1988: v. 2, p. 38 (Pedanios Dioskurides aus
+    Anazarbos)</mads:note>
+  <mads:note type="source">Codex Vindobonensis med. Gr. 1, 1965 t.p. (Dioscurides)</mads:note>
+  <mads:note type="source">His Kräuterbuch, 1614: t.p. (Pedacci Dioscoridis Anazarbaei)</mads:note>
+  <mads:fieldOfActivity>Physician</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Medical Author</mads:fieldOfActivity>
+  <mads:identifier type="lccn">n 83204415 </mads:identifier>
+  <mads:identifier type="tlg">0656</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/247291055/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pedanius_Dioscorides</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0656.001</identifier>
+    <identifier type="tlg">0656.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20140130073849.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n83204415</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
