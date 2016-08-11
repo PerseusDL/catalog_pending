@@ -1,0 +1,136 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf399154</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">130819n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/399154</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Sextius Niger,</mx:subfield>
+      <mx:subfield code="d">f. 10-40</mx:subfield>
+      <mx:subfield code="0">(BAV)ADV12557548</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Sextius</mx:subfield>
+      <mx:subfield code="c">Niger</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="0">(DNB)102405948</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="370">
+      <mx:subfield code="a">XT</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Niger, Sextius</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Niger</mx:subfield>
+      <mx:subfield code="c">Medicus</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sestio</mx:subfield>
+      <mx:subfield code="c">Nigro</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius Niger, Quintus</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius, Quintus</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius, Quintus</mx:subfield>
+      <mx:subfield code="c">Filius</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius, Quintus</mx:subfield>
+      <mx:subfield code="c">Niger</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius</mx:subfield>
+      <mx:subfield code="c">Filius</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius</mx:subfield>
+      <mx:subfield code="c">Medicus</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius</mx:subfield>
+      <mx:subfield code="c">Physician</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sextius</mx:subfield>
+      <mx:subfield code="c">Son</mx:subfield>
+      <mx:subfield code="d">10-40</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/399154</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Wellmann, Max, 1863-1933</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Dioscorides Pedianus, sec. I</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Crateuas, II-I sec. a.C.</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">am</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Pedanii Dioscuridis Anazarbei De materia medica libri quinque;</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Weidmannos</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">DE</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">BAV</mx:subfield>BAV|ADV12557548</mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">190.</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">10</mx:subfield>
+      <mx:subfield code="b">40</mx:subfield>
+      <mx:subfield code="c">lived</mx:subfield>
+   </mx:datafield>
+</mx:record>
