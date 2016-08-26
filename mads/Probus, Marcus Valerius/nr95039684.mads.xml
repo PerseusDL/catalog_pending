@@ -1,0 +1,63 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Probus, Marcus Valerius</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Probus, M. Valerius (Marcus Valerius)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valerius Probus, Marcus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valerius Probus, M. (Marcus)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>M. Valerius Probus (Marcus Valerius Probus)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">The works of M. Valerius Probus, 1991: PHI CD ROM #5.3, Latin Canon,
+    bibliographic screen (M. Valerius Probus)</mads:note>
+  <mads:note type="source">Pauly-Wissowa: 2. Reihe, 15 Halbbd., col. 195-212; "Valerius", #315 (M.
+    Valerius Probus, grammarian, from Berytus, d. ca. 105)</mads:note>
+  <mads:note type="source">Dict. of Greek and Roman biog. and mythology, 1967: v. 2, p. 531,
+    "Probus", #1 (M. Valerius Probus, of Berytus, lived in the age of Nero)</mads:note>
+  <mads:note type="source">Oxford class. dict., 1st ed.: p. 732 (Probus, Valerius, late 1st. A.D.,
+    of Berytus, scholar)</mads:note>
+  <mads:fieldOfActivity>Jurist</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:note type="source">NUC pre-56: v. 472, p. 201 (Probus, Marcus Valerius)</mads:note>
+  <mads:note type="source">LC in RLIN, 9/20/95 (hdg.: Probus, Marcus Valerius)</mads:note>
+  <mads:identifier type="lccn">nr 95039684 </mads:identifier>
+  <mads:identifier type="phi">996</mads:identifier>
+  <mads:url displayLabel="ID.gov">http://id.loc.gov/authorities/names/nr95039684</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/90633449</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Marcus_Valerius_Probus</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="phi">996.2</identifier>
+    <identifier type="phi">996.4</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NNC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20001104071532.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr95039684</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

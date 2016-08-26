@@ -1,0 +1,62 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Sabinus, Masurius</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sabinus, Massurius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Masurius Sabinus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Massurius Sabinus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Sabino, Masurio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Astolfi, R. I Libri tres iuris civilis di Sabino, 1983</mads:note>
+  <mads:note type="source">LC manual auth. cd. (hdg.: Massurius Sabinus, usage: Massurius Sabinus,
+    Masurius Sabinus)</mads:note>
+  <mads:note type="source">Oxford class. dict., 1970 (Sabinus, Masurius, Roman jurist of the first
+    half of the first cent. A.D.)</mads:note>
+  <mads:note type="source">Smith, W. A classical dict. of Greek &amp; Roman biog., 1925 (Sabinus,
+    Masurius)</mads:note>
+  <mads:note type="source">Peck, H.T. Harpers's dict. of classical lit. &amp; antiquities, 1937
+    (Sabinus, Masurius)</mads:note>
+  <mads:fieldOfActivity>Jurist</mads:fieldOfActivity>
+  <mads:note type="source">Encic. ital. (Sabino, Masurio)</mads:note>
+  <mads:note type="source">Der Kleine Pauly, 1973 (Sabinus, Massurius)</mads:note>
+  <mads:identifier type="lccn">n 87114691 </mads:identifier>
+  <mads:identifier type="stoa author">stoa0248b</mads:identifier>
+  <mads:url displayLabel="ID.gov">http://id.loc.gov/authorities/names/n87114691</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/62344938/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Masurius_Sabinus</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0248b-stoa001</identifier>
+  </mads:extension>   
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20080403053300.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n87114691</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

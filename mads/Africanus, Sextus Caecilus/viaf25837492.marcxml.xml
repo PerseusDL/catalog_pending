@@ -1,0 +1,83 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf25837492</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">160731n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/25837492</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="|" tag="700">
+      <mx:subfield code="a">Africanus, Sextus Caecilus</mx:subfield>
+      <mx:subfield code="d">0115?-0170?</mx:subfield>
+      <mx:subfield code="0">(BNF)15977734</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="100">
+      <mx:subfield code="a">Africanus, Sextus Caecilius</mx:subfield>
+      <mx:subfield code="d">active 2nd century</mx:subfield>
+      <mx:subfield code="0">(ISNI)0000000022679852</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="700">
+      <mx:subfield code="a">Africanus, Sextus Caecilius,</mx:subfield>
+      <mx:subfield code="d">active 2nd century</mx:subfield>
+      <mx:subfield code="0">(LC)n  00065329</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sext Cecili Africà</mx:subfield>
+      <mx:subfield code="0">(WKP)Q2321844</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Africanus, Sextus Caecilius,</mx:subfield>
+      <mx:subfield code="d">2nd cent.</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Africanus</mx:subfield>
+      <mx:subfield code="c">Iurisconsultus</mx:subfield>
+      <mx:subfield code="d">ca. 2. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Caecilius Africanus, Sextus</mx:subfield>
+      <mx:subfield code="d">ca. 2. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Caecilius</mx:subfield>
+      <mx:subfield code="c">Africanus</mx:subfield>
+      <mx:subfield code="d">ca. 2. Jh.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sesto Cecilio Africano</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sesto Cecilio Africano</mx:subfield>
+      <mx:subfield code="c">giurista romano</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sexto Cecilio Africano</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2="|" tag="400">
+      <mx:subfield code="a">Sexto Cecilio Africano</mx:subfield>
+      <mx:subfield code="f">0115?-0170?</mx:subfield>
+      <mx:subfield code="2">BNF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Sexto Cecilio Africano</mx:subfield>
+      <mx:subfield code="d">0115?-0170?</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/25837492</mx:subfield>
+   </mx:datafield>
+</mx:record>

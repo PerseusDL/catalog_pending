@@ -1,0 +1,86 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">  
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Caesar, L. Julius (Lucius Julius)</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Caesar, L. Julius (Lucius Julius)</mads:namePart>
+      <mads:namePart type="date">fl. 90-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Caesar, Lucius Julius</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Julius Caesar, L. (Lucius)</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Julius Caesar, Lucius</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>L. Iulius Caesar (Lucius Iulius Caesar)</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>L. Julius Caesar (Lucius Julius Caesar)</mads:namePart>
+      <mads:namePart type="date">active 90 B.C.-43 B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Consul</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Jurist</mads:fieldOfActivity>
+  <mads:note type="source">His Auspiciorum liber, fragmenta, 1991: PHI CD ROM #5.3, Latin Canon,
+    bibliographic screen (L. Iulius Caesar)</mads:note>
+  <mads:note type="source">Huschke, P. Iurisprudentiae anteiustinianae reliquiae, 1908: p. 46 (L.
+    Iulius Caesar; consul, 690 [64 B.C.])</mads:note>
+  <mads:note type="source">Pauly-Wissowa: 19. Bd., col. 468-471; "Iulius", #143 (L. Iulius Caesar;
+    master of the mint, 90 B.C., questor of Asia, 77 B.C., consul 64 B.C., legate of Caesar in Gaul,
+    52-49 B.C., prefect of Rome, 47 B.C., proscribed after the death of Caesar, saved by his sister
+    Julia)</mads:note>
+  <mads:note type="source">Oxford class. dict., 1st ed.: p. 154 (Caesar, Lucius Julius, consul 64
+    B.C., son of Lucius Julius Caesar (consul 90 B.C.) and uncle of M. Antonius,duumvir
+    perduellionus, 63 B.C., legate of Caesar in Gaul, 52-49 B.C., prefect of Rome, 47 B.C., saved by
+    his sister Julia after the death of Caesar)</mads:note>
+  <mads:note type="source">Dict. of Greek and Roman biog. and mythology, 1967: v. 1, p. 538,
+    "Caesar," #11 (L. Julius L.f.L.N. Caesar; uncle of M. Antony the triumvir by his sister Julia;
+    consul 64 B.C., legate of Caesar in Gaul, 52-49 B.C., made prefect of Rome by Antony, 47 B.C.;
+    proscribed in 43 B.C. and pardoned by Antony at the entreaty of Julia; no further mention after
+    this)</mads:note>
+  <mads:identifier type="lccn">nr 95037511 </mads:identifier>
+  <mads:identifier type="phi">450</mads:identifier>
+  <mads:url displayLabel="ID.gov">http://id.loc.gov/authorities/names/nr95037511</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Lucius_Julius_Caesar</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="phi">450.1</identifier>
+  </mads:extension> 
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NNC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313083702.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr95037511</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
