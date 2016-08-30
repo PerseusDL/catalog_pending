@@ -1,0 +1,76 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Anaximander</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ἀναξίμανδρος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Anassimandro</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Anaximandre</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="gre">
+    <mads:name type="personal">
+      <mads:namePart>Anaximandros</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Milēsios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Anaksymander</mads:namePart>
+      <mads:namePart type="termsOfAddress">z Milētu</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Anaximandro</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ara">
+    <mads:name type="personal">
+      <mads:namePart>أناكسيماندر</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Presocratic</mads:fieldOfActivity>
+  <mads:note type="source">Kahn, C.R. Anaximander and the origins of Greek cosmology,
+    1985</mads:note>
+  <mads:note type="source">Laurenti, R. Introduzione a Talete, Anassimandro, Anassimene, 1986: t.p.
+    (Anassimandro)</mads:note>
+  <mads:note type="source">Enc. Brit. macropaedia (Anaximander. B.in 610 B.C., native of
+    Miletus)</mads:note>
+  <mads:note type="source">Enc. Americana (Anaximander (610?-546 B.C.), b. at Miletus)</mads:note>
+  <mads:note type="source">Oxford class. dict. (Anaximander (Anaximandros) (b. 610 B.C.) of
+    Miletus)</mads:note>
+  <mads:identifier type="lccn">n 85142191 </mads:identifier>
+  <mads:identifier type="tlg">0725</mads:identifier>
+  <mads:url displayLabel="Id.gov">http://id.loc.gov/authorities/names/n85142191</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/280059448</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Anaximander</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=anaximander-bio-1</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0725.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">19940321160300.5</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n85142191</mads:recordIdentifier>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
