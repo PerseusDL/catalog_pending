@@ -1,0 +1,48 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+ <mads:name>
+   <mads:namePart>Scholia Bobiensia</mads:namePart>
+ </mads:name>   
+  </mads:authority>
+  <mads:related>
+    <mads:name>
+      <mads:namePart>Cicero, Marcus Tullius‏</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:note type="source">nuc86-112615: Scholia Bobiensia. Scholia in Ciceronis ... [MI] 1907 (hdg.
+    on NNC rept.: Scholia Bobiensia)</mads:note>
+  <mads:identifier type="lccn">n 86872090 </mads:identifier>
+  <mads:identifier type="stoa author">stoa0358</mads:identifier>
+  <mads:url displayLabel="Id.gov">http://id.loc.gov/authorities/names/n86872090</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Bobbio_Scholiast</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0358-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa005</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa006</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa007</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa008</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa009</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa010</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa011</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa012</identifier>
+    <identifier type="stoa author-text">stoa0358-stoa013</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20080418052742.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n86872090</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

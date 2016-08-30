@@ -1,0 +1,78 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Alcmaeon</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Croton</mads:namePart>
+      <mads:namePart type="date">approximately 500 B.C.-</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Αλκμαίων</mads:namePart>
+      <mads:namePart type="termsOfAddress">ο Κροτωνιάτης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Alcmeone</mads:namePart>
+      <mads:namePart type="termsOfAddress">Crotoniensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Alkmaion</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Kroton</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Alcmeone</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Crotone</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Alkmeon</mads:namePart>
+      <mads:namePart type="termsOfAddress">z Krotonu</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Alcmeón</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Crotona</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="rus">
+    <mads:name type="personal">
+      <mads:namePart>Алкмеон</mads:namePart>
+      <mads:namePart type="termsOfAddress">ротонски</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Presocratic</mads:fieldOfActivity>
+  <mads:note type="source">Arcieri, G. Alcmeone da Crotone e la scuola pitagorica, 1937</mads:note>
+  <mads:note type="source">Oxford classical dict. (Alcmaeon of Croton, ca. 500 B.C.)</mads:note>
+  <mads:note type="source">Brill's New Pauly: "Alcmaeon, of Croton Natural philosopher of the early 5th cent. BC..."</mads:note>
+  <mads:identifier type="lccn">n 87116412 </mads:identifier>
+  <mads:identifier type="tlg">0766</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/63054916</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Alcmaeon_of_Croton</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0766.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">ICU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130318092557.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n87116412</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

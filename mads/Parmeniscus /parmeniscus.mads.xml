@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+    version="2.0">
+    <mads:authority >
+        <mads:name>
+            <mads:namePart>Parmeniscus</mads:namePart>
+        </mads:name>
+    </mads:authority>
+    <mads:variant type="other" lang="grc">
+        <mads:name>
+            <mads:namePart>Παρμενίσκος</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:variant type="other" lang="grc">
+        <mads:name>
+            <mads:namePart>Παρμίσκος</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:variant type="other" lang="lat">
+        <mads:name>
+            <mads:namePart>Parmiscus</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:variant type="other" lang="ger">
+        <mads:name>
+            <mads:namePart>Parmiskos</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:variant type="other" lang="ger">
+        <mads:name>
+            <mads:namePart>Parmeniskos</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:note type="source">Smith's Dictionary: "Parmeniscus, 2, Of Metapontum, who probably lived about the middle of the fifth century B. C. 
+        Iamblichus (Vit. Pythugor. 100.36) calls him (according to the common reading) Παρμίσκος, and ranks him among the celebrated Pythagorean philosophers..."</mads:note>
+    <mads:note type="source"></mads:note>
+    <mads:note type="source"></mads:note>
+    <mads:identifier type="tlg">2225</mads:identifier>
+    <mads:fieldOfActivity>Presocratic</mads:fieldOfActivity>
+    <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+    <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=parmeniscus-bio-2</mads:url><!-- typical values for displayLabel include Wikipedia, VIAF, Smith's Dictionary, Worldcat Identities, -->
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type="tlg">2225.001</identifier>
+    </mads:extension>
+    <mads:recordInfo>
+        <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
+            <mads:languageTerm/>
+        </mads:languageOfCataloging>
+        <mads:recordContentSource xmlns="http://www.loc.gov/mods/v3">Perseus Digital Library</mads:recordContentSource>
+        <mads:recordCreationDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordChangeDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordIdentifier xmlns="http://www.loc.gov/mods/v3"/>
+    </mads:recordInfo>
+</mads:mads>
