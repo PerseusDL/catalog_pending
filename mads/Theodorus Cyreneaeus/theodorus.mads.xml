@@ -1,0 +1,67 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Theodorus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Θεόδωρος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Κυρηναῖος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="eng">
+    <mads:name type="personal">
+      <mads:namePart>Theodorus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Cyrene</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Theodorus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Kyrene</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Teodoro</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Cirene</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Théodore</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Cyrène</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Teodor</mads:namePart>
+      <mads:namePart type="termsOfAddress">z Cyreny</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Theodorus, Of Cyrene, mathematician, 5th cent. BC
+    ...T.'s most important achievement was his contributions to the theory of irrationalities"</mads:note>
+  <mads:identifier type="tlg">2237</mads:identifier>
+  <mads:fieldOfActivity>Mathematician</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/306058175</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Theodorus_of_Cyrene</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2237.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

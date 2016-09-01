@@ -1,0 +1,129 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf50021495</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">160530n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/50021495</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaus</mx:subfield>
+      <mx:subfield code="c">Crotoniensis</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="0">(DNB)118791974</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Philolaus,</mx:subfield>
+      <mx:subfield code="c">of Croton,</mx:subfield>
+      <mx:subfield code="d">ca. 470 B.C.-</mx:subfield>
+      <mx:subfield code="0">(NLI)000507628</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Filolao</mx:subfield>
+      <mx:subfield code="c">Filosofo Pitagorico</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Filolao</mx:subfield>
+      <mx:subfield code="c">di Crotone</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos,</mx:subfield>
+      <mx:subfield code="c">of Croton,</mx:subfield>
+      <mx:subfield code="d">b. ca. 470 B.C.</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos,</mx:subfield>
+      <mx:subfield code="c">of Tarentum,</mx:subfield>
+      <mx:subfield code="d">approximately 470 B.C.-</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos</mx:subfield>
+      <mx:subfield code="c">Crotoniensis</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos</mx:subfield>
+      <mx:subfield code="c">Pythagoreer</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos</mx:subfield>
+      <mx:subfield code="c">de Crotone</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaos</mx:subfield>
+      <mx:subfield code="c">von Kroton</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaus</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philolaus</mx:subfield>
+      <mx:subfield code="c">Philosophus</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Philoläus</mx:subfield>
+      <mx:subfield code="d">v470-v390</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/50021495</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://id.loc.gov/authorities/names/n92047005</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">am</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  92047005</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Philolaos des Pythagoreers Lehren nebst den Bruchstücken seines Werkes.</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  92047005<mx:subfield code="2">DNB</mx:subfield>DNB|118791974</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Pythagore et la philosophie Pythagoriicienne contentant les fragments de Phil*</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118791974</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">In der Vossischen Buchhandlung</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  92047005</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">DE</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>LC|n  92047005</mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">181.</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">-470</mx:subfield>
+      <mx:subfield code="b">-390</mx:subfield>
+      <mx:subfield code="c">lived</mx:subfield>
+   </mx:datafield>
+</mx:record>

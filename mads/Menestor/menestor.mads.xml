@@ -1,0 +1,51 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="viaf">
+      <mads:namePart>Menestor</mads:namePart>
+      <mads:namePart type="termsOfAddress">Sybarita</mads:namePart>
+      <mads:namePart type="date">v5. Jh.</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name>
+      <mads:namePart>Μενέστωρ</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name>
+      <mads:namePart>Menestore</mads:namePart>
+      <mads:namePart type="termsOfAddress">Botanico</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name>
+      <mads:namePart>Menestore</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Sibari</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Menestor, A Pythagorean from Sybaris, contemporary of Empedocles (5th cent. BC) and according to Iambl.
+    VP 267 the earliest Greek botanist...." Hünemörder, Christian (Hamburg), “Menestor”, in: Brill’s New Pauly, 
+    Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 01 September 2016</mads:note>
+  <mads:identifier type="tlg">2228</mads:identifier>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Pythagorean</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/24990609</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2228.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

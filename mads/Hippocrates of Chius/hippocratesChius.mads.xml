@@ -1,0 +1,84 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Hippocrates</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Chius</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ἱπποκράτης</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Χῖος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ara">
+    <mads:name>
+      <mads:namePart>أبقراط الخيوسي</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="cat">
+    <mads:name>
+      <mads:namePart>Hipòcrates</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Quios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name>
+      <mads:namePart>Hippocrate</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Chios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name>
+      <mads:namePart>Hippokrates</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Chios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name>
+      <mads:namePart>Ippocrate</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Chio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name>
+      <mads:namePart>Hipócrates</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Quíos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="rus">
+    <mads:name>
+      <mads:namePart>Гиппократ Хиосский</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Hippocrates</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Chios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "H. of Chios Mathematician and astronomer, 5th cent. BC, </mads:note>
+  <mads:identifier type="tlg">2235</mads:identifier>
+  <mads:fieldOfActivity>Mathematician</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Astronomer</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/42631297</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Hippocrates_of_Chios</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2235.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

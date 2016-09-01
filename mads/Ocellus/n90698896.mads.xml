@@ -1,0 +1,92 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="grc">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Ōkellos</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Leukanos</mads:namePart>
+      <mads:namePart type="date">active 6th century B.C</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ὄκελλος‏</mads:namePart>
+      <mads:namePart type="termsOfAddress">ο Λευκάνος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+    <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ekellos</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Lucania</mads:namePart>
+      <mads:namePart type="date">active 6th century B.C</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Occelos</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Lucanie</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ocello</mads:namePart>
+      <mads:namePart type="termsOfAddress">Lucano</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ocellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Lucanus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ocellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Lucania</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Okkelos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ocellus Lucanus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ōkellos</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Leukanos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Peri tēs tou pantos physeōs. Latin &amp; Greek. Ōkellos ho Leukanos,
+    philosophos, peri tēs tou pantos physeōs, 1661: t.p. ([in Greek characters:] Ōkellos ho
+    Leukanos, philosophos, [in Latin:] Ocellus Lucanus, philosophus)</mads:note>
+  <mads:note type="source">Oxford classical dict. (Ocellus (or Occelus) of Lucania, name occurs in
+    Iamblichus' list of Pythagoreans; attribution of Peri tēs tou pantos physeōs to him is
+    false)</mads:note>
+  <mads:note type="source">Der kleine Pauly (Okellos (Okkelos, Ekkelos) aus Lukanien, angeblich ein
+    Schüler des Pythagoras)</mads:note>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/86435125/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Ocellus_Lucanus</mads:url>
+  <mads:identifier type="lccn">n 90698896 </mads:identifier>
+  <mads:identifier type="tlg">1545</mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1545.003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314113107.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n90698896</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

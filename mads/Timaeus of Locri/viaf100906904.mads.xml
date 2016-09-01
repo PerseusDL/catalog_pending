@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Timaeus</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Locri</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus Locrus</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent" lang="grc">
+      <mads:name type="personal">
+            <mads:namePart>Τίμαιος</mads:namePart>
+         <mads:namePart type="termsOfAddress">Λοκρό</mads:namePart>
+         </mads:name>
+   </mads:related>
+   <mads:related type="equivalent" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Locrus</mads:namePart>
+         <mads:namePart type="date">ca. 5. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Timeo de Locres</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Timeu</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Locres</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Timée de Locres</mads:namePart>
+         <mads:namePart type="date">04..-04.. av. J.-C</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus Locrensis</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus Lokrus</mads:namePart>
+         <mads:namePart type="date">ca. v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus van Locri</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Locrensis</mads:namePart>
+         <mads:namePart type="date">ca. 5. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+         <mads:namePart type="date">ca. 5. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaeus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Pythagoricus</mads:namePart>
+         <mads:namePart type="date">ca. 5. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaios</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaios von Lokroi</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosoph der Antike</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaiosz</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timaj iz Lokrija</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timäus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Locrus</mads:namePart>
+         <mads:namePart type="date">ca. 5. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timej</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timeo</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timeo de Locres</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timeo di Locri</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timeos</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timeu de Locros</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timäus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Locrus</mads:namePart>
+         <mads:namePart type="date">ca. v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Timée de Locres</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Tímaios ho Lokrós</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Тимей Локрийский</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>טימיאוס מלוקרי</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ロクリスのティマイオス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Pythagorean</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/100906904</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Timaeus_of_Locri</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/100906904</mads:identifier>
+   <mads:identifier type="tlg">1734</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1734.002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf100906904</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

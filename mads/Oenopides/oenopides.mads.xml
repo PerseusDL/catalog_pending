@@ -1,0 +1,79 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Oenopides</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Οἰνοπίδης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Oinopides</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Œnopide</mads:namePart>
+      <mads:namePart>de Chios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="hun">
+    <mads:name type="personal">
+      <mads:namePart>Oinopidész</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Enopide</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Chio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name type="personal">
+      <mads:namePart>Enopid</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="chi">
+    <mads:name type="personal">
+      <mads:namePart>恩诺皮德斯</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Oenopides</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Chius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Smith's Dictionary: "Oenopides,  a distinguished astronomer and mathematician, a native of Chios. Plato 
+    (Erastae, 100.1) mentions him in conjunction with Anaxagoras, from which it has been concluded that he was a contemporary
+    of the latter. It may have been so, but there is nothing else to confirm the conjecture...." </mads:note>
+  <mads:note type="source">Brill's New Pauly: "Oeonopides, of Chios. Astronomer and mathematician in the 2nd half of the 5th cent. BC...." </mads:note>
+  <mads:identifier type="tlg">2234</mads:identifier>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Astronomer</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Mathemetician</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/2858297</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Oenopides</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=oenopides-bio-1</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2234.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

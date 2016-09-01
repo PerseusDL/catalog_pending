@@ -1,0 +1,70 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf158032288</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">151117n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/158032288</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ecphantos de Syracuse,</mx:subfield>
+      <mx:subfield code="d">0500?-0450? av. J.-C.</mx:subfield>
+      <mx:subfield code="0">(SUDOC)030818664</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Ecphantus</mx:subfield>
+      <mx:subfield code="0">(NLI)000509177</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2="0" tag="100">
+      <mx:subfield code="a">Ecphantus</mx:subfield>
+      <mx:subfield code="0">(LC)n  93019082</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="375" ind1=" " ind2=" ">
+      <mx:subfield code="a">unknown</mx:subfield>
+      <mx:subfield code="2">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ecfanto</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ecfantus</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ecphante,</mx:subfield>
+      <mx:subfield code="c">de Syracuse</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ekphantos</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2="0" tag="400">
+      <mx:subfield code="a">Ekphantos</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="500">
+      <mx:subfield code="a">Pseudo Ecphantus</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2="0" tag="500">
+      <mx:subfield code="a">Pseudo Ecphantus</mx:subfield>
+      <mx:subfield code="0">(VIAF)13977597</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/158032288</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Kritische Beiträge zu antiken Autoren mit den Fragmenten aus Ekphantos "Über das Königtum</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>SUDOC|030818664</mx:datafield>
+ </mx:record>

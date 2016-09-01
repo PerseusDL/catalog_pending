@@ -1,0 +1,131 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf807647</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">090303n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/807647</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Polyclitus</mx:subfield>
+      <mx:subfield code="c">Argivus</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="0">(DNB)118741438</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Πολύκλειτος</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polyclitus</mx:subfield>
+      <mx:subfield code="c">Philosophus</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polykleitos</mx:subfield>
+      <mx:subfield code="c">Erzgießer</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polykleitos</mx:subfield>
+      <mx:subfield code="c">Künstler</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polykleitos</mx:subfield>
+      <mx:subfield code="c">von Argos</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polyklet</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Polyklet</mx:subfield>
+      <mx:subfield code="c">von Argos</mx:subfield>
+      <mx:subfield code="d">ca. tätig v450-410</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/807647</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="950">
+      <mx:subfield code="a">Lorenz, Thuri 1931-</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="951">
+      <mx:subfield code="a">Liebieghaus Skulpturensammlung</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="941">
+      <mx:subfield code="a">ill</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="944">
+      <mx:subfield code="a">am</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9783805312585</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="901">
+      <mx:subfield code="a">9783805311755</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Diskosträger</mx:subfield>
+      <mx:subfield code="0">(VIAF)200817285</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|97798351X</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Doryphoros</mx:subfield>
+      <mx:subfield code="0">(VIAF)211737535</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438DNB|946014167</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="910">
+      <mx:subfield code="a">Polyklet der Bildhauer der griechischen Klassik ; Ausstellung im Liebieghaus, Museum Alter Plastik, Frankfurt am Main ; [17.10.1990 - 20.1.1991]</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">&#152;von&#156; Zabern</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="921">
+      <mx:subfield code="a">Reclam</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield ind1=" " ind2=" " tag="922">
+      <mx:subfield code="a">DE</mx:subfield>
+      <mx:subfield code="9">2</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>DNB|118741438</mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">196.</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">197.</mx:subfield>
+      <mx:subfield code="9">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">198.</mx:subfield>
+      <mx:subfield code="9">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="943" ind1=" " ind2=" ">
+      <mx:subfield code="a">199.</mx:subfield>
+      <mx:subfield code="9">1</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">0</mx:subfield>
+      <mx:subfield code="b">410</mx:subfield>
+      <mx:subfield code="c">lived</mx:subfield>
+   </mx:datafield>
+</mx:record>

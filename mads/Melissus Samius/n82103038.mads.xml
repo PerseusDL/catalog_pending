@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Melissus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Samius</mads:namePart>
+    </mads:name>
+  </mads:authority>
+   <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Μέλισσος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Σάμιος </mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Melissus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Samiensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Melissus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Melisso</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Samo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ara">
+    <mads:name type="personal">
+      <mads:namePart>ميليسوس من ساموس</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="cat">
+    <mads:name type="personal">
+      <mads:namePart>Melissos</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Samos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Mélissos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Melissos</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Elea</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="hun">
+    <mads:name type="personal">
+      <mads:namePart>Szamoszi Melisszosz</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="chi">
+    <mads:name type="personal">
+      <mads:namePart>麦里梭</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="rus">
+    <mads:name type="personal">
+      <mads:namePart>Мелисс</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Meliso</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Samos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="abbreviation">
+    <mads:name type="personal">
+      <mads:namePart>Meliss.</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Da Elea a Samo, 2005: p. 7 (Melisso di Samo, intellectual, disciple of
+    Parmenides, politician in the city of Samos, Samos Island, during the riot against Athens on
+    441-439 B.C.)</mads:note>
+  <mads:fieldOfActivity>Prescoratic</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:identifier type="lccn">n 82103038 </mads:identifier>
+  <mads:identifier type="tlg">1494</mads:identifier>
+  <mads:url displayLabel="ID.gov">http://id.loc.gov/authorities/names/n82103038</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/219221325</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Melissus_of_Samos</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1494.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20120730095833.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n82103038</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

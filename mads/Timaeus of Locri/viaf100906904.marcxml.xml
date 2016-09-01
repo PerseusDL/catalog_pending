@@ -1,0 +1,226 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf100906904</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">160711n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/100906904</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Timaeus Locrus</mx:subfield>
+      <mx:subfield code="0">(BAV)ADV11306589</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Timaeus</mx:subfield>
+      <mx:subfield code="c">Locrus</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="0">(DNB)118758276</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Timaeus,</mx:subfield>
+      <mx:subfield code="c">of Locri</mx:subfield>
+      <mx:subfield code="0">(NLI)000131495</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Timeo de Locres</mx:subfield>
+      <mx:subfield code="0">(BNE)XX954298</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Timeu,</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="0">(BNC)a10163827</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Timée de Locres,</mx:subfield>
+      <mx:subfield code="d">04..-04.. av. J.-C.</mx:subfield>
+      <mx:subfield code="0">(SUDOC)028951468</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus Locrensis</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus Locrus</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">NLI</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus Lokrus</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus van Locri</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus</mx:subfield>
+      <mx:subfield code="c">Locrensis</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus</mx:subfield>
+      <mx:subfield code="c">Philosophus</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaeus</mx:subfield>
+      <mx:subfield code="c">Pythagoricus</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaios</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaios von Lokroi</mx:subfield>
+      <mx:subfield code="c">Philosoph der Antike</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaiosz</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timaj iz Lokrija</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timäus</mx:subfield>
+      <mx:subfield code="c">Locrus</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timej</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeo</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeo de Locres</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeo di Locri</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">SUDOC</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+      <mx:subfield code="2">NSK</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeo di Locri.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeo di Locri</mx:subfield>
+      <mx:subfield code="c">giurista, astronomo e filosofo greco antico</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeos</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timeu de Locros</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Timée de Locres</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée,</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="d">ca. 5. Jh. v. Chr.</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timäus</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">Locrus</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée de Locres</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée de Locres.</mx:subfield>
+      <mx:subfield code="2">NUKAT</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée de Locres</mx:subfield>
+      <mx:subfield code="c">philosophe antique</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée,</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="2">RERO</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Timée</mx:subfield>
+      <mx:subfield code="c">de Locres</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Tímaios ho Lokrós</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Τίμαιος Λοκρό</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Τίμαιος ο Λοκρός</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Τίμαιος ὁ Λοκρός</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Тимей Локрийский</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">טימיאוס מלוקרי</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ロクリスのティマイオス</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/100906904</mx:subfield>
+   </mx:datafield>
+ 
+</mx:record>
