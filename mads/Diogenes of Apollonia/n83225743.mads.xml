@@ -1,0 +1,79 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Diogenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Apollonia</mads:namePart>
+      <mads:namePart type="date">active 5th century B.C</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Diogène</mads:namePart>
+      <mads:namePart type="termsOfAddress">d'Apollonie</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name>
+      <mads:namePart>Διογένης</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Ἀπολλωνιάτης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Diogenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">Apolloniates</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name>
+      <mads:namePart>Diogene</mads:namePart>
+      <mads:namePart>di Apollonia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name>
+      <mads:namePart>Diógenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Apolonia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ara">
+    <mads:name>
+      <mads:namePart>ديوجانس الأبولوني</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="hun">
+    <mads:name>
+      <mads:namePart>Apollóniai Diogenész</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+   <mads:note type="source">Laks, A. Diogène d'Apollonie, 1983: t.p. (Diogène
+    d'Apollonie)</mads:note>
+  <mads:note type="source">Encycl. Brit. (Diogenes of Apollonia, Greek philosopher of the 5th cent.
+    B.C., b. in Apollonia on Crete)</mads:note>
+  <mads:identifier type="lccn">n 83225743 </mads:identifier>
+  <mads:identifier type="tlg">1319</mads:identifier>
+  <mads:url displayLabel="ID.gov">http://id.loc.gov/rwo/agents/n83225743</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/177095580</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Diogenes_of_Apollonia</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1319.001</identifier>
+    <identifier type="tlg">1319.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20131029073814.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n83225743</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

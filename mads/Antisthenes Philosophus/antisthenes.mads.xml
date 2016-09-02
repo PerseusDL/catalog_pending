@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+    version="2.0">
+    <mads:authority>
+        <mads:name authority="tlg">
+            <mads:namePart>Antisthenes</mads:namePart>
+            <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+            <mads:namePart type="date">5-4 B.C.</mads:namePart><!-- Not all authorized headings will include a date element -->
+        </mads:name>
+    </mads:authority>
+    <mads:variant type="other" lang="grc"><!-- I've included elements for Latin and Greek as these are the most common variant names we add -->
+        <mads:name>
+            <mads:namePart>Aντισθένης</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:note type="source">Smith's Dictionary: "Antisthenes, a disciple of HERACLEITUS, wrote a commentary on the work of his master. 
+        (D. L. 9.15, 6.19.) It is not improbable that this Antisthenes may be the same as the one who wrote a work on the succession 
+        of the Greek philosophers (αἱ τῶν φιλοσόφων διαδοχαί), which is so often referred to by Diogenes Laertius...."</mads:note>
+    <mads:identifier type="tlg">2313</mads:identifier>
+    <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+    <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=antisthenes-bio-3</mads:url><!-- typical values for displayLabel include Wikipedia, VIAF, Smith's Dictionary, Worldcat Identities, -->
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type="tlg">2313.001</identifier>
+    </mads:extension>
+    <mads:recordInfo>
+        <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
+            <mads:languageTerm/>
+        </mads:languageOfCataloging>
+        <mads:recordContentSource xmlns="http://www.loc.gov/mods/v3">Perseus Digital Library</mads:recordContentSource>
+        <mads:recordCreationDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordChangeDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordIdentifier xmlns="http://www.loc.gov/mods/v3"/>
+    </mads:recordInfo>
+</mads:mads>

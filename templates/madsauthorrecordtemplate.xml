@@ -32,6 +32,10 @@ Smith's Dictionary, Brill's New Pauly, Wikipedia, etc.-->
     <mads:fieldOfActivity></mads:fieldOfActivity><!-- There is no controlled list of terms used for this but typical values include Historian,
 Rhetor, Orator, Theologian, Lyric Poet, Comic Poet, Philosopher, etc.-->
     <mads:url displayLabel=""></mads:url><!-- typical values for displayLabel include Wikipedia, VIAF, Smith's Dictionary, Worldcat Identities, -->
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type=""></identifier>
+    </mads:extension>
     <mads:recordInfo>
         <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
             <mads:languageTerm/>

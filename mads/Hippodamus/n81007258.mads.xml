@@ -1,0 +1,78 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Hippodamus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Miletus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name>
+      <mads:namePart>Ἱππόδαμος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Μιλήσιος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Hipódamo</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Mileto</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Hippodamos</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Milēsios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Hippodamus Milesius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Ippodamo</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Mileto</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="rus">
+    <mads:name type="personal">
+      <mads:namePart>Гипподам</mads:namePart>
+      <mads:namePart type="termsOfAddress">Милетский</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="abbreviation">
+    <mads:name authority="LSJ">
+      <mads:namePart>Hippod.</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Architect</mads:fieldOfActivity>
+  <mads:note type="source">Brill's New Pauly: "Hippodamus, of Miletus. Greek architect, town planner and author of writings on political theory,
+  ..."</mads:note>
+  <mads:note type="source">Castagnoli, F. Ippodamo di Mileto ... 1956</mads:note>
+  <mads:note type="source">Las ciudades teóricas de Hipódamo de Mileto, 1987: t.p</mads:note>
+  <mads:identifier type="lccn">n 81007258 </mads:identifier>
+  <mads:identifier type="tlg">1436</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/65318710/</mads:url>
+  <mads:url displayLabel="Id.gov">http://id.loc.gov/rwo/agents/n81007258</mads:url>
+  <mads:url displayLabel="Smith's Dictionary"
+    >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=hippodamus-bio-1</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Hippodamus_of_Miletus</mads:url>
+  <mads:extension>
+    <identifier type="tlg">1436.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20120730094153.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n81007258</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
