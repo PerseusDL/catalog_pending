@@ -1629,7 +1629,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="stoa">stoa0248b-stoa001</identifier>
+        <identifier type="stoa author-text">stoa0248b-stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>72</start>
