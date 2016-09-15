@@ -1,0 +1,165 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf71029333</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">160711n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/71029333</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucip</mx:subfield>
+      <mx:subfield code="0">(BNC)a10213351</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucipo</mx:subfield>
+      <mx:subfield code="0">(BNE)XX1342464</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="1" ind2=" " tag="400">
+      <mx:subfield code="a">Leucippe</mx:subfield>
+      <mx:subfield code="0">(LAC)1005G4301F</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Leucippus</mx:subfield>
+      <mx:subfield code="0">(NTA)069751900</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">ليوكيبوس</mx:subfield>
+      <mx:subfield code="0">(ISNI)0000000085701017</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leikips</mx:subfield>
+      <mx:subfield code="c">sengrieķu filozofs</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucipo de Mileto</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucippo</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucippus</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">Abderita</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucippus</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">Eleaticus</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leucippus</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">Milesius</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leukip</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leukipas</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leukippos</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leukipposz</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leukipp</mx:subfield>
+      <mx:subfield code="d">ca. v5. Jh</mx:subfield>
+      <mx:subfield code="c">von Milet</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leuzipo</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Levkip</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Levkipp</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Levkippos</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leúkippos</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Leŭkipo</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Λεύκιππος</mx:subfield>
+      <mx:subfield code="2">BNE</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Левкип</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Левкипп</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Լևկիպոս</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">לוקיפוס</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">لئوکیپوس</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">لەۆكىيپپ</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">লেউকিপ্পোস</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ลูซิปปัส</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">レウキッポス</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">留基伯</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">레우키포스</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/71029333</mx:subfield>
+   </mx:datafield>
+</mx:record>

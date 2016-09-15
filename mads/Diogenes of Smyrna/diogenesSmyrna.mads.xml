@@ -1,0 +1,56 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority lang="lat">
+    <mads:name authority="viaf">
+      <mads:namePart>Diogenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">Smyrnaeus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Διογένης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="eng">
+    <mads:name type="personal">
+      <mads:namePart>Diogenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Smyrna</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Diogène</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Smyrne</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Diogenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Kyrene</mads:namePart>
+    </mads:name>
+  </mads:variant>
+    <mads:identifier type="tlg">2314</mads:identifier>
+  <mads:note type="source">Smiths' Dictionary: "Diogenes, of Smyrna, an Eleatic Philosopher, who
+  was a disciple of Metrodorus and Protagoras...."</mads:note>
+    <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Presocratic</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/10236188</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=diogenes-bio-20</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2314.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

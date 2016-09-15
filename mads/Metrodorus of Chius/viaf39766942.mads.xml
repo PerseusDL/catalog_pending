@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+   version="2.0">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal">
+         <mads:namePart>Metrodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Chios</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Μητρόδωρος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Μητρόδωρος</mads:namePart>
+         <mads:namePart type="termsOfAddress">ο Χίος</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Metrodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Chios</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Metrodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Chius</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Khioszi Métrodórosz</mads:namePart>
+         <mads:namePart type="termsOfAddress">ókori görög filozófus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="spa">
+      <mads:name type="personal">
+         <mads:namePart>Metrodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Quíos</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">  
+      <mads:name type="personal">
+         <mads:namePart>Metrodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Chio</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Metrodoros Khioslainen</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Metrodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Chios</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Metrodors</mads:namePart>
+         <mads:namePart type="termsOfAddress">Lehrer des Anaxarchos</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Métrodore</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Chios</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-Metrodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Chius</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Метродор Хиосский</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Smith's Dictionary: "Metrodorus, of Chios,  disciple of Democritus, 
+      or, according to other accounts, of Nessus of Chios ....He flourished about B. C. 330...."</mads:note>
+   <mads:note type="source">Brill's New Pauly: "M. of Chios, Democritan philosopher, 5th/4th cent. B.C.."</mads:note>
+   <mads:identifier type="uri">http://viaf.org/viaf/39766942</mads:identifier>
+   <mads:identifier type="tlg">1508</mads:identifier>
+   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/39766942</mads:url>
+   <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=metrodorus-bio-4</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1508.003</identifier>
+   </mads:extension>   
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+         2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf39766942</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

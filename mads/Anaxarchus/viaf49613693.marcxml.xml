@@ -1,0 +1,103 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf49613693</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">150414n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/49613693</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="100">
+      <mx:subfield code="a">Anaxarchus</mx:subfield>
+      <mx:subfield code="c">Abderita</mx:subfield>
+      <mx:subfield code="d">v340/337</mx:subfield>
+      <mx:subfield code="0">(DNB)102379335</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Анаксарх</mx:subfield>
+      <mx:subfield code="0">(WKP)Q366031</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaksarchos z Abdery</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaksarh</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaksarkhos</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anassarco</mx:subfield>
+      <mx:subfield code="c">filosofo greco antico</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarc</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarchos</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarchus</mx:subfield>
+      <mx:subfield code="c">Abderitanus</mx:subfield>
+      <mx:subfield code="d">v340/337</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarch</mx:subfield>
+      <mx:subfield code="c">Philosoph der Antike</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarco</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarkhosz</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarkos</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarque</mx:subfield>
+      <mx:subfield code="c">d Ábdère</mx:subfield>
+      <mx:subfield code="d">v340/337</mx:subfield>
+      <mx:subfield code="2">DNB</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Anaxarque</mx:subfield>
+      <mx:subfield code="c">philosophe antique</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">אנקסארכוס</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ანაქსარხე</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Ἀνάξαρχος</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">阿那克萨图斯（阿布德拉）</mx:subfield>
+      <mx:subfield code="2">WKP</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/49613693</mx:subfield>
+   </mx:datafield>
+</mx:record>
