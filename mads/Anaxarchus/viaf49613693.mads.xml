@@ -20,7 +20,7 @@
          <mads:namePart>Анаксарх</mads:namePart>
       </mads:name>
    </mads:variant>
-   <mads:variant type="other"  lang="pol">
+   <mads:variant type="other" lang="pol">
       <mads:name type="personal">
          <mads:namePart>Anaksarchos</mads:namePart>
          <mads:namePart type="termsOfAddress"> z Abdery</mads:namePart>
@@ -87,7 +87,7 @@
          <mads:namePart type="date">v340/337</mads:namePart>
       </mads:name>
    </mads:variant>
-     <mads:variant type="other">
+   <mads:variant type="other">
       <mads:name type="personal">
          <mads:namePart>אנקסארכוס</mads:namePart>
       </mads:name>
