@@ -1,0 +1,51 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Sergius</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Grammarian</mads:namePart>
+      <mads:namePart type="date">active 515-517</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sergius</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Grammarian</mads:namePart>
+      <mads:namePart type="date">fl. 515-517</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sergius</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Monophysite</mads:namePart>
+      <mads:namePart type="date">active 515-517</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="nonpublic">Cannot identify with Sergius of Resaina, d. 536. New Cath. encyc., c1967, says that Sergius 
+    of Resaina was probably the same as Sergius the Grammarian, but Encyc. brit., c1983, gives two separate articles for Sergius 
+    and Sergius of Resaina</mads:note>
+  <mads:note type="source">Torrance, I.R. Christology after Chalcedon, 1988: t.p. (Sergius the Monophysite) p. 1, etc. (Sergius the
+    Grammarian most common appellation; wrote Greek letters to Severus of Antioch, 515-517; nothing else known of his life or writings; 
+    not equated with Sergius of Resaina)</mads:note>
+  <mads:note type="source">Encyc. brit., 15th ed., c1983: Micropaedia, v. 9, p. 68 (Sergius; Roman physician and priest, 5th-6th cent.)</mads:note>
+  <mads:identifier type="lccn">n  90700280 </mads:identifier>
+  <mads:identifier type="stoa">stoa0258a</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/77945772</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0258a-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130315064627.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n90700280</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

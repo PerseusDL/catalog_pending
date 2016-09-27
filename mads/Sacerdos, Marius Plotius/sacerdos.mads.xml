@@ -1,0 +1,55 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Sacerdos, Marius Plotius</mads:namePart>
+      <mads:namePart type="date">active 3rd century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sacerdos, Mario Plotio</mads:namePart>
+      <mads:namePart type="date">active 3rd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sacerdos, Marius Plotius</mads:namePart>
+      <mads:namePart type="date">3rd cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sacerdote, Mario Plocio</mads:namePart>
+      <mads:namePart type="date">active 3rd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Villegas Guillén, S. Marius Plotius Sacerdos, 1987: p. ix (Mario Plocio Sacerdote, grammarian, metrician)</mads:note>
+  <mads:note type="source">Oxford class. dict., 1979: p. 942 (Sacerdos, Marius Plotius, 3rd cent. A.D.)</mads:note>
+  <mads:note type="source">Encic. univ. ilus. (Sacerdos, Mario Plotio, Roman grammarian, lived towards end of 3rd cent. A.D.)</mads:note>
+  <mads:note type="source">Brill's New Pauly: " Marius P. Sacerdos Latin grammarian, late 3rd cent. AD, 
+    Author of Artes grammaticae ('Grammaticae') in 3 vols. of different periods..., the incomplete or revised text can be improved 
+    through Ps.-Probus, Catholica (cf. Valerius Probus)...."</mads:note>
+  <mads:identifier type="lccn">n  90709751</mads:identifier>
+  <mads:identifier type="stoa">stoa0248c</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/7775452</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0248c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0248c-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313073323.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n90709751</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

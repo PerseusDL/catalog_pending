@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+   version="2.0">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="viaf">
+         <mads:namePart>Martyrius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammaticus</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Adamantius sive Martyrius</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Adamantius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammaticus</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Adamantius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammatiker</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Adamantius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Martyrius</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Martyrius, Adamantius</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Martyrius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Adamantii Filius</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Martyrius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammatiker</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Martyrius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Sardianus</mads:namePart>
+         <mads:namePart type="date">5. bzw. 5./6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Martyrius, Latin grammarian, assumed to have lived before Cassiodorus, probably in
+      the first half of the 6th cent. AD. M. was the son of a certain Adamantius, whom he owed his education and who is thus named
+      in the MSS Adamanti(i) sive Martyrii and in Cassiodorus Adamantius Martyrius. In a manuscript subscriptio the designation
+      Sardianus grammaticus appears, perhaps named after Sardes (Lydia). He is the author of a treatise De B muta et V vocali in 4 parts, 
+      documented in 5 MSS from the humanistic period, which go back to two lost codices (one from Bobbio, the other one from Venice). 
+      The text was almost completely adopted by Cassiodorus in De orthographia (GL 7,167-199)...." 
+      Gatti, Paolo (Trento), “Martyrius”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , 
+      Helmuth Schneider. Consulted online on 23 September 2016</mads:note>
+     <mads:identifier type="uri">http://viaf.org/viaf/76706323</mads:identifier>
+   <mads:identifier type="stoa author">stoa0193c</mads:identifier>
+   <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/76706323</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="stoa author-text">stoa0193c-stoa001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+         2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf76706323</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

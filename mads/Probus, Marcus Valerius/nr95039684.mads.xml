@@ -56,6 +56,9 @@
     <mads:description>List of related work identifiers</mads:description>
     <identifier type="phi">996.2</identifier>
     <identifier type="phi">996.4</identifier>
+    <identifier type="phi">996.5</identifier>
+    <identifier type="phi">996.6</identifier>    
+    <identifier type="phi">996.7</identifier>    
   </mads:extension>
   <mads:recordInfo>
     <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision

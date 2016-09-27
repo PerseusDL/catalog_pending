@@ -1,0 +1,88 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Agroecius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agraetius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agrecio</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agrecius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agrice</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agricius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agroecius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">5th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Agroetius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Sens</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His Ars de orthographia, 1978: t.p. (Agroecius) p. 37 (Agricius) p. 129 (Agrecio) p. 218 (Agrice, Agrecius)</mads:note>
+  <mads:note type="source">BM (Agroetius)</mads:note>
+  <mads:note type="source">Oxford class. dict. (Agroecius, 5th cent. bishop of Sens)</mads:note>
+  <mads:note type="source">Diomedes.  Ars grammatica, ca. 1475: table of contents (Agraetius)</mads:note>
+  <mads:identifier type="lccn">n  81088795</mads:identifier>
+  <mads:identifier type="stoa">stoa0013c</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/263536101</mads:url>
+  <mads:url displayLabel="Wikipedia"
+    >https://en.wikipedia.org/wiki/Agroecius_(Bishop_of_Sens)</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/viaf-289415457/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0013c-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130307130230.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n81088795</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

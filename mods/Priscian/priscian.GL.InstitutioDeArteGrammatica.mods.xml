@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <mods ID="mods1">
+        <titleInfo>
+            <title>Institutio de arte grammatica</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Institutio de arte grammatica</title>
+            <partNumber>Book I-Book XII</partNumber>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/76294069">
+            <namePart>Priscian</namePart>
+            <namePart type="date">fl. ca. 500-530</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/2604826">
+            <namePart>Keil, Heinrich</namePart>
+            <namePart type="date">1822-1894</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/88066715">
+            <namePart>Hertz, Martin</namePart>
+            <namePart type="date">1818-1895</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0234a-stoa001</identifier>
+        <tableOfContents>Prisciani Ad Iuliani Epistulae (pg. 1-4) --Libri I-VII: De Nomine (pg.5-368) --
+            Libri VIII-X: De Verbo (pg. 369-547) --Libri XI: De participio (pg. 548-576) -- Libri XII: De Pronomine (pg. 577-597) --</tableOfContents>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>597</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://hdl.handle.net/2027/inu.30000011399759?urlappend=%3Bseq=40</url>
+        </location>
+        <relatedItem type="host">
+            <titleInfo>
+                <title>Grammatici latini</title>
+                <partNumber>vol. 2</partNumber>
+            </titleInfo>
+            <name authority="viaf" type="personal" usage="primary"
+                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2604826">
+                <namePart>Keil, Heinrich</namePart>
+                <namePart type="date">1822-1894</namePart>
+                <role>
+                    <roleTerm type="text">editor</roleTerm>
+                </role>
+            </name>
+            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+                valueURI="http://viaf.org/viaf/88066715">
+                <namePart>Hertz, Martin</namePart>
+                <namePart type="date">1818-1895</namePart>
+                <role>
+                    <roleTerm type="text">editor</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Lipsiae</placeTerm>
+                </place>
+                <publisher>Teubner</publisher>
+                <dateIssued>1855</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language objectPart="text">
+                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>597 p.; 24 cm.</extent>
+                <digitalOrigin>digitized other analog</digitalOrigin>
+            </physicalDescription>
+            <note>Supplemented by: Anecdota helvetica / ex recensione Hermanni Hageni (cclxi p., 1 l., 398 p. ; 24 cm.)  Lipsiae : in aedibvs B.G. Tevbneri, 1870.  Call number: PA6139.G7 1857 Suppl.</note>
+            <subject authority="lcsh">
+                <topic>Latin language</topic>
+                <topic>Grammar</topic>
+                <temporal>Early works to 1500</temporal>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Latin language</topic>
+                <topic>Metrics and rhythmics</topic>
+            </subject>
+            <classification authority="lcc">PA6139 .G7 1857</classification>
+            <classification authority="lcc">PA6139 .G7 1857 Suppl.</classification>
+            <identifier type="lccn">04012449</identifier>
+            <identifier type="oclc">3836867</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3836867</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/inu.30000011399759</url>
+            </location>
+        </relatedItem>
+    </mods>
+    <mods ID="mods2">
+        <titleInfo>
+            <title>Institutio de arte grammatica libri</title>
+        </titleInfo>
+        <titleInfo type="alternative">
+            <title>Institutio de arte grammatica</title>
+            <partNumber>Book XIII-Book XXVIII</partNumber>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/76294069">
+            <namePart>Priscian</namePart>
+            <namePart type="date">fl. ca. 500-530</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/2604826">
+            <namePart>Keil, Heinrich</namePart>
+            <namePart type="date">1822-1894</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/88066715">
+            <namePart>Hertz, Martin</namePart>
+            <namePart type="date">1818-1895</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <tableOfContents>Libri XIII: De pronomine (pg. 1-23) -- Libri XIV: De Praepositione (pg. 24-59) --Libri XV: De adverbio et interectione
+            (pg. 60-92) -- Libri XVI: De coniunctione (pg. 93-105) --Libri XVII-XVIII: De constructione (pg. 106-377)</tableOfContents>
+        <identifier type="stoa author-text">stoa0234a-stoa001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>377</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/uva.x000591885?urlappend=%3Bseq=14</url>
+        </location>
+        <relatedItem type="host">
+            <titleInfo>
+                <title>Grammatici latini</title>
+                <partNumber>Vol. 3</partNumber>
+            </titleInfo>
+            <name authority="viaf" type="personal" usage="primary"
+                authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2604826">
+                <namePart>Keil, Heinrich</namePart>
+                <namePart type="date">1822-1894</namePart>
+                <role>
+                    <roleTerm type="text">editor</roleTerm>
+                </role>
+            </name>
+            <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+                valueURI="http://viaf.org/viaf/88066715">
+                <namePart>Hertz, Martin</namePart>
+                <namePart type="date">1818-1895</namePart>
+                <role>
+                    <roleTerm type="text">editor</roleTerm>
+                </role>
+            </name>
+            <typeOfResource>text</typeOfResource>
+            <originInfo>
+                <place>
+                    <placeTerm type="code" authority="marccountry">gw</placeTerm>
+                </place>
+                <place>
+                    <placeTerm type="text">Lipsiae</placeTerm>
+                </place>
+                <publisher>Teubner</publisher>
+                <dateIssued>1859</dateIssued>
+                <issuance>monographic</issuance>
+            </originInfo>
+            <language objectPart="text">
+                <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+            </language>
+            <physicalDescription>
+                <form authority="marcform">print</form>
+                <extent>602 p.; 24 cm.</extent>
+                <digitalOrigin>digitized other analog</digitalOrigin>
+            </physicalDescription>
+            <note>Supplemented by: Anecdota helvetica / ex recensione Hermanni Hageni (cclxi p., 1 l., 398 p. ; 24 cm.) 
+                Lipsiae : in aedibvs B.G. Tevbneri, 1870.  Call number: PA6139.G7 1857 Suppl.</note>
+            <subject authority="lcsh">
+                <topic>Latin language</topic>
+                <topic>Grammar</topic>
+                <temporal>Early works to 1500</temporal>
+            </subject>
+            <subject authority="lcsh">
+                <topic>Latin language</topic>
+                <topic>Metrics and rhythmics</topic>
+            </subject>
+            <classification authority="lcc">PA6139 .G7 1857</classification>
+            <classification authority="lcc">PA6139 .G7 1857 Suppl.</classification>
+            <identifier type="lccn">04012449</identifier>
+            <identifier type="oclc">3836867</identifier>
+            <location>
+                <url displayLabel="WorldCat">http://www.worldcat.org/oclc/3836867</url>
+            </location>
+            <location>
+                <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uva.x000591885</url>
+            </location>
+        </relatedItem>
+    </mods>
+</modsCollection>

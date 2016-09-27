@@ -1,0 +1,46 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Terentius Scaurus, Q. (Quintus)</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Scaurus, Q. Terentius (Quintus Terentius)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Terentius Scaurus, Quintus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">PHI CD ROM #5.3 [CF] 1991: Latin canon (Q. Terentius Scaurus)</mads:note>
+  <mads:note type="source">Oxford Classical Dict.: p. 1044 (Terentius Scaurus, Quintus)</mads:note>
+  <mads:note type="source">NUC pre-56: v. 587, p. 141 (Terentius Scaurus, Quintus)</mads:note>
+  <mads:identifier type="lccn">nr 95015084</mads:identifier>
+  <mads:identifier type="phi">1370</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/49572621</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Quintus_Terentius_Scaurus</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-nr95015084/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="phi">1370.1</identifier>
+    <identifier type="phi">1370.2</identifier>
+    <identifier type="phi">1370.3</identifier>
+    <identifier type="phi">1370.4</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NNC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20001102070409.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr95015084</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

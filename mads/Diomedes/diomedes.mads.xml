@@ -1,0 +1,45 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Diomedes</mads:namePart>
+      <mads:namePart type="termsOfAddress">(Grammarian)</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Diomedes</mads:namePart>
+      <mads:namePart type="termsOfAddress">grammarian</mads:namePart>
+      <mads:namePart type="date">4th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Flavii Sosipatri Charisii Artis grammaticae libri V. Diomedis Artis grammaticae libri III.
+    Ex Charisii Arte grammatica excerpta, 1961</mads:note>
+  <mads:note type="source">RLIN, 1/2/96 (hdg.: Diomedes, Diomedes, the Grammarian, Diomedes, 4th cent.)</mads:note>
+  <mads:note type="source">Oxford Classical Dict., 1972: p. 349 (Diomedes, late 4th cent. A.D., grammarian; wrote Ars grammatica)</mads:note>
+  <mads:identifier type="lccn">nr 97000126 </mads:identifier>
+  <mads:identifier type="stoa">stoa0108b</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/19831889</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Diomedes_Grammaticus</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nr97000126/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0108b-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314130039.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr97000126</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

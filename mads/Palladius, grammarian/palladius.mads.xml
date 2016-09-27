@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+    version="2.0">
+    <mads:authority>
+        <mads:name>
+            <mads:namePart>Palladius</mads:namePart>
+            <mads:namePart type="termsOfAddress">4th cent. A.D.</mads:namePart>
+        </mads:name>
+    </mads:authority>
+    <mads:note type="source">Brill's new Pauly: "Palladius, Latin grammarian, probably of African origin and Christian beliefs,
+        active in the 4th cent. AD. His work, perhaps in two books (he follows the presentation of the types of words with a section
+        De ratione metrorum vel structurarum ), has not been transmitted as a whole, but rather parts of it have been transmitted under the name
+        of Ps.-Probus (Instituta Artium, [1]) and as excerpta in dialogue form under the name of Audax..."</mads:note>
+    <mads:identifier type="stoa author">stoa0217d</mads:identifier>
+    <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+    <mads:url displayLabel=""></mads:url>
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type="stoa author-text">stoa0217d-stoa001</identifier>
+    </mads:extension>
+    <mads:recordInfo>
+        <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
+            <mads:languageTerm/>
+        </mads:languageOfCataloging>
+        <mads:recordContentSource xmlns="http://www.loc.gov/mods/v3">Perseus Digital Library</mads:recordContentSource>
+        <mads:recordCreationDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordChangeDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordIdentifier xmlns="http://www.loc.gov/mods/v3"/>
+    </mads:recordInfo>
+</mads:mads>
