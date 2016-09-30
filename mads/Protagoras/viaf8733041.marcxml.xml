@@ -1,0 +1,135 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf87733041</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">160831n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/87733041</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Protagoras</mx:subfield>
+      <mx:subfield code="0">(NLI)000257051</mx:subfield>
+   </mx:datafield>
+   
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Protagoras,</mx:subfield>
+      <mx:subfield code="c">Abderita,</mx:subfield>
+      <mx:subfield code="d">ca 485-411 v. Chr.</mx:subfield>
+      <mx:subfield code="0">(NTA)071372865</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Protàgores</mx:subfield>
+      <mx:subfield code="d">ca. 485-ca. 410 aC.</mx:subfield>
+      <mx:subfield code="0">(ISNI)0000000085655428</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">פרוטגורס,</mx:subfield>
+      <mx:subfield code="d">420-490 לפנה"ס</mx:subfield>
+      <mx:subfield code="0">(NLI)000257051</mx:subfield>
+   </mx:datafield>
+    <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protagora</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protagoras Abderita</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protagoras d'Abdère</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>   
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protagoras,</mx:subfield>
+      <mx:subfield code="c">de Abdera,</mx:subfield>
+      <mx:subfield code="d">ca 485-411 v. Chr.</mx:subfield>
+      <mx:subfield code="2">NTA</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protagoro</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Protaqor</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Prótagorasz</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Prótagorás z Abdér</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Πρωταγόρας</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Абдерлик Протагор</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Протагор</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">Պրոտագորաս</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">פרוטגורס</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">بروتاجوراس</mx:subfield>
+      <mx:subfield code="2">LC</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">بروتاغوراس</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">پروتاگوراس</mx:subfield>
+      <mx:subfield code="c">فیلسوف در یونان باستان</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">پروتاگورس</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">প্রোতাগোরাস</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">ཕི་རོ་ཁྲེ་གྷོ་རཱ་ཟི།</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">プロタゴラス</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">普罗泰戈拉</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="400">
+      <mx:subfield code="a">프로타고라스</mx:subfield>
+      <mx:subfield code="2">ISNI</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/87733041</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+  </mx:record>

@@ -1,0 +1,67 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Theagenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Rhegium</mads:namePart>
+      <mads:namePart type="date">active approximately 529 B.C.-522 B.C.</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Θεαγένης</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Ῥηγῖνος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Teàgenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Rhègion</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Teagene</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Regio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Teagenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">z Region</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Theagenes</mads:namePart>
+      <mads:namePart type="termsOfAddress">Rheginus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Smith's Dictionary: "Theagenes, 1, literary, A native of Rhegium, who was contemporary
+    with Cambyses. (Tatianus, ad v. Graec. p. 105; Euseb. Praep. Evang. 10.11.) He was one of the earliest writers on Homer and his works..." </mads:note>
+  <mads:identifier type="tlg">2275</mads:identifier>
+  <mads:fieldOfActivity>Literary Critic</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">https://viaf.org/viaf/32386793/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Theagenes_of_Rhegium</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/viaf-32386793/</mads:url>
+  <mads:url displayLabel="Smith's Dictionary"
+    >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=theagenes-bio-5</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2275.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

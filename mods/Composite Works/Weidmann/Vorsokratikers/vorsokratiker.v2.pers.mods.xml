@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Die fragmente der Vorsokratiker</title>
+        <subTitle> griechisch und deutsch</subTitle>
+        <partNumber>Volume 2</partNumber>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+        <namePart>Diels, Hermann</namePart>
+        <namePart type="date">1848-1922</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Berlin</placeTerm>
+        </place>
+        <publisher>Weidmann</publisher>
+        <dateIssued>1922</dateIssued>
+        <edition>Vierte aufl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxxviii, 345 p.; 23 cm</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <subject authority="lcsh">
+        <topic>Philosophy, Ancient</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Greek literature</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Greek language</topic>
+        <topic>Glossaries, vocabularies, etc</topic>
+    </subject>
+    <classification authority="lcc">B165 .D4 1922</classification>
+    <identifier type="lccn">29003449</identifier>
+    <identifier type="oclc">755912</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/755912</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/71029333">
+            <namePart>Leucippus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1461.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>10</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=45</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49224361">
+            <namePart>Democritus</namePart>
+            <namePart type="date">approximately 460 B.C.-approximately 370 B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1304.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>10</start>
+                <end>140</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=54</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/61941666">
+            <namePart>Nessas</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2456.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>140</start>
+                <end>140</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=184</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39766942">
+            <namePart>Metrodorus</namePart>
+            <namePart type="termsOfAddress">of Chius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1508.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>140</start>
+                <end>144</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=184</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236188">
+            <namePart>Diogenes</namePart>
+            <namePart type="termsOfAddress">Smyrnaeus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2314.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>144</start>
+                <end>144</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=188</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/49613693">
+            <namePart>Anaxarchus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0714.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>144</start>
+                <end>149</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=188</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/222308297">
+            <namePart>Hecataeus</namePart>
+            <namePart type="termsOfAddress">of Abdera</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1390.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>149</start>
+                <end>154</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=193</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonia</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219535">
+            <namePart>Apollodorus</namePart>
+            <namePart type="termsOfAddress">of Cyzicus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2319.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>155</start>
+                <end>155</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=199</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/820264">
+            <namePart>Nausiphanes</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2334.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>155</start>
+                <end>159</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=199</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonia</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/300598388">
+            <namePart>Diotimus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2340.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>159</start>
+                <end>159</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=203</url>
+        </location>
+    </relatedItem>    
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonia</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/76705947">
+            <namePart>Bion</namePart>
+            <namePart type="termsOfAddress">of Abdera</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2153.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>159</start>
+                <end>159</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=203</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/50034301">
+            <namePart>Bolus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1306.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>160</start>
+                <end>160</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=204</url>
+        </location>
+    </relatedItem>
+   <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/185999944">
+            <namePart>Orpheus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1639.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>163</start>
+                <end>178</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=207</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/15581813">
+            <namePart>Musaeus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2691.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>179</start>
+                <end>184</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=223</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/78456017">
+            <namePart>Epimenides</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1347.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>185</start>
+                <end>194</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=229</url>
+        </location>
+    </relatedItem>
+     <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta astronomica</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/122220717">
+            <namePart>Hesiod</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0020.006</identifier>
+        <part>
+            <extent unit="pages">
+                <start>194</start>
+                <end>196</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=238</url>
+        </location>
+    </relatedItem>    
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/57001903">
+            <namePart>Phocus</namePart>
+            <namePart type="termsOfAddress">of Samos</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2272.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>197</start>
+                <end>197</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=241</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/34843519">
+            <namePart>Cleostratus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1275.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>197</start>
+                <end>198</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=241</url>
+        </location>
+    </relatedItem>
+        <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/289101007">
+            <namePart>Pherecydes</namePart>
+            <namePart type="termsOfAddress">of Syros</namePart>
+            <namePart type="date">active 6th century B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0630.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>198</start>
+                <end>205</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=242</url>
+        </location>
+    </relatedItem>
+        <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonia</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/174145003288761301284">
+            <namePart>Theagenes</namePart>
+            <namePart type="termsOfAddress">of Rhegium</namePart>
+            <namePart type="date">active approximately 529-522 B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2275.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>205</start>
+                <end>206</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=249</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/51651645">
+            <namePart>Acusilaus</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0392.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>206</start>
+                <end>219</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=250</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/238415970">
+            <namePart>Protagoras</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1635.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>219</start>
+                <end>235</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=253</url>
+        </location>
+    </relatedItem>
+      <relatedItem type="constituent">
+        <titleInfo>
+            <title>Testimonium</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64396011">
+            <namePart>Xeniades</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2355.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>235</start>
+                <end>235</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=279</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/305414374">
+            <namePart>Gorgias</namePart>
+            <namePart type="termsOfAddress">of Leontini</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0593.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>235</start>
+                <end>266</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=279</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/16203864">
+            <namePart>Prodicus</namePart>
+            <namePart type="date">active 5th century B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1634.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>267</start>
+                <end>276</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=311</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/226086344">
+            <namePart>Thrasymachus</namePart>
+            <namePart type="termsOfAddress">Chalcedonius</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1729.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>276</start>
+                <end>282</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=320</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/54944969">
+            <namePart>Hippias</namePart>
+            <namePart type="termsOfAddress">of Elis</namePart>
+            <namePart type="termsOfAddress">5th cent. B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1434.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>282</start>
+                <end>288</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=326</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/315533504">
+            <namePart>Antiphon</namePart>
+            <namePart type="termsOfAddress">of Athens</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1147.003</identifier>
+        <part>
+            <extent unit="pages">
+                <start>289</start>
+                <end>308</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=333</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/89662618">
+            <namePart>Critias</namePart>
+            <namePart type="date">ca. 460-ca. 403 B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0319.004</identifier>
+        <part>
+            <extent unit="pages">
+                <start>308</start>
+                <end>329</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=352</url>
+        </location>
+    </relatedItem>
+     <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/227095134">
+            <namePart>Anonymous Iamblichi</namePart>
+            <namePart type="date">active 5th century B.C.-4th century B.C.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1134.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>329</start>
+                <end>334</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=373</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Dialexeis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838">
+            <namePart>Diels, Hermann</namePart>
+            <namePart type="date">1848-1922</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1309.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>334</start>
+                <end>345</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/uc1.31158010733896?urlappend=%3Bseq=378</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">821229</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20090331074521.0</recordChangeDate>
+        <recordIdentifier>7338018</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

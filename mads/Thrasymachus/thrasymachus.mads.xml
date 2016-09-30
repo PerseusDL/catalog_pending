@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Thrasymachus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Chalcedonius</mads:namePart>
+         <mads:namePart type="date">ca. 2. Hälfte v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Θρασύμαχος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymaque</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Chalcédoine</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasimaxus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="spa">
+      <mads:name type="personal">
+         <mads:namePart>Trasímaco</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasumakhos</mads:namePart>
+         <mads:namePart type="date">0459?-0400? av. J.-C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymachos</mads:namePart>
+         <mads:namePart type="termsOfAddress">z Chalkedónu</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymachos</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Chalkedon</mads:namePart>
+         <mads:namePart type="date">ca. 2. Hälfte v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymachus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+         <mads:namePart type="date">ca. 2. Hälfte v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymachus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Sophista</mads:namePart>
+         <mads:namePart type="date">ca. 2. Hälfte v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Thrasymakhos</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasimaco</mads:namePart>
+      </mads:name>
+      <mads:titleInfo>
+         <mads:title>Trasimaco 0459?-0400? av. J.C</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasimaco</mads:namePart>
+         <mads:namePart type="date">0459?-0400? av. J.C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasýmachos</mads:namePart>
+      </mads:name>    
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasímac de Calcedó</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Trasýmachos</mads:namePart>
+         <mads:namePart type="date">0459?-0400? av. J.C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Þrasýmakkos</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Фрасимах</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>تراسیماخوس</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>トラシュマコス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>트라시마코스</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+   <mads:identifier type="tlg">1729</mads:identifier>
+   <mads:identifier type="uri">http://viaf.org/viaf/226086344</mads:identifier>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/226086344</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Thrasymachus</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1729.002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf226086344</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
