@@ -65,6 +65,7 @@
     <identifier type="lccn">34018605</identifier>
     <identifier type="oclc">4587715</identifier>
     <identifier type="tlg">0015.001</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0015.tlg001.opp-grc1</identifier>
     <location>
         <url displayLabel="Worldcat">http://www.worldcat.org/oclc/579772859</url>
     </location>

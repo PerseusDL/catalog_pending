@@ -1,0 +1,66 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Dinolochus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Deinolochus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Δεινολόχος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Deinolochos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Deinoloco</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Dinolochus</mads:namePart>
+      <mads:namePart>Comicus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="abbreviation">
+    <mads:name>
+      <mads:namePart>Dinol.</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="soure">Brill's New Pauly: "Deinolochus, writer of Doric Comedy, in our sources dated to the 73rd Olympiad
+    (488-485 BC) and attested as the son or pupil [1. Test. 1], but also the rival [1. Test. 2], of  Epicharmus....
+    A single fragment of verse survives."Nesselrath, Heinz-Günther (Göttingen), “Deinolochus”, in: Brill’s New Pauly, Antiquity 
+    volumes edited by: Hubert Cancik and , Helmuth Schneider.</mads:note>
+  <mads:fieldOfActivity>Comedian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Playwright</mads:fieldOfActivity>
+  <mads:url displayLabel="Wikipedia">https://it.wikipedia.org/wiki/Deinoloco</mads:url>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/5317837</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=deinolochus-bio-1</mads:url>
+  <mads:identifier type="tlg">1315</mads:identifier>  
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1315.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

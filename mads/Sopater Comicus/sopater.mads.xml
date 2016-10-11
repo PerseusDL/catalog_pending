@@ -1,0 +1,70 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="viaf">
+      <mads:namePart>Sopater</mads:namePart>
+      <mads:namePart type="termsOfAddress">Paphius</mads:namePart>
+      <mads:namePart type="date"> v4./3. Jh.</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Σώπατρος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Sopater</mads:namePart>
+      <mads:namePart type="termsOfAddress">Comicus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Sopatros</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Paphos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Sopatro</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Pafo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sopater</mads:namePart>
+      <mads:namePart type="termsOfAddress">Comicus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="abbreviation">
+    <mads:name type="personal" authority="lsj">
+      <mads:namePart>Sopat.</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Sopater, of Paphos...Hellenistic poet, c. 300 BC...known only from Athenaeus
+    ... who mentions S. six times as a parodist (παρῳδός/par ōidós) and five times as a composer of Phlyakes (φλυακογράφος/phlyakográphos) ..
+    "  Hidber, Thomas (Berne), “Sopater”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. 
+    Consulted online on 11 October 2016</mads:note>
+  <mads:identifier type="tlg">1682</mads:identifier>
+  <mads:fieldOfActivity>Playwright</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Comic Poet</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/22528378</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=sopater-bio-6</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1682.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

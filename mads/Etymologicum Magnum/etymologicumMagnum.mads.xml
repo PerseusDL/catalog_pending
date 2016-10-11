@@ -1,0 +1,44 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Etymologicum Magnum</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Etymologicum magnum auctum</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Mega etymologiko</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ἐτυμολογικὸν Μέγα</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">
+    Etymologicum magnum genuinum. Etymologicum magnum genuinum. Symeonis etymologicum, c1976-[1992]: v. 1, t.p. (Etymologicum magnum auctum) p. xvii, etc. (Latin: sometimes Etymologicum magnum, but later Etymologicum magnum auctum, to distinguish it from similar titles; dates from 15th cent.; Greek: Mega etymologiko)
+  </mads:note>
+  <mads:identifier type="lccn">n00-39867</mads:identifier>
+  <mads:identifier type="tlg">4099</mads:identifier>
+  <mads:fieldOfActivity>Lexicographer</mads:fieldOfActivity>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Etymologicum_Magnum</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>
+      Converted from MARCXML to MADS version 2.0 (Revision 2.13)
+    </mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20001011103934.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n00039867</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

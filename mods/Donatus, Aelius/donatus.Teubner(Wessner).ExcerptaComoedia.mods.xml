@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Excerpta De Comoedia</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n82-32152.html">
+        <namePart>Donatus, Aelius.</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/no92-24872.html">
+        <namePart>Wessner, Paul</namePart>
+        <namePart type="date">1870-1933</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <identifier type="stoa author-text">stoa0110-stoa011</identifier>       
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>22</start>
+            <end>31</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/quodferturcommen01donauoft#page/22/mode/2up</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101059042620?urlappend=%3Bseq=78</url>
+    </location>   
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Quod fertur Commentum Terenti</title>
+            <subTitle>Accedunt Eugraphi Commentum Et Scholia Bembina</subTitle>
+            <partNumber>Volumen I</partNumber>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n82-32152.html">
+            <namePart>Donatus, Aelius.</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/no92-24872.html">
+            <namePart>Wessner, Paul</namePart>
+            <namePart type="date">1870-1933</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>B.G. Teubner</publisher>
+            <dateIssued>1902</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>L, 542 p.</extent>
+        </physicalDescription>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Terence</namePart>
+            </name>
+            <topic>Criticism and interpretation</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Comedy</topic>
+            <genre>Early works to 1800</genre>
+        </subject>
+        <classification authority="lcc">PA6104 .D7 1902</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.r.]</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">08036787</identifier>
+        <identifier type="oclc">39820729</identifier>
+        <identifier type="oca">quodferturcommen01donauoft</identifier>
+        <identifier type="stoa author-text">stoa0110-stoa009</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/39820729</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">
+                http://www.archive.org/details/quodferturcommen01donauoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://www.archive.org/stream/quodferturcommen01donauoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=jMJfAAAAMAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101059042620</url>
+        </location>
+    </relatedItem>   
+</mods>
