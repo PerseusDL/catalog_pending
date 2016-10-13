@@ -1,0 +1,82 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Makarios</mads:namePart>
+      <mads:namePart type="termsOfAddress">Metropolitan of Philadelphia</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Μακάριος</mads:namePart>
+      <mads:namePart type="termsOfAddress">Μητροπολίτης Φιλαδελφείας</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Macarius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Chrysocephalus</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Macario</mads:namePart>
+      <mads:namePart type="termsOfAddress">Metropolitan of Philadelphia</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Makarios</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Chrysokephalos</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Macario</mads:namePart>
+      <mads:namePart type="termsOfAddress">Crisocefalo</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Macarius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Chrysocephalus</mads:namePart>
+      <mads:namePart type="termsOfAddress">metropolita di Philadelfia in Lidia</mads:namePart>
+      <mads:namePart type="date">1300-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Makarios</mads:namePart>
+      <mads:namePart type="termsOfAddress">métropolite de Philadelphie</mads:namePart>
+      <mads:namePart type="date">1330?-1382</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Passarelli, G. Macario Crisocefalo, 1300-1382, 1980: t.p. (Macario Crisocefalo, 1300-1382) p.
+    9 (Metropolita di Filadelfia della Lidia)</mads:note>
+  <mads:note type="source">Papyros-Larous. (Makarios, Mētropolitēs Philadelpheias, ho epikaloumenos Chrysokephalos)</mads:note>
+  <mads:note type="source">Ēthikē kai thrēskeutikē enkykl. (Makarios, Mētropolitēs Philadelphias, ho Chrysokephalos)</mads:note>
+  <mads:note type="notFound">Encycl. Brit</mads:note>
+  <mads:identifier type="lccn">n  83307133</mads:identifier>
+  <mads:identifier type="tlg">9008</mads:identifier>
+  <mads:fieldOfActivity>Metropolitan</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/8773643</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-n83307133/</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20081121060931.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n83307133</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

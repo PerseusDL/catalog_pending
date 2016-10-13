@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Paroemiographi Graeci</title>   
+        <partNumber>Volume 1</partNumber>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Corpus paroemiographorum graecorum</title>
+        <partNumber>Tomus I</partNumber>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+        <namePart>von Leutsch, Ernst</namePart>
+        <namePart type="date">1808-1887</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+        <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+        <namePart type="date">1810-1856</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Gottingae</placeTerm>
+        </place>
+        <publisher>Apud Vandenhoeck et Ruprecht</publisher>
+        <dateIssued>1839</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xlii, 541 p.; 23 cm</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">ediderunt E.L. a Leutsch et F.G. Schneidewin</note>
+    <identifier type="oclc">19767613</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/19767613</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epitome collectionum Lucilli Tarrhaei et Didymi</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/122363764">
+            <namePart>Zenobius</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0098.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>175</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=50</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Paroemiae</title>
+            <subTitle>(epitome operis sub nomine Diogeniani) (e cod. Mazarinco)</subTitle>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/61254702">
+            <namePart>Diogenianus</namePart>
+            <namePart type="termsOfAddress">of Heraclea</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0097.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>177</start>
+                <end>320</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=226</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Παροιμίαι αἷς Ἀλεξανδρεῖς ἐχρῶντο</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268955446">
+            <namePart>Plutarch</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0007.146</identifier>
+        <part>
+            <extent unit="pages">
+                <start>321</start>
+                <end>342</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=370</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ἑκλογὴ περὶ τῶν ἀδυνάτων</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/268955446">
+            <namePart>Plutarch</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0007.147</identifier>
+        <part>
+            <extent unit="pages">
+                <start>343</start>
+                <end>348</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=392</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Paroemiae</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/24611065">
+            <namePart>Gregory II</namePart>
+            <namePart type="termsOfAddress">of Cyprus</namePart>
+            <namePart type="termsOfAddress">Patriarch of Constantinople</namePart>
+            <namePart type="date">1241-1290</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">9006.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>349</start>
+                <end>378</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=398</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Appendix Proverbiorum</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate">
+            <namePart>Appendix Proverbiorum</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>        
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/62313685">
+            <namePart>von Leutsch, Ernst</namePart>
+            <namePart type="date">1808-1887</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/37677603">
+            <namePart>Schneidewin, Friedrich Wilhelm</namePart>
+            <namePart type="date">1810-1856</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">9007.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>379</start>
+                <end>467</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/umn.31951002033432z?urlappend=%3Bseq=428</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

@@ -1,0 +1,61 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Diogenianus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Heraclea</mads:namePart>
+      </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Διογενειανός</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Diogenianos</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Heraclea</mads:namePart>
+      </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Diogenianus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Heracleota</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Diogenianus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Heraclea</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Paroimiai Hellēnikai, 1612: t.p. (... Diogeniano)</mads:note>
+  <mads:note type="source">Oxford classical dict., 2003 (Diogenianus, of Heraclea, of the age of Hadrian)</mads:note>
+  <mads:note type="source">LC database, 3 May 2004 (hdg.: Diogenianus, von Heraclea)</mads:note>
+  <mads:note type="source">LCCS: PA3965.D74 (Diogenianus Heracleota, lexicographer, 2d cent. C.E.)</mads:note>
+  <mads:note type="source">Der kleine Pauly (Diogenianos, aus Herakleia)</mads:note>
+  <mads:note type="source">Dict. of Greek and Roman biog. and myth. (Diogenianus, of Heracleia, grammarian in the reign of Hadrian)</mads:note>
+  <mads:identifier type="lccn">no2004042212</mads:identifier>
+  <mads:identifier type="tlg">0097</mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/61254702</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Diogenianus</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-no2004042212/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0097.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130321105742.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2004042212</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

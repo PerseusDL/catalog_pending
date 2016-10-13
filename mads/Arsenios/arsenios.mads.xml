@@ -1,0 +1,91 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Arsenios</mads:namePart>
+      <mads:namePart type="termsOfAddress">Archbishop of Monemvasia</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ἀρσένιος Ἀποστόλης</mads:namePart>
+      <mads:namePart type="date">c. 1468–1538</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Arsenios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolius, Aristobulus</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolios, Aristoboulos</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Aristoboulos</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Arsenius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Archbishop of Monemvasia</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolides, Aristobulus</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolis, Arsenius</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolios, Aristobolus</mads:namePart>
+      <mads:namePart type="date">1465-1535</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Prodromus, T. Hypothesis tēs Galeōmyomachias, between 1495 and 1498: p. 1 (Aristoboulos Apostolios)</mads:note>
+  <mads:note type="source">BLC (Arsenios, Archbishop of Malvasia; has cross-ref. from Aristoboulos, afterwards Arsenios, Archbishop of Monembasia or Malvasia)</mads:note>
+  <mads:note type="source">BM 15th cent.: v. 5, p. 553 (Aristobulus Apostolius)</mads:note>
+  <mads:note type="source">NUC pre-56 (hdg.: Arsenios, abp. of Monembasia, 1465-1535; usage: Arsenio archiepiscopo Monembasiae)</mads:note>
+  <mads:note type="source">Psellus, Michael. Introductio in philosophiae modos, 1541: leaf 1 (Arsenius Monembasiae Archiepiscopus)</mads:note>
+  <mads:note type="source">Bodleian Lib. 15th cent. T-089 (Apostolios, Aristobolus)</mads:note>
+  <mads:note type="source">The Aldine Press, 2001 no. 8 (Aristobulus Apostolides (Arsenius Apostolis))</mads:note>
+  <mads:note type="notFound">Catholic encyc</mads:note>
+  <mads:identifier type="lccn">no 89002198</mads:identifier>
+  <mads:identifier type="tlg">9018</mads:identifier>
+  <mads:fieldOfActivity>Archbishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/24636751</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Arsenius_Apostolius</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-no89002198/</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">CLU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20070707071307.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no89002198</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
