@@ -1,0 +1,73 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Gelasius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Cyzicus</mads:namePart>
+      <mads:namePart type="date">active 475</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Γελάσιος</mads:namePart>
+      <mads:namePart type="termsOfAddress">Γελάσιος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Anonymus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Cyzicus</mads:namePart>
+      <mads:namePart type="date">active 475</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Gélase</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Cyzique</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Gelasius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Cyzicenus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Gelasio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Cízico </mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Gelasius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Cyzicenus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Anonyme Kirchengeschichte, 2002: t.p. (Gelasius Cyzicenus) p. v (this fifth-century church history, 
+    which bears the Greek title Syntagma, was attributed for centuries to a certain Gelasius of Cyzicus) p. ix (in the extant manuscripts,
+    the author never refers to himself by name; the name Gelasius was mistakenly assigned to the author by the philologist François Pithou
+    when he edited the first printed edition in 1599)</mads:note>
+  <mads:note type="Brill's New Pauly">"Gelasius, of Cyzicus Anonymous church historian, A work handed down in the MSS as anonymous and usually under the title of σύνταγμα τῶν κατὰ τὴν ἐν Νικαίᾳ ἁγίαν
+    σύνοδον πραχθέντων (‘summary of the events at the holy synod in Nicaea’) about the Church history of the east under Constantinus...."
+    Markschies, Christoph (Berlin). “Gelasius”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 18 October 2016 </mads:note>
+  <mads:note type="source">OCLC, 6-21-2002 (hdg.: Gelasius, of Cyzicus, fl. 475)</mads:note>
+  <mads:note type="source">Historia ecclesiastica, 2008: t.p. (Anonymus von Cyzicus) p. 7 (the author, whose name is unknown, 
+    was mistakenly assigned the name Gelasius by the editor of the first printed edition of 1599)</mads:note>
+  <mads:identifier type="lccn">no2002054614</mads:identifier>
+  <mads:identifier type="tlg">2768</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/89139709</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Gelasius_of_Cyzicus</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">ICU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130319125208.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2002054614</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

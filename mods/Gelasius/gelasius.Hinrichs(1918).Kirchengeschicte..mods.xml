@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="uniform" lang="lat">
+        <title>Historia ecclesiastica</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="ger">
+        <title>Gelasius Kirchengeschichte</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authority="naf"
+        authorityURI="http://id.loc.gov/authorities/names/"
+        valueURI="http://id.loc.gov/authorities/names/no2002054614">
+        <namePart>Gelasius of Cyzicus</namePart>
+        <namePart type="date">active 475</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/10615927/">
+        <namePart>Loeschcke, Gerhard</namePart>
+        <namePart type="date">1880-1912</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/27453362">
+        <namePart>Heinemann, Margret</namePart>
+        <namePart type="date">1883-1968</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>J. C. Hinrichs</publisher>
+        <dateIssued>1918</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxxviii, 262 p. 25 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">hrsg. im Auftrage der Kirchenväter-Commission der Köngl.
+        Preussischen Akademie der Wissenschaften, auf Grund der nachgelassenen Papiere von Gerhard Loeschcke, durch Margret Heinemann.</note>
+    <subject authority="lcsh">
+        <topic>Church history</topic>
+        <temporal>Primitive and early church, ca. 30-600</temporal>
+    </subject>
+    <classification authority="lcc">BR60 .G7 Bd. 28</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Die griechischen christlichen Schriftsteller der ersten drei Jahrhunderte</title>
+            <partNumber>28</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">20023080</identifier>
+    <identifier type="oclc">1013775</identifier>
+    <identifier type="tlg">2768.001</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/781927375</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >https://archive.org/details/gelasiuskircheng28gelauoft</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">740918</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130514081123.0</recordChangeDate>
+        <recordIdentifier>9189796</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
