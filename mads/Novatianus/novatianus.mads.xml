@@ -1,0 +1,73 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Novatianus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="eng">
+    <mads:name type="personal">
+      <mads:namePart>Novatian</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Novatien</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Novaziano</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Novaciano</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="cat">
+    <mads:name type="personal">
+      <mads:namePart>Novacià</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Novatus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="nonpublic">Data provided by the ESTC/BL</mads:note>
+  <mads:note type="source">His Novatiani presbyteri Romani Opera quæ supersunt omnia, 1728</mads:note>
+  <mads:note type="source">Oxford classical dictionary, 1964: p.611 (Novatianus, Roman presbyter, anti-pope, founder of the Novatiani,
+    martyred under Valerian)</mads:note>
+  <mads:note type="source">NUC pre-56 (Novatianus)</mads:note>
+  <mads:note type="source">Gli spettacoli, c2001: t.p. (Novaziano)</mads:note>
+  <mads:note type="source">Wikipedia, 28 August 2015 (Novatian; ca. 200-258, scholar, priest, theologian, antipope, name also given Novatus,
+    opponent of Cyprian)</mads:note>
+  <mads:identifier type="lccn">nr 93028959 </mads:identifier>
+  <mads:identifier type="stoa">stoa0213c</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Antipope</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/262938015</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Novatian</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nr93028959/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0213c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0213c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0213c-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk/ESTC-NA</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20150828073841.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr93028959</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

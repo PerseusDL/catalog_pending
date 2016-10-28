@@ -1,0 +1,85 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Stephen</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">-257</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (254-257 : Stephen I)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Stephen</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">d. 257</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Stephanus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Romanus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Stephanus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Sanctus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name>
+      <mads:namePart>Esteban</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name>
+      <mads:namePart>Etienne</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pape</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name>
+      <mads:namePart>Estevo</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Vita, epistolæ et decreta, 1844</mads:note>
+  <mads:note type="source">Catholic Encyclopedia www site, 5 Oct. 2007: Pope St. Stephen I page 
+    (consecrated 12 May 254, d. 2 Aug. 257)</mads:note>
+  <mads:identifier type="lccn">nb2007022859</mads:identifier>
+  <mads:identifier type="stoa">stoa0267c</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Martyr</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/33986145</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Stephen_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nb2007022859/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0267c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0267c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0267c-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0267c-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0267c-stoa005</identifier>    
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130325075225.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nb2007022859</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

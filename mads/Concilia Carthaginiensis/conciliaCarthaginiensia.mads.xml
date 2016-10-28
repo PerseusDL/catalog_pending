@@ -1,0 +1,70 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="conference">
+      <mads:namePart>Concilia Carthaginiensia</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant>
+    <mads:name type="conference" authority="naf">
+      <mads:namePart>Council of Carthage (411)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="conference">
+      <mads:namePart>Collatio Carthaginiensis (411)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="conference">
+      <mads:namePart>Conférence de Carthage (411)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="conference">
+      <mads:namePart>Conference of Carthage (411)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="conference">
+      <mads:namePart>Conlatio Carthaginiensis (411)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Its Actes de la Conférence de Carthage en 411, 1972-</mads:note>
+  <mads:note type="source">LC manual cat. (hdg.: Carthage, Conference of, 411)</mads:note>
+  <mads:note type="source">New Catholic encyclopedia (Carthage, Councils of: they include one in 411, 
+    a confrontation of Donatist and Cathlic bishops on June 1, 3, 8)</mads:note>
+  <mads:note type="source">Encyc. Brit., 15th ed. Micropaedia (Carthage, Councils of, 4th-5th cent. A.D.)</mads:note>
+  <mads:note type="source">Die Donatisten in den Predigten Augustins, c2010: p. 258, etc. (Collatio Carthaginiensis von 411, the
+    event is more accurately characterized as a religious disputation rather than a council)</mads:note>
+  <mads:note type="source">CERL Thesaurus, via WWW, Feb. 7, 2012 (preferred form of name: Conlatio Carthaginiensis &lt;411&gt;, variant
+    forms of name: Collatio Carthaginiensis &lt;411&gt;, Conférence de Carthage &lt;411&gt;)</mads:note>
+  <mads:identifier type="lccn">n  94055507 </mads:identifier>
+  <mads:identifier type="stoa">stoa0356</mads:identifier>
+  <mads:fieldOfActivity>Church synod</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/143824413</mads:url>
+  <mads:url displayLabel="Wikipedia"
+    >https://en.wikipedia.org/wiki/Councils_of_Carthage#Conference_of_411</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0356-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa005</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa006</identifier>
+    <identifier type="stoa author-text">stoa0356-stoa007</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20120807090049.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n94055507</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

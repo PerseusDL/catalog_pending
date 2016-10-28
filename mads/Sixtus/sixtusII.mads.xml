@@ -1,0 +1,73 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Sixtus</mads:namePart>
+      <mads:namePart type="termsOfAddress">II, Pope</mads:namePart>
+      <mads:namePart type="date">-258</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (257-258 : Sixtus II)</mads:namePart>
+    </mads:name>
+  </mads:related>  
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Xystus</mads:namePart>
+      <mads:namePart type="termsOfAddress">II</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ξύστος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Xystus</mads:namePart>
+      <mads:namePart type="termsOfAddress">II</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Sitxus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Atheniensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name>
+      <mads:namePart>Sixte</mads:namePart>
+      <mads:namePart type="termsOfAddress">II</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Catholic Encyclopedia www site, 5 Oct. 2007: Pope St. Sixtus II page (elected 31 Aug.
+    257, martyred at Rome, 6 Aug. 258, Xystus)</mads:note>
+  <mads:identifier type="lccn">n  81086466</mads:identifier>
+  <mads:identifier type="stoa">stoa0263b</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Martyr</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/1336166</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Sixtus_II</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-n81086466/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0263b-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0263b-stoa002</identifier>
+  </mads:extension>   
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314090540.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n81086466</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

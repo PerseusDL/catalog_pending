@@ -1,0 +1,81 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Miltiades</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pope</mads:namePart>
+      <mads:namePart type="date">-314</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (311-314 : Miltiades)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="rus">
+    <mads:name>
+      <mads:namePart>Милтидад‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Melchiades</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Miltiades</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Melkiades</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Melquíades‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Miltiadész‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ο Άγιος Μιλτιάδης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Cronologia Costantiniana e dei papi S. Eusebio e S. Milziade, 1910</mads:note>
+  <mads:note type="source">Wikipedia www site, 3 Oct. 2007: List of Popes page (Miltiades; Melchiades; elected pope 2 July 311, died 11 Jan. 314)</mads:note>
+  <mads:note type="source">Catholic Encyclopedia www site, 3 Oct. 2007: Pope St. Miltiades page (elected pope in either 310 or 311, died 10 or 11 January 314)</mads:note>
+  <mads:identifier type="lccn">nb2007022573</mads:identifier>
+  <mads:identifier type="stoa">stoa0201d</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/8182724</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Miltiades</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nb2007022573/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0201d-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0201d-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0201d-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0201d-stoa004</identifier>    
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130325075038.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nb2007022573</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
