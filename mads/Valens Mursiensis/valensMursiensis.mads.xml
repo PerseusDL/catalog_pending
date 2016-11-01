@@ -1,0 +1,73 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Valens Mursiensis</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ursacius et Valens</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valens</mads:namePart>
+      <mads:namePart type="termsOfAddress">Arianus</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valens</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bischof</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valens</mads:namePart>
+      <mads:namePart type="termsOfAddress">Episcopus</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valens</mads:namePart>
+      <mads:namePart type="termsOfAddress">Mursae Episcopus</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Valens</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Mursa</mads:namePart>
+      <mads:namePart type="date">430</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Valens, Bishop of Mursa, 4th cent., Bishop of Mursa (modern Osijek, Croatia), spoke against Athanasius 
+    at the First Synod of Tyre in 335, and accompanied Constantine (Constantinus [1]) to Constantinople in early 336. With Ursacius of Singidunum
+    (modern Belgrade), he was an important supporter of the Arian movement....."  Letsch-Brunner, Silvia (Zürich), “Valens”, in: Brill’s New Pauly,
+    Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 01 November 2016</mads:note>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:identifier type="stoa">stoa0284a</mads:identifier>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/44693035</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0284a-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

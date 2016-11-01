@@ -1,0 +1,89 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Marcellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Ankara, Bishop of Ankara</mads:namePart>
+      <mads:namePart type="date">approximately 280-approximately 374</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="equivalent">
+    <mads:name type="personal">
+      <mads:namePart>Marcellus Ancyranus</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:related type="equivalent">
+    <mads:name type="personal">
+      <mads:namePart>Marcellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Ancyranus</mads:namePart>
+      <mads:namePart type="date">ca285-ca374</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Marcellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Ancyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Markell</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Ankyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Marcel</mads:namePart>
+      <mads:namePart type="termsOfAddress">d'Ancyre</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Marcellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Episcopus</mads:namePart>
+      <mads:namePart type="date">280-374</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Marcelo</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Ancira</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Marcellus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Ancyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Marcellus, Bishop of Ancyra (died) AD 374,..."</mads:note>
+  <mads:note type="source">Zahn, T. Marcellus von Ancyra [MI] 1867</mads:note>
+  <mads:note type="source">OCLC database, 11/3/92 (hdg.: Marcellus, Bp. of Ancyra)</mads:note>
+  <mads:note type="source">Enc. Brit., 15th (Marcellus of Ancyra; c. 280-c. 374)</mads:note>
+  <mads:note type="source">PS. Justin (Markell von Ankyra?) ... 1994</mads:note>
+  <mads:note type="source">BL auth. file, 1 June 2007 (hdg.: Marcellus, Bishop of Ancyra, 4th cent)</mads:note>
+  <mads:identifier type="lccn">no 92027771</mads:identifier>
+  <mads:identifier type="tlg">2041</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/37711435</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Marcellus_of_Ancyra</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-no92027771/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2041.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">ATLA</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313075420.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no92027771</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

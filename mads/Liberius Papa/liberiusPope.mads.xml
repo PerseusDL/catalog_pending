@@ -1,0 +1,53 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Liberius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pope</mads:namePart>
+      <mads:namePart type="date">-366</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (352-366 : Liberius)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Liberius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Papa</mads:namePart>
+      <mads:namePart type="date">d. 366</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">The condemnation of Pope Honorius, 1868: p. 41 (Pope Liberius)</mads:note>
+  <mads:note type="source">New Cath. encyc. (Liberius, Pope, pontificate, May 17, 352, to Sept. 24, 366)</mads:note>
+  <mads:note type="source">Brill's New Pauly: "Liberius, Roman pope 352-366. L.'s pontificate was burdened by the difficult dispute over Arianism...."</mads:note>
+  <mads:identifier type="lccn">no 95025028</mads:identifier>
+  <mads:identifier type="stoa">stoa0173c</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/58662922</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Liberius</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-no95025028/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0173c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa005</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa006</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa007</identifier>
+    <identifier type="stoa author-text">stoa0173c-stoa008</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130307105732.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no95025028</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

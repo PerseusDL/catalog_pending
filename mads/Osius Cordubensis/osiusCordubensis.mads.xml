@@ -1,0 +1,80 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="viaf">
+      <mads:namePart>Osius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Cordubensis</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Hosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Cordubensis</mads:namePart>
+      <mads:namePart type="date">approximately 256-approximately 358</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Hosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Córdoba</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Hozius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Córdoba</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ossius</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Cordoba</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ossius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Cordova</mads:namePart>
+      <mads:namePart type="date">approximately 256-approximately 358</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Osio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Córdoba</mads:namePart>
+      <mads:namePart type="date">256-357</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">
+    LCCN a 54004942: De Clercq, V.C. Ossius of Cordova, 1954 (hdg.: Hosius, Bp. of Cordoba, 256?-357?)
+  </mads:note>
+  <mads:note type="source">
+    New Cath. encyc. (Hosius of Córdoba, bishop, ecclesiastical counselor of Contantine I, b. probably Córdoba, ca. 256, d. Córdoba, ca. 256,
+    Ossius became bishop of Córdoba, ca. 295)
+  </mads:note>
+  <mads:identifier type="lccn">n 2005003867</mads:identifier>
+  <mads:identifier type="stoa">stoa0215d</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/280092172</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Hosius_of_Corduba</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/viaf-280092172/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0215d-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0215d-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20151009073614.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2015134809</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

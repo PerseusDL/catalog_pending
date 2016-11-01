@@ -1,0 +1,70 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Julius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">-352</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (337-352 : Julius I)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Julius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Iulius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Papa</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Iulius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Romanus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">La vie de St. Athanase, 1672: t.p. (Pape Jules)</mads:note>
+  <mads:note type="source">RLIN, Mar. 4, 2003 (hdgs.: Julius I, Saint, Pope, d. 352, Julius I, Pope, 337-352)</mads:note>
+  <mads:note type="source">LC database, May 29, 2012 (hdg.: Julius I, Saint, Pope, d. 352)</mads:note>
+  <mads:identifier type="lccn">nr2003008595</mads:identifier>
+  <mads:identifier type="stoa">stoa0166c</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/67271093</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Julius_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-nr2003008595/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0166c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa005</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa006</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa007</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa008</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa009</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa010</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa011</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa012</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa013</identifier>
+    <identifier type="stoa author-text">stoa0166c-stoa014</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NIC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130521073915.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr2003008595</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

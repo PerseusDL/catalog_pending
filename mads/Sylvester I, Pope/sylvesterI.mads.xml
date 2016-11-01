@@ -1,0 +1,64 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Sylvester</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">-335</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (314-335 : Sylvester I)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Silvester</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+      <mads:namePart type="date">-335</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Silvestro</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+      <mads:namePart type="date">-335</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sylvester</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">d. 335</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Epp, S. Konstantinszyklen in Rom, 1988: p. 4 (Papst Silvester)</mads:note>
+  <mads:note type="source">Kelly, J.N.D. Oxf. dict. of popes, 1986 (Silvester I, St, was pope 1/31/314-12/31/335)</mads:note>
+  <mads:note type="source">New Cath. enc. (Sylvester I, Pope, St., buried 12/31/335)</mads:note>
+  <mads:note type="source">Farmer, D.H. Oxf. dict. of saints, 1978 (Sylvester (Silvester), d. 335, pope)</mads:note>
+  <mads:note type="source">Come Costantin chiese Silvestro d'entro Siratti, c2006: p. 8 (Papa Silvestro I)</mads:note>
+  <mads:identifier type="lccn">nr 90017026</mads:identifier>
+  <mads:identifier type="stoa">stoa0263c</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/85181438</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Sylvester_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-nr90017026/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0263c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0263c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0263c-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NjP</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314112337.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr90017026</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
