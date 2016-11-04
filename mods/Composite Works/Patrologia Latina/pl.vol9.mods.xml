@@ -3,9 +3,9 @@
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
     version="3.5">
     <titleInfo>
-        <title>Patrologiae cursus completus, Tomus VIX</title>
-        <subTitle>sive biblioteca universalis, integra, uniformis, commoda, oeconomica, omnium SS. Patrum, doctorum scriptorumque eccelesiasticorum qui ab aevo apostolico ad usque Innocentii III tempora floruerunt ... [Series Latina, in qua prodeunt Patres, doctores scriptoresque Ecclesiae Latinae, a Tertulliano ad Innocentium III]</subTitle>
-    </titleInfo>
+        <title>Sancti Hilarii pictaviensis episcopi Opera omnia</title>
+           <partNumber>Tomus I</partNumber>
+      </titleInfo>
     <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/64009375">
         <namePart>Migne, Jacques Paul</namePart>
         <namePart type="date">1800-1875</namePart>
@@ -43,6 +43,13 @@
     <location>
         <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044069618759</url>
     </location>
+        <relatedItem type="series">
+        <titleInfo>
+            <title>Patrologiae cursus completus</title>
+            <subTitle>Series Prima [Latina]</subTitle>
+            <partNumber>Tomus IX</partNumber>
+        </titleInfo>
+</relatedItem>
     <!-- 
     <relatedItem type="constituent">
         <titleInfo>
