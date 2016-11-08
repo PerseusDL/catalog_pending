@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.5">
+    <titleInfo type="uniform">
+        <title>Institutio Logica</title>
+    </titleInfo>
+    <titleInfo type="alternative" transliteration="rom">
+        <title>Eisagōgē dialektikē</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authority="viaf" authorityURI="http://viaf.org/viaf/"  valueURI="http://viaf.org/viaf/44299175/"> 
+        <namePart>Galen</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/190137827">
+        <namePart>Kalbfleisch, Karl</namePart>
+        <namePart type="date">1868-1921</namePart>
+        <role>
+            <roleTerm  authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1896</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>x, [4], [3]-75 p. 18 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note>Romanized.</note>
+    <subject authority="lcsh">
+        <topic>Logic</topic>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">PA3404.G2 I6 1896</classification>
+    <identifier type="tlg">0057.081</identifier>
+    <identifier type="lccn">34018584</identifier>
+    <identifier type="oclc">9504824</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9504824</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=s3MIAAAAIAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/wu.89097872832</url>
+    </location>
+    <location>
+        <url displayLabel="1st 1K">https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0057/tlg081/tlg0057.tlg081.1st1K-grc1.xml</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">831028</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20121204115313.0</recordChangeDate>
+        <recordIdentifier>6887966</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

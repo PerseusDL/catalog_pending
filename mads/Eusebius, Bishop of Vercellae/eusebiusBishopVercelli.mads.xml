@@ -1,0 +1,57 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Eusebius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Vercelli</mads:namePart>
+      <mads:namePart type="date">approximately 283-371</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Eusebio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Vercelli</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Eusèbe</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Verceil</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Eusebius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Vercellensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Eusebio di Vercelli e il suo tempo, c1997: p. 129 (d. 371)</mads:note>
+  <mads:note type="source">Encyc. Brit., c1989 (Eusebius of Vercelli, Saint, became first bp. of Vercelli, 345, b. early 4th cent. in Sardinia,
+    d. Aug. 1, 370/371)</mads:note>
+  <mads:note type="source">Cath. encyc. WWW version, Apr. 19, 2000 (St. Eusebius, b. Sardinia, ca. 283, d. Vercelli, Aug. 1, 371)</mads:note>
+  <mads:identifier type="lccn">n  87143170</mads:identifier>
+  <mads:identifier type="stoa">stoa0120f</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/79254701</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Eusebius_of_Vercelli</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-n87143170/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0120f-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0120f-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314160823.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n87143170</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
