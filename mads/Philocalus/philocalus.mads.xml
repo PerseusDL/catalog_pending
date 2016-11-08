@@ -1,0 +1,56 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Philocalus, Furius Dionysius</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Filocalus, Furius Dionysius</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Furius Dionysius Filocalus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Philocalus, Furius Dionysius</mads:namePart>
+      <mads:namePart type="date">4th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Der Kalender des Filocalus, oder der Chronograph vom Jahre 354, 1970?: p. 3 (Furius Dionysius Filocalus,
+    calligrapher in 4th cent. Rome)</mads:note>
+  <mads:note type="source">OCLC, Sept. 14, 1999 (hdg.: Philocalus, Furius Dionysius, 4th cent., usage: Furii Dionysii Philocali)</mads:note>
+  <mads:note type="source">Who was who in the Roman world, 1980: p. 91 (Filocalus,
+    Furius Dionysius Filocalus, mid-late 4th cent. A.D., scribe and engraver best known for his calendar of 354)</mads:note>
+  <mads:note type="source">Paulys Realencyclopädie der classischen Altertumswissenschaft, 1894-1963 (Philocalus, Furius Dionysius Filocalus)</mads:note>
+  <mads:note type="notFound">Encyc. Brit</mads:note>
+  <mads:identifier type="lccn">nr 99028993</mads:identifier>
+  <mads:identifier type="stoa">stoa0128e</mads:identifier>
+  <mads:fieldOfActivity>Scribe</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/59443320</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nr99028993/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0128e-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">CSt</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130319064659.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr99028993</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

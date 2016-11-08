@@ -1,0 +1,55 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Theodosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Emperor of Rome</mads:namePart>
+      <mads:namePart type="date">347-395</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Theodosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Great</mads:namePart>
+      <mads:namePart type="date">347-395</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Flavius Theodosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Emperor of Rome</mads:namePart>
+      <mads:namePart type="date">347-395</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Theodosius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, the Great, Emperor of Rome</mads:namePart>
+      <mads:namePart type="date">346?-395</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Encyc. Brit. (Theodosius I the Great, b. 1/11/347, d. 1/17/395)</mads:note>
+  <mads:note type="source">Collier's Encyc., index (Theodosius I, Roman emperor)</mads:note>
+  <mads:note type="source">Encyc. Amer. (Theodosius I (347-395), called the Great)</mads:note>
+  <mads:note type="source">Oxford class. dict. (Theodosius I, the Great, b. ca. 346, d. 1/17/395)</mads:note>
+  <mads:note type="source">Websters biog. dict. (Theodosius I, in full Flavius Theodosius, called the Great; 346?-395)</mads:note>
+  <mads:identifier type="lccn">n  83045220</mads:identifier>
+  <mads:identifier type="stoa">stoa0278b</mads:identifier>
+  <mads:fieldOfActivity>Emperor</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/31978444</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Theodosius_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-n83045220/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0278b-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20081219072041.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n83045220</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

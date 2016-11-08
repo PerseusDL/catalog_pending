@@ -1,0 +1,51 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Victorius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Aquitanus</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Victorius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Aquitanus</mads:namePart>
+      <mads:namePart type="date">5th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Victorius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Aquitaine</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Victorin</mads:namePart>
+      <mads:namePart type="termsOfAddress">d'Aquitaine</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Studien zur christlich mittelalterlichen chronologie, 1938: t.p. (Victorius)</mads:note>
+  <mads:note type="source">LC database, 7 Oct. 2003 (hdg.:Victorius, Aquitanus 5th cent.)</mads:note>
+  <mads:note type="source">Abbo of Fleury and Ramsey, commentary on the calculus of Victorius of Aquitaine, 2003</mads:note>
+  <mads:identifier type="lccn">nb2003097958</mads:identifier>
+  <mads:identifier type="stoa">stoa0292c</mads:identifier>
+  <mads:fieldOfActivity>Mathematician</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/282639091</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Victorius_of_Aquitaine</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0292c-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130321090546.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nb2003097958</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

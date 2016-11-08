@@ -1,0 +1,70 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Vigilius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Trent</mads:namePart>
+      <mads:namePart type="date">-405</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Vigilius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Tridentinus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Vigilius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Sanctus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Vigile</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Trente</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Vigilio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Trento</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Vigilio</mads:namePart>
+      <mads:namePart type="termsOfAddress">Santo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Vigilius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Trent</mads:namePart>
+      <mads:namePart type="date">d. 405</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">L'imagine di San Vigilio, 2000</mads:note>
+  <mads:note type="source">Biog. Dict. of the saints, 1924: p. 1020 (Vigilius, Bp. of Trent, d. June 26, 405)</mads:note>
+  <mads:note type="source">Catholic encyclopedia, 1912 v. 15 p. 426 (Vigilius, Saint, Bishop of Trent, d. June 26, 405)</mads:note>
+  <mads:identifier type="lccn">nr2001013071</mads:identifier>
+  <mads:identifier type="stoa">stoa0293e</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/155570460</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Vigilius_of_Trent</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/viaf-155570460/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0293e-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NNFr</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130319091758.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr2001013071</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

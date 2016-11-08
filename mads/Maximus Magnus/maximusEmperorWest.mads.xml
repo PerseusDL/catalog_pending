@@ -1,0 +1,66 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Maximus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Emperor of the West</mads:namePart>
+      <mads:namePart type="date">-388</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Flavius Magnus Maximus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Emperor of the West</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Magnus Maximus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Emperor of the West</mads:namePart>
+      <mads:namePart type="date">-388</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Maximus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Emperor of the West</mads:namePart>
+      <mads:namePart type="date">d. 388</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Maximus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Magnus</mads:namePart>
+      <mads:namePart type="date">-388</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Magnus Maximus and the persecution of heresy, 1983</mads:note>
+  <mads:note type="source">Born for the good of the state, 2010: t.p. (Emperor Flavius Magnus Maximus) back cover (Magnus Maximus, 
+    proclaimed Roman emperor in Britain in 383, died 388)</mads:note>
+  <mads:note type="source">Oxford DNB Online, 5 July 2011 (Magnus Maximus (d. 388), Roman emperor in Britain and the western empire)</mads:note>
+  <mads:note type="source">BL auth. file, 5 July 2011 (hdg.: Maximus, Emperor of the West, d. 388)</mads:note>
+  <mads:identifier type="lccn">nb2011017452</mads:identifier>
+  <mads:identifier type="stoa">stoa0196d</mads:identifier>
+  <mads:fieldOfActivity>Emperor</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/232377471</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Magnus_Maximus</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nb2011017452/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0196d-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130327174806.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nb2011017452</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

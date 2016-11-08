@@ -1,0 +1,78 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Pacian</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Barcelona</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pacian</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pacianus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pacien</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Barcelone</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paciano</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Barcelona</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pacià</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Barcelona</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:note type="source">Brill's New Pauly: "Pacianus, After AD 343, bishop of Barcinona (modern Barcelona),
+    died before 393; of his life practically nothing is known. Three letters from him to the Novatian Sympronianus survive,
+    in which he opposes Novatianism (Novatianus) (CPL 561), also a pamphlet Paraenesis sive Exhortatorius Libellus ad Paenitentiam 
+    (Exhortation to Penitence, CPL 562) and a Sermo de Baptismo (Sermon on Baptism, CPL 563)...."
+    Markschies, Christoph (Berlin), “Pacianus”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 08 November 2016
+  </mads:note>
+  <mads:note type="source">Ecrits, 1995: t.p. (Pacien de Barcelone) p. 13 (Paciano de Barcelona, Pacià de Barcelona) p. 25 
+    (Bishop of Barcelona, d. between 379 and 393; it is impossible to be more precise)</mads:note>
+  <mads:note type="source">RLIN, 2/13/96 (hdg.: Pacianus, Saint, Bishop of Barcelona, 4th cent.)</mads:note>
+  <mads:note type="source">LC manual cat. (hdg.: Pacianus, Saint, Bp. of Barcelona, 4th cent.)</mads:note>
+  <mads:note type="source">Delaney, J.J. Dict. of Cath. biog., 1961 (Pacian, St., d. 390? Bishop of Barcelona)</mads:note>
+  <mads:note type="source">Oxford dict. of the Christian church, 1958 (Pacian, St., 4th cent., Bp. of Barcelona)</mads:note>
+  <mads:note type="source">New Cath. encyc. (Pacian of Barcelona, St., bishop, b. ca. 310, d. before 392)</mads:note>
+  <mads:identifier type="lccn">nr 96006015 </mads:identifier>
+  <mads:identifier type="stoa">stoa0217c</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/190303599</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pacian</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-nr96006015/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0217c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0217c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0217c-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130205073809.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr96006015</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

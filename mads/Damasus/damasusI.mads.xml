@@ -1,0 +1,93 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Damasus</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">305-384</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (366-384 : Damasus I)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Damase</mads:namePart>
+      <mads:namePart type="termsOfAddress">I,</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Dámaso</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Damasus</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Saint, Pope</mads:namePart>
+      <mads:namePart type="date">305-384</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name>
+      <mads:namePart>Damas</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name>
+      <mads:namePart>Damasas</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name>
+      <mads:namePart>Damaso</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name>
+      <mads:namePart>Damaz</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Convegno internazionale per il XVI centenario della morte di papa Damaso I (1984 : Pontificio Istituto di 
+    archeologia cristiana). Saecularia Damasiana, 1986: t.p. (d. 12/11/384) p. 115 (Damase)</mads:note>
+  <mads:note type="source">LC manual auth. cd. (hdg.: Damasus I, Saint, Pope, 305-384)</mads:note>
+  <mads:note type="source">Catholic Encyclopedia www site, 1 Oct. 2007: Pope St. Damasus I page (elected pope in Oct. 366)</mads:note>
+  <mads:identifier type="lccn">n  85257304</mads:identifier>
+  <mads:identifier type="stoa">stoa0105</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/267405622</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Damasus_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-n85257304/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0105-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa003</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa004</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa005</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa006</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa007</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa008</identifier>
+    <identifier type="stoa author-text">stoa0105-stoa009</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130311114121.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n85257304</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
