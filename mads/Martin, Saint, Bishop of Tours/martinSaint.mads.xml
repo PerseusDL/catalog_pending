@@ -1,0 +1,100 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Martin</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Tours</mads:namePart>
+      <mads:namePart type="date">approximately 316-397</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Martin</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Tours, Saint</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Martinus Episcopus Turonensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Martinus Turonensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Maarten</mads:namePart>
+      <mads:namePart type="termsOfAddress">Sint</mads:namePart>
+      <mads:namePart type="date">314/316-397</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name type="personal">
+      <mads:namePart>Martin</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Tours</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name type="personal">
+      <mads:namePart>Marcin</mads:namePart>
+      <mads:namePart type="termsOfAddress">z Tours</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Martin</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Tours</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Meerten</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Tours</mads:namePart>
+      <mads:namePart type="date">approximately 316-397</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Martin Tourský</mads:namePart>
+      <mads:namePart type="termsOfAddress">svatý</mads:namePart>
+      <mads:namePart type="date">asi 315-397</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Martino</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Tours</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Botana, H. I. San Martín de Tours, el amigo de Dios y pat. de Buenos Aires, 1980: t.p. (San Martín de Tours)
+    p. 140 (b. in Hungary in 317) p. 147 (d. 397)</mads:note>
+  <mads:note type="source">New Catholic encyc., c1967: v. 9, p. 303 (Martin of Tours, St., bp. of Tours, b. in Hungary, ca. 316, d. 397)</mads:note>
+  <mads:note type="source">Encyc. Brit., c1977: v. 6, p. 653 (Martin, Saint, b. ca. 316, d. in France, 397)</mads:note>
+  <mads:identifier type="lccn">n  50080635</mads:identifier>
+  <mads:identifier type="stoa">stoa0193b</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/73825464</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Martin_of_Tours</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/viaf-73825464/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0193b-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0193b-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130307122540.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n50080635</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

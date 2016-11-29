@@ -1,0 +1,84 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Ticonius</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tichonius</mads:namePart>
+   </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tychonius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tyconius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ticônio‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tikonije‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tykoniusz‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tyconius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Afer</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Steinhauser, K.B. The Apocalypse commentary of Tyconius, c1987: CIP</mads:note>
+  <mads:note type="source">BLC (Tichonius, Afer)</mads:note>
+  <mads:note type="source">New Schaff-Herzog encyclopedia of religious knowledge, 1911 (Tichonius (Tychonius))</mads:note>
+  <mads:note type="source">Catholic Encyclopedia, 1912 (Ticonius (also Tyconius, Tychonius))</mads:note>
+  <mads:note type="source">Encyclopedic dictionary of religion, c1979 (Tyconius)</mads:note>
+  <mads:note type="source">Commentarius in Apocalypsin, 2011: t.p. (Tyconii Afri Expositio Apocalypseos)</mads:note>
+  <mads:note type="source">Brill's New Pauly: "Tyconius, c. AD 330-390 in Africa (Gennadius Vir. ill. 18). His Latin Liber Regularum ('Book of Rules') from c. 383, which surviving almost complete, represents the first extant Christian hermeneutics..."
+    Pollmann, Karla (St. Andrews), “Tyconius”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 29 November 2016</mads:note>
+  <mads:identifier type="lccn">n 86101433</mads:identifier>
+  <mads:identifier type="stoa">stoa0281a</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/166435340</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Ticonius</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-n86101433/</mads:url>
+  <mads:extension>
+    <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="stoa author-text">stoa0281a-stoa001</identifier>
+      <identifier type="stoa author-text">stoa0281a-stoa002</identifier>
+    </mads:extension>
+    <mads:gender>
+      <mads:genderTerm>male</mads:genderTerm>
+    </mads:gender>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130315110653.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n86101433</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
