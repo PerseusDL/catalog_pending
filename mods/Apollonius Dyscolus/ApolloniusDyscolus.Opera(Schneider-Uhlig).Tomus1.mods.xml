@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Apollonii Dyscoli quae svpersunt</title>
+        <partNumber>Volumen Primus, Fasc I</partNumber>
+    </titleInfo>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/72187489/">
+        <namePart>Apollonius</namePart>
+        <namePart type="termsOfAddress">Dyscolus</namePart>
+        <namePart type="date">active 2nd century</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/116371549/">
+        <namePart>Schneider, Richard</namePart>
+        <namePart type="date">1835-1917</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/59857244">
+        <namePart>Uhlig, Gustav</namePart>
+        <namePart type="date">1838-1914</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">index</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>B. G. Tevbner</publisher>
+        <dateIssued>1878</dateIssued>
+        <dateIssued point="start" encoding="marc">1878</dateIssued>
+        <dateIssued point="end" encoding="marc">1910</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">microfiche</form>
+        <extent>1 vol</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">recensvervnt, apparatvm criticvm, commentarivm, indices adiecervnt Richardvs Schneider et Gystavvs Vhlig</note>
+    <subject authority="lcsh">
+        <topic>Greek language</topic>
+        <topic>Grammar</topic>
+        <genre>Early works to 1500</genre>
+    </subject>
+    <tableOfContents>Apollonii Scripta Minora A Richardo Schneidero Edita Continens</tableOfContents>
+    <classification authority="lcc">PA3487 .G75 pt. 2</classification>
+    <identifier type="lccn">05021884</identifier>
+    <identifier type="oclc">490433963</identifier>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Grammatici Graeci</title>
+            <partNumber>Volume 2, Part I</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/490433963</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101054496045</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=dKoOAAAAQAAJ</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De pronominibus</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/72187489/">
+            <namePart>Apollonius</namePart>
+            <namePart type="termsOfAddress">Dyscolus</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/116371549/">
+            <namePart>Schneider, Richard</namePart>
+            <namePart type="date">1835-1917</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0082.001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>3</start>
+                <end>116</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101054496045?urlappend=%3Bseq=26</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0082/tlg001/tlg0082.tlg001.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De adverbiis</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/72187489/">
+            <namePart>Apollonius</namePart>
+            <namePart type="termsOfAddress">Dyscolus</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/116371549/">
+            <namePart>Schneider, Richard</namePart>
+            <namePart type="date">1835-1917</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0082.002</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>119</start>
+                <end>210</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101054496045?urlappend=%3Bseq=142</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0082/tlg002/tlg0082.tlg002.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Conjuctionibus</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/72187489/">
+            <namePart>Apollonius</namePart>
+            <namePart type="termsOfAddress">Dyscolus</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/116371549/">
+            <namePart>Schneider, Richard</namePart>
+            <namePart type="date">1835-1917</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0082.003</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>258</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >http://hdl.handle.net/2027/njp.32101054496045?urlappend=%3Bseq=236</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">810311</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130506120814.0</recordChangeDate>
+        <recordIdentifier>6799261</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

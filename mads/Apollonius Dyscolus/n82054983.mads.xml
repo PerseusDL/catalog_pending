@@ -1,0 +1,116 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Apollonius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Dyscolus</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Alexandreus, Apollōnios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc"> 
+    <mads:name type="personal">
+      <mads:namePart>Ἀπολλώνιος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Δύσκολος‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollōnios</mads:namePart>
+      <mads:namePart type="termsOfAddress">Alexandreus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonios</mads:namePart>
+      <mads:namePart type="termsOfAddress">Alexandrinus, Dyscolus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonios</mads:namePart>
+      <mads:namePart type="termsOfAddress">Dyskolos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollōnios</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Dyskolos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Alexandrinus</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Apollonius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Dyscole</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonius Dyscolus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Apolonio</mads:namePart>
+      <mads:namePart type="termsOfAddress">Díscolo‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Apolonio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Alejandria</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Grammaticus</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apollonius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Alexandria</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Dyscole, Apollonius</mads:namePart>
+      <mads:namePart type="date">active 2nd century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+<mads:identifier type="tlg">0082</mads:identifier>
+  <mads:note type="nonpublic">Non-Latin script reference not evaluated</mads:note>
+  <mads:note type="source">Encyc. Brit., c1977 (Apollonius, generally surnamed Dyscolus, 2nd cent. Greek grammarian)</mads:note>
+  <mads:note type="source">Encyc. Amer., c1975 (Apollonius of Alexandria, nicknamed Dyscolus)</mads:note>
+  <mads:note type="source">Kleine Pauly, 1964 (Apollonios, mit Beinamen Dyskolos, 2nd cent. A.D.)</mads:note>
+  <mads:note type="source">Papyros-Larous. (Apollōnios ho Dyskolos)</mads:note>
+  <mads:identifier type="lccn">n  82054983 </mads:identifier>
+  <mads:identifier type="lccn" invalid="yes">n  82248466 </mads:identifier>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/72187489/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Apollonius_Dyscolus</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130315095733.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n82054983</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
