@@ -1,0 +1,67 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Paulinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Milan</mads:namePart>
+      <mads:namePart type="date">active 4th century-5th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Paulin</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Milan</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Paolino</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Milano</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Paulinus Mediolanensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paulinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Milan</mads:namePart>
+      <mads:namePart type="date">4th/5th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Paulinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Mailand</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His Das Leben des Heiligen Ambrosius, 1967: p. 5 (Paulinus von Mailand)</mads:note>
+  <mads:note type="source">Early Christian biographies, 1952: p. xi (Paulinus of Milan, biographer of St. Ambrose)</mads:note>
+  <mads:note type="source">Dict. de spiritualité, 1983 (Paulin de Milan, diacre, fin 4e-debut 5e siecle)</mads:note>
+  <mads:note type="source">LC in OCLC, 11/16/92 (hdg.: Paulinus Mediolanensis, usage: none given)</mads:note>
+  <mads:identifier type="lccn">no 92029194</mads:identifier>
+  <mads:identifier type="stoa">stoa0224a</mads:identifier>
+  <mads:fieldOfActivity>Deacon</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Biographer</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/89616757</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Paulinus_the_Deacon</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=paulinus-bio-10</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="author-text">stoa0224-stoa002</identifier>
+    <identifier type="author-text">stoa0224-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">IEG</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20160610075411.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no92029194</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

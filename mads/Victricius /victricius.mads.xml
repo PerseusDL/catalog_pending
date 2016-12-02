@@ -1,0 +1,73 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Victricius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">approximately 330-approximately 409</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Victrice</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Rouen</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Victricio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Rouen</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Victricius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Vittricio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Rouen</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Wiktrycjusz</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Victricius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Rotomagensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Victricii Rotomagensis De laude sanctorum, 1985</mads:note>
+  <mads:note type="source">New Cath. encyc. (Victricius of Rouen, St., bishop, b. ca. 330, d. before 409)</mads:note>
+  <mads:note type="source">Holweck (Victricius, Bp. of Rouen, ca. 330-ca. 409)</mads:note>
+  <mads:note type="source">NUC pre-56 (hdg.: Victricius, Saint, Bp. of Rouen, d. ca. 407,
+    ref.: Victrice, Saint, Bp. of Rouen)</mads:note>
+  <mads:identifier type="lccn">no 97007759</mads:identifier>
+  <mads:identifier type="stoa">stoa0292f</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/64014952/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Victricius</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-no97007759/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0292f-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130312120518.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no97007759</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

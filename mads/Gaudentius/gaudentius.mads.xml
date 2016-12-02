@@ -1,0 +1,66 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Gaudentius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint, Bishop of Brescia</mads:namePart>
+      <mads:namePart type="date">-410?</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Gaudence</mads:namePart>
+      <mads:namePart type="termsOfAddress"></mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Gaudenzio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Brescia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Gaudencio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Brescia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Gaudentius Brixiensis</mads:namePart>
+      <mads:namePart type="termsOfAddress">Episcopus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His I sermoni, c1996: t.p. (Gaudenzio di Brescia)</mads:note>
+  <mads:note type="source">RLIN, Mar. 4, 1998 (hdg.: Gaudentius, Saint, Bp. of Brescia, fl. 387-410; usage: Sancti Gaudentii Brixiae Episcopi
+    , San Gaudenzio di Brescia)</mads:note>
+  <mads:note type="source">Dict. of Cath. biogr. (Gaudentius, St., d. 410?, become bishop of Brescia in 387)</mads:note>
+  <mads:note type="source">Truzzi, C. Zeno, Gaudenzio e Cromazio, 1985: p. 9 (Gaudenzio di Brescia, bishop)</mads:note>
+  <mads:note type="source">GEV (Gaudenzio di Brescia, bishop of Brescia, d. ca. 410)</mads:note>
+  <mads:note type="source">Brill's New Pauly: "Gaudentius, In 386/7 bishop of Brixia (Brescia), who participated under Simplicianus at the 
+    Synod of Milan against Rufinus and Origen (397-401)....21 homilies by G. are preserved (CPL 215) of which he edited at least 15 based on shorthand notes.."
+    Uthemann, Karl-Heinz (Amsterdam).  “Gaudentius”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 02 December 2016</mads:note>
+  <mads:identifier type="lccn">nr 98008106</mads:identifier>
+  <mads:identifier type="lccn" invalid="yes">n  85341805</mads:identifier>
+  <mads:identifier type="stoa">stoa0132a</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=gaudentius-bio-2</mads:url>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/100286172</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Gaudentius_of_Brescia</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-nr98008106/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0132a-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0132a-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NIC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130314132310.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr98008106</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

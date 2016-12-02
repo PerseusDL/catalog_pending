@@ -1,0 +1,58 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Severus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Bishop of Minorca</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Severo</mads:namePart>
+      </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sévère</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Minorque</mads:namePart>
+       </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Severus Maioricensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Severianus Maioricensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Severus Rhetor</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His Epistola Severi Episcopi, 1981: t.p. (Obispo Severo, Bisbe Sever) p. 18 (active in 5th century)</mads:note>
+  <mads:note type="source">Espasa-Calpe (Severo, prelado español del siglo V, prob. d. 423, first bishop of Menorca)</mads:note>
+  <mads:note type="source">LC database, Aug. 11, 2014 (hdg.: Severo, Bishop of Minorca, active 5th century, usage: Severus of Minorca)</mads:note>
+  <mads:identifier type="lccn">n  87898833 </mads:identifier>
+  <mads:identifier type="stoa">stoa0259f</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/264002293</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Severus_of_Minorca</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0259f-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NjP</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20140811110640.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n87898833</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

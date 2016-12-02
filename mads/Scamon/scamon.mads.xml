@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Scamon</mads:namePart>
+         <mads:namePart type="termsOfAddress">Mytilenensis</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name>
+         <mads:namePart>Σκάμων</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Scamon</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">
+      <mads:name type="personal">
+         <mads:namePart>Scamo</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Skamon</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Mytilene</mads:namePart>
+         <mads:namePart type="date">v4. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Smith's Dictionary: "Scamon, of Mytilene, wrote a work on inventions (Περὶ Εὑρημάτων), 
+      of which the first book is quoted by Athenaeus (xiv. pp. 630, b, 637, b; see also Clem. Al. Strom. i. p. 132; Euseb. Praep. Ev. 10.7;.."
+   </mads:note>
+   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/44692887</mads:url>
+   <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=scamon-bio-1</mads:url>   
+   <mads:identifier type="tlg">2330</mads:identifier>
+   <mads:identifier type="uri">http://viaf.org/viaf/44692887</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2330.003</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf44692887</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

@@ -1,0 +1,80 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Chromatius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">-407</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Chromace</mads:namePart>
+      <mads:namePart type="termsOfAddress">d'Aquilée</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="eng">
+    <mads:name type="personal">
+      <mads:namePart>Chromace</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Cromatius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Episcopus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Cromacio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Aquileya</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Cromazio</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Aquileia</mads:namePart>
+      <mads:namePart type="date">-407</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Cromazio</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">-407</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Fontanini, G. Justi Fontanini ... Historiae literariae Aquileiensis libri V, 1742</mads:note>
+  <mads:note type="source">Comentario al evangelio de Mateo, 2002: t.p. (Cromacio de Aquileya)</mads:note>
+  <mads:note type="source">Historia ecclesiastica, 1479: p. 17 (... Cromatium episcopum)</mads:note>
+  <mads:note type="source">New Cath. encyc., 2003 (Chromatius of Aquileia, St., 4th cent. bishop and spiritual director, d. 407)</mads:note>
+  <mads:note type="source">Holweck (Chromatius, Bp. of Aquileja, ca. 387-407)</mads:note>
+  <mads:note type="source">Dict. of Cath. biog., 1961 (Chromatius, St., d. 407?; bishop, probably a native of Aquileia)</mads:note>
+  <mads:note type="source">Smith's Dictionary: "Chromatius,  Latin writer and bishop of Aquileia, flourished at the close of the fourth century and the commencement of the fifth..."
+  </mads:note>
+  <mads:identifier type="lccn">n  80045045</mads:identifier>
+  <mads:identifier type="stoa">stoa0086a</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/100161952/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Chromatius</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-n80045045/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0086a-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0086a-stoa002</identifier>    
+    <identifier type="stoa author-text">stoa0086a-stoa003</identifier>    
+    <identifier type="stoa author-text">stoa0086a-stoa004</identifier>    
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130307124654.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n80045045</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

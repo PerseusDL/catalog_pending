@@ -1,0 +1,53 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Zosimus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pope</mads:namePart>
+      <mads:namePart type="date">-418</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (417-418 : Zosimus)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Zosimas</mads:namePart>
+      <mads:namePart type="termsOfAddress">Pope</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zosimus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">-418</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Frick, J. Zosimus in Clemente redivivus, 1719: t.p. (Zosimus)</mads:note>
+  <mads:note type="source">NUC pre-1956 (Zosimus, St., Pope, d. 418)</mads:note>
+  <mads:note type="source">Encycl. Britannica (Zosimus, Saint; Pope 417-418, d. 12-26-418)</mads:note>
+  <mads:note type="source">Holweck, F.G. Biog. dict. of the saints (Zosimas, or Zosimus, Pope 417-418; b. in Greece, d. 12-26-418)</mads:note>
+  <mads:note type="source">Book of saints. (Zosimus, Saint, Pope, d. 418)</mads:note>
+  <mads:note type="source">The Oxford dict. of the Christian church, 1957 (Zosimus, d. 418, Bishop of Rome from 417, Greek by birth)</mads:note>
+  <mads:note type="source">Tapsell, R.F. Monarchs, rulers,dynasties, and kingdoms of the world, c1983: p. 164 (Zosimus, Pope 417-418)</mads:note>
+  <mads:identifier type="lccn">n  91001037</mads:identifier>
+  <mads:identifier type="stoa">stoa0297b</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=zosimus-bio-7</mads:url>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/231828969/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Zosimus</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-n91001037/</mads:url>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313130222.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n91001037</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

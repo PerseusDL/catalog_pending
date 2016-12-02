@@ -1,0 +1,83 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Phoebadius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">-392</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Foebadius Aginnenses</mads:namePart>
+      <mads:namePart type="date">-392</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Foebadius</mads:namePart>
+      <mads:namePart type="date">-392</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Phébade</mads:namePart>
+      <mads:namePart type="date">-392</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Febadio</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Phoebadius Aginnenses</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="pol">
+    <mads:name type="personal">
+      <mads:namePart>Febadiusz</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Phoebadius</mads:namePart>
+      <mads:namePart type="termsOfAddress">Saint</mads:namePart>
+      <mads:namePart type="date">d. 392</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Smith's Dictionary: "Phoebadius, bishop of Agen, in Southwestern Gaul, about the middle of the fourth century,
+    One work unquestionably composed by Phoebadius has descended to us, entitled Contra Arianos Liber, a tract
+    written about A. D. 358, in a clear, animated, and impressive style for the purpose of exposing the errors contained
+    in a document well known in ecclesiastical history ..."</mads:note>
+  <mads:note type="source">nuc88-1901: Foebadius, Victricius, Leporius, Vincentius ... c1985 (hdg. on IaU rept.: 
+    Phoebadius, Bishop of Agen, d. 392, usage in contents note: Foebadi Aginnensis)</mads:note>
+  <mads:note type="source">Foebadius ... 1985</mads:note>
+  <mads:identifier type="lccn">n  88601201</mads:identifier>
+  <mads:identifier type="stoa">stoa0228c</mads:identifier>
+  <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/98118368</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-n88601201/</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=phoebadius-bio-</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0228c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0228c-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0228c-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130312153711.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n88601201</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

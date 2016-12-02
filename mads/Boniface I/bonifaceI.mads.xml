@@ -1,0 +1,53 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Boniface</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">-422</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="corporate">
+      <mads:namePart>Catholic Church</mads:namePart>
+      <mads:namePart>Pope (418-422 : Boniface I)</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Bonifacius</mads:namePart>
+      <mads:namePart type="termsOfAddress">I</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Boniface</mads:namePart>
+      <mads:namePart type="termsOfAddress">I, Pope</mads:namePart>
+      <mads:namePart type="date">d. 422</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">S. Bonifacii Papæ I. epistolæ, quibus aliorum nonnullæ intextæ, 1773</mads:note>
+  <mads:note type="source">Catholic Encyclopedia www site, 1 Oct. 2007: Boniface I page (elected 28 Dec. 418, died 4 Sept. 422)</mads:note>
+  <mads:identifier type="lccn">nb2007022341</mads:identifier>
+  <mads:identifier type="stoa">stoa0060b</mads:identifier>
+  <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/13111908/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Boniface_I</mads:url>
+  <mads:url displayLabel="WorldCat Identities">https://www.worldcat.org/identities/lccn-nb2007022341/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0060b-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0060b-stoa002</identifier>
+    <identifier type="stoa author-text">stoa0060b-stoa003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">Uk</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130325074913.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nb2007022341</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

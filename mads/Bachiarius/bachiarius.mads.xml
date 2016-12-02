@@ -1,0 +1,44 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Bachiarius</mads:namePart>
+      <mads:namePart type="date">active 4th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Bachiarius</mads:namePart>
+      <mads:namePart type="date">4th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Duhr, J. Aperçus sur l'Espagne chrétienne du IVme siècle, ou, Le "De lapso" de Bachiarius, 1934:
+    t.p. (Bachiarius) p. 51 (his tractate De lapso was probably written between 393 and 400)</mads:note>
+  <mads:note type="source">New Catholic encyclopedia, 2nd ed. (Bachiarius; fourth-century monk and theologian; b. probably in Galicia, Spain, ca. 350; time and place of death unknown)</mads:note>
+  <mads:identifier type="lccn">no2011135548</mads:identifier>
+  <mads:identifier type="stoa">stoa0047c</mads:identifier>
+  <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:url displayLabel="viaf">http://viaf.org/viaf/88663747</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Bachiarius</mads:url>
+  <mads:url displayLabel="Smith's Dictionary">http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=bachiarius-bio-1</mads:url>
+  <mads:url displayLabel="WorldCat Identities"
+    >https://www.worldcat.org/identities/lccn-no2011135548/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0047c-stoa001</identifier>
+    <identifier type="stoa author-text">stoa0047c-stoa002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">MoSU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130326134031.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2011135548</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
