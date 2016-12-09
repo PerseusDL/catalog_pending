@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Mithridates</mads:namePart>
+         <mads:namePart type="termsOfAddress">Epistolographus</mads:namePart>
+         <mads:namePart type="date">v1. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Mithridates</mads:namePart>
+         <mads:namePart type="termsOfAddress">Rex</mads:namePart>
+         <mads:namePart type="date">v1. Jh</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:identifier type="tlg">0039</mads:identifier>
+   <mads:fieldOfActivity>Epistolary</mads:fieldOfActivity>
+   <mads:url>http://viaf.org/viaf/15160007</mads:url>
+   <mads:url displayLabel="Dataset description">http://viaf.org/viaf/data</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/15160007</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">0039.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf15160007</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
