@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal">
+         <mads:namePart>Telesarchus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">v3./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name>
+         <mads:namePart>Τελέσαρχος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Telesarchos</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historiker</mads:namePart>
+         <mads:namePart type="date">v3./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Smith's Dictionary: "Telesarchus, the author of a work on the early history of Argolis. (Sextus Empir. ad 
+      v. Math. 1.12; Schol. in Earip. Alc. 2 ; Schol. in Hom. Il. 2.690.)...."</mads:note>
+   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+   <mads:identifier type="tlg">2211</mads:identifier>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/47153244</mads:url>
+   <mads:url displayLabel="Smith's Dictionary"
+      >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=telesarchus-bio-2</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/47153244</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2211.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf47153244</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

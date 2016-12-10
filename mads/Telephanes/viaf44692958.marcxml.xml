@@ -1,0 +1,37 @@
+<mx:record xmlns:v="http://viaf.org/viaf/terms#" xmlns:srw="http://www.loc.gov/zing/srw/"
+           xmlns:mx="http://www.loc.gov/MARC21/slim">
+   <mx:leader>00000nz##a22.....n..4500</mx:leader>
+   <mx:controlfield tag="001">viaf44692958</mx:controlfield>
+   <mx:controlfield tag="003">OCoLC</mx:controlfield>
+   <mx:controlfield tag="008">090303n||azznnabbn##########|a#aaa####|#</mx:controlfield>
+   <mx:datafield tag="024" ind1="7" ind2=" ">
+      <mx:subfield code="a">http://viaf.org/viaf/44692958</mx:subfield>
+      <mx:subfield code="2">uri</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="040" ind1=" " ind2=" ">
+      <mx:subfield code="a">VIAF</mx:subfield>
+      <mx:subfield code="c">VIAF</mx:subfield>
+   </mx:datafield>
+   <mx:datafield ind1="0" ind2=" " tag="700">
+      <mx:subfield code="a">Telephanes</mx:subfield>
+      <mx:subfield code="c">Historicus</mx:subfield>
+      <mx:subfield code="d">ca. 3.Jh.n.Chr.</mx:subfield>
+      <mx:subfield code="0">(DNB)102407096</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="375" ind1=" " ind2=" ">
+      <mx:subfield code="a">unknown</mx:subfield>
+      <mx:subfield code="2">0</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="0">
+      <mx:subfield code="u">http://viaf.org/viaf/44692958</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="856" ind1="4" ind2="2">
+      <mx:subfield code="u">http://viaf.org/viaf/data</mx:subfield>
+      <mx:subfield code="z">Dataset description</mx:subfield>
+   </mx:datafield>
+   <mx:datafield tag="997" ind1=" " ind2=" ">
+      <mx:subfield code="a">200</mx:subfield>
+      <mx:subfield code="b">0</mx:subfield>
+      <mx:subfield code="c">flourished</mx:subfield>
+   </mx:datafield>
+</mx:record>

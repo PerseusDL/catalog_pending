@@ -7,7 +7,11 @@
          <mads:namePart type="date">ca. 1.Jh.v.Chr</mads:namePart>
       </mads:name>
    </mads:authority>
-   <mads:variant type="other" lang="lat">
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal" authority="Brill">
+         <mads:namePart>Σωκράτης</mads:namePart>
+      </mads:name>
+   </mads:variant>   <mads:variant type="other" lang="lat">
       <mads:name type="personal">
          <mads:namePart>Socrates</mads:namePart>
          <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
