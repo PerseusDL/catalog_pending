@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Themistocles</mads:namePart>
+         <mads:namePart type="date">approximately 524 B.C.-approximately 459 B.C</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Θεμιστοκλής</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Themistocles</mads:namePart>
+         <mads:namePart type="termsOfAddress">Epistolographus</mads:namePart>
+         <mads:namePart type="date">v524-v459</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Themistokles</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Thémistocle</mads:namePart>
+         <mads:namePart type="date">0524?-0459? av. J.-C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Femistokl</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-Themistocles</mads:namePart>
+         <mads:namePart type="date">v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-Themistokles</mads:namePart>
+         <mads:namePart type="date">v5. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Teimisticléas</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Temistocle</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Temistokle</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Temistokles</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Temistoklo</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Temístocles</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Themistoklès</mads:namePart>
+         <mads:namePart type="date">ca 524-ca 459 av. J.C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Themisztoklész</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Темистокле</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Темистокъл</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Фемістокл</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Թեմիստոկլես</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>תמיסטוקלס</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>تمیستوکل</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>تھیمسطاکلس</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ثيميستوكليس</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>थेमिस्टोक्लीस</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>തെമിസ്റ്റൊക്ലീസ്</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>テミストクレス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>テミストクレス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>地米斯托克利</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>테미스토클레스</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Themistocles,  Athenian, of the Phrearrhii deme in the Leontis phyle, and of the family of the Lycomidae, b. c. 
+      525 BC, the son of Neocles [1] (Hdt. 7,143 et alibi; Nep. T. 1,1; Plut. T. 1,1 and 4; Aristid. 5,4) and a perhaps non-Athenian mother (cf. Nep. T. 1,1; Plut. T. 1,2); an important politician at the time 
+      of the Persian Wars....</mads:note>
+   <mads:fieldOfActivity>Epistolographer</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Politician</mads:fieldOfActivity>   
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/8180547</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Themistocles</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/8180547</mads:identifier>
+   <mads:identifier type="tlg">0055</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">0055.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf8180547</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
