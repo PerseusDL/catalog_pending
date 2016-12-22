@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="uniform">
+        <title>In Platonis Phaedrum scholia</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Hermiae Alexandrini In Platonis Phaedrum scholia</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/22953744/">
+        <namePart>Hermeias</namePart>
+        <namePart type="termsOfAddress">of Alexandria</namePart>
+        <namePart type="date">active 5th century</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI=" http://viaf.org/viaf/"
+        valueURI=" http://viaf.org/viaf/233297515">
+        <namePart>Couvreur, Paul</namePart>
+        <namePart type="date">1872-1898</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/88035029/">
+        <namePart>Bodin, Louis Marie Jean, </namePart>
+        <namePart type="date">1869-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fra</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>E. Bouillon</publisher>
+        <dateIssued>1901</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxiii, 270 pages 26 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">edidit et apparatu critico ornavit P. Couvreur.</note>
+    <note>Published after the editor's death by L. Bodin.</note>
+    <note type="bibliography">Includes bibliographical references and indexes.</note>
+    <note type="language">Text in Greek; introductory matter and notes in Latin.</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Plato</namePart>
+        </name>
+        <titleInfo>
+            <title>Phaedrus</title>
+        </titleInfo>
+    </subject>
+    <classification authority="lcc">PA4279.P4 H47 1901</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliothèque de l'Ecole des hautes études</title>
+            <partName>Sciences historiques et philologiques</partName>
+            <partNumber>fasc. 133</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">238300</identifier>
+    <identifier type="tlg">2317.001</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/2383001</url>
+    </location>
+    <location>
+        <url displayLabel="GoogleBooks">http://books.google.com/books?id=tIAkAAAAMAAJ</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015018654387</url>
+    </location>
+    <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">801205</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130522084539.0</recordChangeDate>
+        <recordIdentifier>10387508</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Hermogenis opera</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/27035216/">
+        <namePart>Hermogenes,</namePart>
+        <namePart type="date">2nd cent.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/44690899/">
+        <namePart>Rabe, Hugo,</namePart>
+        <namePart type="date">1867-1932</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae</placeTerm>
+        </place>
+        <publisher>in aedibus B. G. Teubneri</publisher>
+        <dateIssued>1913</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <note type="statement of responsibility"> edidit Hugo Rabe</note>
+    <note>Adiectae sunt II tabulae</note>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxviii, 467 p. 4 facsim. on II pl. (1 fold.) 18 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <classification authority="lcc">PA3403 .R5 1894 vol. 6</classification>
+    <identifier type="lccn">13012078</identifier>
+    <identifier type="oclc">579772866</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/579772866</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015002968520</url>
+    </location>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Rhetores Graeci</title>
+            <partNumber>Volume 6</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Progymnasmata</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes,</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo,</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0592.001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>27</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=32</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περὶ στάσεων</title>
+        </titleInfo>
+        <titleInfo transliteration="rom">
+            <title>Peri tôn staseôn</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes,</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo,</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0592.002</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>28</start>
+                <end>92</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=60</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περὶ εὑρέσεως</title>
+        </titleInfo>
+        <titleInfo transliteration="rom">
+            <title>Peri Heureseôs</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes,</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo,</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0592.003</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>93</start>
+                <end>212</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=124</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περὶ ἰδεῶν λόγου</title>
+        </titleInfo>
+        <titleInfo>
+            <title transliteration="rom">Peri ideôn</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes,</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo,</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0592.004</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>213</start>
+                <end>413</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=244</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περὶ μεθόδου δεινότητος</title>
+        </titleInfo>
+        <titleInfo>
+            <title transliteration="rom">Peri Methodou Deinotêtos</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27035216/">
+            <namePart>Hermogenes,</namePart>
+            <namePart type="date">2nd cent.</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/44690899/">
+            <namePart>Rabe, Hugo,</namePart>
+            <namePart type="date">1867-1932</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0592.005</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>414</start>
+                <end>456</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015002968520?urlappend=%3Bseq=446</url>
+        </location>
+    </relatedItem>
+
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">860205</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130502140926.0</recordChangeDate>
+        <recordIdentifier>5893001</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

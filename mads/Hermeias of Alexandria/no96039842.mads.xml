@@ -1,0 +1,71 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Hermeias</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Alexandria</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ἑρμείας</mads:namePart>
+      <mads:namePart type="termsOfAddress">ἐκ Φοινίκης</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Hermeias</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Alexandrien</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Hermias</mads:namePart>
+      <mads:namePart type="termsOfAddress">Alexandrinus</mads:namePart>
+      <mads:namePart type="date">active 5th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Hermias</mads:namePart>
+      <mads:namePart type="termsOfAddress">D'Alexandrie </mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Hermias</mads:namePart>
+      <mads:namePart type="termsOfAddress">D'Alexandrie </mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Ermia</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Alessandria</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">In Platonis Phaedrum scholia, 1971: t.p. (Hermeias von Alexandrien) facsim. t.p. (Hermiae Alexandrini)
+    running title (Hermeiou philosophou)</mads:note>
+  <mads:note type="source">Brill's new Pauly online:  "Hermias, of Alexandria, Neoplatonist philosopher of the 5th cent. AD. " </mads:note>
+  <mads:identifier type="lccn">no 96039842 </mads:identifier>
+  <mads:identifier type="tlg">2317</mads:identifier>
+  <mads:fieldOfActivity>Neoplatonist</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF"> http://viaf.org/viaf/22953744</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Hermias_(philosopher)</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2317.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NmU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130316073801.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no96039842</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
