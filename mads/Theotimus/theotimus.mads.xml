@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal">
+         <mads:namePart>Theotimus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">v2. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name>
+         <mads:namePart>Θεότιμος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Theotimos</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historiker</mads:namePart>
+         <mads:namePart type="date">v2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:note type="source">Brill's New Pauly: "Theotimus, Greek historian of the Hellenistic period. Author of various works of local history:
+      On Cyrene (FGrH 470 F 1 and 2), Italiká (FGrH 834 F 1), Against Aeelurus (FGrH 470 F 3-5), a Rhodean specialist 
+      author of unknown period (Aieluros FGrH 528). FGrH 470 and 834...." Meister, Klaus (Berlin), “Theotimus”, in: Brill’s New Pauly, 
+      Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 20 December 2016</mads:note>
+   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/12694086</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/12694086</mads:identifier>
+   <mads:identifier type="tlg">1727</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1727.002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf12694086</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
