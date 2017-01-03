@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Pius</mads:namePart>
+         <mads:namePart type="termsOfAddress">II, Pope</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aeneas Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolomini, Enea Silvio</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pijs</mads:namePart>
+         <mads:namePart type="termsOfAddress">II, pāvests</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sylenius, Aeneas</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aeneas Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aeneas Sylvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>De Piccolomini, Enea Silvio</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Enee Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Eneáš Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolomineus, Aeneas Silvius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolomineus, Aeneas Sylvius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolomini, Aeneas Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolominus, Aeneas Silvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Piccolominus, Aeneas Sylvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Picolomineus, Aeneas Sylvius</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pio</mads:namePart>
+         <mads:namePart type="termsOfAddress">II, Pope</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pio</mads:namePart>
+         <mads:namePart type="termsOfAddress">папа</mads:namePart>
+         <mads:namePart type="date">II</mads:namePart>
+      </mads:name>
+      <mads:titleInfo>
+         <mads:title>Pio 1405-1464</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pius</mads:namePart>
+         <mads:namePart type="termsOfAddress">II, Papa</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Silvius, Aeneas</mads:namePart>
+         <mads:namePart type="date">1405-1464</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:identifier type="stoa author">stoa0230</mads:identifier>
+   <mads:identifier type="uri">http://viaf.org/viaf/95156138</mads:identifier>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Pope_Pius_II</mads:url>
+   <mads:fieldOfActivity>Pope</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="stoa author-text">stoa0230-stoa002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf95156138</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
