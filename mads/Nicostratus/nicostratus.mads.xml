@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="lat">
+      <mads:name type="personal"> 
+         <mads:namePart>Nicostratus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Trapezius</mads:namePart>
+         <mads:namePart type="date">3. Jh</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent" lang="ger">
+      <mads:name type="personal">
+         <mads:namePart>Nikostratos</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Trapezunt</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Νικόστρατος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">
+      <mads:name type="personal">
+         <mads:namePart>Nicostrato</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Trapezunte</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Nicostratus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">3. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/54537254</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/54537254</mads:identifier>
+   <mads:identifier type="tlg">2144</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2144.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf54537254</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

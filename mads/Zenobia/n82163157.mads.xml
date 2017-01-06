@@ -1,0 +1,112 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Zenobia</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Septimia Bathzabbai</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zinūbyā</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zanūbyā</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zaynab al-Zabbā&amp;#x02bc</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Septimia Zenobia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Bat Zabbai</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Bath Zabbāy</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zabbā&amp;#x02bc</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Settinia Zenobia</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Septimia Zenobia</mads:namePart>
+      <mads:namePart type="termsOfAddress">Sebaste, Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Sebaste, Septimia Zenobia</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Zénobie</mads:namePart>
+      <mads:namePart type="termsOfAddress">Queen of Palmyra</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>زنوبيا،</mads:namePart>
+      <mads:namePart type="termsOfAddress">ملكة تدمر</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>زينب،</mads:namePart>
+      <mads:namePart type="termsOfAddress">ملكة تدمر</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Enc. Brit., 1980 (Zenobia, in full Septimia Zenobia; Latinized form of 
+    Aramaic Bat Zabbai, d. after A.D. 274, queen of Palmyra from 267 or 268 to 272)</mads:note>
+  <mads:note type="source">Enc. Amer., 1980 (Zenobia, queen of Palmyra, r. 267-272)</mads:note>
+  <mads:note type="source">Collier's Enc., 1981 (Zenobia; fl. A.D. 270, queen of Palmyra)</mads:note>
+  <mads:note type="source">Septimia Zenobia Sebaste, 1992</mads:note>
+  <mads:note type="source">Zenobia, c2002: p. 17 (Septimia Zenobia Augusta)</mads:note>
+  <mads:note type="source">Zénobie, c2002</mads:note>
+  <mads:identifier type="lccn">n  82163157 </mads:identifier>
+  <mads:identifier type="tlg">2167</mads:identifier>
+  <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Zenobia</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/50583284/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2167.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20080930071816.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n82163157</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
