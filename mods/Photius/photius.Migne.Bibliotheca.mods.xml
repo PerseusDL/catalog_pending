@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="alternative">
+        <title>Myriobiblion sive Bibliotheca</title>
+    </titleInfo>
+    <titleInfo type="uniform">
+        <title>Bibliotheca</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n80-125110.html">
+        <namePart>Photius I,</namePart>
+        <namePart type="termsOfAddress">Saint, Patriarch of Constantinople,</namePart>
+        <namePart type="date">ca. 820-ca. 891</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/64009375">
+        <namePart>Migne, Jacques Paul</namePart>
+        <namePart type="date">1800-1875</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>J.-P. Migne</publisher>
+        <dateIssued>1860</dateIssued>
+            <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1 vol.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">ex recensione Immanuelis Bekkeri.</note>
+    <note>Text in Greek.</note>
+    <subject authority="lcsh">
+        <topic>Greek literature</topic>
+        <topic>History and criticism</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Christian literature, Early</topic>
+        <topic>History and criticism</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Books</topic>
+        <topic>Reviews</topic>
+    </subject>
+    <classification authority="lcc">PA5330 .B5 1824</classification>
+    <identifier type="oclc"></identifier>
+    <identifier type="tlg">4040.001</identifier>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Patrologiae cursus completus</title>
+            <subTitle>Series Graeca</subTitle>
+            <partNumber>Tomus 103</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Photii Constantinopolitani Patriarchae opera omnia</title>
+            <partNumber>Tomus 3</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/54973948</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.$c123952</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin></recordOrigin>
+    </recordInfo>
+</mods>

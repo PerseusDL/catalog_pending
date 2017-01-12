@@ -1,0 +1,124 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Kritovoulos</mads:namePart>
+      <mads:namePart type="date">active 15th century</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Μιχαήλ Κριτόβουλος‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Михаил Критобул‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Critobulos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Critobulos</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Imbros</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Michael Critobulus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Critobulus</mads:namePart>
+      <mads:namePart type="date">active 15th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Critobulus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Imbriotae</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Imbros, Kritobulos von</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritoboulos</mads:namePart>
+      <mads:namePart type="date">15th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritobulos</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Imbros</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritopulos, Michael</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritovoulos</mads:namePart>
+      <mads:namePart type="date">15th cent</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritovoulos, Michaēl</mads:namePart>
+      <mads:namePart type="date">active 15th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Kritovulos</mads:namePart>
+      <mads:namePart type="date">active 15th century</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>قريتووولوس</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His Mehmet II. erobert Konstantinopel, c1986: t.p. (Kritobulos von Imbros) p. 9, 
+    etc. (b. between 1400 and 1410 with the name Michael Kritopulos on the Island of Imbros (Imroz))</mads:note>
+  <mads:note type="source">LC data base, 4-3-87 (hdg.: Kritoboulos, 15th cent.)</mads:note>
+  <mads:note type="source">Krumbacher. (Kritobulos aus Imbros)</mads:note>
+  <mads:note type="source">Papyros-Larous. (Kritovoulos, Michaēl, 15th cent.)</mads:note>
+  <mads:note type="source">Megalē Hellēnikē enkykl. (Kritovoulos, Greek historian fl. 15th cent. b. on the Island of Imvros)</mads:note>
+  <mads:note type="source">New encycl. Brit., Micropaedia (Critobulos of Imbros, fl. 15th cent.)</mads:note>
+  <mads:note type="source">nuc86-96819: His Critobuli Imbriotae historiae, 1983 (hdg. on OU rept.: Kritovoulos, 15th cent., usage: Critobuli)</mads:note>
+  <mads:note type="source">His Critobuli Imbriotae Historiae,1983; t.p. (Critobuli Imbriotae)</mads:note>
+  <mads:note type="source">Tarih-i Sultan Mehmet Han Sâni, 1912: t.p. (Kritovulos)</mads:note>
+  <mads:identifier type="lccn">n  86028627 </mads:identifier>
+  <mads:identifier type="tlg">3147</mads:identifier>
+  <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/210998499</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">3147.003</identifier>
+    <identifier type="tlg">3147.004</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313115216.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n86028627</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
