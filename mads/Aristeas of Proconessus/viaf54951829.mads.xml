@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="lat">
+         <mads:namePart>Aristeas</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Proconessus</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Αριστέας</mads:namePart>
+         <mads:namePart type="termsOfAddress">ο Προκοννήσιος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Aristeas</mads:namePart>
+         <mads:namePart type="termsOfAddress">Proconnesius</mads:namePart>
+         <mads:namePart type="date">ca. v6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Arístees</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Proconnès</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">
+      <mads:name type="personal">
+         <mads:namePart>Aristeas</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Proconeso</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Aristeas</mads:namePart>
+         <mads:namePart type="termsOfAddress">Epicus</mads:namePart>
+         <mads:namePart type="date">ca. v6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Aristeas</mads:namePart>
+         <mads:namePart type="termsOfAddress">Proconniensis</mads:namePart>
+         <mads:namePart type="date">ca. v6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">
+      <mads:name type="personal">
+         <mads:namePart>Aristea</mads:namePart>
+         <mads:namePart type="termsOfAddress">Taumaturgo</mads:namePart>
+         <mads:namePart type="date">ca. v6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="ita">
+      <mads:name type="personal">
+         <mads:namePart>Aristea</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Proconneso</mads:namePart>
+         <mads:namePart type="date">ca. v6. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristej</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ariszteasz</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аристей из Проконнеса</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Арістей Проконнеський</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>アリステアス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>阿里斯提亚斯</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Epic Poet</mads:fieldOfActivity>
+   <mads:note type="source">Brill's New Pauly: "Aristeas, Epic Poet, of the island of Proconnesus in the Propontis. The Suda places him in the period of 
+      Croesus and Cyrus. In his epic Ἀριμάσπεια (Arimáspeia), A. tells of his travels into the land of the Scythes and of the Issedones, who lived further
+       north..."Selzer, Christoph (Frankfurt/Main). “Aristeas”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , 
+      Helmuth Schneider. Consulted online on 20 January 2017 </mads:note>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/54951829</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Aristeas</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/54951829</mads:identifier>
+   <mads:identifier type="tlg">1182</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1182.004</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf54951829</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

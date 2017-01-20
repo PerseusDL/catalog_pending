@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo type="uniform">
+        <title>De Pulsibus</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/398999/">
+        <namePart>Marcellinus</namePart>
+        <namePart type="termsOfAddress">Medicus</namePart>
+        <namePart type="date">2. Jh. 2. Jh.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/34566762/">
+        <namePart>Schöne, Hermann,</namePart>
+        <namePart type="termsOfAddress">1870-1941</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <identifier type="tlg">0667.001</identifier>
+    <part>
+        <extent unit="pages">
+            <start>455</start>
+            <end>471</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks">https://books.google.com/books?id=vXOBAAAAIAAJ&amp;pg=PA455</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.b4511969?urlappend=%3Bseq=464</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Markellinos Pulslehre</title>
+            <subTitle>ein griechisches Anekdoton</subTitle>
+        </titleInfo>
+        <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+            valueURI="http://viaf.org/viaf/34566762/">
+            <namePart>Schöne, Hermann,</namePart>
+            <namePart type="termsOfAddress">1870-1941</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>            
+        <typeOfResource>text</typeOfResource>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+        </language>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>        
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">swi</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Basel</placeTerm>
+            </place>
+            <publisher>Buchdruckerei Emil Birkhauser</publisher>
+            <dateIssued>1907</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <digitalOrigin>digitized other analog</digitalOrigin>
+            <extent/>
+        </physicalDescription> 
+        <tableOfContents>pg. 448-471</tableOfContents>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Festschrift zur 49. Versammlung deutscher Philologen und Schulmänner in Basel im Jahre 1907</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">255526336</identifier>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/255526336</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">https://books.google.com/books?id=vXOBAAAAIAAJ</url>
+        </location>
+    </relatedItem>
+</mods>
