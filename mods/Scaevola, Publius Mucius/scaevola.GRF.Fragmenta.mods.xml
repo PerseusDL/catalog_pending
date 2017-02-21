@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Fragmenta</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://viaf.org/viaf/77648577">
+        <namePart>Scaevola, Publius Mucius,</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/nr97-15146.html">
+        <namePart>Funaioli, Gino</namePart>
+        <namePart type="date">1878-1958</namePart>
+        <role>
+            <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <identifier type="phi">125.1</identifier>
+    <part>
+        <extent unit="pages">
+            <start>18</start>
+            <end>18</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=WZofAAAAMAAJ&amp;pg=PA18</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust"
+            >https://hdl.handle.net/2027/hvd.32044012755260?urlappend=%3Bseq=78</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Grammaticae Romanae fragmenta collegit</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr97-15146.html">
+            <namePart>Funaioli, Gino</namePart>
+            <namePart type="date">1878-1958</namePart>
+            <role>
+                <roleTerm type="text" authority="marcrelator">compiler</roleTerm>
+            </role>
+            <role>
+                <roleTerm type="text" authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <dateIssued>1907</dateIssued>
+            <dateIssued point="start" encoding="marc">1907</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xxx, 610 p.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility">recensuit Hyginus Funaioli.</note>
+        <classification authority="lcc">PA6103 .G7 1907</classification>
+        <subject authority="lcsh">
+            <topic>Latin language</topic>
+            <topic>Grammar</topic>
+            <topic>Early works to 1500</topic>
+        </subject>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana. [Scriptores
+                    Romani]</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">08002169</identifier>
+        <identifier type="oclc">46348511</identifier>
+        <identifier type="oca"/>
+        <location>
+            <url displayLabel="LC Permalink">http://www.worldcat.org/oclc/08002169</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/46348511</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/hvd.32044012755260</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"/>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=WZofAAAAMAAJ</url>
+        </location>
+    </relatedItem>
+</mods>

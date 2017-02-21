@@ -17,9 +17,49 @@
       <mads:namePart>Mucio Escévola, Publio</mads:namePart>
     </mads:name>
   </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publije Mucije Scevola</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publio Mucio Escévola</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publio Mucio Scevola</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publio Muzio Scevola</mads:namePart>
+      <mads:namePart type="termsOfAddress">politico e giurista romano</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publius Mucius Scaevola (consul in 133 v.Chr.)</mads:namePart>
+      <mads:namePart type="termsOfAddress">politicus uit Oude Rome (180v Chr-115v Chr)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publius Mucius Scaevola</mads:namePart>
+      <mads:namePart type="termsOfAddress">Ancient Roman politician</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Publiusz Mucjusz Scewola</mads:namePart>
+    </mads:name>
+  </mads:variant>
   <mads:identifier type="lccn">n81152221</mads:identifier>
   <mads:identifier type="phi">125</mads:identifier>
   <mads:fieldOfActivity>Politician</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Jurist</mads:fieldOfActivity>
   <mads:url displayLabel="viaf">http://viaf.org/viaf/77648577</mads:url>
   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Publius_Mucius_Scaevola</mads:url>
   <mads:url displayLabel="WorldCat Identites">https://www.worldcat.org/identities/lccn-n81152221/</mads:url>
