@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Gynaeciorvm libri IV, De signis fractvrarvm</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/35828235/">
+        <namePart>Soranus</namePart>
+        <namePart type="termsOfAddress">of Ephesus</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/27840515">
+        <namePart>Ilberg, Johannes</namePart>
+        <namePart type="date">1860-1930</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Lipsiae et Berolini</placeTerm>
+        </place>
+        <publisher>in aedibvs B. G. Teubneri</publisher>
+        <dateIssued>1927</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="notes">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xxi, [1], 282 p., 1 l. xviii pl. on 9 l. 26 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note>Text in Greek; Preface in Latin</note>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Hippocrates</namePart>
+        </name>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Medicine, Greek and Roman</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Gynecology</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Fractures</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Bandages and bandaging</topic>
+    </subject>
+    <classification authority="lcc">R126.A1 C6 IV</classification>
+    <identifier type="lccn">28016271</identifier>
+    <identifier type="oclc">3129177</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/3129177</url>
+    </location>
+    <location>
+        <url displayLabel="BBAW">http://cmg.bbaw.de/epubl/online/cmg_04.html</url>
+    </location>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus Medicorum Graecorum</title>
+            <partNumber>Volume 4</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Gynaeciorum libri iv</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/35828235/">
+            <namePart>Soranus</namePart>
+            <namePart type="termsOfAddress">of Ephesus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27840515">
+            <namePart>Ilberg, Johannes</namePart>
+            <namePart type="date">1860-1930</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0565.001</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg001.1st1K-grc1</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>3</start>
+                <end>152</end>
+            </extent>
+        </part>
+        <location displayLabel="BBAW">
+            <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=25&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg001/tlg0565.tlg001.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De signis fracturarum</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/35828235/">
+            <namePart>Soranus</namePart>
+            <namePart type="termsOfAddress">of Ephesus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27840515">
+            <namePart>Ilberg, Johannes</namePart>
+            <namePart type="date">1860-1930</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0565.002</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg002.1st1K-grc1</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>155</start>
+                <end>158</end>
+            </extent>
+        </part>
+        <location displayLabel="BBAW">
+            <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=177&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg002/tlg0565.tlg002.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De fasciis</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/35828235/">
+            <namePart>Soranus</namePart>
+            <namePart type="termsOfAddress">of Ephesus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27840515">
+            <namePart>Ilberg, Johannes</namePart>
+            <namePart type="date">1860-1930</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0565.003</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg003.1st1K-grc1</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>159</start>
+                <end>171</end>
+            </extent>
+        </part>
+        <location displayLabel="BBAW">
+            <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=181&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg003/tlg0565.tlg003.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Vita Hippocratis</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/35828235/">
+            <namePart>Soranus</namePart>
+            <namePart type="termsOfAddress">of Ephesus</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/27840515">
+            <namePart>Ilberg, Johannes</namePart>
+            <namePart type="date">1860-1930</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">0565.004</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0565.tlg004.1st1K-grc1</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>175</start>
+                <end>178</end>
+            </extent>
+        </part>
+        <location displayLabel="BBAW">
+            <url>http://cmg.bbaw.de/epubl/online/cmg_04.html?custom=1&amp;pn=197&amp;AnzFrames=1&amp;dw=2369&amp;dh=1118</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek"
+                >https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg0565/tlg004/tlg0565.tlg004.1st1K-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">840905</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130308112913.0</recordChangeDate>
+        <recordIdentifier>7804368</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

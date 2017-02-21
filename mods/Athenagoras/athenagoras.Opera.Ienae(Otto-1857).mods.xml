@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Athenagorae philosophi Atheniensis Opera</title>
+    </titleInfo>
+    <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/106097488">
+        <namePart>Athenagoras</namePart>
+        <namePart type="date">active 2nd century</namePart>
+        <role>
+            <roleTerm authority="marcrelator">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/416334">
+        <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
+        <namePart type="date">1816-1897</namePart>
+        <role>
+            <roleTerm authority="marcrelator">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Ienae</placeTerm>
+        </place>
+        <publisher>Mauke</publisher>
+        <dateIssued>1857</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="preface">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>lxxv, 328 p. ; 22 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Corpus apologetarum christianorum saeculi secundi</title>
+            <partNumber>Volume 7</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <classification authority="lcc">BT1116 .A84 1857</classification>
+    <identifier type="lccn">tmp96031647</identifier>
+    <identifier type="oclc">632400942</identifier>
+    <location>
+        <url displayLabel="Worldcat"
+            >http://www.worldcat.org/title/athenagorae-philosophi-atheniensis-opera/oclc/632400942</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Legatio sive Supplicatio pro Christianis</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/106097488">
+            <namePart>Athenagoras</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/416334">
+            <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
+            <namePart type="date">1816-1897</namePart>
+            <role>
+                <roleTerm authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="ctsurn">tlg1205.tlg001.perseus-grc1</identifier>
+        <identifier type="tlg">1205.001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>2</start>
+                <end>184</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/athenagoraephilo00athe#page/2/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=86</url>
+        </location>
+        <location displayLabel="First1KGreek">
+            <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg001/tlg1205.tlg001.perseus-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Legatio sive Supplicatio pro Christianis</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/106097488">
+            <namePart>Athenagoras</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/416334">
+            <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
+            <namePart type="date">1816-1897</namePart>
+            <role>
+                <roleTerm authority="marcrelator">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator">translator</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">1205.001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>3</start>
+                <end>185</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/athenagoraephilo00athe#page/2/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=86</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Resurrectione</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/106097488">
+            <namePart>Athenagoras</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/416334">
+            <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
+            <namePart type="date">1816-1897</namePart>
+            <role>
+                <roleTerm authority="marcrelator">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="ctsurn">tlg1205.tlg002.perseus-grc1</identifier>
+        <identifier type="tlg">1205.002</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>186</start>
+                <end>290</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/athenagoraephilo00athe#page/186/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=420</url>
+        </location>
+        <location displayLabel="First1KGreek">
+            <url>https://github.com/OpenGreekAndLatin/First1KGreek/blob/master/data/tlg1205/tlg002/tlg1205.tlg002.perseus-grc1.xml</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Resurrectione</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/106097488">
+            <namePart>Athenagoras</namePart>
+            <namePart type="date">active 2nd century</namePart>
+            <role>
+                <roleTerm authority="marcrelator">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/416334">
+            <namePart>Otto, J. C. Th. (Johann Carl Theodor)</namePart>
+            <namePart type="date">1816-1897</namePart>
+            <role>
+                <roleTerm authority="marcrelator">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator">translator</roleTerm>
+            </role>
+        </name>
+        <identifier type="tlg">1205.002</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>187</start>
+                <end>291</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >https://archive.org/stream/athenagoraephilo00athe#page/186/mode/2up</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044055059604?urlappend=%3Bseq=420</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">121025</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20130610073438.0</recordChangeDate>
+        <recordIdentifier>17508246</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

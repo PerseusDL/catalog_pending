@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Athenagoras</mads:namePart>
+         <mads:namePart type="date">active 2nd century</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Αθηναγόρας</mads:namePart>
+         <mads:namePart type="termsOfAddress">ο Αθηναίος</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Αθηναγόρας</mads:namePart>
+         <mads:namePart type="termsOfAddress">ο Απολογητής</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ἀθηναγόρας ὀ Ἀθηναῖος</mads:namePart>
+      </mads:name>
+   </mads:variant>   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenágoras</mads:namePart>
+         <mads:namePart type="date">fl. 1--</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Athenagoras Atheniensis</mads:namePart>
+         <mads:namePart type="date">(ca 133-ca 190)</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Athenagoras</mads:namePart>
+         <mads:namePart type="termsOfAddress">Atheniensis</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athenagoras</mads:namePart>
+         <mads:namePart type="termsOfAddress">d'Athènes</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Athénagore</mads:namePart>
+         <mads:namePart type="date">0133?-0190?</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Afinoqor</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagora</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagoras</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagora</mads:namePart>
+         <mads:namePart type="termsOfAddress">Apologista</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagora</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Atene</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">el Ateno</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Atenagòras d'Atenas</mads:namePart>
+      </mads:name>
+   </mads:variant>      
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athenagoras</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Athen</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athénagoras d'Athènes</mads:namePart>
+         <mads:namePart type="date">2e helft 2e eeuw</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athénagore</mads:namePart>
+         <mads:namePart type="termsOfAddress">d'Athènes</mads:namePart>
+         <mads:namePart type="date">active 2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athénagore</mads:namePart>
+         <mads:namePart type="termsOfAddress">d'Athènes</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Athēnagoras</mads:namePart>
+         <mads:namePart type="termsOfAddress">Athēnaios</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Άγιος Αθηναγόρας</mads:namePart>
+         <mads:namePart type="termsOfAddress">ο Αθηναίος</mads:namePart>
+         <mads:namePart type="date">ca. 2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Атинагор от Атина</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Атинагора</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Атинагора Атински</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Афинагор Афинский</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>أثيناغوارس</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>アテネのアテナゴラス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>雅典那哥拉</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Athenagoras, from Athens, From Athens (2nd cent. AD). From this author surely 
+      comes an apologia bearing the inscription πρεσβεία (presbeía) to the Emperors  Marcus Aurelius and  Commodus (CPG I 1070; [1]); 
+      whether the work mentioned at the end of this text, about the resurrection (§ 37), is identical to the one handed down in Paris.
+      graec. 451 (CPG I 1071), is controversial....." Markschies, Christoph (Berlin), “Athenagoras”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. 
+      Consulted online on 21 February 2017</mads:note>
+   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Apologist</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/106097488</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Athenagoras_of_Athens</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/106097488</mads:identifier>
+   <mads:identifier type="tlg">1205</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1205.001</identifier>
+      <identifier type="tlg">1205.002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf106097488</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
