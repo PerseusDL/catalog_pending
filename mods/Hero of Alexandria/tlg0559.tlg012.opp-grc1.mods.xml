@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.6">
+    <titleInfo type="uniform" lang="lat">
+        <title>Belopoeica</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="ger">  
+        <title>Herons Belopoiika</title>
+    </titleInfo>
+    <titleInfo type="alternative" lang="ger">
+        <title>Scrift vom Geschützbau</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22944086/">
+        <namePart>Hero</namePart>
+        <namePart type="termsOfAddress">of Alexandria</namePart>
+        <role>
+            <roleTerm type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36987838/">
+        <namePart>Diels, Hermann</namePart>
+        <namePart type="date">1848-1922</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/779284">
+        <namePart>Schramm, Erwin Adelbert</namePart>
+        <namePart type="date">1856-1935</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+        <role>
+            <roleTerm type="text">translator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Reimer</publisher>
+        <dateIssued>1918</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+    </language>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+        <extent>1 online resource (56 pages) illustrations.</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">[Hrsg. von] Hermann Alexander Diels und Erwin Schramm.</note>
+    <note>German and Greek.</note>
+    <note>"Philons Mechanik B. VII und VIII (vulgo füntes Buch)."</note>
+    <subject authority="lcsh">
+        <topic>Catapult</topic>
+    </subject>
+    <classification authority="lcc">PA3999 .A34 1970</classification>
+    <relatedItem type="otherVersion">
+        <titleInfo>
+            <title>Mēchanikē syntaxis. Selections. German &amp; Greek</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Philo,</namePart>
+            <namePart type="termsOfAddress">of Byzantium</namePart>
+        </name>
+    </relatedItem>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Abhandlungen der preussischen Akademie der Wissenschaften</title>
+            <subTitle>Philosophisch-Historische Klasse.</subTitle>
+            <partNumber>Number 2</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="tlg">0559.012</identifier>
+    <identifier type="ctsurn">urn:cts:greekLit:tlg0559.tlg012.opp-grc1</identifier>
+    <identifier type="oclc">234096346</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/234096346</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.d0002807964</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">OCoLC</recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
