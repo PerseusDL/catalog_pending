@@ -694,14 +694,23 @@
         </location>
     </relatedItem>
     <relatedItem type="constituent">
+        <titleInfo type="alternative">
+            <title>De Differentiis</title>
+        </titleInfo>
         <titleInfo>
             <title>De Differentiis Vocabulorum</title>
         </titleInfo>
+        <name authority="phi" type="corporate">
+            <namePart>Anonymi de Differentis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/66499129">
             <namePart>Fronto, Marcus Cornelius</namePart>
             <role>
-                <roleTerm type="text">creator</roleTerm>
+                <roleTerm type="text">attributed author</roleTerm>
             </role>
         </name>
         <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
@@ -715,7 +724,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="phi">1248.18</identifier>
+        <identifier type="phi">2335.1</identifier>
         <part>
             <extent unit="pages">
                 <start>519</start>
