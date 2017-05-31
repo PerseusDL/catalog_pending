@@ -927,7 +927,7 @@
     </relatedItem>
     <relatedItem type="constituent">
         <titleInfo>
-            <title>Iurisprudentia</title>
+            <title>De Verborum ad Ius Civile</title>
         </titleInfo>
         <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
             valueURI="http://viaf.org/viaf/24494242">
@@ -963,7 +963,7 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <identifier type="phi">522.2</identifier>
+        <identifier type="phi">522.1</identifier>
         <part>
             <extent unit="pages">
                 <start>37</start>
