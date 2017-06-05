@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="uniform">
+    <title>Astronomica</title>
+    </titleInfo>
+    <titleInfo type="translated" lang="fre">
+        <nonSort>L'</nonSort>
+        <title>astronomie</title>
+    </titleInfo>
+    <titleInfo type="alternative">
+        <title>Poetica astronomica</title>
+    </titleInfo>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n84-175578.html">
+        <namePart>Hyginus, C. Julius.</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/39379691/">
+        <namePart>Le Bœuffle, André.</namePart>
+        <namePart type="date">1924-2006</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>"Les Belles Lettres"</publisher>
+        <dateIssued>1983</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>Text only</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Hygin ; texte établi et traduit par André Le Bœuffle.</note>
+    <note>The work has traditionally, but incorrectly, been attributed to C. Julius Hyginus.</note>
+    <subject authority="lcsh">
+        <topic>Astronomy</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <classification authority="lcc">QB11 .H9414 1983</classification>
+    <classification authority="ddc" edition="19">520</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Collection des universités de France</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="isbn">2251013210</identifier>
+    <identifier type="lccn">83228645</identifier>
+    <identifier type="oclc">895032125</identifier>
+    <identifier type="phi">899.1</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/title/astronomie/oclc/895032125</url>
+    </location>
+    <location>
+        <url displayLabel="PHI">http://latin.packhum.org/loc/899/1/0</url>
+    </location>
+    <recordInfo>
+        <descriptionStandard>aacr</descriptionStandard>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">850607</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20090630150830.0</recordChangeDate>
+        <recordIdentifier>946457</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

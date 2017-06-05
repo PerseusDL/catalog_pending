@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>M. Cornelii Frontonis Epistulae adnotatione critica instructae</title>
+    </titleInfo>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/66499129/">
+        <namePart>Fronto, Marcus Cornelius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/54185287/">
+        <namePart>Hout, Michael Petrus Josephus van den</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <genre authority="marcgt">biography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">ne</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leiden</placeTerm>
+        </place>
+        <publisher>Brill</publisher>
+        <dateIssued>1954</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent> 262 pages : illustrations ; 25 cm.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">edited by Michael Petrus Iosephus van den Hout.</note>
+    <note>Originally published as the editor's thesis, Nijmegen.</note>
+    <note>Includes index.</note>
+    <subject>
+        <geographicCode authority="marcgac">e------</geographicCode>
+        <geographicCode authority="marcgac">ff-----</geographicCode>
+        <geographicCode authority="marcgac">aw-----</geographicCode>
+    </subject>
+    <subject authority="lcsh">
+        <name type="personal">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+        </name>
+        <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Authors, Latin</topic>
+        <topic>Correspondence</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Orators</topic>
+        <geographic>Rome</geographic>
+        <topic>Correspondence</topic>
+    </subject>
+    <classification authority="lcc">PA6389.F7 A4 1975</classification>
+    <classification authority="ddc">875/.01 B</classification>
+    <identifier type="oclc">61364696</identifier>
+    <location>
+        <url displayLabel="Worldcat"
+            >http://www.worldcat.org/title/m-cornelii-frontonis-epistulae-vol-1/oclc/61364696</url>
+    </location>
+    <location>
+        <url displayLabel="PHI">http://latin.packhum.org/author/1248</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ad M. Caesarem et Inivcem</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.1</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/1/0#0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ad M. Antoninum Imp. Epist.</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.2</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/2/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ad Verum Imp.Epistulae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.3</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/3/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Eloquentia</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.4</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/4/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Orationibus</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.5</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/5/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ad Antoninum Pium Epistulae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.6</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/6/0#0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ad Amicos Epistulae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.7</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Principiae Historiae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.8</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/7/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Laudes Fumi et Pulveris</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.9</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/9/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Laudes Neglegentiae</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.10</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/10/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Bello Parthico</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.11</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/11/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Feriis Alsiensibus</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.12</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/12/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Nepote Amisso</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.13</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/13/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Arion</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.14</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/14/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Additamentum Epist. Aceph.</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.15</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/15/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Fragmenta</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.16</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/16/0</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Carmina</title>
+        </titleInfo>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/66499129/">
+            <namePart>Fronto, Marcus Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54185287/">
+            <namePart>Hout, Michael Petrus Josephus van den</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <identifier type="phi">1248.17</identifier>
+        <location>
+            <url displayLabel="PHI">http://latin.packhum.org/loc/1248/17/0</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+        <recordOrigin/>
+    </recordInfo>
+</mods>
