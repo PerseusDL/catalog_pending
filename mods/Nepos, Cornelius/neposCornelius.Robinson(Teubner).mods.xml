@@ -1,0 +1,1077 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>Cornelii Nepotis Vitae cum fragmentis</title>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>Vitae</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+        authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+        <namePart>Nepos, Cornelius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/9862890">
+        <namePart>Marshall, Peter K.</namePart>
+        <namePart type="date">1934-2001</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <genre authority="marcgt">bibliography</genre>
+    <genre authority="marcgt">biography</genre>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>B. G. Teubner</publisher>
+        <dateIssued>1977</dateIssued>
+        <edition>1. Aufl.</edition>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xvii, 122 p.; 21 cm</extent>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">edidit Peter K. Marshall</note>
+    <note>Includes index</note>
+    <note type="bibliography">Bibliography: p. x-xvi</note>
+    <subject authority="lcsh">
+        <topic>Generals</topic>
+        <geographic>Greece</geographic>
+        <genre>Biography</genre>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Generals</topic>
+        <geographic>Rome</geographic>
+        <genre>Biography</genre>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Classical biography</topic>
+        <genre>Early works to 1800</genre>
+    </subject>
+    <classification authority="lcc">PA6515 .A2 1977</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Bibliotheca scriptorum Graecorum et Romanorum Teubneriana</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">78393329</identifier>
+    <identifier type="phi">588.1</identifier>
+    <identifier type="stoa author-text">stoa0210-stoa003</identifier>
+    <identifier type="oclc">889991920</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/889991920</url>
+    </location>
+    <location>
+        <url displayLabel="SLUB">http://digital.slub-dresden.de/id413007219</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Miltiades</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>2</start>
+                <end>6</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB">http://digital.slub-dresden.de/werkansicht/dlf/105667/10/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Themistocles</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo002</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>7</start>
+                <end>13</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/15/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Aristides</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo003</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>13</start>
+                <end>15</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/21/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pausanias</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo004</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>15</start>
+                <end>17</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/23/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Cimon</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo005</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>18</start>
+                <end>19</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/26/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Lysander</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo006</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>20</start>
+                <end>22</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/28/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Alcibiades</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo007</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>22</start>
+                <end>29</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/30/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Thrasybulus</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo008</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>29</start>
+                <end>31</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/37/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Conon</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo009</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>31</start>
+                <end>34</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/39/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Dion</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo010</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>34</start>
+                <end>39</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/42/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Iphicrates</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">urn:cts:latinLit:phi0588.abo011</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>39</start>
+                <end>40</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/47/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Chabrias</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo012</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>41</start>
+                <end>42</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/49/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Timotheus</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo013</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>42</start>
+                <end>45</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/50/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Datames</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo014</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>45</start>
+                <end>51</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/53/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epaminondas</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo015</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>52</start>
+                <end>56</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/59/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Pelopidas</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo016</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>56</start>
+                <end>59</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/64/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Agesilaus</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo017</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>59</start>
+                <end>64</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/67/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Eumenes</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo018</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>64</start>
+                <end>72</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/72/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Phocion</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo019</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>72</start>
+                <end>73</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/80/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Timoleon</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo020</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>74</start>
+                <end>76</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/82/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Reges</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo021</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>76</start>
+                <end>78</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/84/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Hamilcar</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo022</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>78</start>
+                <end>80</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/86/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Hannibal</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo023</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>80</start>
+                <end>86</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/88/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Cato</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo024</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>87</start>
+                <end>89</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/95/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Atticus</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="Perseus:abo">phi0588.abo025</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>89</start>
+                <end>101</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/97/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Chronica</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="stoa author-text">stoa0210-stoa001</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>101</start>
+                <end>102</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/109/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Exempla</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="stoa author-text">stoa0210-stoa005</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>102</start>
+                <end>108</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/110/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De Vita M. Tulli Ciceronis</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="stoa author-text">stoa0210-stoa006</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>108</start>
+                <end>108</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/116/0/</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Epistulae ad Ciceronem</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" usage="primary" nameTitleGroup="1"
+            authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/100219060">
+            <namePart>Nepos, Cornelius</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/9862890">
+            <namePart>Marshall, Peter K.</namePart>
+            <namePart type="date">1934-2001</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <identifier type="stoa author-text">stoa0210-stoa004</identifier>
+        <language objectPart="text">
+            <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+        </language>
+        <part>
+            <extent unit="pages">
+                <start>108</start>
+                <end>108</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="SLUB"
+                >http://digital.slub-dresden.de/werkansicht/dlf/105667/116/0/</url>
+        </location>
+    </relatedItem>
+    
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">790124</recordCreationDate>
+        <recordChangeDate encoding="iso8601">20060615101658.0</recordChangeDate>
+        <recordIdentifier>1804069</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>

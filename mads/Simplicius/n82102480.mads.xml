@@ -1,0 +1,81 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Simplicius</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Cilicia</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pseudo-Simplicius</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="cat">
+    <mads:name type="personal">
+      <mads:namePart>Simplici</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Simplikios</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Σιμπλίκιος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Κίλιξ</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="gre">
+    <mads:name type="personal">
+      <mads:namePart>Simplikios</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Kilix</mads:namePart>
+      <mads:namePart type="date">approxomately 490-560</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="rus">
+    <mads:name type="personal">
+      <mads:namePart>Симпликий</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Simplicio</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Cilicia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">His Simplicii commentarius in IV libros Aristotelis De coelo ... 1865</mads:note>
+  <mads:note type="source">Ency. Brit., 15th ed. (Simplicius of Cilicia, fl. c. AD 530)</mads:note>
+  <mads:note type="source">Colliers, 1973 (Simplicius)</mads:note>
+  <mads:note type="source">Brill's new Pauly online, 2 October 2013 (Simplicius, Σιμπλίκιος,
+    neoplatonic philosopher, from Cilicia,  c. AD 490-560)</mads:note>
+  <mads:note type="source">Thesaurus linguae graecae, 2 October 2013 (Σιμπλίκιος ὁ Κίλιξ)</mads:note>
+  <mads:note type="source">Pseudo-Simplicius. On Aristotle on the soul 3.6-13, 2013: title page ("Simplicius")
+    page 3 (Pseudo (Ps.-)Simplicius, Carlos G. Steel and Arnis Ritups, editors, use this designation for the author 
+    of a commentary on Aristotle's De anima formerly attributed to Simplicius of Cilicia)</mads:note>
+  <mads:identifier type="lccn">n  82102480 </mads:identifier>
+  <mads:fieldOfActivity>Neoplatonism </mads:fieldOfActivity>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:identifier type="tlg">4013</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/71399875/</mads:url>
+  <mads:url displayLabel="Id.gov">http://id.loc.gov/authorities/names/n82102480</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Simplicius_of_Cilicia</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">4013.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20140612070257.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n82102480</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

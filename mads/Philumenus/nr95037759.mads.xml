@@ -1,0 +1,63 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Philumenus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Alexandrinus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name>
+      <mads:namePart>Φιλούμενος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Philumenos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="gre">
+    <mads:name type="personal">
+      <mads:namePart>Philoumenos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="">
+    <mads:name type="personal">
+      <mads:namePart>Filominus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Philumène‏</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">De medicina, versio latina, 1991: PHI CD ROM #5.3, Latin Canon, bibliographic screen
+    (Philumenus medicus)</mads:note>
+  <mads:note type="source">Pauly-Wissowa: 39. Halbbd., col. 209-211, "Philumenos", #7 (Philumenos,
+    medical writer of the period of the Empire, is first cited by Oribasios (middle 4th cent.), modern authorities place him about 180 A.D. 
+    as he neither cites nor is cited by Galen)</mads:note>
+  <mads:note type="source">Oxford class. dict., 1st ed.: p. 686 (Philumenus, of Alexandria, member of the eclectic school of medicine, c. A.D. 180)</mads:note>
+  <mads:note type="source">Dict. of Greek and Roman biog. and mythology, 1967: v. 2, p. 334 (Philumenus, Greek Philoumenos, 
+    a Greek physician, nothing is known as to th events of his life, and with respect to his date, as the earliest author 
+    who cites him is Oribasius, it can only be said that he must have lived in or before the 4th century)</mads:note>
+  <mads:fieldOfActivity>Medical author</mads:fieldOfActivity>
+  <mads:identifier type="lccn">nr 95037759 </mads:identifier>
+  <mads:identifier type="tlg">0671</mads:identifier>
+  <mads:identifier type="phi">1380</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/263448851/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Philumenus</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <mads:identifier type="phi">1380.1</mads:identifier>
+    <mads:identifier type="tlg">0671.001</mads:identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NNC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">19951014052420.8</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr95037759</mads:recordIdentifier>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

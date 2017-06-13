@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo>
+        <title>De chorographia libri tres</title>
+    </titleInfo>
+    <titleInfo type="uniform" nameTitleGroup="1">
+        <title>De chorographia</title>
+    </titleInfo>
+    <name authority="viaf" authorityURI="http://viaf.org/viaf/" type="personal"
+        valueURI="http://viaf.org/viaf/34489209">
+        <namePart>Mela, Pomponius</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/65016872">
+        <namePart>Ranstrand, Gunnar</namePart>
+        <namePart type="date">1914-</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">sw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Stockholm</placeTerm>
+        </place>
+        <publisher>Almqvist &amp; Wiksell</publisher>
+        <dateIssued>1971</dateIssued>
+        <dateIssued encoding="marc">1971</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility" altRepGroup="00">Edidit Gunnar Ranstrand.</note>
+    <subject authority="lcsh">
+        <topic>Geography, Ancient</topic>
+    </subject>
+    <classification authority="lcc">PA6512 .A2 1971</classification>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Acta Universitatis Gothoburgensis</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Studia Graeca et Latina Gothoburgensia, 28</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="lccn">78881751</identifier>
+    <identifier type="oclc">270704218</identifier>
+    <identifier type="phi">929.1</identifier>
+    <identifier type="stoa author-text">stoa0200-stoa001</identifier>
+    <location>
+        <url displayLabel="Worldcat">http://www.worldcat.org/oclc/270704218</url>
+    </location>
+    <location>
+        <url displayLabel="PHI">http://latin.packhum.org/author/929</url>
+    </location>
+    <recordInfo>
+        <recordContentSource authority="marcorg">DLC</recordContentSource>
+        <recordCreationDate encoding="marc">760920</recordCreationDate>
+        <recordChangeDate encoding="iso8601">19901207124555.1</recordChangeDate>
+        <recordIdentifier>2278409</recordIdentifier>
+        <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+    </recordInfo>
+</mods>
