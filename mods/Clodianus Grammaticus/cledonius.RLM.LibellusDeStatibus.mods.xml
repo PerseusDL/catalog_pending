@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Libellus de statibus</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/2857704">
+        <namePart>Clodianus</namePart>
+        <namePart type="termsOfAddress">Grammaticus</namePart>
+        <namePart type="date">4. Jh</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://errol.oclc.org/laf/n86-825147.html">
+        <namePart>Halm, Karl</namePart>
+        <namePart type="date">1809-1882</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <identifier type="stoa author-text">stoa0091b-stoa001</identifier>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>590</start>
+            <end>592</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=wX8CAAAAYAAJ&amp;pg=PA590</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/nyp.33433082511977?urlappend=%3Bseq=612</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <title>Rhetores Latini minores</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/n86-825147.html">
+            <namePart>Halm, Karl</namePart>
+            <namePart type="date">1809-1882</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre authority="marc">bibliography</genre>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Lipsiae</placeTerm>
+            </place>
+            <publisher>in aedibus B. G. Teubneri</publisher>
+            <publisher>Wm. C. Brown Reprint Library</publisher>
+            <edition>Reprint</edition>
+            <dateIssued>1863</dateIssued>
+            <dateModified>1964</dateModified>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>xvi, 658 p. 25 cm.</extent>
+        </physicalDescription>
+        <note type="statement of  responsibility">Ex codicibus maximam partem primum adhibitis emendabat
+            Carolus Halm.</note>
+        <note>Includes bibliographical references.</note>
+        <subject authority="lcsh">
+            <topic>Rhetoric, Ancient</topic>
+        </subject>
+        <classification authority="lcc">PA6138</classification>
+        <classification authority="ddc">808.047</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Bibliotheca scriptorum graecorum et romanorum Teubneriana. [S.r.]</title>
+            </titleInfo>
+            <titleInfo type="abbreviated">
+                <title>Teubner</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">9754657</identifier>
+        <location>
+            <url displayLabel="WorldCat">http://worldcat.org/oclc/9754657 </url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks" note="1863 edition"
+                >http://books.google.com/books?id=wX8CAAAAYAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance">
+                http://www.archive.org/details/rhetoreslatinim00halmuoft</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust">https://hdl.handle.net/2027/nyp.33433082511977</url>
+        </location>
+    </relatedItem>
+</mods>

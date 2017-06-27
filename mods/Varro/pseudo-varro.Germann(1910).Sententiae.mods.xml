@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+    version="3.5">
+    <titleInfo type="uniform" lang="lat">
+        <title>Sententiae</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+        ns2:href="http://viaf.org/viaf/100219311">
+        <namePart>Pseudo-Varro</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/304984080">
+        <namePart>Germann, Peter</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+        </role>
+    </name>
+    <identifier type="phi">1041.1</identifier>
+    <language objectPart="text">
+        <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
+    </language>
+    <part>
+        <extent unit="pages">
+            <start>30</start>
+            <end>43</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="PHI">http://latin.packhum.org/loc/1041/1/0#0</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust"
+            >https://hdl.handle.net/2027/mdp.39015027555385?urlappend=%3Bseq=362</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>Die</nonSort>
+            <title>sogenannten Sententiae Varronis</title>
+        </titleInfo>
+        <name type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/304984080">
+            <namePart>Germann, Peter</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">gw</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">Paderborn</placeTerm>
+            </place>
+            <publisher>F. Schöningh</publisher>
+            <dateIssued>1910</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm type="code" authority="iso639-2b">ger</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>2 p. l., 98 p., 1 l. 24 cm.</extent>
+        </physicalDescription>
+        <note type="statement of responsibility" altRepGroup="00">Von Peter Germann.</note>
+        <subject authority="lcsh">
+            <name type="personal">
+                <namePart>Varro, Marcus Terentius</namePart>
+            </name>
+            <titleInfo>
+                <title>Sententiae Varronis</title>
+            </titleInfo>
+        </subject>
+        <classification authority="lcc">PA6792.Z9 G4</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Studien zur Geschichte und Kultur des Altertums ... 3. Bd., 6. Hft</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="lccn">10026159</identifier>
+        <identifier type="oclc">9914473</identifier>
+        <location>
+            <url displayLabel="Worldcat">http://www.worldcat.org/oclc/9914473</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/mdp.39015027555385?urlappend=%3Bseq=330</url>
+        </location>
+        <recordInfo>
+            <recordContentSource authority="marcorg">DLC</recordContentSource>
+            <recordCreationDate encoding="marc">830916</recordCreationDate>
+            <recordChangeDate encoding="iso8601">20050815184409.0</recordChangeDate>
+            <recordIdentifier>7287956</recordIdentifier>
+            <recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl
+				(Revision 1.106 2014/12/19)</recordOrigin>
+        </recordInfo>
+    </relatedItem>
+</mods>
