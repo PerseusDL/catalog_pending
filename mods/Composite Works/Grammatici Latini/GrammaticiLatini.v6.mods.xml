@@ -111,18 +111,53 @@
         <language objectPart="text">
             <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
         </language>
-        <note>While this work was once considered to be wrriten by Marius Victorinus (as is reflected in this edition), current scholarship now 
+        <note>While this work was once considered to be written by Marius Victorinus (as is reflected in this edition), current scholarship now 
             considers the later part of this grammar to be the work of Asmonius.</note>
         <identifier type="stoa author-text">stoa0036b-stoa001</identifier>
         <part>
             <extent unit="pages">
                 <start>31</start>
-                <end>184</end>
+                <end>173</end>
             </extent>
         </part>
         <location>
             <url displayLabel="HathiTrust"
                 >http://hdl.handle.net/2027/uva.x004144048?urlappend=%3Bseq=60</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>De metris Horatianis</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/54536718">
+            <namePart>Asmonius, Aelius Festus</namePart>
+            <namePart type="date">d  4./5. Jh</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" usage="primary" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/2604826">
+            <namePart>Keil, Heinrich</namePart>
+            <namePart type="date">1822-1894</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+        </language>
+        <identifier type="stoa author-text">stoa0036b-stoa002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>174</start>
+                <end>184</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/uva.x004144048?urlappend=%3Bseq=204</url>
         </location>
     </relatedItem>
     <relatedItem type="constituent">

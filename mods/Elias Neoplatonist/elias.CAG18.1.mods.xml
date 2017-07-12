@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   version="3.3"
+   xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+   <titleInfo>
+      <title>Eliae in Porphyrii isagogen et Aristotelis categorias commentaria</title>
+   </titleInfo>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/2147118089326340297/">
+      <namePart>Elias</namePart>
+      <namePart type="termsOfAddress">Neoplatonicus</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+      </role>
+   </name>
+   <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+      valueURI="http://viaf.org/viaf/98427196/">
+      <namePart>Busse, Adolf</namePart>
+      <namePart type="date">1856-1942</namePart>
+      <role>
+         <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+      </role>
+   </name>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <place>
+         <placeTerm type="code" authority="marccountry">gw</placeTerm>
+      </place>
+      <place>
+         <placeTerm type="text">Berlin</placeTerm>
+      </place>
+      <publisher>typ. et impensis G. Reimeri</publisher>
+      <dateIssued>1900</dateIssued>
+      <issuance>monographic</issuance>
+   </originInfo>
+   <language objectPart="preface">
+      <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+   </language>
+   <language objectPart="text">
+      <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+   </language>
+   <physicalDescription>
+      <form authority="marcform">print</form>
+      <extent>xxii, 288 pages ; 26 cm.</extent>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+   </physicalDescription>
+   <classification authority="lcc">PA3902 A25</classification>
+   <classification authority="ddc"/>
+   <identifier type="oclc">75481841</identifier>
+   <location>
+      <url displayLabel="WorldCat">http://www.worldcat.org/oclc/75481841</url>
+   </location>
+   <location>
+      <url displayLabel="Open Content Alliance"
+         >http://www.archive.org/details/commentariaina18pt13akaduoft</url>
+   </location>
+   <location>
+      <url displayLabel="GoogleBooks">http://books.google.com/books?id=FecUAAAAQAAJ</url>
+   </location>
+   <location>
+      <url displayLabel="HathiTrust">https://hdl.handle.net/2027/uc1.aa0008103608</url>
+   </location>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>In Porphyrii isagogen</title>
+      </titleInfo>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/2147118089326340297/">
+         <namePart>Elias</namePart>
+         <namePart type="termsOfAddress">Neoplatonicus</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
+         </role>
+      </name>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/98427196/">
+         <namePart>Busse, Adolf</namePart>
+         <namePart type="date">1856-1942</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <language objectPart="text">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <identifier type="tlg">4020.001</identifier>
+      <!--      <identifier type="tlg" displayLabel="isCommentaryOn">2034.006</identifier> -->
+      <part>
+         <extent unit="pages">
+            <start>1</start>
+            <end>104</end>
+         </extent>
+      </part>
+      <location>
+         <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/commentariaina18pt13akaduoft#page/n37/mode/2up</url>
+      </location>
+      <location>
+         <url displayLabel="HathiTrust"
+            >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=40</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>Eliae (olim Davidis) in Aristotelis categorias commentarium</title>
+      </titleInfo>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/2147118089326340297/">
+         <namePart>Elias</namePart>
+         <namePart type="termsOfAddress">Neoplatonicus</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">attributed author</roleTerm>
+         </role>
+      </name>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/98427196/">
+         <namePart>Busse, Adolf</namePart>
+         <namePart type="date">1856-1942</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <language objectPart="text">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <identifier type="tlg">4020.002</identifier>
+      <!--      <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
+      <part>
+         <extent unit="pages">
+            <start>107</start>
+            <end>255</end>
+         </extent>
+      </part>
+      <location>
+         <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+      </location>
+      <location>
+         <url displayLabel="HathiTrust"
+            >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="constituent">
+      <titleInfo>
+         <title>In Aristotelis categorias commentarium</title>
+      </titleInfo>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/14779150/">
+         <namePart>David</namePart>
+         <namePart type="termsOfAddress">the Invincible</namePart>
+         <role>
+            <roleTerm type="text" authority="marcrelator">creator</roleTerm>
+         </role>
+      </name>
+      <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+         valueURI="http://viaf.org/viaf/98427196/">
+         <namePart>Busse, Adolf</namePart>
+         <namePart type="date">1856-1942</namePart>
+         <role>
+            <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+         </role>
+      </name>
+      <language objectPart="text">
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <identifier type="tlg">4021.003</identifier>
+      <!-- Have cataloged this work twice, as it is now commonly attributed to David the Armenian commentator -->
+      <!--      <identifier type="tlg" displayLabel="isCommentaryOn">0086.006</identifier> -->
+      <part>
+         <extent unit="pages">
+            <start>107</start>
+            <end>255</end>
+         </extent>
+      </part>
+      <location>
+         <url displayLabel="Open Content Alliance"
+            >https://archive.org/stream/commentariaina18pt13akaduoft#page/n143/mode/2up</url>
+      </location>
+      <location>
+         <url displayLabel="HathiTrust"
+            >https://hdl.handle.net/2027/uc1.aa0008103608?urlappend=%3Bseq=144</url>
+      </location>
+   </relatedItem>
+   <relatedItem type="series">
+      <titleInfo>
+         <title>Commentaria in Aristotelem graeca</title>
+         <subTitle>Edita consilio et auctoritate Academiae litterarum regiae borussicae</subTitle>
+         <partNumber>Vol 18</partNumber>
+         <partNumber>Pars 1</partNumber>
+      </titleInfo>
+      <name type="corporate">
+         <namePart>Akademie der Wissenschaften, Berlin</namePart>
+      </name>
+      <typeOfResource>text</typeOfResource>
+      <originInfo>
+         <place>
+            <placeTerm type="text">Berolini</placeTerm>
+         </place>
+         <publisher>Typ. et impensis G. Reimeri</publisher>
+         <dateIssued>1900</dateIssued>
+         <issuance>monographic</issuance>
+      </originInfo>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
+      </language>
+      <language>
+         <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+      </language>
+      <physicalDescription>
+         <form authority="marcform">print</form>
+      </physicalDescription>
+      <note type="additional physical form">Digitized and made available by: University of Toronto Libraries</note>
+      <subject authority="lcsh">
+         <name type="personal">
+            <namePart>Aristotle</namePart>
+         </name>
+         <topic>Commentaries</topic>
+      </subject>
+      <classification authority="lcc">PA3902 A25</classification>
+   </relatedItem>
+   <recordInfo>
+      <recordContentSource authority="marcorg">OTU</recordContentSource>
+      <recordCreationDate encoding="marc">670101</recordCreationDate>
+      <languageOfCataloging>
+         <languageTerm authority="iso639-2b" type="code">ENG</languageTerm>
+      </languageOfCataloging>
+   </recordInfo>
+</mods>

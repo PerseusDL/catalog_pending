@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">the Invincible</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Δαβίδ ο Αρμένιος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">the Philosopher</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">the Unconquered</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David l'Invincible</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Neoplatonicien</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davitʹ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaġtʹ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʿ Anyaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Դավիթ Անհաղթ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anakht, David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anhaght', David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anhaght'</mads:namePart>
+         <mads:namePart type="termsOfAddress">David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anhaghtʻ, Dawitʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anyaght, Dawit</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anyagt, Dawit</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anyagt</mads:namePart>
+         <mads:namePart type="termsOfAddress">Dawit</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davi, o Invencível</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Armenius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Armeno</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David : l'Invincibile</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Anacht</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Anakht</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Anhaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Anhaght</mads:namePart>
+         <mads:namePart type="termsOfAddress">Armenian philosopher/5th century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Armenius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Nepobedimyj</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David Philosophus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David de Nerken</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David l'Arménien</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David le Philosophe</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anacht</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Armenicus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Armeniensis</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">L'Arménien</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Neoplatonist</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davide</mads:namePart>
+         <mads:namePart type="termsOfAddress">L'Invincibile</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Armenius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Armeno</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Nepobedimyĭ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>David</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosoph der Antike</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davit Anhaght</mads:namePart>
+         <mads:namePart type="termsOfAddress">philosophe antique</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davit Anyaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davit Anyalt</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davitʹ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʹ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davitʹ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhałtʹ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Davitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawid Niezwyciężony</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawit Angaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawit Angaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawit' Anyaġt'</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʹ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anyaġtʹ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʹ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anyałtʹ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anyałtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anyałtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʿ Anyałtʿ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Dawitʿ Anyałtʿ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Harkazi, David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Harkʻatsʻ, David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Harkʻatsʻ, Dawitʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Nepobedimyj, David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-David</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-David</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-David</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Tavit Anhaght</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Tavitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Tawitʻ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Anhaghtʻ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Давид Анахт</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Давид</mads:namePart>
+         <mads:namePart type="termsOfAddress">Анахт</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Давид</mads:namePart>
+         <mads:namePart type="termsOfAddress">Непобедимый</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Давід Анахт</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Դավիթ Անհաղթ</mads:namePart>
+         <mads:namePart type="termsOfAddress">հայ փիլիսոփա</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Դավիթ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Անհաղթ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Դաւթի Անյաղթ</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Դաւիթ</mads:namePart>
+         <mads:namePart type="termsOfAddress">Անյաղթ</mads:namePart>
+         <mads:namePart type="date">6e E</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>داود الذي لا يغلب</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ダヴィド・アンハグト</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "David, 2, David of Armenia Commentator on Aristotle,  
+      Commentator on Aristotelian logic; it appears that he studied in Alexandria with  Olympiodorus, the pupil of 
+      Ammonius [12], in the 2nd half of the 6th cent. AD. His works were translated into Armenian between the end 
+      of the 6th and the middle of the 7th cent. According to an Armenian tradition, which can be traced back to 
+      the 10th cent., he came from the otherwise unknown village of Nergin in Tarawn; the holy translators of the
+      5th cent. reportedly sent their pupil David abroad for study purposes where he earned himself the epithet 
+      ‘the invincible’ (Dawit' Anyalt')..." </mads:note>
+   <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Neoplatonist</mads:fieldOfActivity>
+   <mads:identifier type="uri">http://viaf.org/viaf/14779150</mads:identifier>
+   <mads:identifier type="tlg">4021</mads:identifier>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/14779150</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/David_the_Invincible</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">4021.001</identifier>
+      <identifier type="tlg">4021.002</identifier>
+      <identifier type="tlg">4021.003</identifier>
+   </mads:extension>   
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf14779150</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
