@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+    version="2.0">
+    <mads:authority>
+        <mads:name>
+            <mads:namePart>Pseudo-Arrian</mads:namePart>
+        </mads:name>
+    </mads:authority>
+    <mads:related>
+        <mads:titleInfo authority="naf">
+            <mads:title>Periplus Ponti Euxini</mads:title>
+        </mads:titleInfo>
+    </mads:related>
+    <mads:related>
+        <mads:titleInfo authority="naf">
+            <mads:title>Periplus Maris Erythraei</mads:title>
+        </mads:titleInfo>
+    </mads:related>
+    <mads:variant>
+        <mads:name>
+            <mads:namePart>Pseudo-Arrianus</mads:namePart>
+        </mads:name>
+    </mads:variant>
+    <mads:variant>
+        <mads:name>
+            <mads:namePart>Arrian (Pseudo)</mads:namePart>
+        </mads:name>
+    </mads:variant>
+     <mads:fieldOfActivity>Anonymous Author</mads:fieldOfActivity>
+    <mads:identifier type="tlg">0075</mads:identifier>
+    <mads:identifier type="tlg">0071</mads:identifier>
+    <mads:note type="source">Brill's New Pauly: "Arrian, 3, Anonymus author of a Periplus Ponti Euxini, 
+        Term for the anonymous author of one Periplus Ponti Euxini which is primarily based on the  Periplus of 
+        Menippus in the epitome of Marcianus, the Periplus of  Arrianus [2], Ps.  Scymnus and Ps. Scylax;
+        probably written after AD 576...."Badian, Ernst (Cambridge, MA) and Heucke, Clemens (Munich), “Arrianus”,
+        in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 27 July 2017</mads:note>
+    <mads:note type="source">New encyc. Brit. (Periplus Maris Erythraei ("Circumnavigatin of the Erythrean Sea"), anon.
+        Greek geog. work written in the 1st cent. AD)</mads:note>
+    <mads:note type="source">LCCS PA4267.P143 (Periplus Ponti Euxini; anonymous compilation from Arrianus, Menippus, Marcianus, 
+        and Pseudo-Scymnus, wrongly ascribed to Arrianus)</mads:note>  
+    <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Periplus_of_the_Erythraean_Sea</mads:url>
+    <mads:extension>
+        <mads:description>List of related work identifiers</mads:description>
+        <identifier type="tlg">0075.001</identifier>
+        <identifier type="tlg">0071.001</identifier>
+    </mads:extension>
+    <mads:recordInfo>
+        <mads:languageOfCataloging xmlns="http://www.loc.gov/mods/v3">
+            <mads:languageTerm/>
+        </mads:languageOfCataloging>
+        <mads:recordContentSource xmlns="http://www.loc.gov/mods/v3">Perseus Digital Library</mads:recordContentSource>
+        <mads:recordCreationDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordChangeDate xmlns="http://www.loc.gov/mods/v3"/>
+        <mads:recordIdentifier xmlns="http://www.loc.gov/mods/v3"/>
+    </mads:recordInfo>
+</mads:mads>
