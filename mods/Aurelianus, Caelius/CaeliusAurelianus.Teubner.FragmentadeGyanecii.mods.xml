@@ -23,7 +23,7 @@
         </role>
     </name>
     <identifier type="tlg">0565.001</identifier>
-    <language>
+    <language objectPart="text">
         <languageTerm authority="iso639-2b" type="code">lat</languageTerm>
     </language>
     <part>
