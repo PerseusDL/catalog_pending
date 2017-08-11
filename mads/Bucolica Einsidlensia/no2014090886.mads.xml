@@ -1,0 +1,49 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority>
+    <mads:name authority="viaf" type="corporate" authorityURI="http://viaf.org/viaf" valueURI="http://viaf.org/viaf/183852674/">
+      <mads:namePart>Bucolica Einsidlensia</mads:namePart>
+    </mads:name>
+  </mads:authority>  
+  <mads:related>
+    <mads:titleInfo authority="naf">
+      <mads:title>Bucolica Einsidlensia</mads:title>
+    </mads:titleInfo>
+  </mads:related>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Carmina Einsidlensia</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name>
+      <mads:namePart>Einsiedeln Eclogues</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:note type="source">Consolation à Livie , Elégies à Mécène, Bucoliques d'Einsiedeln, 1997: page 129 ff. (Carmina Einsidlensia,
+    attributed to Calpurnius Siculus or Lucan, but not their work, the poems probably date to the 60s AD)</mads:note>
+  <mads:note type="source">Packard Humanities Institute, Classical Latin texts, via WWW, 8 July 2014 (Bucolica Einsidlensia)</mads:note>
+  <mads:note type="source">Brill's new Pauly online, 8 July 2014 (Einsiedeln Eclogues, two bucolic poems in the Codex Einsidlensis,
+    from the Neronian period)</mads:note>
+  <mads:identifier type="lccn">no2014090886</mads:identifier>
+  <mads:identifier type="phi">821</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/183852674/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Einsiedeln_Eclogues</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="phi">821.1</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20140710071109.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2014090886</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
