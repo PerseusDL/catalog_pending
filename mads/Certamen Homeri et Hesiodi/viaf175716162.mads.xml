@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="lat">
+      <mads:name>
+         <mads:namePart>Certamen Homeri et Hesiodi</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Certamen Homeri et Hesiodi</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Agōn Homerou kai Hēsiodou</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other" lang="grc">
+      <mads:titleInfo>
+         <mads:title>Αγὼν Ὁμήρου καὶ Ἡσιόδου</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other" lang="eng">
+      <mads:titleInfo>
+         <mads:title>Contest of Homer and Hesiod</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:titleInfo>
+         <mads:title>Homeri et Hesiodi certamen</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Contest of Homer and Hesiod, The ‘Contest of Homer and Hesiod’ (CHH), which is 
+      only related in one MS (Cod. Laurentianus Graecus 56,1), is part of the ancient anecdotal-biographical tradition 
+      surrounding famous poets and thinkers...."  Furley, William D. (Heidelberg), “Contest of Homer and Hesiod”, in: Brill’s New Pauly, 
+      Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider.</mads:note>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Contest_of_Homer_and_Hesiod</mads:url>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/175716162</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/175716162</mads:identifier>
+   <mads:identifier type="tlg">1252</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1252.002</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf175716162</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

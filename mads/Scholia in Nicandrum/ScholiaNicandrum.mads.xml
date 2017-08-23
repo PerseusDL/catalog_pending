@@ -1,0 +1,38 @@
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.loc.gov/mads/ http://www.loc.gov/standards/mads/mads.xsd http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd"
+  version="2.0">
+  <mads:authority geographicSubdivision="not applicable">
+ <mads:name>
+   <mads:namePart>Scholia in Nicandrum</mads:namePart>
+ </mads:name>   
+  </mads:authority>
+  <mads:related>
+    <mads:name authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22275493">
+      <mads:namePart>Nicander</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Colophon</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant>
+    <mads:name>
+      <mads:namePart>Scholia et glossae in Nicandri alexipharmaca (scholia vetera et recentiora)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant>
+    <mads:name>
+      <mads:namePart>Scholia et glossae in Nicandri theriaca (scholia vetera et recentiora)</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:identifier type="tlg">5031</mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">5031.001</identifier>
+    <identifier type="tlg">5031.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="phi">
+         <mads:namePart>Carmen de bello Aegyptiaco</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal" authority="viaf">
+         <mads:namePart>Carmen de bello Actiaco</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal" authority="viaf">
+         <mads:namePart>Bellum Actiacum</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>De bello Actiaco</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Rabirius, Gaius</mads:namePart>
+      </mads:name>
+      <mads:topic>Carmen de bello Actiaco</mads:topic>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Carmen de Bello Aegyptiaco, (or Actiaco) is the modern title for 52 hexameters in eight columns and some fragments on P Hercul. 817. It is improbable
+      that Rabirius was their author; they were more likely part of the Res Romanae by Cornelius Severus.
+      The poem deals with Octavian's Egyptian campaign after Actium, and Cleopatra's preparations for suicide." 
+      Courtney, Edward (Charlottesville, VA), “Carmen de bello Aegyptiaco”, in: Brill’s New Pauly, Antiquity 
+      volumes edited by: Hubert Cancik and , Helmuth Schneider.</mads:note>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/195004361</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/195004361</mads:identifier>
+   <mads:identifier type="phi">706</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="phi">706.1</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf195004361</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
