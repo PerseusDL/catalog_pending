@@ -1,0 +1,58 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+<mads:name authority="viaf">
+  <mads:namePart>Stadiasmus Maris Magni</mads:namePart>
+</mads:name>
+  </mads:authority>
+  <mads:variant>
+    <mads:name>
+      <mads:namePart>Stadiasmus magni maris</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Periplous tēs megalēs thalassēs</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Stadiasmos tēs megalēs thalassēs</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Periplus Maris Magni</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Σταδιασμὸς ἢ Περίπλους‏ </mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:note type="source">Megalē hellēnikē enkyk. (Stadiasmos tēs megalēs thalassēs)</mads:note>
+  <mads:note type="source">Markianos, Menippos, Stadiasmos, 1841: t.p. (Stadiasmus magni maris) p. 181 
+    (Stadiasmos ētoi Periplous tēs megalēs thalassēs)</mads:note>
+  <mads:note type="source">Wikipedia, August 21, 2017: "The Stadiasmus Maris Magni is an ancient Roman periplus or guidebook
+    detailing the ports sailors encounter on the shores of the Mediterranean Sea.[1] The stadiasmus provides distances, 
+    sailing directions and descriptions of specific ports.[2] It was written in Ancient Greek and survives in fragments.
+    The work was written by an anonymous author and is dated to the second half of the third century AD....."</mads:note>
+  <mads:identifier type="lccn">no 97067484 </mads:identifier>
+  <mads:identifier type="viaf"></mads:identifier>
+  <mads:identifier type="tlg">0077</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/205630045/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Stadiasmus_Maris_Magni</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0077.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">19971119053326.4</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no97067484</mads:recordIdentifier>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
