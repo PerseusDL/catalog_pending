@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name>
+         <mads:namePart>Ilias Latina</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Iliade latine</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Homerus Latinus</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>(De) Troiano bello</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>De Troiano bello</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Homerus Latinus</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Homerus latinus vel Ilias latina</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Iliados epitome latina</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Ilias Latina, Baehrens attributed the name to a Latin poem that abbreviates Homer's Iliad 
+      to 1,070 hexameters. It is quoted by  Lactantius Placidus in regard to Stat. Theb. 6,114 (121) under the name of Homerus,
+      which also appears in the titles of most of the early medieval MSS. Later it is attributed to Pindarus for unknown reasons...
+      Style and metre do not provide a firm basis for dating...." Courtney, Edward (Charlottesville, VA), “Ilias Latina”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , 
+      Helmuth Schneider. Consulted online on 24 August 2017
+   ......</mads:note>
+   <mads:fieldOfActivity>Pseudo Author</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/183075760</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Ilias_Latina</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/183075760</mads:identifier>
+   <mads:identifier type="phi">890</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="phi">890.1</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf183075760</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
