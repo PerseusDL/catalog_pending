@@ -1,0 +1,36 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:titleInfo authority="naf">
+      <mads:title>Anthologia Latina</mads:title>
+    </mads:titleInfo>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Anth. Lat</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:note type="source">Bailey, D. R. S. Towards a text of "Anthologia Latina", 1979: t.p. (Anthologia Latina)</mads:note>
+  <mads:note type="source">LC Manual data auth. cd. (Anthologia Latina)</mads:note>
+  <mads:note type="source">Encyc. Brit., 1972 (refers to Anthologia Latina, fugitive Latin verse)</mads:note>
+  <mads:note type="source">Sacrilegus capite puniatur. Italian &amp; Latin. Il carme del pescatore sacrilego, 1998: t.p. (Anth. Lat.)</mads:note>
+  <mads:note type="source">Oxford classical dictionary, 1949 (Anthologia Latina, a collection of Latin 
+    poems made by a certain Octavianus, 532-534, at Carthage)</mads:note>
+  <mads:identifier type="lccn">n  84093130 </mads:identifier>
+  <mads:identifier type="lccn" invalid="yes">n  00036766 </mads:identifier>
+  <mads:identifier type="stoa author">stoa0299</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/180649646/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0299-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20000531080042.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n84093130</mads:recordIdentifier>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
