@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:titleInfo authority="naf">
+         <mads:title>Hellenica Oxyrhynchia</mads:title>
+      </mads:titleInfo>
+   </mads:authority>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Hellenica Oxyrhynchia</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Helléniques d'Oxyrhynchos</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Helénicas de Oxirrinco</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Elleniche di Ossirinco</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Hellenica of Oxyrhynchus</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Hellenika von Oxyrhynchos</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Helléniques d'Oxyrhynque</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Le elleniche di Ossirinco</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Hellenica Oxyrhynichia, Two series of papyrus fragments, both 2nd 
+      cent. AD.: P Oxy. 842 = PLond., year of discovery 1906, ed. by Grenfell and Hunt (who called the anonymous author P. = Papyrus) and
+      PSI 1304 = PFlor., year of discovery 1942, belonging to one and the same work of history from the first half of the 4th cent.
+      BC and comprising a total of c. 20 pages of Greek history (with gaps!). There is also possibly another new fragment....
+      The Hellenica Oxyrhynchia form a valuable and independent parallel tradition to Xen. Hell. bks. 1 and 2, and via Ephorus form the basis of Diodorus' description in bks. 13 and 14...
+      On the question of authorship, numerous studies have led to the following identifications:...Ephorus, Theopompus, Androtion, Daimachus, Cratippus,."
+      he most likely candidate is  Cratippus of Athens (FGrH 64), who was unjustly called by Jacoby a ‘late fraud’, but was actually an important historian..."
+      Meister, Klaus (Berlin), “Hellenica Oxyrhynchia”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , 
+      Helmuth Schneider. Consulted online on 11 September 2017 </mads:note>
+   <mads:fieldOfActivity>Anonymous Author</mads:fieldOfActivity>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Hellenica_Oxyrhynchia</mads:url>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/183675107</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/183675107</mads:identifier>
+   <mads:identifier type="tlg">0558</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">0558.001</identifier>
+      <identifier type="tlg">0558.002</identifier>
+      <identifier type="tlg">0558.003</identifier>
+   </mads:extension>
+
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf183675107</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

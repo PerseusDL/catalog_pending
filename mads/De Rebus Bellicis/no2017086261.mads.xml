@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:titleInfo authority="naf">
+      <mads:title>De rebus bellicis</mads:title>
+    </mads:titleInfo>
+  </mads:authority>
+  <mads:variant>
+    <mads:titleInfo>
+      <mads:title>Anonymus de Rebus Bellicis</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant>
+    <mads:titleInfo>
+      <mads:title>Anonyi de rebus bellicis liber</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant>
+    <mads:titleInfo>
+      <mads:title>De Machinis bellicis</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:note type="source">De rebus bellicis, 2017: page lii, etc. (anonymous work, writtten in the
+    4th century, probably between 366 and 370)</mads:note>
+  <mads:note type="source">Brill's New Pauly: "Anonymus de Rebus Bellicis, This work, which was written in Latin in late antiquity 
+    and is preserved together with the  Notitia Dignitatum, consists of a praefatio and 21 chapters...."</mads:note>
+  <mads:identifier type="lccn">no2017086261</mads:identifier>
+  <mads:identifier type="ota">ota0309</mads:identifier>
+  <mads:fieldOfActivity>Anonymous work</mads:fieldOfActivity>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/189562219/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/De_rebus_bellicis</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="ota">ota0309.ota001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">UPB</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20170630073659.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no2017086261</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

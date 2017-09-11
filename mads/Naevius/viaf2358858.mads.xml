@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Naevius</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Naevius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Naevius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note> The Fragmentary Latin poets, 1992:‏ ‎‡b  p. 108 (Naevius; nothing is known of this Naevius (not identical with Cn. Naevius) except that he translated the cyclic Cypria, which recounted the events preceding the Iliad)‏ </mads:note>
+   <mads:fieldOfActivity>Latin Poet</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/2358858</mads:url>
+   <mads:url displayLabel="Dataset description">http://viaf.org/viaf/data</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/2358858</mads:identifier>
+   <mads:identifier type="phi">587</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="phi">587.1</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf2358858</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

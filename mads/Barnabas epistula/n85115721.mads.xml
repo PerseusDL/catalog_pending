@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+  version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:titleInfo authority="naf">
+      <mads:title>Epistle of Barnabas</mads:title>
+    </mads:titleInfo>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Barnabas, Epistle of</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Bible</mads:title>
+      <mads:partName>Apocryphal books. Epistle of Barnabas</mads:partName>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Bible</mads:title>
+      <mads:partName>N.T. Apocryphal books. Epistle of Barnabas</mads:partName>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Catholica Barnabae epistola</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Catholique epistle of Saint Barnabas, the Apostle</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Epistola catholica</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Epistolē katholikē</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Katholikē tou Barnaba epistolē</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Sancti Barnabae Apostoli Epistola catholica</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:titleInfo>
+      <mads:title>Tou hagiou Barnaba tou Apostolou Epistolē katholikē</mads:title>
+    </mads:titleInfo>
+  </mads:variant>
+  <mads:note type="source">Brill's New Pauly: "Barnabas, Epistle of: The writer of this treatise, written in the form of a letter,
+    (CPG I 1050), who belongs to the so-called  Apostolic Fathers, does not give his name. The MSS as well as Christian 
+    theologians of the 2nd/3rd cents. like  Clemens and  Origenes (who regarded the letter as καθολικὴ ἐπιστολή: c. 
+    Cels. 1,63) state that the author is  Barnabas, the travelling companion of St. Paul....The most recent scholars attempt to point 
+    out the theological power and originality of the author in the way he interacts with his sources, avoiding the prejudices
+    formerly prevalent, above all that the author based his work on clearly formed traditions (partly from testimonies, i.e.,
+    already categorized compilations of Biblical texts). Perhaps the writing should be dated post-AD 130. The place of origin
+    remains unclear...."Markschies, Christoph (Berlin), “Barnabas, Epistle of”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider. Consulted online on 07 September 2017 
+  </mads:note>
+  <mads:note type="source">The Epistle of Barnabas, 1867</mads:note>
+  <mads:note type="source">Encyc. Brit., 1980 (Barnabas, Letter of, an early Christian work written
+    in Greek, ascribed by tradition to St. Barnabas the Apostle)</mads:note>
+  <mads:note type="source">Elborow, T. A prospect of the primitive Christianity ... 1668: p. 90 (The
+    Catholique epistle of Saint Barnabas, the Apostle)</mads:note>
+  <mads:note type="source">Its Tou hagiou Barnaba tou Apostolou Epistolē katholikē = Sanctai
+    Barnabae Apostoli Epistola catholica, 1685: p. 2-3 (Hē katholikē tou Barnaba epistolē =
+    Catholica Barnabae epistola)</mads:note>
+  <mads:note type="source">LC data base, 6/5/85 (hdg.: Bible. N.T. Apocryphal books. Epistle of
+    Barnabas)</mads:note>
+ <mads:identifier type="tlg">1216</mads:identifier>
+  <mads:identifier type="lccn">n 85115721 </mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1216.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision
+      2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130313085653.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n85115721</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

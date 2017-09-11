@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority>
+      <mads:name type="personal">
+         <mads:namePart>Phaedimus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Epicus</mads:namePart>
+         <mads:namePart type="date">3. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related>
+      <mads:name type="personal">
+         <mads:namePart>Phaedimus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Macedo</mads:namePart>
+         <mads:namePart type="date">3. Jh. v. Chr</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Φαίδιμος</mads:namePart>
+         <mads:namePart type="termsOfAddress">Βισανθηνός</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Epic Poet</mads:fieldOfActivity>
+   <mads:note>Brill's New Pauly new equates this author with Phaedimus Elegist (tlg1577)</mads:note>
+   <mads:note type="source">TLG Canon of Greek Authors and Works, Third Edition, pg. 300</mads:note>
+   <mads:note type="source">Smith's Dictionary of Greek and Roman Biography and Mythology, Vol 3, 1867, p. 230:
+   "Phaedimus, 3, an epigrammatic poet, four of whose epigrams are contained in the Greek Anthology....
+   We learn from Stephanus that he was a native of Bisanthe in Macedonia...He also
+   perhaps wrote an epic poem entitled Heracleia"</mads:note>
+   <mads:note type="source">Brill's New Pauly:  "Phaedimus, Elegist, from Bisanthe in Thrace or, according to others, from Amastri
+      ....also composed epigrams; four are preserved in the Anthologia Palatina...Author of a  Ἡρακλεία ( Hērakleía ) of which Ath. 11,498e 
+      cites one hexameter ...""Di Marco, Massimo (Fondi Latina).       "Phaedimus." Brill's New Pauly. Antiquity volumes edited by: Hubert Cancik and Helmuth Schneider . Brill, 2009. Brill Online. </mads:note>
+   <mads:url displayLabel="Wikipedia">http://en.wikipedia.org/wiki/Phaedimus_of_Bisanthe</mads:url>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/77753363</mads:url>
+   <mads:url displayLabel="Smith's Dictionary"
+      >http://quod.lib.umich.edu/cgi/t/text/pageviewer-idx?c=moa;cc=moa;rgn=full%20text;idno=ACL3129.0003.001;didno=ACL3129.0003.001;view=image;seq=00000238</mads:url>
+   <mads:identifier type="tlg">1576</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1576.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordContentSource authority="marcorg">DE-12</mads:recordContentSource>
+      <mads:recordCreationDate encoding="marc">930416</mads:recordCreationDate>
+      <mads:recordChangeDate encoding="iso8601">20080405190920.0</mads:recordChangeDate>
+      <mads:recordIdentifier source="DNB">DNB|102402353</mads:recordIdentifier>
+      <mads:languageOfCataloging>
+         <mads:languageTerm authority="iso639-2b" type="code">ger</mads:languageTerm>
+      </mads:languageOfCataloging>
+   </mads:recordInfo>
+</mads:mads>
