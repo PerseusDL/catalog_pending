@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Acta Philippi et Acta Thomae accedunt Acta Barnabae</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/77062188">
+        <namePart>Bonnet, Max</namePart>
+        <namePart type="date">1841-1917</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Mendelssohn</publisher>
+        <dateIssued>1903</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xlii, 395 p.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">edidit Maximilianus Bonnet.</note>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Acta apostolorum apocrypha</title>
+            <partNumber>Vol. 2.2</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">697604807</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/697604807</url>
+    </location>
+    <location>
+        <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003083911</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/coo.31924095644245</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
+            <namePart>Acta Thomae</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/77062188">
+            <namePart>Bonnet, Max</namePart>
+            <namePart type="date">1841-1917</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2038.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>99</start>
+                <end>288</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=148</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Πράξεις τοῦ ἁγίου ἀποστόλου Θωμᾶ</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
+            <namePart>Acta Thomae</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/77062188">
+            <namePart>Bonnet, Max</namePart>
+            <namePart type="date">1841-1917</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2038.004</identifier>
+        <part>
+            <extent unit="pages">
+                <list>108-109, 111-145, 251-258, 269-288</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=158</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=160</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=300</url>
+        </location>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=318</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Ἡ τελείωσις Θωμᾶ τοῦ ἀποστόλου</title>
+        </titleInfo>
+        <name authority="tlg" type="corporate" valueURI="http://viaf.org/viaf/175807631/">
+            <namePart>Acta Thomae</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/77062188">
+            <namePart>Bonnet, Max</namePart>
+            <namePart type="date">1841-1917</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2038.005</identifier>
+        <part>
+            <extent unit="pages">
+                <start>289</start>
+                <end>291</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/coo.31924095644245?urlappend=%3Bseq=338</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

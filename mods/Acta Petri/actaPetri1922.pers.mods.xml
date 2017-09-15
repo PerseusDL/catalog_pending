@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Les actes de Pierre</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/17269441">
+        <namePart>Vouaux, Léon</namePart>
+        <namePart type="date">1870-1914</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>Letouzey et Ané</publisher>
+        <dateIssued>1922</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>xii, 483 pages</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">introd., textes, traduction et commentaire par Léon Vouaux.</note>
+    <subject authority="lcsh">
+        <topic>Acts of Peter</topic>
+        <genre>Criticism, interpretation, etc.</genre>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Acts of Peter</topic>
+    </subject>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Les actes de Pierre</title>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">817151953</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/817151953</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/pst.000009926974</url>
+    </location>
+    <location>
+        <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003111247</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Μαρτύριον τοῦ ἁγίου ἀποστόλου Πέτρου</title>
+        </titleInfo>
+        <name type="corporate" authority="viaf" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/185068871/">
+            <namePart>Acta Petri</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/17269441">
+            <namePart>Vouaux, Léon</namePart>
+            <namePart type="date">1870-1914</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0389.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>398</start>
+                <end>466</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/pst.000009926974?urlappend=%3Bseq=412</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

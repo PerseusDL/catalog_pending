@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Acta apostolorum apocrypha</title>
+        <partNumber>Vol. 2.1</partNumber>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/77062188">
+        <namePart>Bonnet, Max</namePart>
+        <namePart type="date">1841-1917</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Mendelssohn</publisher>
+        <dateIssued>1898</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>XXXVII, 262 S. ; 23 cm</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">post Constantinum Tischendorf denuo ed. Ricardus Adelbertus Lipsius et Maximilianus Bonnet.</note>
+    <identifier type="oclc">717308117</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/717308117</url>
+    </location>
+    <location>
+        <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003086899</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/hvd.32044010474799</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015066433262</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/179834949/">
+            <title>Acta Joannis</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Anonymous</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/77062188">
+            <namePart>Bonnet, Max</namePart>
+            <namePart type="date">1841-1917</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0317.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>151</start>
+                <end>215</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=210</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo authority="viaf" type="uniform" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/179834949/">
+            <title>Acta Joannia (recensio)</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Anonymous</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/77062188">
+            <namePart>Bonnet, Max</namePart>
+            <namePart type="date">1841-1917</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0317.002</identifier>
+        <part>
+            <extent unit="pages">
+                <list>152-160, 169, 171-179, 203-206, 209-210</list>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/hvd.32044010474799?urlappend=%3Bseq=212</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>
