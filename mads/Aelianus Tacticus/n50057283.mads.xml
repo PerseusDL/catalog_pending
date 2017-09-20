@@ -1,0 +1,98 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Aelianus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Tacticus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Αἰλιανός</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Τακτικός</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Αἰλιανός</mads:namePart>
+      <mads:namePart type="termsOfAddress">Τακτικός</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Aelianus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Tacticus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Aelianus Tacticus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Aeilanos</mads:namePart>
+      <mads:namePart type="termsOfAddress">Taktiker</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Ailianos</mads:namePart>
+      <mads:namePart type="termsOfAddress">ho Taktikos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Eliano</mads:namePart>
+      <mads:namePart type="termsOfAddress">el Tactico</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Eliano</mads:namePart>
+      <mads:namePart type="termsOfAddress">Tattico</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Élien</mads:namePart>
+      <mads:namePart type="termsOfAddress">le Tacticien</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Tacticus, Aelianus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:identifier type="tlg">0546</mads:identifier>
+  <mads:identifier type="lccn">n  50057283 </mads:identifier>
+  <mads:fieldOfActivity>Military author</mads:fieldOfActivity>
+  <mads:note type="nonpublic">Non-Latin script references not evaluated</mads:note>
+  <mads:note type="source">His De instruendis aciebus, in Vegetius, De re militari, 1515</mads:note>
+  <mads:note type="source">LC data base, 3/12/87 (hdg.: Aelianus Tacticus, usage: Aelian)</mads:note>
+  <mads:note type="source">NUC pre-1956 (LC hdg.: Aelianus Tacticus, usage: Aelianus, Aelian, Elian, Eliano)</mads:note>
+  <mads:note type="source">Encyc. Brit., Micropaedia, v. 1, p. 109 (Aelianus, also known as Aelianus Tacticus or Aelian)</mads:note>
+  <mads:note type="source">LC PA class. schedule: PA3820.A5-7 (Aelianus Tacticus, 2d cent. C.E.)</mads:note>
+  <mads:note type="source">LC PA classification schedule online, June 26, 2009 (Aelianus Tacticus; Αἰλιανὸς ὁ Τακτικός = Ailianos ho Taktikos)</mads:note>
+  <mads:note type="source">Dictionary of Greek and Latin authors and texts (Brill's new Pauly supplement),
+    2009: p. 2 (Aelianus Tacticus, 2nd century AD, Greek military writer)</mads:note>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/72639048/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Aelianus_Tacticus</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0546.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130316075219.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n50057283</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Africanus, Sextus Julius</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Ἰούλιος Ἀφρικάνος</mads:namePart>
+         <mads:namePart type="termsOfAddress">Σέξτος</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus, Sextus Julius</mads:namePart>
+         <mads:namePart type="date">200-talet e.Kr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus</mads:namePart>
+         <mads:namePart type="date">asi 160-asi 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Giulio Africano, Sesto</mads:namePart>
+         <mads:namePart type="date">m.c. 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus, Sextus</mads:namePart>
+         <mads:namePart type="date">(160-240)</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Julius Africanus, Sextus</mads:namePart>
+         <mads:namePart type="date">01..?-024.?</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius Africanus</mads:namePart>
+         <mads:namePart type="date">-na 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>يوليوس أفريكانوس</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africain, Jules</mads:namePart>
+         <mads:namePart type="date">200-talet e.Kr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africano, Giulio</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africano, Sesto Giulio</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus von Jerusalem</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus, Iulius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus, Julius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus, Sextus I</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">(Scriptor Ecclesiasticus)</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Julius Sextus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Jerusalem</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aphrikanos</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Giulio Africano</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus Alexandrinus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus Hierosolymitanus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Hierosolymitanus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Chronographus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Epistolographus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Iulius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Historicus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>I̓oúlios A̓frikános</mads:namePart>
+         <mads:namePart type="termsOfAddress">Séxtos</mads:namePart>
+      </mads:name>
+      <mads:titleInfo>
+         <mads:title>I̓oúlios A̓frikános 01..?-024.?</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>I̓oúlios A̓frikános, Séxtos</mads:namePart>
+         <mads:namePart type="date">01..?-024.?</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Jules</mads:namePart>
+         <mads:namePart type="termsOfAddress">L'Africain</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sekst Afrikan</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sekst Julije Afrikanac</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Seksto Julio Afrika</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sekstus Juliusz Afrykański</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sesto Giulio Africano</mads:namePart>
+         <mads:namePart type="termsOfAddress">scrittore romano</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sext Juli Africà</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sexto Julio Africano</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sexto Julio Afrikano</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sexto Xulio Africano</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius Africanus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius Africanus</mads:namePart>
+         <mads:namePart type="date">asi 160-asi 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">antiker christlicher Historiker</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius Africanus</mads:namePart>
+         <mads:namePart type="date">asi 160-asi 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Iulius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">160-240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Traveller, historian</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">romersk historiker och författare</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">romersk historiker og skribent</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius Africanus</mads:namePart>
+         <mads:namePart type="termsOfAddress">schrijver uit Oude Rome (160-240)</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">-na 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus Julius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">-na 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">-na 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Sextus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Africanus</mads:namePart>
+         <mads:namePart type="date">-na 240</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Секст Африкан</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Секст Юлій Афрыкан</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Սեքստոս Հուլիոս Ափրիկանոս</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>סקסטוס יוליוס אפריקנוס</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ἰούλιος Ἀφρικάνος, Σέξτος</mads:namePart>
+         <mads:namePart type="date">01..?-024.?</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>塞克斯塔斯·朱利叶斯·阿弗里卡纳斯</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:identifier type="tlg">2956</mads:identifier>
+   <mads:identifier type="uri">http://viaf.org/viaf/160788177</mads:identifier>
+   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Historian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/160788177/</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Sextus_Julius_Africanus</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2956.003</identifier>
+      <identifier type="tlg">2956.004</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf160788177</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
