@@ -1,0 +1,53 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Andromachus</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Elder</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name>
+      <mads:namePart>Ἀνδρόμαχος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Andromachus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Cretensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Andromaco</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Creta</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Pharmacologist</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Physician</mads:fieldOfActivity>
+  <mads:note type="source">Brill's New Pauly: "Andromachus,the Elder, from Crete Personal physician of Nero, Known through a poem with 87
+    distichs, in which he described his antidote later called theriac (Ps.-Gal. 14,308),
+    Galene (Gal. 14,32,270), which was valued above the famous mithridatium of Mithridates V and which was sold by
+    doctors and quacks....." Nutton, Vivian (London).  “Andromachus”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider.
+    Consulted online on 29 September 2017 </mads:note>
+  <mads:note type="source">Andromaco di Creta, c 2012: (nella Roma neroniana)</mads:note>
+  <mads:note type="source">Wikipedia (Andromachus the Elder, was born in Crete, and was physician to Nero, 54-68 AD)</mads:note>
+  <mads:identifier type="lccn">n 2012050025</mads:identifier>
+  <mads:identifier type="tlg">0280</mads:identifier>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Andromachus_(physician)</mads:url>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/259813010/</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0280.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20150918053546.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n2012050025</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

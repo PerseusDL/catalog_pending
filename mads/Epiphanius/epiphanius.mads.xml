@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Epiphanius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Saint, Bishop of Constantia in Cyprus</mads:namePart>
+         <mads:namePart type="date">approximately 310-403</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epifani</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Salamina</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal" authority="naf">
+         <mads:namePart>Epifanio</mads:namePart>
+         <mads:namePart type="termsOfAddress">Santo, Obispo de Constancia</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epifanius</mads:namePart>
+         <mads:namePart type="termsOfAddress">svatý</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epifaniusz</mads:namePart>
+         <mads:namePart type="termsOfAddress">z Salaminy</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epifânio</mads:namePart>
+         <mads:namePart type="termsOfAddress">Santo</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epifânio</mads:namePart>
+         <mads:namePart type="termsOfAddress">Santo</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epiphane</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epiphanius</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epiphanius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Constantiensis</mads:namePart>
+         <mads:namePart type="date">315-403</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epiphanius</mads:namePart>
+         <mads:namePart type="termsOfAddress">helgon</mads:namePart>
+         <mads:namePart type="date">ca 315-403</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Epiphanius</mads:namePart>
+         <mads:namePart type="termsOfAddress">van Salamis</mads:namePart>
+         <mads:namePart type="date">ca. 315-403</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Épiphane</mads:namePart>
+         <mads:namePart type="termsOfAddress">saint</mads:namePart>
+         <mads:namePart type="date">0315 ?-0403</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>اپيفانيوس،</mads:namePart>
+         <mads:namePart type="termsOfAddress">القديس</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ἐπιφάνιος Κύπρον</mads:namePart>
+         <mads:namePart type="termsOfAddress">saint</mads:namePart>
+         <mads:namePart type="date">0315?-0403</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Cyprius, Epiphanius</mads:namePart>
+         <mads:namePart type="date">ca. 315-403</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifani I de Constància</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifani, sant</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifani, sant</mads:namePart>
+         <mads:namePart type="date">ca. 315-403</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifanije Kiparski</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifanije Salaminski</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Epifanio : di Costanzia</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Erifanios</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Епифаний Кипрский</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Եպիփան Կիպրացի</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>אפיפניוס מסלמיס</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ابيفانيوس</mads:namePart>
+         <mads:namePart type="termsOfAddress">مار مطران قبرص</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>에피파니우스</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Saint</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+   <mads:identifier type="uri">http://viaf.org/viaf/13651211</mads:identifier>
+   <mads:identifier type="tlg">2021</mads:identifier>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/13651211/</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Epiphanius_of_Salamis</mads:url>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2021.001</identifier>
+      <identifier type="tlg">2021.002</identifier>
+      <identifier type="tlg">2021.003</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf13651211</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

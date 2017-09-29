@@ -1,0 +1,40 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Philes, Manuel</mads:namePart>
+      <mads:namePart type="date">approximately 1275-approximately 1345</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Philes, Manuel</mads:namePart>
+      <mads:namePart type="date">ca. 1275-ca. 1345</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Poet</mads:fieldOfActivity>
+  <mads:note type="source">Stickler, G. Manuel Philes und seine Psalmenmetaphrase, 
+    1992: p. 10, etc. (ca. 1275-ca. 1345, Byzantine poet, dates of birth and death uncertain,
+    some scholars pref. ca. 1275-ca. 1340, the only verifiable dates are between 1295 and 1332)</mads:note>
+  <mads:identifier type="lccn">nr 94005063 </mads:identifier>
+  <mads:identifier type="tlg">2718</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/7433097/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Manuel_Philes</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2718.003</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NjP</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130316102431.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">nr94005063</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
