@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="2.0"
+   xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="eng">
+      <mads:name type="personal" authority="">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Saint, Bishop of Laodicea</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:variant type="other" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Anatole</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius Laodicensis</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Laodicensis</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="date">-ca282</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Ανατόλιος</mads:namePart>
+         <mads:namePart type="termsOfAddress">Λαοδικείας</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatol</mads:namePart>
+         <mads:namePart type="termsOfAddress">z Laodycei</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatole</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Laodicée</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatoli</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Laodicea</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolio</mads:namePart>
+         <mads:namePart type="termsOfAddress"> di Laodicea</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolios</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Laodicea</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolios</mads:namePart>
+         <mads:namePart type="termsOfAddress">Mathematiker</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolios</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosoph</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius Laodicensis</mads:namePart>
+         <mads:namePart type="termsOfAddress">saint</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius of Alexandria</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius of Laodicea</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Caesariensis</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Laodicenus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">scriptor ecclesiasticus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Mathematicus</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Scriptor Ecclesiasticus</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Alexandrien</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Pseudo-Anatolius</mads:namePart>
+         <mads:namePart type="termsOfAddress">Laodicensis</mads:namePart>
+         <mads:namePart type="date">269/280</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Анатолий Лаодикийский</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>اناتولیوس لاذقی</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ラオディケアのアナトリオス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Bishop</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Saint</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/266285625</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Anatolius_of_Laodicea</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/266285625</mads:identifier>
+   <mads:identifier type="tlg">2577</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">2577.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf266285625</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

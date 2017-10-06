@@ -1,0 +1,174 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="eng">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">Martyr, Saint</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pseudo-Justinus</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ιουστίνος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ο Μάρτυρας</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Iustinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Martyr</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Iustinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Justinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Martyr</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Justinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Philosophus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Naplouse</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ger">
+    <mads:name type="personal">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">der Märtyrer</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Giustino</mads:namePart>
+      <mads:namePart type="termsOfAddress">Santo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Justino</mads:namePart>
+      <mads:namePart type="termsOfAddress">Mártir</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Iustin</mads:namePart>
+      <mads:namePart type="termsOfAddress">muchenik</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Iustin Samaritanin</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Iustinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Martyr</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">der Märtyrer</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Martyr</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Justin</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Philosopher</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Justino</mads:namePart>
+      <mads:namePart type="termsOfAddress">Santo</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Jusztinusz</mads:namePart>
+      <mads:namePart type="termsOfAddress">Szent</mads:namePart>
+    </mads:name>
+  </mads:variant>  
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>游斯丁</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Yusṭinus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Marṭir</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>יוסטינוס</mads:namePart>
+      <mads:namePart type="termsOfAddress">מרטיר</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>القديس جاستن</mads:namePart>
+    </mads:name>
+  </mads:variant>
+ <mads:fieldOfActivity>Apologist</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+    <mads:fieldOfActivity>Theologian</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Martyr</mads:fieldOfActivity>
+    <mads:note type="source">Die Apologien Justins des Märtyrers ... 1896</mads:note>
+  <mads:note type="source">Oxford dict. of the Christian Church, 1958 (Justin Martyr, St., ca. 100-ca. 165, early
+    Christian apologist)</mads:note>
+  <mads:note type="source">New Cath. encyc. (Justin Martyr, St., b. Flavia Neapolis (Shechem, modern Nablus) of
+    Greek parents, d. Rome, ca. 165)</mads:note>
+  <mads:note type="source">La dýnamis de Dios en San Justino, 1982: t.p. (San Justino)</mads:note>
+  <mads:note type="source">Goodspeed, E.J. Index apologeticus sive Clavis Iustini Martyris operum ... 1912</mads:note>
+  <mads:note type="source">Diʼalog ʻim Ṭrifon ha-Yehudi, c2004: t.p. (Yusṭinus Marṭir)</mads:note>
+  <mads:note type="source">Britannica online, Feb. 12, 2015 (Saint Justin Martyr,  (born c. 100, 
+    Flavia Neapolis, Palestine [now Nāblus]; died c. 165, Rome [Italy]; feast day June 1), one 
+    of the most important of the Greek philosopher-Apologists in the early Christian church. His writings
+    represent the first positive encounter of Christian revelation with Greek philosophy 
+    and laid the basis for a theology of history)</mads:note>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/88878069/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Justin_Martyr</mads:url>
+  <mads:identifier type="lccn">n  80089626 </mads:identifier>
+  <mads:identifier type="tlg">0645</mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">0645.001</identifier>
+    <identifier type="tlg">0645.002</identifier>
+  </mads:extension>
+
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20150305070218.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n80089626</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Anatolius sur les dix premiers nombres</title>   
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36965878">
+        <namePart>Heiberg, Johan Ludvig</namePart>
+        <namePart type="date">1854-1928</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <dateIssued>1901</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>30 p.; 22 cm</extent>
+    </physicalDescription>
+    <note type="statement of responsibility">[J.L. Heiberg].</note>
+    <subject authority="lcsh">
+        <topic>Anatolius</topic>
+        <topic>Saint, Bishop of Laodicea</topic>
+    </subject>
+    <subject authority="lcsh">
+        <topic>Mathematics, Ancient</topic>
+    </subject>
+    <identifier type="oclc">248555797</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/248555797</url>
+    </location>
+    <location>
+        <url displayLabel="DKB">http://www.kb.dk/e-mat/dod/130021585565_color.pdf</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περὶ δεκάδος καὶ τῶν ἐντὸς αὐτῆς ἀριθμῶν</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/266285625">
+            <namePart>Anatolius</namePart>
+            <namePart type="termsOfAddress">Saint</namePart>
+            <namePart type="termsOfAddress">Bishop of Laodicea</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/36965878">
+            <namePart>Heiberg, Johan Ludvig</namePart>
+            <namePart type="date">1854-1928</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">2577.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>5</start>
+                <end>16</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="DKB">http://www.kb.dk/e-mat/dod/130021585565_color.pdf</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

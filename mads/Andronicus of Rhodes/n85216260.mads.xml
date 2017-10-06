@@ -1,0 +1,95 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="eng"> 
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Andronicus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Rhodes</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:related type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pseudo-Andronicus</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Rhodes</mads:namePart>
+    </mads:name>
+  </mads:related>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Ανδρόνικος</mads:namePart>
+      <mads:namePart type="termsOfAddress">ὁ Ῥόδιος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Andrónico </mads:namePart>
+      <mads:namePart type="termsOfAddress">de Rodas</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Andronicos</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Rhodes</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Andronico</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Rhodi</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Andronicus</mads:namePart>
+      <mads:namePart type="termsOfAddress">le Péripatéticien</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Andronicus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Rhodius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Andronicus Rhodius</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Andronikos</mads:namePart>
+      <mads:namePart type="termsOfAddress"></mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Andronikos</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Rhodos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Philosopher</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Peripatetics</mads:fieldOfActivity>
+  <mads:note type="source">Encyc. Brit., 1985 (Andronicus of Rhodes, fl. 1st cent. B.C., Greek philosopher)</mads:note>
+  <mads:note type="source">Der kleine Pauly (Andronikos v[on] Rhodos, schoolmaster of the Peripatetics, of ca. 70 B.C.)</mads:note>
+  <mads:note type="source">Oxford classical dict., 2nd ed. (Andronicus Rhodius, 1st cent. B.C.)</mads:note>
+  <mads:note type="source">BM (Andronicus, Rhodius)</mads:note>
+  <mads:note type="source">NUC pre-1956 (Andronicus Rhodius)</mads:note>
+  <mads:note type="source">Pseudo-Andronicus, of Rhodes. Peri pathōn, 1977: t.p. (Pseudo-Andronicus de Rhodes)
+    p. 30 (Andronicus le Péripatéticien, dit de Rhodes, to whom Peri pathōn attrib. in ms. tradition)</mads:note>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/11266492</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Andronicus_of_Rhodes</mads:url>
+  <mads:identifier type="lccn">n  85216260 </mads:identifier>
+  <mads:identifier type="tlg">1124</mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">1124.001</identifier>
+    <identifier type="tlg">1124.002</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">InU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20120809082435.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n85216260</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>aacr2</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>

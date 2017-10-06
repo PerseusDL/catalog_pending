@@ -1,0 +1,91 @@
+<mads:mads version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd" xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable" lang="lat">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Marcus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Diaconus</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other" lang="grc">
+    <mads:name type="personal">
+      <mads:namePart>Μᾶρκος Διάκονος</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Marcus Diaconus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Marcus Gazaeus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Marc</mads:namePart>
+      <mads:namePart type="termsOfAddress">le Diacre</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="fre">
+    <mads:name type="personal">
+      <mads:namePart>Marc</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Gaza</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="ita">
+    <mads:name type="personal">
+      <mads:namePart>Marco</mads:namePart>
+      <mads:namePart type="termsOfAddress">Diacono</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="spa">
+    <mads:name type="personal">
+      <mads:namePart>Marco</mads:namePart>
+      <mads:namePart type="termsOfAddress">el Diácono</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="lat">
+    <mads:name type="personal">
+      <mads:namePart>Marcus</mads:namePart>
+      <mads:namePart type="termsOfAddress">Gazensis</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="eng">
+    <mads:name type="personal">
+      <mads:namePart>Mark</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Deacon</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other" lang="gre">
+    <mads:name type="personal">
+      <mads:namePart>Markos</mads:namePart>
+      <mads:namePart type="termsOfAddress">Diakonos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Deacon</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Biographer</mads:fieldOfActivity>
+  <mads:note type="source">Vie de Porphyre, 1930: title page (Marc le diacre)</mads:note>
+  <mads:note type="source">Dictionnaire de spiritualité (Marc le diacre; 4th-5th centuries.
+    known only as author of  the Vie de Porphyre, or Life of Porphyrius, Bishop of Gaza; served as Porphyrius' deacon)
+  </mads:note>
+  <mads:note type="source">Vios Hagiou Porphyriou, Episkopou Gazēs, c2003: cover (Markou Diakonou)</mads:note>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/78400346/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Mark_the_Deacon</mads:url>
+  <mads:identifier type="lccn">no 98094865 </mads:identifier>
+  <mads:identifier type="tlg">2806</mads:identifier>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="tlg">2806.001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">NcU</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20140725084755.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">no98094865</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
