@@ -57,7 +57,8 @@
         <extent>1 vol</extent>
         <digitalOrigin>digitized other analog</digitalOrigin>
     </physicalDescription>
-    <note type="statement of responsibility">recensvervnt, apparatvm criticvm, commentarivm, indices adiecervnt Richardvs Schneider et Gystavvs Vhlig</note>
+    <note type="statement of responsibility">recensvervnt, apparatvm criticvm, commentarivm, 
+        indices adiecervnt Richardvs Schneider et Gystavvs Vhlig</note>
     <subject authority="lcsh">
         <topic>Greek language</topic>
         <topic>Grammar</topic>
@@ -104,6 +105,7 @@
             </role>
         </name>
         <identifier type="tlg">0082.001</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0082.tlg001.1st1K-grc1</identifier>
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
@@ -144,6 +146,7 @@
             </role>
         </name>
         <identifier type="tlg">0082.002</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0082.tlg002.1st1K-grc1</identifier>
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>
@@ -184,6 +187,7 @@
             </role>
         </name>
         <identifier type="tlg">0082.003</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0082.tlg003.1st1K-grc1</identifier>
         <language objectPart="text">
             <languageTerm type="code" authority="iso639-2b">grc</languageTerm>
         </language>

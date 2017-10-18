@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Apollonii Dyscoli quae supersunt</title>
+        <partNumber>Volumen alterum</partNumber>
+        <partName>Apollonii Dyscoli De constructione libri quattuor</partName>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/59857244">
+        <namePart>Uhlig, Gustav</namePart>
+        <namePart type="date">1838-1914</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <name type="personal" authority="viaf" authorityURI="http://viaf.org/viaf/"
+        valueURI="http://viaf.org/viaf/72187489/">
+        <namePart>Apollonius</namePart>
+        <namePart type="termsOfAddress">Dyscolus</namePart>
+        <namePart type="date">active 2nd century</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Teubner</publisher>
+        <dateIssued>1910</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>1 vol. (LXXVIII-544 p.) : ill. : pl. h.t. ; 25 cm</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">recensuerunt, apparatum criticum, commentarium, indices 
+        adiecerunt Richardus Schneider et Gustavus Uhlig.</note>
+    <note>Includes index.</note>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Grammatici Graeci recogniti et apparatu critico instructi</title>
+            <partNumber>2.2</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">492430244</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/492430244</url>
+    </location>
+    <location>
+        <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003007264</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">http://hdl.handle.net/2027/njp.32101025280239</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Περι Συνταξεως</title>
+        </titleInfo>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/72187489">
+            <namePart>Apollonius</namePart>
+            <namePart type="termsOfAddress">Dyscolus</namePart>
+            <namePart type="date">actice 2nd century</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/"
+            valueURI="http://viaf.org/viaf/59857244">
+            <namePart>Uhlig, Gustav</namePart>
+            <namePart type="date">1838-1914</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">0082.004</identifier>
+        <identifier type="ctsurn">urn:cts:greekLit:tlg0082.tlg004.1st1K-grc1</identifier>
+        <part>
+            <extent unit="pages">
+                <start>1</start>
+                <end>497</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust"
+                >https://hdl.handle.net/2027/njp.32101025280239?urlappend=%3Bseq=84</url>
+        </location>
+        <location>
+            <url displayLabel="First1KGreek">https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg0082/tlg004</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"/>
+        <recordCreationDate encoding="marc"/>
+        <recordChangeDate encoding="iso8601"/>
+        <recordIdentifier/>
+    </recordInfo>
+</mods>

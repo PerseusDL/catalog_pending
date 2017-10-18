@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Apocalypses apocryphae</title>   
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56713311">
+        <namePart>Tischendorf, Constantin von</namePart>
+        <namePart type="date">1815-1874</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">gw</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Leipzig</placeTerm>
+        </place>
+        <publisher>Mendelssohn</publisher>
+        <dateIssued>1866</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>LXIV, 172 p. ; 22 cm</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">maximam partem nunc primum ed. Constantinus Tischendorf.</note>
+    <identifier type="oclc">64299379</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/64299379</url>
+    </location>
+    <location>
+        <url displayLabel="UBL">https://katalog.ub.uni-leipzig.de/Record/0003135191</url>
+    </location>
+    <location>
+        <url displayLabel="Internet Archive">https://archive.org/details/apocalypsesapoc01perkgoog</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo type="uniform"  authority="viaf" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/185886917/">
+            <title>Apocalypsis Esdrae</title>
+        </titleInfo>
+        <name type="corporate" authority="tlg">
+            <namePart>Apocalypsis Esdrae</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56713311">
+            <namePart>Tischendorf, Constantin von</namePart>
+            <namePart type="date">1815-1874</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1157.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>24</start>
+                <end>33</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Internet Archive">https://archive.org/stream/apocalypsesapoc01perkgoog#page/n95/mode/2up</url>
+        </location>
+    </relatedItem>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Apocalypsis apocrypha Joannis</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Apocalypsis Joannis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/56713311">
+            <namePart>Tischendorf, Constantin von</namePart>
+            <namePart type="date">1815-1874</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1158.001</identifier>
+        <part>
+            <extent unit="pages">
+                <start>70</start>
+                <end>93</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="Internet Archive">https://archive.org/stream/apocalypsesapoc01perkgoog#page/n141/mode/2up</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

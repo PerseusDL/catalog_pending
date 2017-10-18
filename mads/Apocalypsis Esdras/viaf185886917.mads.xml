@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable">
+      <mads:name authority="tlg">
+         <mads:namePart>Apocalypsis Esdrae</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Bibelen</mads:title>
+         <mads:partName>GT. Apokr. Esra 4</mads:partName>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Bible</mads:title>
+         <mads:partName>Esdras, 2nd</mads:partName>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Esra 4</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo authority="naf">
+         <mads:title>Esra</mads:title>
+         <mads:partNumber>4</mads:partNumber>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Apokryphen</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Bibel</mads:title>
+         <mads:partName>Altes Testament</mads:partName>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Apocrypha</mads:partName>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Esdras</mads:partName>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:related type="other">
+      <mads:titleInfo>
+         <mads:title>Pseudepigraphen</mads:title>
+      </mads:titleInfo>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>2 Esdras</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>4 Esd</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>4 Esra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>4 Ezr</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>4 Ezra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Apocalypse of Esdras (Book of the Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Apocalypse of Ezra (Book of the Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Apocalypsis IV Esdrae</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Apokalypse des Esra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Apokalypse des Esra (Book of the Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bibelen</mads:title>
+         <mads:partNumber>GT. Apokr. Esra-apokalypsen</mads:partNumber>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bibeln</mads:title>
+         <mads:partName>Apokryferna. Esra 4</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Apocalypse of Esdras</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Apocalypse of Ezra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Apocrypha. Esdras, 2nd</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Apokalypse des Esra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Esdras, 2nd</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Esdras, 2nd (Apocrypha)</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Esdras, 4th (Vulgate)</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Hazon Ezra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Ḥezyonot ʻEzra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>IV Esdras</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>O.T. Apocrypha. 2 Esdras</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>O.T. Apocrypha. Esdras, 2nd</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Apocalypse of Ezra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Apokalypse des Esra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Esdras, 2nd (Apocrypha)</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Esdras, 4th (Vulgate)</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Hazon Ezra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Bible</mads:title>
+         <mads:partName>Old Testament. Ḥezyonot ʻEzra</mads:partName>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Book of Fourth Ezra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esdras (Book 2, Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esdras (Book 4)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esdras Buch, IV</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esra 4</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esra-Apokalypse</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esra-apokalypsen</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esras fjärde bok</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Esra Buch, IV</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Ezra 4</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Fjärde Esra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Fourth Ezra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Hazon Ezra (Book of the Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Ḥezyonot ʻEzra (Book of the Apocrypha)</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>IV Esra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>IV Ezra</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:titleInfo>
+         <mads:title>Liber Ezrae quartus</mads:title>
+      </mads:titleInfo>
+   </mads:variant>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/185886917</mads:url>
+   <mads:url displayLabel="Dataset description">http://viaf.org/viaf/data</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/185886917</mads:identifier>
+   <mads:identifier type="tlg">1157</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1157.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf185886917</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>

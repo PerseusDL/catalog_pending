@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Une deuxième apocalypse apocryphe grecque de saint Jean</title>   
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22216393">
+        <namePart>Nau, François</namePart>
+        <namePart type="date">1864-1931</namePart>
+        <role>
+            <roleTerm type="text">editor</roleTerm>
+        </role>
+    </name>
+    <typeOfResource>text</typeOfResource>
+    <originInfo>
+        <place>
+            <placeTerm type="code" authority="marccountry">fr</placeTerm>
+        </place>
+        <place>
+            <placeTerm type="text">Paris</placeTerm>
+        </place>
+        <publisher>Librairie V. Lecoffre</publisher>
+        <dateIssued>1914</dateIssued>
+        <issuance>monographic</issuance>
+    </originInfo>
+    <language objectPart="text">
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <physicalDescription>
+        <form authority="marcform">print</form>
+        <extent>628 p.</extent>
+        <digitalOrigin>digitized other analog</digitalOrigin>
+    </physicalDescription>
+    <note type="statement of responsibility">[publiée par] F. Nau.</note>
+    <relatedItem type="series">
+        <titleInfo>
+            <title>Revue Biblique</title>
+            <partNumber>23</partNumber>
+        </titleInfo>
+    </relatedItem>
+    <identifier type="oclc">863852033</identifier>
+    <location>
+        <url displayLabel="WorldCat">http://www.worldcat.org/oclc/863852033</url>
+    </location>
+    <location>
+        <url displayLabel="HathiTrust">https://hdl.handle.net/2027/mdp.39015034791916</url>
+    </location>
+    <relatedItem type="constituent">
+        <titleInfo>
+            <title>Apocalypsis apocrypha Joannis (versio altera)</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Apocalypsis Joannis</namePart>
+            <role>
+                <roleTerm type="text">creator</roleTerm>
+            </role>
+        </name>
+        <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/22216393">
+            <namePart>Nau, François</namePart>
+            <namePart type="date">1864-1931</namePart>
+            <role>
+                <roleTerm type="text">editor</roleTerm>
+            </role>
+        </name>
+        <language objectPart="text">
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <identifier type="tlg">1158.002</identifier>
+        <part>
+            <extent unit="pages">
+                <start>215</start>
+                <end>221</end>
+            </extent>
+        </part>
+        <location>
+            <url displayLabel="HathiTrust">http://hdl.handle.net/2027/mdp.39015034791916?urlappend=%3Bseq=234</url>
+        </location>
+    </relatedItem>
+    <recordInfo>
+        <recordContentSource authority="marcorg"></recordContentSource>
+        <recordCreationDate encoding="marc"></recordCreationDate>
+        <recordChangeDate encoding="iso8601"></recordChangeDate>
+        <recordIdentifier></recordIdentifier>
+    </recordInfo>
+</mods>

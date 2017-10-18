@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="lat">
+      <mads:name type="personal" authority="viaf">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Damascus</mads:namePart>
+         <mads:namePart type="date">1st/2nd cent</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Apollodore de Damas</mads:namePart>
+         <mads:namePart type="date">0060?-0129?</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="date">&lt;di Damasco&gt;</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Damascenus</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>أبولودوروس الدمشقي</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Απολλόδωρος</mads:namePart>
+         <mads:namePart type="termsOfAddress"> ο Δαμασκηνός</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>̓Apollódōros Damaskīnós</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Abūlūdūr</mads:namePart>
+         <mads:namePart type="termsOfAddress">al-Dimashqī</mads:namePart>
+         <mads:namePart type="date">active 1st century-2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Abūlūdūr</mads:namePart>
+         <mads:namePart type="termsOfAddress">al-Dimashqī</mads:namePart>
+         <mads:namePart type="date">active 1st century-2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodor</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Damasco</mads:namePart>
+      </mads:name>
+   </mads:variant>   
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Damasco</mads:namePart>
+         <mads:namePart type="date">active 1st century-2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros Damaskolainen</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros Damaskusest</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros från Damaskus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros z Damaszku</mads:namePart>
+         <mads:namePart type="termsOfAddress">grecki architekt działający w Rzymie</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">Architekt</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">Ingenieur</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">aus Damaskus</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">Ingenieur</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">aus Damaskus</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Damaskus</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoros</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Damaskus</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">Architetto</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">Ingegnere</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Damasco</mads:namePart>
+         <mads:namePart type="date">active 1st century-2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">Architetto</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">Ingegnere</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Damasco</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Damasco</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodoro</mads:namePart>
+         <mads:namePart type="termsOfAddress">di Damasco</mads:namePart>
+         <mads:namePart type="date">ca. 1./2. Jh</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus : Damascenus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Mechanicus</mads:namePart>
+         <mads:namePart type="date">1e-2e E. na Chr</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Mechanicus</mads:namePart>
+         <mads:namePart type="date">active 1st century-2nd century</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodorus</mads:namePart>
+         <mads:namePart type="termsOfAddress">Damascenus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodóros z Damašku</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollodórosz</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apollôdoros</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apolodor din Damasc</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apolodor iz Damaska</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apolodoro</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apolodoro Damaskokoa</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apolodoro de Damasco</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Apol·lodor de Damasc</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Şamlı Apollodorus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Апаладор Дамаскі</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполлодор</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполлодор Дамаський</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполлодор из Дамаска</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполодор Дамаски</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполодор из Дамаска</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аполодор от Дамаск</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ապոլլոդորոս Դամասկոսցի</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>אפולודורוס מדמשק</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>آپولودور دمشقی</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>اپوللودور</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ദമാസ്കസ് അപ്പോളോഡോറസ്</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Ἀπολλόδωρος Δαμασκηνός</mads:namePart>
+         <mads:namePart type="date">0060?-0129?</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ダマスカスのアポロドーロス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>大马士革的阿波罗多洛斯</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/95302064</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Apollodorus_of_Damascus</mads:url>
+   <mads:identifier type="uri">http://viaf.org/viaf/95302064</mads:identifier>
+   <mads:identifier type="tlg">1165</mads:identifier>
+   <mads:fieldOfActivity>Architect</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Engineer</mads:fieldOfActivity>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">1165.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf95302064</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
