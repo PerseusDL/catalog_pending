@@ -1,0 +1,104 @@
+<mads:mads version="2.0"
+  xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads-2-0.xsd"
+  xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <mads:authority geographicSubdivision="not applicable">
+    <mads:name type="personal" authority="naf">
+      <mads:namePart>Paul</mads:namePart>
+      <mads:namePart type="termsOfAddress">the Apostle, Saint</mads:namePart>
+    </mads:name>
+  </mads:authority>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paulus</mads:namePart>
+      <mads:namePart type="termsOfAddress">von Tarsus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Pablo</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Tarso</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paulo</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Tarso</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paolo</mads:namePart>
+      <mads:namePart type="termsOfAddress">di Tarso</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paul</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Tarsus, the Apostle, Saint</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Apostolos Paulos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Saul</mads:namePart>
+      <mads:namePart type="termsOfAddress">de Tarse</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Saul</mads:namePart>
+      <mads:namePart type="termsOfAddress">of Tarsus</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>Paulos</mads:namePart>
+      <mads:namePart type="termsOfAddress">Apostolos</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>القديس بولس الرسول</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>بولس،</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:variant type="other">
+    <mads:name type="personal">
+      <mads:namePart>사도바울</mads:namePart>
+    </mads:name>
+  </mads:variant>
+  <mads:fieldOfActivity>Attributed Author</mads:fieldOfActivity>
+  <mads:fieldOfActivity>Saint</mads:fieldOfActivity>
+  <mads:note type="source">El camino de Pablo a la misión de los paganos, c1984: t.p. (Pablo)</mads:note>
+  <mads:note type="source">Paulo de Tarso e o pensamento moderno, 1980</mads:note>
+  <mads:note type="source">Paolo di Tarso e le origini cristiane, 1985</mads:note>
+  <mads:identifier type="lccn">n  79064565 </mads:identifier>
+  <mads:identifier type="viaf">http://viaf.org/viaf/100178790/</mads:identifier>
+  <mads:identifier type="stoa author-text">stoa0222a</mads:identifier>
+  <mads:url displayLabel="VIAF">http://viaf.org/viaf/100178790/</mads:url>
+  <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Paul_the_Apostle</mads:url>
+  <mads:extension>
+    <mads:description>List of related work identifiers</mads:description>
+    <identifier type="stoa author-text">stoa0222a-stoa001</identifier>
+  </mads:extension>
+  <mads:recordInfo>
+    <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.13)</mads:recordOrigin>
+    <mads:recordContentSource authority="marcorg">DLC</mads:recordContentSource>
+    <mads:recordChangeDate encoding="iso8601">20130614070224.0</mads:recordChangeDate>
+    <mads:recordIdentifier source="DLC">n79064565</mads:recordIdentifier>
+    <mads:languageOfCataloging>
+      <mads:languageTerm authority="iso639-2b" type="code">eng</mads:languageTerm>
+    </mads:languageOfCataloging>
+    <mads:descriptionStandard>rda</mads:descriptionStandard>
+    <mads:descriptionStandard>other rules</mads:descriptionStandard>
+  </mads:recordInfo>
+</mads:mads>
