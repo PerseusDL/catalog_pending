@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
+    <titleInfo>
+        <title>Epigramma</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+        <title>AG 16.236</title>
+    </titleInfo>
+    <titleInfo type="abbreviated">
+        <title>AP 16.236</title>
+    </titleInfo>
+    <name authority="viaf" type="personal" authorityURI="http://viaf.org/viaf/" valueURI="http://viaf.org/viaf/10236573">
+        <namePart>Peritas</namePart>
+        <namePart type="termsOfAddress">Epigrammaticus</namePart>
+        <namePart type="date">Person der Antike</namePart>
+        <role>
+            <roleTerm authority="marcrelator" type="text">creator</roleTerm>
+        </role>
+    </name>
+    <identifier type="tlg">1573.001</identifier>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+    </language>
+    <language>
+        <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+    </language>
+    <tableOfContents>-- Epigram Number 236. -- </tableOfContents>
+    <part>
+        <extent unit="pages">
+      <start>300</start>
+            <end>301</end>
+        </extent>
+    </part>
+    <location>
+        <url displayLabel="GoogleBooks"
+            >http://books.google.com/books?id=RIxfAAAAMAAJ&amp;pg=PA298#v=twopage</url>
+    </location>
+    <location>
+        <url displayLabel="Open Content Alliance"
+            >http://www.archive.org/stream/greekanthology05newyuoft#page/298/mode/2up</url>
+    </location>
+    <relatedItem type="host">
+        <titleInfo>
+            <nonSort>The</nonSort>
+            <title>Greek anthology</title>
+            <partNumber>Vol V</partNumber>
+        </titleInfo>
+        <titleInfo type="uniform">
+            <title>Greek anthology. English &amp; Greek</title>
+        </titleInfo>
+        <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
+            ns2:href="http://errol.oclc.org/laf/nr89-5382.html">
+            <namePart>Paton, W. R. (William Roger)</namePart>
+            <namePart type="date">d. 1921</namePart>
+            <role>
+                <roleTerm authority="marcrelator" type="text">editor</roleTerm>
+            </role>
+            <role>
+                <roleTerm authority="marcrelator" type="text">translator</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <originInfo>
+            <place>
+                <placeTerm type="code" authority="marccountry">enk</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">London</placeTerm>
+            </place>
+            <place>
+                <placeTerm type="text">New York</placeTerm>
+            </place>
+            <publisher>W. Heinemann</publisher>
+            <publisher>G.P. Putnam's sons</publisher>
+            <dateIssued>1927</dateIssued>
+            <issuance>monographic</issuance>
+        </originInfo>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+        </language>
+        <language>
+            <languageTerm authority="iso639-2b" type="code">grc</languageTerm>
+        </language>
+        <physicalDescription>
+            <form authority="marcform">print</form>
+            <extent>1 vol</extent>
+        </physicalDescription>
+        <note>Greek and English on opposite pages</note>
+        <note>A chronological list of the more important books containing verse translations from the
+        Greek anthology": v. 1, p. xiii-xv.</note>
+        <subject authority="lcsh">
+            <topic>Greek poetry</topic>
+        </subject>
+        <subject authority="lcsh">
+            <topic>Greek poetry</topic>
+            <topic>Translations into English</topic>
+        </subject>
+        <classification authority="lcc">PA3611</classification>
+        <classification authority="ddc">884</classification>
+        <relatedItem type="series">
+            <titleInfo>
+                <title>Loeb classical library</title>
+            </titleInfo>
+        </relatedItem>
+        <identifier type="oclc">2848020</identifier>
+        <identifier type="lccn">17000015</identifier>
+        <identifier type="oca">greekanthology05newyuoft</identifier>
+        <location>
+            <url displayLabel="LC Permalink">http://lccn.loc.gov/17000015</url>
+        </location>
+        <location>
+            <url displayLabel="WorldCat">http://www.worldcat.org/oclc/2848020</url>
+        </location>
+        <location>
+            <url displayLabel="Open Content Alliance"
+                >http://www.archive.org/details/greekanthology05newyuoft</url>
+        </location>
+        <location>
+            <url displayLabel="Open Library"
+                >http://openlibrary.org/ia/greekanthology05newyuoft</url>
+        </location>
+        <location>
+            <url displayLabel="GoogleBooks">http://books.google.com/books?id=RIxfAAAAMAAJ</url>
+        </location>
+        <location>
+            <url displayLabel="Perseus"
+                >http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:2008.01.0476</url>
+        </location>
+    </relatedItem>
+</mods>
