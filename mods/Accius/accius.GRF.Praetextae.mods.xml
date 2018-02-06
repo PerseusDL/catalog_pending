@@ -2,7 +2,7 @@
 <mods xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-6.xsd">
     <titleInfo>
-        <title>Fragmenta</title>
+        <title>Praetextae</title>
     </titleInfo>
     <name authority="naf" type="personal" xmlns:ns2="http://www.w3.org/1999/xlink"
         ns2:href="http://errol.oclc.org/laf/n80-125819.html">
@@ -22,22 +22,22 @@
     <language objectPart="text">
         <languageTerm type="code" authority="iso639-2b">lat</languageTerm>
     </language>
-    <tableOfContents>Testmonia: Vitae (pg. 22-24) -- Sciptorum (pg. 24-25) - Didascalion (pg. 25-28)</tableOfContents>
-    <identifier type="phi">400.1</identifier>
+    <tableOfContents>Ex Bruto (pg. 29) -- Incertae Sedis (pg. 29-32)</tableOfContents>
+    <identifier type="phi">400.2</identifier>
     <identifier type="stoa author-text"/>
     <part>
         <extent unit="pages">
-            <start>22</start>
-            <end>28</end>
+            <start>29</start>
+            <end>32</end>
         </extent>
     </part>
     <location>
         <url displayLabel="GoogleBooks"
-            >http://books.google.com/books?id=WZofAAAAMAAJ&amp;pg=PA22</url>
+            >http://books.google.com/books?id=WZofAAAAMAAJ&amp;pg=PA29</url>
     </location>
     <location>
         <url displayLabel="HathiTrust"
-            >https://hdl.handle.net/2027/hvd.32044012755260?urlappend=%3Bseq=80</url>
+            >https://hdl.handle.net/2027/hvd.32044012755260?urlappend=%3Bseq=88</url>
     </location>
     <relatedItem type="host">
         <titleInfo>
