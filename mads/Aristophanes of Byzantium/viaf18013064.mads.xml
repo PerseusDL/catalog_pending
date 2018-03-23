@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mads:mads xmlns:mads="http://www.loc.gov/mads/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" version="2.0" xsi:schemaLocation="http://www.loc.gov/mads/v2 http://www.loc.gov/standards/mads/mads.xsd">
+   <mads:authority geographicSubdivision="not applicable" lang="eng">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes</mads:namePart>
+         <mads:namePart type="termsOfAddress">of Byzantium</mads:namePart>
+         <mads:namePart type="date">257 B.C.-180 B.C</mads:namePart>
+      </mads:name>
+   </mads:authority>
+   <mads:related type="equivalent" lang="fre">
+      <mads:name type="personal">
+         <mads:namePart>Aristophane</mads:namePart>
+         <mads:namePart type="termsOfAddress">de Byzance</mads:namePart>       
+         <mads:namePart type="date">0257?-0180? av. J.-C</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent" lang="lat">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes Byzantius</mads:namePart>
+         <mads:namePart type="date">v257-v180</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:related type="equivalent">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes</mads:namePart>
+         <mads:namePart type="date">(ca 257-ca 180 a.C.)</mads:namePart>
+      </mads:name>
+   </mads:related>
+    <mads:related type="equivalent" lang="grc">
+      <mads:name type="personal">
+         <mads:namePart>Ἀριστοφάνης</mads:namePart>
+         <mads:namePart type="termsOfAddress">ὁ Βυζάντιος</mads:namePart>
+      </mads:name>
+   </mads:related>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>̓Aristofánīs ho Vyzántios</mads:namePart>
+         <mads:namePart type="date">0257?-0180? av. J.-C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristofan</mads:namePart>
+         <mads:namePart type="termsOfAddress">iz Bizanta</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristofane</mads:namePart>
+         <mads:namePart type="termsOfAddress"> di Bisanzio</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristofanes Bizantziokoa</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristofanes Byzantionlainen</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristofane</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammatico</mads:namePart>
+         <mads:namePart type="date">ca. v257 - v180</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes Byzantius</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes Grammaticus</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes</mads:namePart>
+         <mads:namePart type="termsOfAddress">Grammaticus</mads:namePart>
+         <mads:namePart type="date">257 B.C.-180 B.C</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristophanes</mads:namePart>
+         <mads:namePart type="termsOfAddress">von Byzanz</mads:namePart>
+      </mads:name>
+   </mads:variant> 
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Aristòfanes de Bizanci</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Arystofanes z Bizancjum</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>̓Aristofánīs ho Vyzántios</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Αριστοφάνης ο Βυζάντιος</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аристофан Візантійський</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>Аристофан</mads:namePart>
+         <mads:namePart type="date">ap 257- 180 p.m.ē</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>אריסטופאנס מביזנטיון</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>آریستوفان بیزانتیومی</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>არისტოფანე ბიზანტიონელი</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>ビュザンティオンのアリストファネス</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:variant type="other">
+      <mads:name type="personal">
+         <mads:namePart>拜占庭的阿里斯托芬</mads:namePart>
+      </mads:name>
+   </mads:variant>
+   <mads:note type="source">Brill's New Pauly: "Aristophanes, One of the most important Alexandrian  grammarians (about 265 to c. 190 or about 257 to 180 BC). 
+      A. was born in Byzantium and at a very early age moved with his father Apelles to Alexandria....
+      .A. was mainly an editor of texts; no commentaries from his pen are attested .." Montanari, Franco (Pisa).  Aristophanes”, in: Brill’s New Pauly, Antiquity volumes edited by: Hubert Cancik and , Helmuth Schneider, English Edition 
+      by: Christine F. Salazar, Classical Tradition volumes edited by: Manfred Landfester, English Edition by: Francis G. Gentry.
+      Consulted online on 23 March 2018 
+   </mads:note>
+   <mads:fieldOfActivity>Philologist</mads:fieldOfActivity>
+   <mads:fieldOfActivity>Grammarian</mads:fieldOfActivity>
+   <mads:url displayLabel="VIAF">http://viaf.org/viaf/18013064</mads:url>
+   <mads:url displayLabel="Wikipedia">https://en.wikipedia.org/wiki/Aristophanes_of_Byzantium</mads:url>
+  <mads:identifier type="uri">http://viaf.org/viaf/18013064</mads:identifier>
+   <mads:identifier type="tlg">0644</mads:identifier>
+   <mads:extension>
+      <mads:description>List of related work identifiers</mads:description>
+      <identifier type="tlg">0644.001</identifier>
+   </mads:extension>
+   <mads:recordInfo>
+      <mads:recordOrigin>Converted from MARCXML to MADS version 2.0 (Revision 2.10)</mads:recordOrigin>
+      <mads:recordContentSource authority="marcorg">VIAF</mads:recordContentSource>
+      <mads:recordIdentifier source="OCoLC">viaf18013064</mads:recordIdentifier>
+      <mads:descriptionStandard>other rules</mads:descriptionStandard>
+   </mads:recordInfo>
+</mads:mads>
